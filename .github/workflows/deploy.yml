@@ -1,0 +1,42 @@
+name: Deploy
+on:
+  push:
+    branches:
+      - master
+jobs:
+  build:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate pack.mcmeta
+        run: |
+          echo '{"pack":{"pack_format":8,"description":"§lGauntlet §r| ${{ github.GITHUB_RUN_NUMBER }}"}}' > src/pack.mcmeta
+
+      - name: Install Packsquash
+        run: sudo apt-get install -y packsquash
+
+      - name: Optimize Pack
+        run: |
+          packsquash --emoji --color packsquash.toml
+          
+      - name: Upload
+        run: |
+          curl -X 'POST' \
+            'https://maven.resourcefulbees.com/service/rest/v1/components?repository=Gauntlet' \
+            -H 'accept: application/json' \
+            -H 'Content-Type: multipart/form-data' \
+            -H 'Authorization: Basic ${{ secrets.MAVEN_TOKEN }}' \
+            -F 'raw.directory=/' \
+            -F 'raw.asset1=@resources.zip;type=application/zip' \
+            -F 'raw.asset1.filename=pack'
+
+      - name: Tell Server
+        run: |
+          curl -X 'POST' \
+            'https://api.exaroton.com/v1/servers/${{ vars.SERVER_ID }}/command/' \
+            -H 'accept: application/json' \
+            -H 'Content-Type: application/json' \
+            -H 'Authorization: Bearer ${{ secrets.EXAROTON_TOKEN }}' \
+            -d '{"command":"tellraw @a \"test\""}'
