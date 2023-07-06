@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
 	"parent": "minecraft:block/tinted_cross",
 	"textures": {
 		"0": "block/tall_grass_bottom",
