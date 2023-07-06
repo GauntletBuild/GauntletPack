@@ -16,15 +16,18 @@ jobs:
         run: echo '{"pack":{"pack_format":8,"description":"§lGauntlet §r| ${{ github.GITHUB_RUN_NUMBER }}"}}' > src/pack.mcmeta
 
       - name: Optimize Pack
-        id: optimize
         uses: ComunidadAylas/PackSquash-action@v4
         with:
           packsquash_version: latest
           options: packsquash.toml
 
+      - name: Hash Pack
+        id: hash
+        run: echo "::set-output name=hash::$(sha1sum 'resourcepack.zip' | awk '{print $1}')"
+
       - name: Create Manifest
         id: manifest
-        run: echo '{"name":"resourcepack.zip","sha1":"${{ steps.optimize.outputs.hash }}"}' > manifest.json
+        run: echo '{"name":"resourcepack.zip","sha1":"${{ steps.hash.outputs.hash }}"}' > manifest.json
           
       - name: Upload
         run: |
