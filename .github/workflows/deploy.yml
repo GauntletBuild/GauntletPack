@@ -26,7 +26,7 @@ jobs:
         id: manifest
         run: echo '{"name":"resourcepack.zip","sha1":"${{ steps.optimize.outputs.hash }}"}' > manifest.json
           
-      - name: Upload Zip
+      - name: Upload
         run: |
           curl -X 'POST' \
             'https://maven.resourcefulbees.com/service/rest/v1/components?repository=Gauntlet' \
@@ -34,19 +34,10 @@ jobs:
             -H 'Content-Type: multipart/form-data' \
             -H 'Authorization: Basic ${{ secrets.MAVEN_TOKEN }}' \
             -F 'raw.directory=/' \
-            -F 'raw.asset1=@resources.zip;type=application/zip' \
+            -F 'raw.asset1=@resourcepack.zip;type=application/zip' \
             -F 'raw.asset1.filename=resourcepack.zip' \
-
-      - name: Upload Manifest
-        run: |
-          curl -X 'POST' \
-            'https://maven.resourcefulbees.com/service/rest/v1/components?repository=Gauntlet' \
-            -H 'accept: application/json' \
-            -H 'Content-Type: multipart/form-data' \
-            -H 'Authorization: Basic ${{ secrets.MAVEN_TOKEN }}' \
-            -F 'raw.directory=/' \
-            -F 'raw.asset1=@manifest.json;type=application/json' \
-            -F 'raw.asset1.filename=manifest.json'
+            -F 'raw.asset2=@manifest.json;type=application/json' \
+            -F 'raw.asset2.filename=manifest.json'
 
       - name: Tell Server
         run: |
