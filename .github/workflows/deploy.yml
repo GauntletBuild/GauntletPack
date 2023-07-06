@@ -13,7 +13,7 @@ jobs:
           fetch-depth: 0
 
       - name: Generate pack.mcmeta
-        run: echo '{"pack":{"pack_format":8,"description":"§lGauntlet §r| ${{ github.GITHUB_RUN_NUMBER }}"}}' > src/pack.mcmeta
+        run: echo '{"pack":{"pack_format":8,"description":"§lGauntlet §r| ${{ github.run_number }}"}}' > src/pack.mcmeta
 
       - name: Optimize Pack
         uses: ComunidadAylas/PackSquash-action@v4
@@ -43,6 +43,15 @@ jobs:
             -F 'raw.asset2.filename=manifest.json'
 
       - name: Tell Server
+        run: |
+          curl -X 'POST' \
+            'https://api.exaroton.com/v1/servers/${{ vars.SERVER_ID }}/command/' \
+            -H 'accept: application/json' \
+            -H 'Content-Type: application/json' \
+            -H 'Authorization: Bearer ${{ secrets.EXAROTON_TOKEN }}' \
+            -d '{"command":"tellraw @s \"§9§l--------[§aGauntlet Build Server§9]--------§r\\n§9Commit Uploader:§7 ${{ github.actor }}!§r\\n§9Commit Message:§7 ${{ github.event.head_commit.message }}\\n§l---------------------------------------\""}'
+
+      - name: Reload Server
         run: |
           curl -X 'POST' \
             'https://api.exaroton.com/v1/servers/${{ vars.SERVER_ID }}/command/' \
