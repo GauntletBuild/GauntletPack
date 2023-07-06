@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/tinted_cross",
+	"textures": {
+		"0": "block/tall_grass_top",
+		"particle": "block/tall_grass_top"
+	}
+}
