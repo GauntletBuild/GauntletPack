@@ -9,17 +9,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
 
       - name: Generate pack.mcmeta
         run: |
           echo '{"pack":{"pack_format":8,"description":"§lGauntlet §r| ${{ github.GITHUB_RUN_NUMBER }}"}}' > src/pack.mcmeta
 
-      - name: Install Packsquash
-        run: sudo apt-get install -y packsquash
-
       - name: Optimize Pack
-        run: |
-          packsquash --emoji --color packsquash.toml
+        uses: ComunidadAylas/PackSquash-action@v4
+        with:
+          packsquash_version: latest
           
       - name: Upload
         run: |
