@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"0": "item/tall_grass",
+		"particle": "item/tall_grass"
+	}
+}
