@@ -1,6 +1,6 @@
 # Building
 pack_directory = "./src"
-output_file_path = "resources.zip"
+output_file_path = "resourcepack.zip"
 
 # Optimization
 recompress_compressed_files = true

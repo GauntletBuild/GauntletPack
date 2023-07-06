@@ -13,14 +13,18 @@ jobs:
           fetch-depth: 0
 
       - name: Generate pack.mcmeta
-        run: |
-          echo '{"pack":{"pack_format":8,"description":"§lGauntlet §r| ${{ github.GITHUB_RUN_NUMBER }}"}}' > src/pack.mcmeta
+        run: echo '{"pack":{"pack_format":8,"description":"§lGauntlet §r| ${{ github.GITHUB_RUN_NUMBER }}"}}' > src/pack.mcmeta
 
       - name: Optimize Pack
+        id: optimize
         uses: ComunidadAylas/PackSquash-action@v4
         with:
           packsquash_version: latest
           options: packsquash.toml
+
+      - name: Create Manifest
+        id: manifest
+        run: echo '{"name":"resourcepack.zip","sha1":"${{ steps.optimize.outputs.hash }}"}' > manifest.json
           
       - name: Upload
         run: |
@@ -31,7 +35,9 @@ jobs:
             -H 'Authorization: Basic ${{ secrets.MAVEN_TOKEN }}' \
             -F 'raw.directory=/' \
             -F 'raw.asset1=@resources.zip;type=application/zip' \
-            -F 'raw.asset1.filename=pack'
+            -F 'raw.asset1.filename=resourcepack.zip' \
+            -F 'raw.asset2=@manifest.json;type=application/json' \
+            -F 'raw.asset2.filename=manifest.json'
 
       - name: Tell Server
         run: |
