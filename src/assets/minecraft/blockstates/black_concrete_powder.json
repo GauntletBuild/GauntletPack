@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "": [{"model": "minecraft:block/black_concrete_powder"},
+	     {"model": "minecraft:block/black_concrete_powder_1"},
+	     {"model": "minecraft:block/black_concrete_powder", "x": 90},
+	     {"model": "minecraft:block/black_concrete_powder", "x": 180},
+	     {"model": "minecraft:block/black_concrete_powder", "x": 270},
+	     {"model": "minecraft:block/black_concrete_powder_1", "x": 90},
+	     {"model": "minecraft:block/black_concrete_powder_1", "x": 180},
+	     {"model": "minecraft:block/black_concrete_powder_1", "x": 270},
+	     {"model": "minecraft:block/black_concrete_powder", "y": 90},
+	     {"model": "minecraft:block/black_concrete_powder", "y": 180},
+	     {"model": "minecraft:block/black_concrete_powder", "y": 270},
+	     {"model": "minecraft:block/black_concrete_powder_1", "y": 90},
+	     {"model": "minecraft:block/black_concrete_powder_1", "y": 180},
+	     {"model": "minecraft:block/black_concrete_powder_1", "y": 270},
+	     {"model": "minecraft:block/black_concrete_powder", "z": 90},
+	     {"model": "minecraft:block/black_concrete_powder", "z": 180},
+	     {"model": "minecraft:block/black_concrete_powder", "z": 270},
+	     {"model": "minecraft:block/black_concrete_powder_1", "z": 90},
+	     {"model": "minecraft:block/black_concrete_powder_1", "z": 180},
+	     {"model": "minecraft:block/black_concrete_powder_1", "z": 270}]
+    }
+}
