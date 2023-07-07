@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "instrument=harp,note=0,powered=true": {
+      "model": "gauntlet:block/quartz_pillar_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "instrument=harp,note=0,powered=false": {
+      "model": "gauntlet:block/quartz_pillar"
+    },
+    "instrument=harp,note=1,powered=false": {
+      "model": "gauntlet:block/quartz_pillar_horizontal",
+      "x": 90
+    }
+  }
+}
+

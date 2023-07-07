@@ -1,8 +1,13 @@
 {
-  "test": {
+  "stone_pillar": {
     "index": 0,
     "directions": {
-      "NORTH": 1
+      "WEST": 1,
+      "EAST": 1,
+      "NORTH": 2,
+      "SOUTH": 2,
+      "UP": 0,
+      "DOWN": 1
     }
   }
 }
