@@ -42,14 +42,6 @@ jobs:
             -F 'raw.asset2=@manifest.json;type=application/json' \
             -F 'raw.asset2.filename=manifest.json'
 
-      - name: Format Commit Messages
-        id: format
-        uses: mad9000/actions-find-and-replace-string@3
-        with:
-          source: ${{ github.event.head_commit.message }}
-          find: '\n'
-          replace: '\\n    '
-
       - name: Tell Server
         run: |
           curl -X 'POST' \
@@ -57,7 +49,7 @@ jobs:
             -H 'accept: application/json' \
             -H 'Content-Type: application/json' \
             -H 'Authorization: Bearer ${{ secrets.EXAROTON_TOKEN }}' \
-            -d '{"command":"tellraw @a \"§9§l-----------[§aGauntlet Build Server§9§l]-----------§r\\n§aCommit Uploader:§7 ${{ github.actor }}!§r\\n§aCommit Message:§7 ${{ steps.format.outputs.value }}\\n§9§l---------------------------------------\""}'
+            -d '{"command":"tellraw @a \"§9§l-----------[§aGauntlet Build Server§9§l]-----------§r\\n§aCommit Uploader:§7 ${{ github.actor }}!§r\\n§aCommit Message:§7 ${{ github.event.head_commit.message }}\\n§9§l---------------------------------------\""}'
 
       - name: Reload Server
         run: |
