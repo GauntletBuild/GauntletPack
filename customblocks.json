@@ -1,0 +1,8 @@
+{
+  "test": {
+    "index": 0,
+    "directions": {
+      "NORTH": 1
+    }
+  }
+}
