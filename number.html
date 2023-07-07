@@ -1,0 +1,59 @@
+<html lang="us">
+
+<body>
+<label for="number">Enter Block Id:</label>
+<input type="number" id="number">
+<button id="submit">Submit</button>
+<div id="output">
+
+</div>
+</body>
+<script>
+    const INSTRUMENTS = [
+        "HARP",
+        "BASEDRUM",
+        "SNARE",
+        "HAT",
+        "BASS",
+        "FLUTE",
+        "BELL",
+        "GUITAR",
+        "CHIME",
+        "XYLOPHONE",
+        "IRON_XYLOPHONE",
+        "COW_BELL",
+        "DIDGERIDOO",
+        "BIT",
+        "BANJO",
+        "PLING",
+        "ZOMBIE",
+        "SKELETON",
+        "CREEPER",
+        "DRAGON",
+        "WITHER_SKELETON",
+        "PIGLIN",
+        "CUSTOM_HEAD",
+    ]
+
+    document.getElementById("submit").addEventListener("click", ev => {
+        const output = document.getElementById("output");
+        output.innerHTML = "";
+        let id = 0;
+        for (let i = 0; i < INSTRUMENTS.length; i++) {
+            for (let j = 0; j < 25; j++) {
+                console.log(id, document.getElementById("number").value)
+                if (`${id}` === document.getElementById("number").value) {
+                    output.innerHTML = `Instrument=${INSTRUMENTS[i]} Note=${j} Powered=false`
+                    return;
+                }
+                id++;
+                if (`${id}` === document.getElementById("number").value) {
+                    output.innerHTML = `Instrument=${INSTRUMENTS[i]} Note=${j} Powered=true`
+                    return;
+                }
+                id++;
+            }
+        }
+    });
+</script>
+</html>
