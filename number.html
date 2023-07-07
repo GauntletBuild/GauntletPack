@@ -43,12 +43,12 @@
             for (let j = 0; j < 25; j++) {
                 console.log(id, document.getElementById("number").value)
                 if (`${id}` === document.getElementById("number").value) {
-                    output.innerHTML = `Instrument=${INSTRUMENTS[i]} Note=${j} Powered=false`
+                    output.innerHTML = `instrument=${INSTRUMENTS[i].toLowerCase()},note=${j},powered=false`
                     return;
                 }
                 id++;
-                if (`${id}` === document.getElementById("number").value) {
-                    output.innerHTML = `Instrument=${INSTRUMENTS[i]} Note=${j} Powered=true`
+                if (`${id}` === document.getElementById("number").value) {w
+                    output.innerHTML = `instrument=${INSTRUMENTS[i].toLowerCase()},note=${j},powered=true`
                     return;
                 }
                 id++;
