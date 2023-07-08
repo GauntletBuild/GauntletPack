@@ -23,5 +23,8 @@
   },
   "polished_stone": {
     "index": 6
+  },
+  "polished_stone_slab": {
+    "index": 7
   }
 }
