@@ -28,12 +28,10 @@
       { "model": "gauntlet:block/polished_stone" },
       { "model": "gauntlet:block/polished_stone_1" },
       { "model": "gauntlet:block/polished_stone_2" }
-    ]
-  },
+    ],
     "instrument=harp,note=3,powered=true": [
       { "model": "gauntlet:block/polished_stone_slab" },
       { "model": "gauntlet:block/polished_stone_slab_1" }
     ]
   }
 }
-
