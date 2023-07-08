@@ -26,5 +26,59 @@
   },
   "polished_stone_slab": {
     "index": 7
+  },
+  "black_terracotta_shingles": {
+    "index": 8
+  },
+  "blue_terracotta_shingles": {
+    "index": 9
+  },
+  "brown_terracotta_shingles": {
+    "index": 10
+  },
+  "cyan_terracotta_shingles": {
+    "index": 11
+  },
+  "gloomy_shingles": {
+    "index": 12
+  },
+  "gray_terracotta_shingles": {
+    "index": 13
+  },
+  "green_terracotta_shingles": {
+    "index": 14
+  },
+  "light_blue_terracotta_shingles": {
+    "index": 15
+  },
+  "light_gray_terracotta_shingles": {
+    "index": 16
+  },
+  "lime_terracotta_shingles": {
+    "index": 17
+  },
+  "magenta_terracotta_shingles": {
+    "index": 18
+  },
+  "orange_terracotta_shingles": {
+    "index": 19
+  },
+  "pink_terracotta_shingles": {
+    "index": 20
+  },
+  "purple_terracotta_shingles": {
+    "index": 21
+  },
+  "red_terracotta_shingles": {
+    "index": 22
+  },
+  "terracotta_shingles": {
+    "index": 23
+  },
+  "white_terracotta_shingles": {
+    "index": 24
+  },
+  "yellow_terracotta_shingles": {
+    "index": 25
   }
 }

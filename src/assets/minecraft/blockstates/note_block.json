@@ -25,13 +25,77 @@
       "x": 90
     },
     "instrument=harp,note=3,powered=false": [
-      { "model": "gauntlet:block/polished_stone" },
-      { "model": "gauntlet:block/polished_stone_1" },
-      { "model": "gauntlet:block/polished_stone_2" }
+      {
+        "model": "gauntlet:block/polished_stone"
+      },
+      {
+        "model": "gauntlet:block/polished_stone_1"
+      },
+      {
+        "model": "gauntlet:block/polished_stone_2"
+      }
     ],
     "instrument=harp,note=3,powered=true": [
-      { "model": "gauntlet:block/polished_stone_slab" },
-      { "model": "gauntlet:block/polished_stone_slab_1" }
-    ]
+      {
+        "model": "gauntlet:block/polished_stone_slab"
+      },
+      {
+        "model": "gauntlet:block/polished_stone_slab_1"
+      }
+    ],
+    "instrument=harp,note=4,powered=false": {
+      "model": "gauntlet:block/black_terracotta_shingles"
+    },
+    "instrument=harp,note=4,powered=true": {
+      "model": "gauntlet:block/blue_terracotta_shingles"
+    },
+    "instrument=harp,note=5,powered=false": {
+      "model": "gauntlet:block/brown_terracotta_shingles"
+    },
+    "instrument=harp,note=5,powered=true": {
+      "model": "gauntlet:block/cyan_terracotta_shingles"
+    },
+    "instrument=harp,note=6,powered=false": {
+      "model": "gauntlet:block/gloomy_shingles"
+    },
+    "instrument=harp,note=6,powered=true": {
+      "model": "gauntlet:block/gray_terracotta_shingles"
+    },
+    "instrument=harp,note=7,powered=false": {
+      "model": "gauntlet:block/green_terracotta_shingles"
+    },
+    "instrument=harp,note=7,powered=true": {
+      "model": "gauntlet:block/light_blue_terracotta_shingles"
+    },
+    "instrument=harp,note=8,powered=false": {
+      "model": "gauntlet:block/light_gray_terracotta_shingles"
+    },
+    "instrument=harp,note=8,powered=true": {
+      "model": "gauntlet:block/lime_terracotta_shingles"
+    },
+    "instrument=harp,note=9,powered=false": {
+      "model": "gauntlet:block/magenta_terracotta_shingles"
+    },
+    "instrument=harp,note=9,powered=true": {
+      "model": "gauntlet:block/orange_terracotta_shingles"
+    },
+    "instrument=harp,note=10,powered=false": {
+      "model": "gauntlet:block/pink_terracotta_shingles"
+    },
+    "instrument=harp,note=10,powered=true": {
+      "model": "gauntlet:block/purple_terracotta_shingles"
+    },
+    "instrument=harp,note=11,powered=false": {
+      "model": "gauntlet:block/red_terracotta_shingles"
+    },
+    "instrument=harp,note=11,powered=true": {
+      "model": "gauntlet:block/terracotta_shingles"
+    },
+    "instrument=harp,note=12,powered=false": {
+      "model": "gauntlet:block/white_terracotta_shingles"
+    },
+    "instrument=harp,note=12,powered=true": {
+      "model": "gauntlet:block/yellow_terracotta_shingles"
+    }
   }
 }
