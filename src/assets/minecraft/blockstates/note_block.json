@@ -1,15 +1,27 @@
 {
   "variants": {
     "instrument=harp,note=0,powered=true": {
-      "model": "gauntlet:block/quartz_pillar_horizontal",
+      "model": "gauntlet:block/stone_pillar_horizontal",
       "x": 90,
       "y": 90
     },
     "instrument=harp,note=0,powered=false": {
-      "model": "gauntlet:block/quartz_pillar"
+      "model": "gauntlet:block/stone_pillar"
     },
     "instrument=harp,note=1,powered=false": {
-      "model": "gauntlet:block/quartz_pillar_horizontal",
+      "model": "gauntlet:block/stone_pillar_horizontal",
+      "x": 90
+    },
+    "instrument=harp,note=2,powered=false": {
+      "model": "gauntlet:block/stone_column_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "instrument=harp,note=2,powered=true": {
+      "model": "gauntlet:block/stone_column"
+    },
+    "instrument=harp,note=3,powered=false": {
+      "model": "gauntlet:block/stone_column_horizontal",
       "x": 90
     }
   }
