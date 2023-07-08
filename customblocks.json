@@ -22,6 +22,7 @@
     }
   },
   "polished_stone": {
-    "index": 6
+    "index": 6,
+    "directions": {}
   }
 }
