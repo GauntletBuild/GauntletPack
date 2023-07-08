@@ -20,5 +20,8 @@
       "UP": 4,
       "DOWN": 4
     }
+  },
+  "polished_stone": {
+    "index": 6
   }
 }
