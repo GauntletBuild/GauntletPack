@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop_offset2",
+  "textures": {
+    "crop": "minecraft:block/wheat_stage7_1"
+  }
+}
