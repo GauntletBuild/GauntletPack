@@ -13,12 +13,12 @@
   "stone_column": {
     "index": 3,
     "directions": {
-      "WEST": 5,
-      "EAST": 5,
+      "WEST": 3,
+      "EAST": 3,
       "NORTH": 4,
       "SOUTH": 4,
-      "UP": 3,
-      "DOWN": 3
+      "UP": 5,
+      "DOWN": 5
     }
   }
 }
