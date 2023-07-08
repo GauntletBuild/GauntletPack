@@ -96,6 +96,54 @@
     },
     "instrument=harp,note=12,powered=true": {
       "model": "gauntlet:block/yellow_terracotta_shingles"
+    },
+    "instrument=harp,note=13,powered=false": {
+      "model": "gauntlet:block/yellow_dye_sack"
+    },
+    "instrument=harp,note=13,powered=true": {
+      "model": "gauntlet:block/white_dye_sack"
+    },
+    "instrument=harp,note=14,powered=false": {
+      "model": "gauntlet:block/red_dye_sack"
+    },
+    "instrument=harp,note=14,powered=true": {
+      "model": "gauntlet:block/purple_dye_sack"
+    },
+    "instrument=harp,note=15,powered=false": {
+      "model": "gauntlet:block/pink_dye_sack"
+    },
+    "instrument=harp,note=15,powered=true": {
+      "model": "gauntlet:block/orange_dye_sack"
+    },
+    "instrument=harp,note=16,powered=false": {
+      "model": "gauntlet:block/magenta_dye_sack"
+    },
+    "instrument=harp,note=16,powered=true": {
+      "model": "gauntlet:block/lime_dye_sack"
+    },
+    "instrument=harp,note=17,powered=false": {
+      "model": "gauntlet:block/light_gray_dye_sack"
+    },
+    "instrument=harp,note=17,powered=true": {
+      "model": "gauntlet:block/light_blue_dye_sack"
+    },
+    "instrument=harp,note=18,powered=false": {
+      "model": "gauntlet:block/green_dye_sack"
+    },
+    "instrument=harp,note=18,powered=true": {
+      "model": "gauntlet:block/gray_dye_sack"
+    },
+    "instrument=harp,note=19,powered=false": {
+      "model": "gauntlet:block/cyan_dye_sack"
+    },
+    "instrument=harp,note=19,powered=true": {
+      "model": "gauntlet:block/brown_dye_sack"
+    },
+    "instrument=harp,note=20,powered=false": {
+      "model": "gauntlet:block/blue_dye_sack"
+    },
+    "instrument=harp,note=20,powered=true": {
+      "model": "gauntlet:block/black_dye_sack"
     }
   }
 }
