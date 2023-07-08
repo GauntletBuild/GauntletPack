@@ -38,6 +38,9 @@
 		{"predicate": {"custom_model_data": 38}, "model": "gauntlet:block/cyan_dye_sack"},
 		{"predicate": {"custom_model_data": 39}, "model": "gauntlet:block/brown_dye_sack"},
 		{"predicate": {"custom_model_data": 40}, "model": "gauntlet:block/blue_dye_sack"},
-		{"predicate": {"custom_model_data": 41}, "model": "gauntlet:block/black_dye_sack"}
+		{"predicate": {"custom_model_data": 41}, "model": "gauntlet:block/black_dye_sack"},
+		{"predicate": {"custom_model_data": 42}, "model": "gauntlet:block/limestone"},
+		{"predicate": {"custom_model_data": 43}, "model": "gauntlet:block/flowstone"},
+		{"predicate": {"custom_model_data": 44}, "model": "gauntlet:block/grout"}
 	]
 }

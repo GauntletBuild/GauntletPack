@@ -128,5 +128,14 @@
     },
     "black_dye_sack": {
         "index": 41
+    },
+    "limestone": {
+        "index": 42
+    },
+    "flowstone": {
+        "index": 43
+    },
+    "grout": {
+        "index": 44
     }
 }
