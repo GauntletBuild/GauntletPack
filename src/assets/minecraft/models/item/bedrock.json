@@ -4,6 +4,24 @@
 		{"predicate": {"custom_model_data": 0}, "model": "gauntlet:block/stone_pillar"},
 		{"predicate": {"custom_model_data": 3}, "model": "gauntlet:block/stone_column"},
 		{"predicate": {"custom_model_data": 6}, "model": "gauntlet:block/polished_stone"},
-		{"predicate": {"custom_model_data": 7}, "model": "gauntlet:block/polished_stone_slab"}
+		{"predicate": {"custom_model_data": 7}, "model": "gauntlet:block/polished_stone_slab"},
+		{"predicate": {"custom_model_data": 8}, "model": "gauntlet:block/black_terracotta_shingles"},
+		{"predicate": {"custom_model_data": 9}, "model": "gauntlet:block/blue_terracotta_shingles"},
+		{"predicate": {"custom_model_data": 10}, "model": "gauntlet:block/brown_terracotta_shingles"},
+		{"predicate": {"custom_model_data": 11}, "model": "gauntlet:block/cyan_terracotta_shingles"},
+		{"predicate": {"custom_model_data": 12}, "model": "gauntlet:block/gloomy_shingles"},
+		{"predicate": {"custom_model_data": 13}, "model": "gauntlet:block/gray_terracotta_shingles"},
+		{"predicate": {"custom_model_data": 14}, "model": "gauntlet:block/green_terracotta_shingles"},
+		{"predicate": {"custom_model_data": 15}, "model": "gauntlet:block/light_blue_terracotta_shingles"},
+		{"predicate": {"custom_model_data": 16}, "model": "gauntlet:block/light_gray_terracotta_shingles"},
+		{"predicate": {"custom_model_data": 17}, "model": "gauntlet:block/lime_terracotta_shingles"},
+		{"predicate": {"custom_model_data": 18}, "model": "gauntlet:block/magenta_terracotta_shingles"},
+		{"predicate": {"custom_model_data": 19}, "model": "gauntlet:block/orange_terracotta_shingles"},
+		{"predicate": {"custom_model_data": 20}, "model": "gauntlet:block/pink_terracotta_shingles"},
+		{"predicate": {"custom_model_data": 21}, "model": "gauntlet:block/purple_terracotta_shingles"},
+		{"predicate": {"custom_model_data": 22}, "model": "gauntlet:block/red_terracotta_shingles"},
+		{"predicate": {"custom_model_data": 23}, "model": "gauntlet:block/terracotta_shingles"},
+		{"predicate": {"custom_model_data": 24}, "model": "gauntlet:block/white_terracotta_shingles"},
+		{"predicate": {"custom_model_data": 25}, "model": "gauntlet:block/yellow_terracotta_shingles"}
 	]
 }
