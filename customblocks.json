@@ -15,10 +15,10 @@
     "directions": {
       "WEST": 3,
       "EAST": 3,
-      "NORTH": 4,
-      "SOUTH": 4,
-      "UP": 5,
-      "DOWN": 5
+      "NORTH": 5,
+      "SOUTH": 5,
+      "UP": 4,
+      "DOWN": 4
     }
   }
 }
