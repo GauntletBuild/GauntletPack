@@ -24,6 +24,6 @@
   "block.minecraft.tnt": "Gunpowder Barrel",
   "block.minecraft.black_concrete": "Volcanic Sand",
   "block.minecraft.iron_trapdoor": "Iron Grate",
-  "item.minecraft.warped_door": "Pine Door",
-  "item.minecraft.dark_oak_door": "Walnut Door"
+  "block.minecraft.warped_door": "Pine Door",
+  "block.minecraft.dark_oak_door": "Walnut Door"
 }
