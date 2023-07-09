@@ -39,5 +39,6 @@
   "customblocks.item.gauntlet:gloomy_shingles.name": "Gloomy Shingles",
   "customblocks.item.gauntlet:limestone.name": "Limestone",
   "customblocks.item.gauntlet:flowstone.name": "Flowstone",
-  "customblocks.item.gauntlet:grout.name": "Grout"
+  "customblocks.item.gauntlet:grout.name": "Grout",
+  "customblocks.item.gauntlet:alabaster.name": "Alabaster"
 }
