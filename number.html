@@ -35,25 +35,25 @@
         "CUSTOM_HEAD",
     ]
 
-    document.getElementById("submit").addEventListener("click", ev => {
-        const output = document.getElementById("output");
-        output.innerHTML = "";
+    function getState(number) {
         let id = 0;
         for (let i = 0; i < INSTRUMENTS.length; i++) {
             for (let j = 0; j < 25; j++) {
-                console.log(id, document.getElementById("number").value)
-                if (`${id}` === document.getElementById("number").value) {
-                    output.innerHTML = `instrument=${INSTRUMENTS[i].toLowerCase()},note=${j},powered=false`
-                    return;
+                if (`${id}` === String(number)) {
+                    return `instrument=${INSTRUMENTS[i].toLowerCase()},note=${j},powered=false`;
                 }
                 id++;
-                if (`${id}` === document.getElementById("number").value) {
-                    output.innerHTML = `instrument=${INSTRUMENTS[i].toLowerCase()},note=${j},powered=true`
-                    return;
+                if (`${id}` === String(number)) {
+                    return `instrument=${INSTRUMENTS[i].toLowerCase()},note=${j},powered=true`;
                 }
                 id++;
             }
         }
+    }
+
+    document.getElementById("submit").addEventListener("click", ev => {
+        const output = document.getElementById("output");
+        output.innerHTML = getState(document.getElementById("number").value);
     });
 </script>
 </html>

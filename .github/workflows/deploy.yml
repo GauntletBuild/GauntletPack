@@ -73,4 +73,4 @@ jobs:
             -H 'accept: application/json' \
             -H 'Content-Type: application/json' \
             -H 'Authorization: Bearer ${{ secrets.EXAROTON_TOKEN }}' \
-            -d '{"command":"customblocks reload"}'
+            -d '{"command":"blocksreload"}'
