@@ -9,12 +9,12 @@
     "moisture=2": {
       "model": "minecraft:block/farmland"
     },
-    "moisture=3": {
+    "moisture=3": [
       { "model": "gauntlet:block/snow_path" },
       { "model": "gauntlet:block/snow_path", "y": 90 },
       { "model": "gauntlet:block/snow_path", "y": 180 },
       { "model": "gauntlet:block/snow_path", "y": 270 }
-    },
+    ],
     "moisture=4": [
       { "model": "gauntlet:block/podzol_path" },
       { "model": "gauntlet:block/podzol_path", "y": 90 },
