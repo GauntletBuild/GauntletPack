@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "gauntlet:block/brown_dye_sack_top",
+    "bottom": "gauntlet:block/dye_sack_bottom",
+    "side": "gauntlet:block/brown_dye_sack_side"
+  }
+}
