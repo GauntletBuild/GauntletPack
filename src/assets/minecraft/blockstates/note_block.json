@@ -153,6 +153,20 @@
     },
     "instrument=harp,note=22,powered=false": {
       "model": "gauntlet:block/grout"
-    }
+    },
+    "instrument=harp,note=22,powered=true": [
+      {
+        "model": "gauntlet:block/alabaster"
+      },
+      {
+        "model": "gauntlet:block/alabaster_1"
+      },
+      {
+        "model": "gauntlet:block/alabaster_2"
+      },
+      {
+        "model": "gauntlet:block/alabaster_3"
+      }
+    ]
   }
 }
