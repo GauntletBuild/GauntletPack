@@ -48,7 +48,6 @@ class MainWindow(QWidget):
             'cube': ['down', 'east', 'north', 'south', 'up', 'west'],
             'cube_directional': ['down', 'up', 'north', 'east', 'south', 'west'],
             'cube_all': ['all'],
-            'cube_mirrored_all': ['all'],
             'cube_column': ['top', 'side'],
             'cube_bottom_top': ['top', 'bottom', 'side'],
             'orientable': ['front', 'side', 'top']
