@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:block/bedrock",
+	"parent": "minecraft:block/note_block",
 	"overrides": [
 		{"predicate": {"custom_model_data": 0}, "model": "gauntlet:block/stone_pillar"},
 		{"predicate": {"custom_model_data": 3}, "model": "gauntlet:block/stone_column"},
