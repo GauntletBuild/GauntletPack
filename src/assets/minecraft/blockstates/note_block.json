@@ -167,6 +167,14 @@
       {
         "model": "gauntlet:block/alabaster_3"
       }
+    ],
+    "instrument=harp,note=23,powered=false": [
+      {
+        "model": "gauntlet:block/pale_rock"
+      },
+      {
+        "model": "gauntlet:block/pale_rock_1"
+      }
     ]
   }
 }
