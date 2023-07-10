@@ -144,61 +144,6 @@ class MainWindow(QWidget):
         block_name = self.display_name.text()
         new_block_data = {block_name: {"index": next_index}}
 
-        # Add rotation data if needed
-        rotation = self.placement_rotation.currentText()
-        if rotation in ['XZ', 'XZMirror', 'XYZ', 'XYZMirror'] and self.model_base.currentText() == 'cube_column':
-            new_block_data[block_name]['directions'] = {
-                "WEST": next_index + 1,
-                "EAST": next_index + 1,
-                "NORTH": next_index + 2,
-                "SOUTH": next_index + 2,
-                "UP": next_index,
-                "DOWN": next_index
-            }
-            next_index += 2  # Increment the index for the next block
-
-        # Get the start index for the note_block.json data
-        START_INDEX = next_index
-
-        # Generate the note_block.json data
-        INSTRUMENTS = [
-            "harp",
-            "basedrum",
-            "snare",
-            "hat",
-            "bass",
-            "flute",
-            "bell",
-            "guitar",
-            "chime",
-            "xylophone",
-            "iron_xylophone",
-            "cow_bell",
-            "didgeridoo",
-            "bit",
-            "banjo",
-            "pling",
-            "zombie",
-            "skeleton",
-            "creeper",
-            "dragon",
-            "wither_skeleton",
-            "piglin",
-            "custom_head",
-        ]
-        note_block_data = {}
-        index = START_INDEX
-        for _ in range(len(self.texture_fields)):
-            for j in range(25):
-                for powered in [False, True]:
-                    instrument = INSTRUMENTS[index // 50]
-                    state = f'instrument={instrument.lower()},note={j},powered={str(powered).lower()}'
-                    note_block_data[state] = {"model": f"gauntlet:block/{texture_name}"}
-                    index += 1
-
-        # Update the output field
-        self.output.setText(json.dumps(note_block_data, indent=4))
-
 
 app = QApplication([])
 window = MainWindow()
