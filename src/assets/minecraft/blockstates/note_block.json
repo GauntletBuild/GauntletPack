@@ -182,6 +182,9 @@
       },
       {
         "model": "gauntlet:block/chert_1"
+      },
+      {
+        "model": "gauntlet:block/chert_2"
       }
     ],
     "instrument=harp,note=24,powered=false": [
