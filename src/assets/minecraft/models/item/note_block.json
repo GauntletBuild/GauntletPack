@@ -49,9 +49,9 @@
         {"predicate": {"custom_model_data": 49}, "model": "gauntlet:block/cobblestone_bricks/cobblestone_bricks"},
 		{"predicate": {"custom_model_data": 50}, "model": "gauntlet:block/cobblestone_bricks/indented_cobblestone_bricks"},
 		{"predicate": {"custom_model_data": 51}, "model": "gauntlet:block/cobblestone_bricks/mossy_cobblestone_bricks"},
-		{"predicate": {"custom_model_data": 52}, "model": "gauntlet:block/cobblestone_bricks/cracked_bricks"},
-		{"predicate": {"custom_model_data": 53}, "model": "gauntlet:block/cobblestone_bricks/grout_filled_bricks"},
-		{"predicate": {"custom_model_data": 54}, "model": "gauntlet:block/cobblestone_bricks/mossy_bricks"},
-		{"predicate": {"custom_model_data": 55}, "model": "gauntlet:block/cobblestone_bricks/weathered_bricks"}
+		{"predicate": {"custom_model_data": 52}, "model": "gauntlet:block/bricks/cracked_bricks"},
+		{"predicate": {"custom_model_data": 53}, "model": "gauntlet:block/bricks/grout_filled_bricks"},
+		{"predicate": {"custom_model_data": 54}, "model": "gauntlet:block/bricks/mossy_bricks"},
+		{"predicate": {"custom_model_data": 55}, "model": "gauntlet:block/bricks/weathered_bricks"}
 	]
 }
