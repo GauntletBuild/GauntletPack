@@ -14,132 +14,175 @@
         "z": 5
     },
     "polished_stone": {
+        "type": "full_cube",
         "index": 6
     },
     "polished_stone_slab": {
+        "type": "full_cube",
         "index": 7
     },
     "black_terracotta_shingles": {
+        "type": "full_cube",
         "index": 8
     },
     "blue_terracotta_shingles": {
+        "type": "full_cube",
         "index": 9
     },
     "brown_terracotta_shingles": {
+        "type": "full_cube",
         "index": 10
     },
     "cyan_terracotta_shingles": {
+        "type": "full_cube",
         "index": 11
     },
     "gloomy_shingles": {
+        "type": "full_cube",
         "index": 12
     },
     "gray_terracotta_shingles": {
+        "type": "full_cube",
         "index": 13
     },
     "green_terracotta_shingles": {
+        "type": "full_cube",
         "index": 14
     },
     "light_blue_terracotta_shingles": {
+        "type": "full_cube",
         "index": 15
     },
     "light_gray_terracotta_shingles": {
+        "type": "full_cube",
         "index": 16
     },
     "lime_terracotta_shingles": {
+        "type": "full_cube",
         "index": 17
     },
     "magenta_terracotta_shingles": {
+        "type": "full_cube",
         "index": 18
     },
     "orange_terracotta_shingles": {
+        "type": "full_cube",
         "index": 19
     },
     "pink_terracotta_shingles": {
+        "type": "full_cube",
         "index": 20
     },
     "purple_terracotta_shingles": {
+        "type": "full_cube",
         "index": 21
     },
     "red_terracotta_shingles": {
+        "type": "full_cube",
         "index": 22
     },
     "terracotta_shingles": {
+        "type": "full_cube",
         "index": 23
     },
     "white_terracotta_shingles": {
+        "type": "full_cube",
         "index": 24
     },
     "yellow_terracotta_shingles": {
+        "type": "full_cube",
         "index": 25
     },
     "yellow_dye_sack": {
+        "type": "full_cube",
         "index": 26
     },
     "white_dye_sack": {
+        "type": "full_cube",
         "index": 27
     },
     "red_dye_sack": {
+        "type": "full_cube",
         "index": 28
     },
     "purple_dye_sack": {
+        "type": "full_cube",
         "index": 29
     },
     "pink_dye_sack": {
+        "type": "full_cube",
         "index": 30
     },
     "orange_dye_sack": {
+        "type": "full_cube",
         "index": 31
     },
     "magenta_dye_sack": {
+        "type": "full_cube",
         "index": 32
     },
     "lime_dye_sack": {
+        "type": "full_cube",
         "index": 33
     },
     "light_gray_dye_sack": {
+        "type": "full_cube",
         "index": 34
     },
     "light_blue_dye_sack": {
+        "type": "full_cube",
         "index": 35
     },
     "green_dye_sack": {
+        "type": "full_cube",
         "index": 36
     },
     "gray_dye_sack": {
+        "type": "full_cube",
         "index": 37
     },
     "cyan_dye_sack": {
+        "type": "full_cube",
         "index": 38
     },
     "brown_dye_sack": {
+        "type": "full_cube",
         "index": 39
     },
     "blue_dye_sack": {
+        "type": "full_cube",
         "index": 40
     },
     "black_dye_sack": {
+        "type": "full_cube",
         "index": 41
     },
     "limestone": {
+        "type": "full_cube",
         "index": 42
     },
     "flowstone": {
+        "type": "full_cube",
         "index": 43
     },
     "grout": {
+        "type": "full_cube",
         "index": 44
     },
     "alabaster": {
+        "type": "full_cube",
         "index": 45
     },
     "pale_rock": {
+        "type": "full_cube",
         "index": 46
     },
     "chert": {
+        "type": "full_cube",
         "index": 47
     },
     "chalk": {
+        "type": "full_cube",
         "index": 48
     }
 }
