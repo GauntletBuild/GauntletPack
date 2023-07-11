@@ -45,6 +45,10 @@
 		{"predicate": {"custom_model_data": 45}, "model": "gauntlet:block/alabaster/alabaster"},
 		{"predicate": {"custom_model_data": 46}, "model": "gauntlet:block/pale_rock"},
 		{"predicate": {"custom_model_data": 47}, "model": "gauntlet:block/chert"},
-		{"predicate": {"custom_model_data": 48}, "model": "gauntlet:block/chalk"}
+		{"predicate": {"custom_model_data": 48}, "model": "gauntlet:block/chalk"},
+        {"predicate": {"custom_model_data": 49}, "model": "gauntlet:block/cobblestone_bricks/cobblestone_bricks"},
+		{"predicate": {"custom_model_data": 50}, "model": "gauntlet:block/cobblestone_bricks/indented_cobblestone_bricks"},
+		{"predicate": {"custom_model_data": 51}, "model": "gauntlet:block/cobblestone_bricks/mossy_cobblestone_bricks"}
+
 	]
 }

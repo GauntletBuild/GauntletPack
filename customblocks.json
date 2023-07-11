@@ -184,5 +184,17 @@
     "chalk": {
         "type": "full_cube",
         "index": 48
+    },
+    "cobblestone_bricks": {
+        "type": "full_cube",
+        "index": 49
+    },
+    "indented_cobblestone_bricks": {
+        "type": "full_cube",
+        "index": 50
+    },
+    "mossy_cobblestone_bricks": {
+        "type": "full_cube",
+        "index": 51
     }
 }

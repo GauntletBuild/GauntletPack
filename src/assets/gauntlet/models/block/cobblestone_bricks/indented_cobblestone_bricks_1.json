@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "gauntlet:block/cobblestone_bricks/indented_cobblestone_bricks_1"
+  }
+}
