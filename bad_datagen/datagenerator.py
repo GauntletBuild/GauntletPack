@@ -133,7 +133,7 @@ class MainWindow(QWidget):
 
     def generate_data(self):
         # Read current customblocks.json
-        with open('customblocks.json') as f:
+        with open('../customblocks.json') as f:
             data = json.load(f)
 
         # Get the next index

@@ -194,7 +194,7 @@ def generate_custom_block(block_type, start_index, models):
     return result
 
 # Usage
-with open('customblocks.json') as f:
+with open('../customblocks.json') as f:
     data = json.load(f)
 
 start_index = data[list(data.keys())[-1]]['index'] + 1
