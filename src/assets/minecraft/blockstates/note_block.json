@@ -230,6 +230,39 @@
             {
                 "model": "gauntlet:block/cobblestone_bricks/mossy_cobblestone_bricks_2"
             }
-        ]
+        ],
+        "instrument=basedrum,note=1,powered=false": [
+            {
+                "model": "gauntlet:block/bricks/cracked_bricks"
+            },
+            {
+                "model": "gauntlet:block/bricks/cracked_bricks_1"
+            },
+            {
+                "model": "gauntlet:block/bricks/cracked_bricks_2"
+            }
+        ],
+        "instrument=basedrum,note=1,powered=true": [
+            {
+                "model": "gauntlet:block/bricks/grout_filled_bricks"
+            },
+            {
+                "model": "gauntlet:block/bricks/grout_filled_bricks_1"
+            }
+        ],
+        "instrument=basedrum,note=2,powered=false": [
+            {
+                "model": "gauntlet:block/bricks/mossy_bricks"
+            },
+            {
+                "model": "gauntlet:block/bricks/mossy_bricks_1"
+            },
+            {
+                "model": "gauntlet:block/bricks/mossy_bricks_2"
+            }
+        ],
+        "instrument=basedrum,note=2,powered=true": {
+            "model": "gauntlet:block/bricks/weathered_bricks"
+        }
     }
 }

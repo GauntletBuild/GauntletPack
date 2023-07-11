@@ -196,5 +196,21 @@
     "mossy_cobblestone_bricks": {
         "type": "full_cube",
         "index": 51
+    },
+    "cracked_bricks": {
+        "type": "full_cube",
+        "index": 52
+    },
+    "grout_filled_bricks": {
+        "type": "full_cube",
+        "index": 53
+    },
+    "mossy_bricks": {
+        "type": "full_cube",
+        "index": 54
+    },
+    "weathered_bricks": {
+        "type": "full_cube",
+        "index": 55
     }
 }
