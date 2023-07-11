@@ -6,9 +6,12 @@
     "moisture=1": {
       "model": "minecraft:block/farmland"
     },
-    "moisture=2": {
-      "model": "minecraft:block/farmland"
-    },
+    "moisture=2": [
+      { "model": "gauntlet:block/paths/podzol_path" },
+      { "model": "gauntlet:block/paths/podzol_path", "y": 90 },
+      { "model": "gauntlet:block/paths/podzol_path", "y": 180 },
+      { "model": "gauntlet:block/paths/podzol_path", "y": 270 }
+    ],
     "moisture=3": [
       { "model": "gauntlet:block/paths/snow_path" },
       { "model": "gauntlet:block/paths/snow_path", "y": 90 },
@@ -27,9 +30,12 @@
       { "model": "gauntlet:block/paths/dirt_path", "y": 180 },
       { "model": "gauntlet:block/paths/dirt_path", "y": 270 }
     ],
-    "moisture=6": {
-      "model": "gauntlet:block/paths/gravel_path"
-    },
+    "moisture=6": [
+      { "model": "gauntlet:block/paths/gravel_path" },
+      { "model": "gauntlet:block/paths/gravel_path", "y": 90 },
+      { "model": "gauntlet:block/paths/gravel_path", "y": 180 },
+      { "model": "gauntlet:block/paths/gravel_path", "y": 270 }
+    ],
     "moisture=7": {
       "model": "gauntlet:block/paths/sand_path"
     }
