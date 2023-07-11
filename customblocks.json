@@ -9,8 +9,8 @@
     "stone_column": {
         "type": "pillar",
         "index": 3,
-        "x": 4,
-        "y": 3,
+        "x": 3,
+        "y": 4,
         "z": 5
     },
     "polished_stone": {
