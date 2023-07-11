@@ -195,22 +195,7 @@
                 "model": "gauntlet:block/chalk_1"
             },
             {
-                "model": "gauntlet:block/chalk",
-                "x": 90
-            },
-            {
-                "model": "gauntlet:block/chalk_1",
-                "x": 90
-            },
-            {
-                "model": "gauntlet:block/chalk",
-                "x": 90,
-                "y": 90
-            },
-            {
-                "model": "gauntlet:block/chalk_1",
-                "x": 90,
-                "y": 90
+                "model": "gauntlet:block/chalk_2"
             }
         ],
         "instrument=harp,note=24,powered=true": [
