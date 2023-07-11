@@ -1,14 +1,10 @@
 {
     "stone_pillar": {
+        "type": "pillar",
         "index": 0,
-        "directions": {
-            "WEST": 1,
-            "EAST": 1,
-            "NORTH": 2,
-            "SOUTH": 2,
-            "UP": 0,
-            "DOWN": 0
-        }
+        "x": 1,
+        "y": 0,
+        "z": 2
     },
     "stone_column": {
         "index": 3,
