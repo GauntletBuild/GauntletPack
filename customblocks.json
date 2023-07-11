@@ -7,15 +7,11 @@
         "z": 2
     },
     "stone_column": {
+        "type": "pillar",
         "index": 3,
-        "directions": {
-            "WEST": 3,
-            "EAST": 3,
-            "NORTH": 5,
-            "SOUTH": 5,
-            "UP": 4,
-            "DOWN": 4
-        }
+        "x": 3,
+        "y": 5,
+        "z": 4
     },
     "polished_stone": {
         "index": 6
