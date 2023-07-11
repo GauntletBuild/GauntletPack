@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "gauntlet:block/shingles/purple_terracotta_shingles"
+  }
+}

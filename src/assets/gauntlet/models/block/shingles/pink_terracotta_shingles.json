@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "gauntlet:block/light_gray_terracotta_shingles"
+    "all": "gauntlet:block/shingles/pink_terracotta_shingles"
   }
 }
