@@ -1,10 +1,9 @@
-
 {   "parent": "block/block",
     "textures": {
-        "particle": "minecraft:block/dirt",
-        "top": "gauntlet:block/snow_path_top",
-        "side": "gauntlet:block/snow_path_side",
-        "bottom": "minecraft:block/dirt"
+        "particle": "minecraft:block/sand",
+        "top": "gauntlet:block/paths/sand_path_top",
+        "side": "gauntlet:block/paths/sand_path_side",
+        "bottom": "minecraft:block/sand"
     },
     "elements": [
         {   "from": [ 0, 0, 0 ],
