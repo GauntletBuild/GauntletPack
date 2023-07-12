@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "gauntlet:block/stone/polished_stone",
+    "side": "gauntlet:block/stone/polished_stone_slab_side_1"
+  }
+}

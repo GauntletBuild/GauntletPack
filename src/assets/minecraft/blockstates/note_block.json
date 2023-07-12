@@ -1,46 +1,46 @@
 {
     "variants": {
         "instrument=harp,note=0,powered=true": {
-            "model": "gauntlet:block/stone_pillar_horizontal",
+            "model": "gauntlet:block/stone/stone_pillar_horizontal",
             "x": 90,
             "y": 90
         },
         "instrument=harp,note=0,powered=false": {
-            "model": "gauntlet:block/stone_pillar"
+            "model": "gauntlet:block/stone/stone_pillar"
         },
         "instrument=harp,note=1,powered=false": {
-            "model": "gauntlet:block/stone_pillar_horizontal",
+            "model": "gauntlet:block/stone/stone_pillar_horizontal",
             "x": 90
         },
         "instrument=harp,note=1,powered=true": {
-            "model": "gauntlet:block/stone_column_horizontal",
+            "model": "gauntlet:block/stone/stone_column_horizontal",
             "x": 90,
             "y": 90
         },
         "instrument=harp,note=2,powered=false": {
-            "model": "gauntlet:block/stone_column"
+            "model": "gauntlet:block/stone/stone_column"
         },
         "instrument=harp,note=2,powered=true": {
-            "model": "gauntlet:block/stone_column_horizontal",
+            "model": "gauntlet:block/stone/stone_column_horizontal",
             "x": 90
         },
         "instrument=harp,note=3,powered=false": [
             {
-                "model": "gauntlet:block/polished_stone"
+                "model": "gauntlet:block/stone/polished_stone"
             },
             {
-                "model": "gauntlet:block/polished_stone_1"
+                "model": "gauntlet:block/stone/polished_stone_1"
             },
             {
-                "model": "gauntlet:block/polished_stone_2"
+                "model": "gauntlet:block/stone/polished_stone_2"
             }
         ],
         "instrument=harp,note=3,powered=true": [
             {
-                "model": "gauntlet:block/polished_stone_slab"
+                "model": "gauntlet:block/stone/polished_stone_slab"
             },
             {
-                "model": "gauntlet:block/polished_stone_slab_1"
+                "model": "gauntlet:block/stone/polished_stone_slab_1"
             }
         ],
         "instrument=harp,note=4,powered=false": {

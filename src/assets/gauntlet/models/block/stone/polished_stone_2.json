@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "gauntlet:block/polished_stone_1"
+    "all": "gauntlet:block/stone/polished_stone_2"
   }
 }
