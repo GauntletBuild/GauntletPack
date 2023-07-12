@@ -279,8 +279,16 @@
         "instrument=basedrum,note=5,powered=false": {
             "model": "gauntlet:block/barrels/tropical_fish_barrel"
         },
-        "instrument=basedrum,note=5,powered=true": {
+        "instrument=basedrum,note=5,powered=true": [
+	{
             "model": "gauntlet:block/alabaster/alabaster_bricks"
+        },
+	{
+            "model": "gauntlet:block/alabaster/alabaster_bricks_1"
+        },
+	{
+            "model": "gauntlet:block/alabaster/alabaster_bricks_2"
         }
+      ]
     }
 }
