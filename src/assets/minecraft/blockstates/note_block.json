@@ -288,6 +288,9 @@
         },
 	{
             "model": "gauntlet:block/alabaster/alabaster_bricks_2"
+        },
+	{
+            "model": "gauntlet:block/alabaster/alabaster_bricks_3"
         }
       ]
     }
