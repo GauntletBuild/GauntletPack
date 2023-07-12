@@ -69,8 +69,7 @@
 		{"predicate": {"custom_model_data": 69}, "model": "gauntlet:block/trimmed_planks/trimmed_birch_planks"},
 		{"predicate": {"custom_model_data": 70}, "model": "gauntlet:block/trimmed_planks/trimmed_oak_planks"},
 		{"predicate": {"custom_model_data": 71}, "model": "gauntlet:block/trimmed_planks/trimmed_pine_planks"},
-		{"predicate": {"custom_model_data": 72}, "model": "gauntlet:block/trimmed_planks/trimmed_jungle_planks"},
-		{"predicate": {"custom_model_data": 73}, "model": "gauntlet:block/trimmed_planks/trimmed_spruce_planks"},
-		{"predicate": {"custom_model_data": 74}, "model": "gauntlet:block/trimmed_planks/trimmed_walnut_planks"}
+		{"predicate": {"custom_model_data": 72}, "model": "gauntlet:block/trimmed_planks/trimmed_spruce_planks"},
+		{"predicate": {"custom_model_data": 73}, "model": "gauntlet:block/trimmed_planks/trimmed_walnut_planks"}
 	]
 }
