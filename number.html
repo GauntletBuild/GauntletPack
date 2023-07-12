@@ -89,11 +89,27 @@
         let cell3 = row.insertCell(2);
 
         cell1.innerHTML = number;
-        cell2.innerHTML = state;
-        cell3.innerHTML = '<button onclick="this.parentElement.parentElement.remove()">-</button>';
+        cell2.innerHTML = `<button onclick="copyToClipboard('${state}')">${state}</button>`;
+        cell3.innerHTML = '<button onclick="this.parentElement.parentElement.remove()">-</button>';  /* Add a button that, when clicked, removes the row it's in */
 
-        numberField.value = Number(number) + 1;
+        numberField.value = Number(number) + 1;  /* Increment the number in the input field */
     });
+
+    function copyToClipboard(text) {
+    var textarea = document.createElement("textarea");
+    textarea.textContent = text;
+    textarea.style.position = "fixed";  // Prevent scrolling to bottom of page in MS Edge.
+    document.body.appendChild(textarea);
+    textarea.select();
+    try {
+        return document.execCommand("copy");  // Security exception may be thrown by some browsers.
+    } catch (ex) {
+        console.warn("Copy to clipboard failed.", ex);
+        return false;
+    } finally {
+        document.body.removeChild(textarea);
+    }
+}
 </script>
 </body>
 </html>
