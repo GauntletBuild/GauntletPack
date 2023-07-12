@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "gauntlet:block/barrel/tropical_fish_barrel_top",
+    "bottom": "gauntlet:block/barrel/tropical_fish_barrel_bottom",
+    "side": "gauntlet:block/barrel/tropical_fish_barrel_side"
+  }
+}

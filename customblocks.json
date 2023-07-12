@@ -212,5 +212,25 @@
     "weathered_bricks": {
         "type": "full_cube",
         "index": 55
+    },
+    "coin_barrel": {
+        "type": "full_cube",
+        "index": 56
+    },
+    "cod_barrel": {
+        "type": "full_cube",
+        "index": 57
+    },
+    "pufferfish_barrel": {
+        "type": "full_cube",
+        "index": 58
+    },
+    "salmon_barrel": {
+        "type": "full_cube",
+        "index": 59
+    },
+    "tropical_fish_barrel": {
+        "type": "full_cube",
+        "index": 60
     }
 }

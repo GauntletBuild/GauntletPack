@@ -52,6 +52,11 @@
 		{"predicate": {"custom_model_data": 52}, "model": "gauntlet:block/bricks/cracked_bricks"},
 		{"predicate": {"custom_model_data": 53}, "model": "gauntlet:block/bricks/grout_filled_bricks"},
 		{"predicate": {"custom_model_data": 54}, "model": "gauntlet:block/bricks/mossy_bricks"},
-		{"predicate": {"custom_model_data": 55}, "model": "gauntlet:block/bricks/weathered_bricks"}
+		{"predicate": {"custom_model_data": 55}, "model": "gauntlet:block/bricks/weathered_bricks"},
+		{"predicate": {"custom_model_data": 56}, "model": "gauntlet:block/barrels/coin_barrel"},
+		{"predicate": {"custom_model_data": 57}, "model": "gauntlet:block/barrels/cod_barrel"},
+		{"predicate": {"custom_model_data": 58}, "model": "gauntlet:block/barrels/pufferfish_barrel"},
+		{"predicate": {"custom_model_data": 59}, "model": "gauntlet:block/barrels/salmon_barrel"},
+		{"predicate": {"custom_model_data": 60}, "model": "gauntlet:block/barrels/tropical_fish_barrel"}
 	]
 }

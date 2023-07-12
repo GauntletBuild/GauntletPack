@@ -263,6 +263,21 @@
         ],
         "instrument=basedrum,note=2,powered=true": {
             "model": "gauntlet:block/bricks/weathered_bricks"
+        },
+        "instrument=basedrum,note=3,powered=false": {
+            "model": "gauntlet:block/barrels/coin_barrel"
+        },
+        "instrument=basedrum,note=3,powered=true": {
+            "model": "gauntlet:block/barrels/cod_barrel"
+        },
+        "instrument=basedrum,note=4,powered=false": {
+            "model": "gauntlet:block/barrels/pufferfish_barrel"
+        },
+        "instrument=basedrum,note=4,powered=true": {
+            "model": "gauntlet:block/barrels/salmon_barrel"
+        },
+        "instrument=basedrum,note=5,powered=false": {
+            "model": "gauntlet:block/barrels/tropical_fish_barrel"
         }
     }
 }

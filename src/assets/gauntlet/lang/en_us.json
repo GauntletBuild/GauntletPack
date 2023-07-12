@@ -50,5 +50,10 @@
     "item.gauntlet.cracked_bricks": "Cracked Bricks",
     "item.gauntlet.grout_filled_bricks": "Grout Filled Bricks",
     "item.gauntlet.mossy_bricks": "Mossy Bricks",
-    "item.gauntlet.weathered_bricks": "Weathered Bricks"
+    "item.gauntlet.weathered_bricks": "Weathered Bricks",
+    "item.gauntlet.coin_barrel": "Coin Barrel",
+    "item.gauntlet.cod_barrel": "Cod Barrel",
+    "item.gauntlet.pufferfish_barrel": "Pufferfish Barrel",
+    "item.gauntlet.salmon_barrel": "Salmon Barrel",
+    "item.gauntlet.tropical_fish_barrel": "Tropical Fish Barrel"
 }
