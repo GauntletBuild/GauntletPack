@@ -280,21 +280,50 @@
             "model": "gauntlet:block/barrels/tropical_fish_barrel"
         },
         "instrument=basedrum,note=5,powered=true": [
-	{
-            "model": "gauntlet:block/alabaster/alabaster_bricks"
+            {
+                "model": "gauntlet:block/alabaster/alabaster_bricks"
+            },
+            {
+                "model": "gauntlet:block/alabaster/alabaster_bricks_1"
+            },
+            {
+                "model": "gauntlet:block/alabaster/alabaster_bricks_2"
+            },
+            {
+                "model": "gauntlet:block/alabaster/alabaster_bricks_3"
+            },
+            {
+                "model": "gauntlet:block/alabaster/alabaster_bricks_4"
+            }
+        ],
+        "instrument=basedrum,note=6,powered=false": [
+            {
+                "model": "gauntlet:block/stone/faded_stone_bricks"
+            },
+            {
+                "model": "gauntlet:block/stone/faded_stone_bricks_1"
+            },
+            {
+                "model": "gauntlet:block/stone/faded_stone_bricks_2"
+            },
+            {
+                "model": "gauntlet:block/stone/faded_stone_bricks_3"
+            }
+        ],
+        "instrument=basedrum,note=6,powered=true": {
+            "model": "gauntlet:block/stone/mossy_polished_stone"
         },
-	{
-            "model": "gauntlet:block/alabaster/alabaster_bricks_1"
+        "instrument=basedrum,note=7,powered=false": {
+            "model": "gauntlet:block/stone/cracked_polished_stone"
         },
-	{
-            "model": "gauntlet:block/alabaster/alabaster_bricks_2"
+        "instrument=basedrum,note=7,powered=true": {
+            "model": "gauntlet:block/stone/small_stone_bricks"
         },
-	{
-            "model": "gauntlet:block/alabaster/alabaster_bricks_3"
+        "instrument=basedrum,note=8,powered=false": {
+            "model": "gauntlet:block/stone/cracked_small_stone_bricks"
         },
-	{
-            "model": "gauntlet:block/alabaster/alabaster_bricks_4"
+        "instrument=basedrum,note=8,powered=true": {
+            "model": "gauntlet:block/stone/mossy_small_stone_bricks"
         }
-      ]
     }
 }

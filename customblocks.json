@@ -236,5 +236,29 @@
     "alabaster_bricks": {
         "type": "full_cube",
         "index": 61
+    },
+    "faded_stone_bricks": {
+        "type": "full_cube",
+        "index": 62
+    },
+    "mossy_polished_stone": {
+        "type": "full_cube",
+        "index": 63
+    },
+    "cracked_polished_stone": {
+        "type": "full_cube",
+        "index": 64
+    },
+    "small_stone_bricks": {
+        "type": "full_cube",
+        "index": 65
+    },
+    "cracked_small_stone_bricks": {
+        "type": "full_cube",
+        "index": 66
+    },
+    "mossy_small_stone_bricks": {
+        "type": "full_cube",
+        "index": 67
     }
 }
