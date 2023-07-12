@@ -232,5 +232,57 @@
     "tropical_fish_barrel": {
         "type": "full_cube",
         "index": 60
+    },
+    "alabaster_bricks": {
+        "type": "full_cube",
+        "index": 61
+    },
+    "faded_stone_bricks": {
+        "type": "full_cube",
+        "index": 62
+    },
+    "mossy_polished_stone": {
+        "type": "full_cube",
+        "index": 63
+    },
+    "cracked_polished_stone": {
+        "type": "full_cube",
+        "index": 64
+    },
+    "small_stone_bricks": {
+        "type": "full_cube",
+        "index": 65
+    },
+    "cracked_small_stone_bricks": {
+        "type": "full_cube",
+        "index": 66
+    },
+    "mossy_small_stone_bricks": {
+        "type": "full_cube",
+        "index": 67
+    },
+    "trimmed_ash_planks": {
+        "type": "full_cube",
+        "index": 68
+    },
+    "trimmed_birch_planks": {
+        "type": "full_cube",
+        "index": 69
+    },
+    "trimmed_oak_planks": {
+        "type": "full_cube",
+        "index": 70
+    },
+    "trimmed_pine_planks": {
+        "type": "full_cube",
+        "index": 71
+    },
+    "trimmed_spruce_planks": {
+        "type": "full_cube",
+        "index": 72
+    },
+    "trimmed_walnut_planks": {
+        "type": "full_cube",
+        "index": 73
     }
 }

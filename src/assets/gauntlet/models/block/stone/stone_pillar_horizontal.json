@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column_horizontal",
+  "textures": {
+    "end": "gauntlet:block/stone/stone_pillar_top",
+    "side": "gauntlet:block/stone/stone_pillar"
+  }
+}

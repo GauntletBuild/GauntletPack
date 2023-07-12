@@ -1,46 +1,46 @@
 {
     "variants": {
         "instrument=harp,note=0,powered=true": {
-            "model": "gauntlet:block/stone_pillar_horizontal",
+            "model": "gauntlet:block/stone/stone_pillar_horizontal",
             "x": 90,
             "y": 90
         },
         "instrument=harp,note=0,powered=false": {
-            "model": "gauntlet:block/stone_pillar"
+            "model": "gauntlet:block/stone/stone_pillar"
         },
         "instrument=harp,note=1,powered=false": {
-            "model": "gauntlet:block/stone_pillar_horizontal",
+            "model": "gauntlet:block/stone/stone_pillar_horizontal",
             "x": 90
         },
         "instrument=harp,note=1,powered=true": {
-            "model": "gauntlet:block/stone_column_horizontal",
+            "model": "gauntlet:block/stone/stone_column_horizontal",
             "x": 90,
             "y": 90
         },
         "instrument=harp,note=2,powered=false": {
-            "model": "gauntlet:block/stone_column"
+            "model": "gauntlet:block/stone/stone_column"
         },
         "instrument=harp,note=2,powered=true": {
-            "model": "gauntlet:block/stone_column_horizontal",
+            "model": "gauntlet:block/stone/stone_column_horizontal",
             "x": 90
         },
         "instrument=harp,note=3,powered=false": [
             {
-                "model": "gauntlet:block/polished_stone"
+                "model": "gauntlet:block/stone/polished_stone"
             },
             {
-                "model": "gauntlet:block/polished_stone_1"
+                "model": "gauntlet:block/stone/polished_stone_1"
             },
             {
-                "model": "gauntlet:block/polished_stone_2"
+                "model": "gauntlet:block/stone/polished_stone_2"
             }
         ],
         "instrument=harp,note=3,powered=true": [
             {
-                "model": "gauntlet:block/polished_stone_slab"
+                "model": "gauntlet:block/stone/polished_stone_slab"
             },
             {
-                "model": "gauntlet:block/polished_stone_slab_1"
+                "model": "gauntlet:block/stone/polished_stone_slab_1"
             }
         ],
         "instrument=harp,note=4,powered=false": {
@@ -278,6 +278,70 @@
         },
         "instrument=basedrum,note=5,powered=false": {
             "model": "gauntlet:block/barrels/tropical_fish_barrel"
+        },
+        "instrument=basedrum,note=5,powered=true": [
+            {
+                "model": "gauntlet:block/alabaster/alabaster_bricks"
+            },
+            {
+                "model": "gauntlet:block/alabaster/alabaster_bricks_1"
+            },
+            {
+                "model": "gauntlet:block/alabaster/alabaster_bricks_2"
+            },
+            {
+                "model": "gauntlet:block/alabaster/alabaster_bricks_3"
+            },
+            {
+                "model": "gauntlet:block/alabaster/alabaster_bricks_4"
+            }
+        ],
+        "instrument=basedrum,note=6,powered=false": [
+            {
+                "model": "gauntlet:block/stone/faded_stone_bricks"
+            },
+            {
+                "model": "gauntlet:block/stone/faded_stone_bricks_1"
+            },
+            {
+                "model": "gauntlet:block/stone/faded_stone_bricks_2"
+            },
+            {
+                "model": "gauntlet:block/stone/faded_stone_bricks_3"
+            }
+        ],
+        "instrument=basedrum,note=6,powered=true": {
+            "model": "gauntlet:block/stone/mossy_polished_stone"
+        },
+        "instrument=basedrum,note=7,powered=false": {
+            "model": "gauntlet:block/stone/cracked_polished_stone"
+        },
+        "instrument=basedrum,note=7,powered=true": {
+            "model": "gauntlet:block/stone/small_stone_bricks"
+        },
+        "instrument=basedrum,note=8,powered=false": {
+            "model": "gauntlet:block/stone/cracked_small_stone_bricks"
+        },
+        "instrument=basedrum,note=8,powered=true": {
+            "model": "gauntlet:block/stone/mossy_small_stone_bricks"
+        },
+        "instrument=basedrum,note=9,powered=false": {
+            "model": "gauntlet:block/trimmed_planks/trimmed_ash_planks"
+        },
+        "instrument=basedrum,note=9,powered=true": {
+            "model": "gauntlet:block/trimmed_planks/trimmed_birch_planks"
+        },
+        "instrument=basedrum,note=10,powered=false": {
+            "model": "gauntlet:block/trimmed_planks/trimmed_oak_planks"
+        },
+        "instrument=basedrum,note=10,powered=true": {
+            "model": "gauntlet:block/trimmed_planks/trimmed_pine_planks"
+        },
+        "instrument=basedrum,note=11,powered=false": {
+            "model": "gauntlet:block/trimmed_planks/trimmed_spruce_planks"
+        },
+        "instrument=basedrum,note=11,powered=true": {
+            "model": "gauntlet:block/trimmed_planks/trimmed_walnut_planks"
         }
     }
 }

@@ -55,5 +55,18 @@
     "item.gauntlet.cod_barrel": "Cod Barrel",
     "item.gauntlet.pufferfish_barrel": "Pufferfish Barrel",
     "item.gauntlet.salmon_barrel": "Salmon Barrel",
-    "item.gauntlet.tropical_fish_barrel": "Tropical Fish Barrel"
+    "item.gauntlet.tropical_fish_barrel": "Tropical Fish Barrel",
+    "item.gauntlet.alabaster_bricks": "Alabaster Bricks",
+    "item.gauntlet.faded_stone_bricks": "Faded Stone Bricks",
+    "item.gauntlet.mossy_polished_stone": "Mossy Polished Stone",
+    "item.gauntlet.cracked_polished_stone": "Cracked Polished Stone",
+    "item.gauntlet.small_stone_bricks": "Small Stone Bricks",
+    "item.gauntlet.mossy_small_stone_bricks": "Small Mossy Stone Bricks",
+    "item.gauntlet.cracked_small_stone_bricks": "Small Cracked Stone Bricks",
+    "item.gauntlet.trimmed_ash_planks": "Trimmed Ash Planks",
+    "item.gauntlet.trimmed_birch_planks": "Trimmed Birch Planks",
+    "item.gauntlet.trimmed_oak_planks": "Trimmed Oak Planks",
+    "item.gauntlet.trimmed_pine_planks": "Trimmed Pine Planks",
+    "item.gauntlet.trimmed_spruce_planks": "Trimmed Spruce Planks",
+    "item.gauntlet.trimmed_walnut_planks": "Trimmed Walnut Planks"
 }

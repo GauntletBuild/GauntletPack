@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "gauntlet:block/trimmed_planks/trimmed_spruce_planks_top",
+    "side": "gauntlet:block/trimmed_planks/trimmed_spruce_planks"
+  }
+}
