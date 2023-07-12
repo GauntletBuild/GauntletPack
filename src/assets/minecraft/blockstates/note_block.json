@@ -324,6 +324,24 @@
         },
         "instrument=basedrum,note=8,powered=true": {
             "model": "gauntlet:block/stone/mossy_small_stone_bricks"
+        },
+        "instrument=basedrum,note=9,powered=false": {
+            "model": "gauntlet:block/trimmed_planks/trimmed_ash_planks"
+        },
+        "instrument=basedrum,note=9,powered=true": {
+            "model": "gauntlet:block/trimmed_planks/trimmed_birch_planks"
+        },
+        "instrument=basedrum,note=10,powered=false": {
+            "model": "gauntlet:block/trimmed_planks/trimmed_oak_planks"
+        },
+        "instrument=basedrum,note=10,powered=true": {
+            "model": "gauntlet:block/trimmed_planks/trimmed_pine_planks"
+        },
+        "instrument=basedrum,note=11,powered=false": {
+            "model": "gauntlet:block/trimmed_planks/trimmed_spruce_planks"
+        },
+        "instrument=basedrum,note=11,powered=true": {
+            "model": "gauntlet:block/trimmed_planks/trimmed_walnut_planks"
         }
     }
 }

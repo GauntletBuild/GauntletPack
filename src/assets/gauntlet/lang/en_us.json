@@ -62,5 +62,11 @@
     "item.gauntlet.cracked_polished_stone": "Cracked Polished Stone",
     "item.gauntlet.small_stone_bricks": "Small Stone Bricks",
     "item.gauntlet.mossy_small_stone_bricks": "Small Mossy Stone Bricks",
-    "item.gauntlet.cracked_small_stone_bricks": "Small Cracked Stone Bricks"
+    "item.gauntlet.cracked_small_stone_bricks": "Small Cracked Stone Bricks",
+    "item.gauntlet.trimmed_ash_planks": "Trimmed Ash Planks",
+    "item.gauntlet.trimmed_birch_planks": "Trimmed Birch Planks",
+    "item.gauntlet.trimmed_oak_planks": "Trimmed Oak Planks",
+    "item.gauntlet.trimmed_pine_planks": "Trimmed Pine Planks",
+    "item.gauntlet.trimmed_spruce_planks": "Trimmed Spruce Planks",
+    "item.gauntlet.trimmed_walnut_planks": "Trimmed Walnut Planks"
 }

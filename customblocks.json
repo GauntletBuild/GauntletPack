@@ -260,5 +260,29 @@
     "mossy_small_stone_bricks": {
         "type": "full_cube",
         "index": 67
+    },
+    "trimmed_ash_planks": {
+        "type": "full_cube",
+        "index": 68
+    },
+    "trimmed_birch_planks": {
+        "type": "full_cube",
+        "index": 69
+    },
+    "trimmed_oak_planks": {
+        "type": "full_cube",
+        "index": 70
+    },
+    "trimmed_pine_planks": {
+        "type": "full_cube",
+        "index": 71
+    },
+    "trimmed_spruce_planks": {
+        "type": "full_cube",
+        "index": 72
+    },
+    "trimmed_walnut_planks": {
+        "type": "full_cube",
+        "index": 73
     }
 }
