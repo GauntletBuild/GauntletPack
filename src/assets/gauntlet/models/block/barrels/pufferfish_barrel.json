@@ -1,8 +1,8 @@
 {
   "parent": "minecraft:block/cube_bottom_top",
   "textures": {
-    "top": "gauntlet:block/barrel/pufferfish_barrel_top",
-    "bottom": "gauntlet:block/barrel/pufferfish_barrel_bottom",
-    "side": "gauntlet:block/barrel/pufferfish_barrel_side"
+    "top": "gauntlet:block/barrels/pufferfish_barrel_top",
+    "bottom": "gauntlet:block/barrels/pufferfish_barrel_bottom",
+    "side": "gauntlet:block/barrels/pufferfish_barrel_side"
   }
 }

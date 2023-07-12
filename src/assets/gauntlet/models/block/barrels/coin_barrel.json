@@ -1,8 +1,8 @@
 {
   "parent": "minecraft:block/cube_bottom_top",
   "textures": {
-    "top": "gauntlet:block/barrel/coin_barrel_top",
-    "bottom": "gauntlet:block/barrel/coin_barrel_bottom",
-    "side": "gauntlet:block/barrel/coin_barrel_side"
+    "top": "gauntlet:block/barrels/coin_barrel_top",
+    "bottom": "gauntlet:block/barrels/coin_barrel_bottom",
+    "side": "gauntlet:block/barrels/coin_barrel_side"
   }
 }
