@@ -284,5 +284,9 @@
     "trimmed_walnut_planks": {
         "type": "full_cube",
         "index": 73
+    },
+    "stucco": {
+	"type": "full_cube",
+	"index": 74
     }
 }
