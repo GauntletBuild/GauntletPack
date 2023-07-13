@@ -285,8 +285,20 @@
         "type": "full_cube",
         "index": 73
     },
-    "stucco": {
-	"type": "full_cube",
-	"index": 74
+    "tan_stucco": {
+        "type": "full_cube",
+        "index": 74
+    },
+    "beige_stucco": {
+        "type": "full_cube",
+        "index": 75
+    },
+    "latte_stucco": {
+        "type": "full_cube",
+        "index": 76
+    },
+    "sunbaked_stucco": {
+        "type": "full_cube",
+        "index": 77
     }
 }

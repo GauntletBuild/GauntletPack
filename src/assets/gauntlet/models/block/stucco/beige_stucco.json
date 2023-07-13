@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "gauntlet:block/stucco_1"
+    "all": "gauntlet:block/stucco/beige_stucco"
   }
 }

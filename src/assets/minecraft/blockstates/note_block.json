@@ -345,48 +345,189 @@
         },
         "instrument=basedrum,note=12,powered=false": [
             {
-                "model": "gauntlet:block/stucco"
+                "model": "gauntlet:block/stucco/tan_stucco"
             },
             {
-                "model": "gauntlet:block/stucco",
+                "model": "gauntlet:block/stucco/tan_stucco",
                 "x": 180
             },
             {
-                "model": "gauntlet:block/stucco",
+                "model": "gauntlet:block/stucco/tan_stucco",
                 "y": 180
             },
             {
-                "model": "gauntlet:block/stucco",
+                "model": "gauntlet:block/stucco/tan_stucco",
                 "z": 180
             },
             {
-                "model": "gauntlet:block/stucco_1"
+                "model": "gauntlet:block/stucco/tan_stucco_1"
             },
             {
-                "model": "gauntlet:block/stucco_1",
+                "model": "gauntlet:block/stucco/tan_stucco_1",
                 "x": 180
             },
             {
-                "model": "gauntlet:block/stucco_1",
+                "model": "gauntlet:block/stucco/tan_stucco_1",
                 "y": 180
             },
             {
-                "model": "gauntlet:block/stucco_1",
+                "model": "gauntlet:block/stucco/tan_stucco_1",
                 "z": 180
             },
             {
-                "model": "gauntlet:block/stucco_2"
+                "model": "gauntlet:block/stucco/tan_stucco_2"
             },
             {
-                "model": "gauntlet:block/stucco_2",
+                "model": "gauntlet:block/stucco/tan_stucco_2",
                 "x": 180
             },
             {
-                "model": "gauntlet:block/stucco_2",
+                "model": "gauntlet:block/stucco/tan_stucco_2",
                 "y": 180
             },
             {
-                "model": "gauntlet:block/stucco_2",
+                "model": "gauntlet:block/stucco/tan_stucco_2",
+                "z": 180
+            }
+        ],
+        "instrument=basedrum,note=12,powered=true": [
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco"
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco",
+                "z": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco_1"
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco_1",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco_1",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco_1",
+                "z": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco_2"
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco_2",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco_2",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco_2",
+                "z": 180
+            }
+        ],
+        "instrument=basedrum,note=13,powered=false": [
+            {
+                "model": "gauntlet:block/stucco/latte_stucco"
+            },
+            {
+                "model": "gauntlet:block/stucco/latte_stucco",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/latte_stucco",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/latte_stucco",
+                "z": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/latte_stucco_1"
+            },
+            {
+                "model": "gauntlet:block/stucco/latte_stucco_1",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/latte_stucco_1",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/latte_stucco_1",
+                "z": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/latte_stucco_2"
+            },
+            {
+                "model": "gauntlet:block/stucco/latte_stucco_2",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/latte_stucco_2",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/latte_stucco_2",
+                "z": 180
+            }
+        ],
+        "instrument=basedrum,note=13,powered=true": [
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco"
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco",
+                "z": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco_1"
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco_1",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco_1",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco_1",
+                "z": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco_2"
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco_2",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco_2",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/sunbaked_stucco_2",
                 "z": 180
             }
         ]
