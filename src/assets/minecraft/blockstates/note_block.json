@@ -343,8 +343,14 @@
         "instrument=basedrum,note=11,powered=true": {
             "model": "gauntlet:block/trimmed_planks/trimmed_walnut_planks"
         },
-	"instrument=basedrum,note=12,powered=false": {
-	    "model": "gauntlet:block/stucco"
-	}
+        "instrument=basedrum,note=12,powered=false": [
+            {
+                "model": "gauntlet:block/stucco"
+            },
+            {
+                "model": "gauntlet:block/stucco",
+                "y": 180
+            }
+        ]
     }
 }
