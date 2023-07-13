@@ -349,7 +349,15 @@
             },
             {
                 "model": "gauntlet:block/stucco",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco",
                 "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco",
+                "z": 180
             }
         ]
     }
