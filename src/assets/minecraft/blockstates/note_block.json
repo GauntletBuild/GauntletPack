@@ -532,7 +532,7 @@
             }
         ],
         "instrument=basedrum,note=14,powered=false": {
-            "model": "gauntlet:block/alabaster/faded_alabaster"
+            "model": "gauntlet:block/alabaster/faded_alabaster_bricks"
 	    }
     }
 }
