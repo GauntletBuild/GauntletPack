@@ -308,5 +308,9 @@
     "cracked_alabaster_bricks": {
         "type": "full_cube",
         "index": 79
+    },
+    "cross_bricks": {
+        "type": "full_cube",
+        "index": 80
     }
 }
