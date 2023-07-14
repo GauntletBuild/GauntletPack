@@ -550,6 +550,13 @@
         ],
 	"instrument=basedrum,note=15,powered=true": {
 	    "model": "gauntlet:block/crates/walnut_crate"
+	},
+	"instrument=basedrum,note=16,powered=false": {
+	    "model": "gauntlet:block/crates/spruce_crate"
+	},
+	"instrument=basedrum,note=16,powered=true": {
+	    "model": "gauntlet:block/crates/pine_crate"
 	}
+	
     }
 }

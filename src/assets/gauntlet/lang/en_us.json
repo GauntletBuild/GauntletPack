@@ -76,5 +76,7 @@
     "item.gauntlet.faded_alabaster_bricks": "Faded Alabaster Bricks",
     "item.gauntlet.cracked_alabaster_bricks": "Cracked Alabaster Bricks",
     "item.gauntlet.cross_bricks": "Crossed Bricks",
-    "item.gauntlet.walnut_crate": "Walnut Crate"
+    "item.gauntlet.walnut_crate": "Walnut Crate",
+    "item.gauntlet.spruce_crate": "Spruce Crate",
+    "item.gauntlet.pine_crate": "Pine Crate"
 }

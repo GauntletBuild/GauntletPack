@@ -316,5 +316,13 @@
     "walnut_crate": {
         "type": "full_cube",
         "index": 81
+    },
+    "spruce_crate": {
+        "type": "full_cube",
+        "index": 82
+    },
+    "pine_crate": {
+        "type": "full_cube",
+        "index": 83
     }
 }
