@@ -304,5 +304,9 @@
     "faded_alabaster_bricks": {
         "type": "full_cube",
         "index": 78
+    },
+    "cracked_alabaster_bricks": {
+        "type": "full_cube",
+        "index": 79
     }
 }
