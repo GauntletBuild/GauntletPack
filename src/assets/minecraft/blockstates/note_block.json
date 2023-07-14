@@ -559,6 +559,9 @@
 	},
 	"instrument=basedrum,note=17,powered=false": {
 	    "model": "gauntlet:block/crates/pine_box"
+	},
+	"instrument=basedrum,note=17,powered=true": {
+	    "model": "gauntlet:block/crates/reinforced_crate"
 	}
 	
     }
