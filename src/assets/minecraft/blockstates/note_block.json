@@ -530,6 +530,8 @@
                 "model": "gauntlet:block/stucco/sunbaked_stucco_2",
                 "z": 180
             }
-        ]
+        ],
+        "instrument=basedrum,note=14,powered=false": {
+            "model": "gauntlet:block/alabaster/faded_alabaster"
     }
 }

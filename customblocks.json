@@ -300,5 +300,9 @@
     "sunbaked_stucco": {
         "type": "full_cube",
         "index": 77
+    },
+    "faded_alabaster_bricks": {
+        "type": "full_cube",
+        "index": 78
     }
 }
