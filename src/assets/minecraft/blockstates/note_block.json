@@ -534,7 +534,10 @@
         "instrument=basedrum,note=14,powered=false": {
             "model": "gauntlet:block/alabaster/faded_alabaster_bricks"
         },
-        "instrument=basedrum,note=14,powered=true": [
+        "instrument=basedrum,note=14,powered=true": {
+            "model": "gauntlet:block/alabaster/cracked_alabaster_bricks"
+        },
+        "instrument=basedrum,note=15,powered=false": [
             {
                 "model": "gauntlet:block/bricks/cross_bricks"
             },

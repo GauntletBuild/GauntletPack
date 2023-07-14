@@ -72,6 +72,5 @@
 		{"predicate": {"custom_model_data": 72}, "model": "gauntlet:block/trimmed_planks/trimmed_spruce_planks"},
 		{"predicate": {"custom_model_data": 73}, "model": "gauntlet:block/trimmed_planks/trimmed_walnut_planks"},
 		{"predicate": {"custom_model_data": 74}, "model": "gauntlet:block/stucco"}
-
 	]
 }
