@@ -324,5 +324,9 @@
     "pine_crate": {
         "type": "full_cube",
         "index": 83
+    },
+    "pine_box": {
+        "type": "full_cube",
+        "index": 84
     }
 }

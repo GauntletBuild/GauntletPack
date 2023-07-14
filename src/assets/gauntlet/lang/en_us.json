@@ -78,5 +78,6 @@
     "item.gauntlet.cross_bricks": "Crossed Bricks",
     "item.gauntlet.walnut_crate": "Walnut Crate",
     "item.gauntlet.spruce_crate": "Spruce Crate",
-    "item.gauntlet.pine_crate": "Pine Crate"
+    "item.gauntlet.pine_crate": "Pine Crate",
+    "item.gauntlet.pine_box": "Pine Box"
 }
