@@ -312,5 +312,9 @@
     "cross_bricks": {
         "type": "full_cube",
         "index": 80
+    },
+    "maroon_bricks": {
+        "type": "full_cube",
+        "index": 81
     }
 }

@@ -547,6 +547,9 @@
             {
                 "model": "gauntlet:block/bricks/cross_bricks_2"
             }
-        ]
+        ],
+	"instrument=basedrum,note=15,powered=true": {
+	    "model": "gauntlet:block/crates/maroon_crate"
+	}
     }
 }
