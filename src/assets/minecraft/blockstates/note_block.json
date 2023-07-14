@@ -549,7 +549,7 @@
             }
         ],
 	"instrument=basedrum,note=15,powered=true": {
-	    "model": "gauntlet:block/crates/maroon_crate"
+	    "model": "gauntlet:block/crates/walnut_crate"
 	}
     }
 }
