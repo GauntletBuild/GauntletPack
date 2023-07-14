@@ -562,6 +562,9 @@
 	},
 	"instrument=basedrum,note=17,powered=true": {
 	    "model": "gauntlet:block/crates/reinforced_crate"
+	},
+	"instrument=basedrum,note=18,powered=false": {
+	    "model": "gauntlet:block/crates/pale_rock_bricks"
 	}
 	
     }
