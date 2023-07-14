@@ -332,5 +332,9 @@
     "reinforced_crate": {
         "type": "full_cube",
         "index": 85
+    },
+    "pale_rock_bricks": {
+        "type": "full_cube",
+        "index": 86
     }
 }
