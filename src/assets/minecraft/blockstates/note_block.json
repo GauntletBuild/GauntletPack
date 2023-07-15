@@ -836,8 +836,22 @@
 		"instrument=snare,note=6,powered=false": {
 			"model": "gauntlet:block/granite_bricks"
 		},
-		"instrument=snare,note=6,powered=true": {
-			"model": "gauntlet:block/charred_grass"
-		}
+		"instrument=snare,note=6,powered=true": [
+			{
+			"model": "minecraft:block/charred_grass"
+			},
+			{
+			"model": "minecraft:block/charred_grass",
+			"y": 90
+			},
+			{
+			"model": "minecraft:block/charred_grass",
+			"y": 180
+			},
+			{
+			"model": "minecraft:block/charred_grass",
+			"y": 270
+			}
+		]
     }
 }

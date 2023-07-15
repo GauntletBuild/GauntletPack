@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/moss"
+      },
+      {
+        "model": "minecraft:block/moss",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/moss",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/moss",
+        "y": 270
+      }
+    ]
+  }
+}
