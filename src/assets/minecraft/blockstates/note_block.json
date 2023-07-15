@@ -154,20 +154,9 @@
         "instrument=harp,note=22,powered=false": {
             "model": "gauntlet:block/grout"
         },
-        "instrument=harp,note=22,powered=true": [
-            {
-                "model": "gauntlet:block/alabaster/alabaster"
+        "instrument=harp,note=22,powered=true": {
+                "model": "gauntlet:block/andesite_bricks"
             },
-            {
-                "model": "gauntlet:block/alabaster/alabaster_1"
-            },
-            {
-                "model": "gauntlet:block/alabaster/alabaster_2"
-            },
-            {
-                "model": "gauntlet:block/alabaster/alabaster_3"
-            }
-        ],
         "instrument=harp,note=23,powered=false": [
             {
                 "model": "gauntlet:block/pale_rock"

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "gauntlet:block/alabaster/alabaster_2"
+    "all": "gauntlet:block/andesite_bricks"
   }
 }
