@@ -782,6 +782,12 @@
 	},
 	"instrument=basedrum,note=23,powered=false": {
             "model": "gauntlet:block/polished_dripstone_slab"
+	},
+	"instrument=basedrum,note=23,powered=true": {
+            "model": "gauntlet:block/polished_flowstone"
+	},
+	"instrument=basedrum,note=24,powered=false": {
+            "model": "gauntlet:block/polished_flowstone_slab"
 	}
     }
 }

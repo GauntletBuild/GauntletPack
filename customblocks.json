@@ -376,5 +376,13 @@
     "polished_dripstone_slab": {
         "type": "full_cube",
         "index": 96
+    },
+    "polished_flowstone": {
+        "type": "full_cube",
+        "index": 97
+    },
+    "polished_flowstone_slab": {
+        "type": "full_cube",
+        "index": 98
     }
 }
