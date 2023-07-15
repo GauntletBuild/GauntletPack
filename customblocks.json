@@ -336,5 +336,25 @@
     "pale_rock_bricks": {
         "type": "full_cube",
         "index": 86
+    },
+    "gold_stucco": {
+        "type": "full_cube",
+        "index": 87
+    },
+    "marine_stucco": {
+        "type": "full_cube",
+        "index": 88
+    },
+    "mirage_stucco": {
+        "type": "full_cube",
+        "index": 89
+    },
+    "seafoam_stucco": {
+        "type": "full_cube",
+        "index": 90
+    },
+    "umbral_stucco": {
+        "type": "full_cube",
+        "index": 91
     }
 }
