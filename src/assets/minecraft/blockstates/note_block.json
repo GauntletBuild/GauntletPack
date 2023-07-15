@@ -767,6 +767,9 @@
                 "model": "gauntlet:block/stucco/umbral_stucco_2",
                 "z": 180
             }
-        ]
+        ],
+        "instrument=basedrum,note=21,powered=false": {
+            "model": "gauntlet:block/bookshelves/pine_bookshelf"
+        }
     }
 }

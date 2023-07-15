@@ -356,5 +356,9 @@
     "umbral_stucco": {
         "type": "full_cube",
         "index": 91
+    },
+    "pine_bookshelf": {
+        "type": "full_cube",
+        "index": 92
     }
 }
