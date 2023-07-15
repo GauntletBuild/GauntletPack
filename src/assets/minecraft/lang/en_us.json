@@ -45,5 +45,12 @@
     "block.minecraft.cherry_hanging_sign": "Ash Wall Sign",
 	"block.minecraft.light_gray_concrete_powder": "Alabaster Sand",
     "block.minecraft.diorite": "Chalk",
-    "block.minecraft.end_stone_bricks": "Alabaster Bricks"
+    "block.minecraft.diorite_slab": "Chalk Slab",
+    "block.minecraft.diorite_stairs": "Chalk Stairs",
+    "block.minecraft.diorite_wall": "Chalk Wall",
+    "block.minecraft.end_stone_bricks": "Alabaster Bricks",
+    "block.minecraft.end_stone": "Alabaster",
+    "block.minecraft.end_stone_brick_slab": "Alabaster Brick Slab",
+    "block.minecraft.end_stone_brick_stairs": "Alabaster Brick Stairs",
+    "block.minecraft.end_stone_brick_wall": "Alabaster Brick Wall"
 }
