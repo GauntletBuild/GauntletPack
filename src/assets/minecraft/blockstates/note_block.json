@@ -268,23 +268,9 @@
         "instrument=basedrum,note=5,powered=false": {
             "model": "gauntlet:block/barrels/tropical_fish_barrel"
         },
-        "instrument=basedrum,note=5,powered=true": [
-            {
-                "model": "gauntlet:block/alabaster/alabaster_bricks"
+        "instrument=basedrum,note=5,powered=true": {
+                "model": "gauntlet:block/cracked_terracotta"
             },
-            {
-                "model": "gauntlet:block/alabaster/alabaster_bricks_1"
-            },
-            {
-                "model": "gauntlet:block/alabaster/alabaster_bricks_2"
-            },
-            {
-                "model": "gauntlet:block/alabaster/alabaster_bricks_3"
-            },
-            {
-                "model": "gauntlet:block/alabaster/alabaster_bricks_4"
-            }
-        ],
         "instrument=basedrum,note=6,powered=false": [
             {
                 "model": "gauntlet:block/stone/faded_stone_bricks"
@@ -537,258 +523,24 @@
                 "model": "gauntlet:block/bricks/cross_bricks_2"
             }
         ],
-        "instrument=basedrum,note=15,powered=true": {
-            "model": "gauntlet:block/crates/walnut_crate"
-        },
-        "instrument=basedrum,note=16,powered=false": {
-            "model": "gauntlet:block/crates/spruce_crate"
-        },
-        "instrument=basedrum,note=16,powered=true": {
-            "model": "gauntlet:block/crates/pine_crate"
-        },
-        "instrument=basedrum,note=17,powered=false": {
-            "model": "gauntlet:block/crates/pine_box"
-        },
-        "instrument=basedrum,note=17,powered=true": {
-            "model": "gauntlet:block/crates/reinforced_crate"
-        },
-        "instrument=basedrum,note=18,powered=false": {
-            "model": "gauntlet:block/pale_rock_bricks"
-        },
-        "instrument=basedrum,note=18,powered=true": [
-            {
-                "model": "gauntlet:block/stucco/gold_stucco"
-            },
-            {
-                "model": "gauntlet:block/stucco/gold_stucco",
-                "x": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/gold_stucco",
-                "y": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/gold_stucco",
-                "z": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/gold_stucco_1"
-            },
-            {
-                "model": "gauntlet:block/stucco/gold_stucco_1",
-                "x": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/gold_stucco_1",
-                "y": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/gold_stucco_1",
-                "z": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/gold_stucco_2"
-            },
-            {
-                "model": "gauntlet:block/stucco/gold_stucco_2",
-                "x": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/gold_stucco_2",
-                "y": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/gold_stucco_2",
-                "z": 180
-            }
-        ],
-        "instrument=basedrum,note=19,powered=false": [
-            {
-                "model": "gauntlet:block/stucco/mirage_stucco"
-            },
-            {
-                "model": "gauntlet:block/stucco/mirage_stucco",
-                "x": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/mirage_stucco",
-                "y": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/mirage_stucco",
-                "z": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/mirage_stucco_1"
-            },
-            {
-                "model": "gauntlet:block/stucco/mirage_stucco_1",
-                "x": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/mirage_stucco_1",
-                "y": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/mirage_stucco_1",
-                "z": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/mirage_stucco_2"
-            },
-            {
-                "model": "gauntlet:block/stucco/mirage_stucco_2",
-                "x": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/mirage_stucco_2",
-                "y": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/mirage_stucco_2",
-                "z": 180
-            }
-        ],
-        "instrument=basedrum,note=19,powered=true": [
-            {
-                "model": "gauntlet:block/stucco/seafoam_stucco"
-            },
-            {
-                "model": "gauntlet:block/stucco/seafoam_stucco",
-                "x": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/seafoam_stucco",
-                "y": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/seafoam_stucco",
-                "z": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/seafoam_stucco_1"
-            },
-            {
-                "model": "gauntlet:block/stucco/seafoam_stucco_1",
-                "x": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/seafoam_stucco_1",
-                "y": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/seafoam_stucco_1",
-                "z": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/seafoam_stucco_2"
-            },
-            {
-                "model": "gauntlet:block/stucco/seafoam_stucco_2",
-                "x": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/seafoam_stucco_2",
-                "y": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/seafoam_stucco_2",
-                "z": 180
-            }
-        ],
-        "instrument=basedrum,note=20,powered=false": [
-            {
-                "model": "gauntlet:block/stucco/marine_stucco"
-            },
-            {
-                "model": "gauntlet:block/stucco/marine_stucco",
-                "x": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/marine_stucco",
-                "y": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/marine_stucco",
-                "z": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/marine_stucco_1"
-            },
-            {
-                "model": "gauntlet:block/stucco/marine_stucco_1",
-                "x": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/marine_stucco_1",
-                "y": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/marine_stucco_1",
-                "z": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/marine_stucco_2"
-            },
-            {
-                "model": "gauntlet:block/stucco/marine_stucco_2",
-                "x": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/marine_stucco_2",
-                "y": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/marine_stucco_2",
-                "z": 180
-            }
-        ],
-        "instrument=basedrum,note=20,powered=true": [
-            {
-                "model": "gauntlet:block/stucco/umbral_stucco"
-            },
-            {
-                "model": "gauntlet:block/stucco/umbral_stucco",
-                "x": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/umbral_stucco",
-                "y": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/umbral_stucco",
-                "z": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/umbral_stucco_1"
-            },
-            {
-                "model": "gauntlet:block/stucco/umbral_stucco_1",
-                "x": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/umbral_stucco_1",
-                "y": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/umbral_stucco_1",
-                "z": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/umbral_stucco_2"
-            },
-            {
-                "model": "gauntlet:block/stucco/umbral_stucco_2",
-                "x": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/umbral_stucco_2",
-                "y": 180
-            },
-            {
-                "model": "gauntlet:block/stucco/umbral_stucco_2",
-                "z": 180
-            }
-        ]
+	"instrument=basedrum,note=15,powered=true": {
+	    "model": "gauntlet:block/crates/walnut_crate"
+	},
+	"instrument=basedrum,note=16,powered=false": {
+	    "model": "gauntlet:block/crates/spruce_crate"
+	},
+	"instrument=basedrum,note=16,powered=true": {
+	    "model": "gauntlet:block/crates/pine_crate"
+	},
+	"instrument=basedrum,note=17,powered=false": {
+	    "model": "gauntlet:block/crates/pine_box"
+	},
+	"instrument=basedrum,note=17,powered=true": {
+	    "model": "gauntlet:block/crates/reinforced_crate"
+	},
+	"instrument=basedrum,note=18,powered=false": {
+	    "model": "gauntlet:block/pale_rock_bricks"
+	}
+	
     }
 }

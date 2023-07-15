@@ -169,7 +169,7 @@
         "type": "full_cube",
         "index": 44
     },
-    "andesite_bricks": {
+    "cracked_terracotta": {
         "type": "full_cube",
         "index": 45
     },
@@ -336,25 +336,5 @@
     "pale_rock_bricks": {
         "type": "full_cube",
         "index": 86
-    },
-    "gold_stucco": {
-        "type": "full_cube",
-        "index": 87
-    },
-    "mirage_stucco": {
-        "type": "full_cube",
-        "index": 88
-    },
-    "seafoam_stucco": {
-        "type": "full_cube",
-        "index": 89
-    },
-    "marine_stucco": {
-        "type": "full_cube",
-        "index": 90
-    },
-    "umbral_stucco": {
-        "type": "full_cube",
-        "index": 91
     }
 }

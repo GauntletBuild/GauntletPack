@@ -41,7 +41,7 @@
     "item.gauntlet.flowstone": "Flowstone",
     "item.gauntlet.grout": "Grout",
     "item.gauntlet.andesite_bricks": "Andesite Bricks",
-    "item.gauntlet.alabaster_bricks": "Alabaster Bricks",
+    "item.gauntlet.cracked_terracotta": "Cracked Terracotta",
     "item.gauntlet.faded_alabaster_bricks": "Faded Alabaster Bricks",
     "item.gauntlet.cracked_alabaster_bricks": "Cracked Alabaster Bricks",
     "item.gauntlet.pale_rock": "Pale Rock",
@@ -81,10 +81,5 @@
     "item.gauntlet.spruce_crate": "Spruce Crate",
     "item.gauntlet.pine_crate": "Pine Crate",
     "item.gauntlet.pine_box": "Pine Box",
-    "item.gauntlet.reinforced_crate": "Reinforced Crate",
-    "item.gauntlet.gold_stucco": "Gold Stucco",
-    "item.gauntlet.mirage_stucco": "Mirage Stucco",
-    "item.gauntlet.seafoam_stucco": "Seafoam Stucco",
-    "item.gauntlet.marine_stucco": "Marine Stucco",
-    "item.gauntlet.umbral_stucco": "Umbral Stucco"
+    "item.gauntlet.reinforced_crate": "Reinforced Crate"
 }
