@@ -169,7 +169,7 @@
         "type": "full_cube",
         "index": 44
     },
-    "cracked_terracotta": {
+    "andesite_bricks": {
         "type": "full_cube",
         "index": 45
     },
@@ -233,7 +233,7 @@
         "type": "full_cube",
         "index": 60
     },
-    "alabaster_bricks": {
+    "cracked_terracotta": {
         "type": "full_cube",
         "index": 61
     },
