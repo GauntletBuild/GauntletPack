@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/template_wall_side_tall",
 	"textures": {
 		"0": "custom_block/spruce_wall_side",
 		"particle": "custom_block/spruce_wall_side"
