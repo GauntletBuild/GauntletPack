@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_column",
   "textures": {
-    "end": "gauntlet:block/bookshelves/warped_planks",
-    "side": "minecraft:block/pine_bookshelf"
+    "end": "minecraft:block/warped_planks",
+    "side": "gauntlet:block/bookshelves/pine_bookshelf"
   }
 }
