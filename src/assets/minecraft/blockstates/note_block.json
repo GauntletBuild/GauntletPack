@@ -754,7 +754,7 @@
                 "z": 180
             }
         ],
-        "instrument=basedrum,note20,powered=true": [
+        "instrument=basedrum,note=20,powered=true": [
             {
                 "model": "gauntlet:block/stucco/umbral_stucco"
             },
