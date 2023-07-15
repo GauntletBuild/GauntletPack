@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom_block/spruce_wall_post",
-		"particle": "custom_block/spruce_wall_post"
+		"0": "block/spruce_wall_post",
+		"particle": "block/spruce_wall_post"
 	},
 	"elements": [
 		{

@@ -1,8 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "custom_block/spruce_wall_side",
-		"particle": "custom_block/spruce_wall_side"
+		"0": "block/spruce_wall_side",
+		"1": "block/spruce_wall_top",
+		"particle": "block/spruce_wall_side"
 	},
 	"elements": [
 		{
@@ -13,8 +14,8 @@
 				"north": {"uv": [5, 2, 11, 16], "texture": "#0", "cullface": "north"},
 				"east": {"uv": [8, 2, 16, 16], "texture": "#0"},
 				"west": {"uv": [0, 2, 8, 16], "texture": "#0"},
-				"up": {"uv": [5, 0, 11, 8], "texture": "#0"},
-				"down": {"uv": [5, 8, 11, 16], "texture": "#0", "cullface": "down"}
+				"up": {"uv": [5, 0, 11, 8], "texture": "#1"},
+				"down": {"uv": [5, 8, 11, 16], "texture": "#missing", "cullface": "down"}
 			}
 		}
 	]
