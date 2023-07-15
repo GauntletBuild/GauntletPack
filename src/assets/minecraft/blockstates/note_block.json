@@ -684,6 +684,53 @@
         ],
         "instrument=basedrum,note=20,powered=false": [
             {
+                "model": "gauntlet:block/stucco/seafoam_stucco"
+            },
+            {
+                "model": "gauntlet:block/stucco/seafoam_stucco",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/seafoam_stucco",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/seafoam_stucco",
+                "z": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/seafoam_stucco_1"
+            },
+            {
+                "model": "gauntlet:block/stucco/seafoam_stucco_1",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/seafoam_stucco_1",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/seafoam_stucco_1",
+                "z": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/seafoam_stucco_2"
+            },
+            {
+                "model": "gauntlet:block/stucco/seafoam_stucco_2",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/seafoam_stucco_2",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/seafoam_stucco_2",
+                "z": 180
+            }
+        ],
+        "instrument=basedrum,note=20,powered=true": [
+            {
                 "model": "gauntlet:block/stucco/umbral_stucco"
             },
             {
