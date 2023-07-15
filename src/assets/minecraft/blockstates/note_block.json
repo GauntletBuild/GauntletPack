@@ -177,8 +177,8 @@
             }
         ],
         "instrument=harp,note=24,powered=false": {
-                "model": "gauntlet:block/thatch"
-            },
+            "model": "gauntlet:block/thatch"
+        },
         "instrument=harp,note=24,powered=true": [
             {
                 "model": "gauntlet:block/cobblestone_bricks/cobblestone_bricks"
@@ -771,45 +771,44 @@
         "instrument=basedrum,note=21,powered=false": {
             "model": "gauntlet:block/bookshelves/pine_bookshelf"
         },
-	"instrument=basedrum,note=21,powered=true": {
+        "instrument=basedrum,note=21,powered=true": {
             "model": "gauntlet:block/bookshelves/walnut_bookshelf"
         },
-	"instrument=basedrum,note=22,powered=false": {
+        "instrument=basedrum,note=22,powered=false": {
             "model": "gauntlet:block/bookshelves/spruce_bookshelf"
         },
-	"instrument=basedrum,note=22,powered=true": {
+        "instrument=basedrum,note=22,powered=true": {
             "model": "gauntlet:block/polished_dripstone"
-	},
-	"instrument=basedrum,note=23,powered=false": {
+        },
+        "instrument=basedrum,note=23,powered=false": {
             "model": "gauntlet:block/polished_dripstone_slab"
-	},
-	"instrument=basedrum,note=23,powered=true": {
+        },
+        "instrument=basedrum,note=23,powered=true": {
             "model": "gauntlet:block/polished_flowstone"
-	},
-	"instrument=basedrum,note=24,powered=false": {
+        },
+        "instrument=basedrum,note=24,powered=false": {
             "model": "gauntlet:block/polished_flowstone_slab"
-	},
-	"instrument=basedrum,note=24,powered=true": {
+        },
+        "instrument=basedrum,note=24,powered=true": {
             "model": "gauntlet:block/polished_limestone"
-	},
-	"instrument=snare,note=0,powered=false": {
+        },
+        "instrument=snare,note=0,powered=false": {
             "model": "gauntlet:block/polished_limestone_slab"
-	},
-	"instrument=snare,note=0,powered=true": {
+        },
+        "instrument=snare,note=0,powered=true": {
             "model": "gauntlet:block/smooth_deepslate"
-	},
-	"instrument=snare,note=1,powered=false": {
+        },
+        "instrument=snare,note=1,powered=false": {
             "model": "gauntlet:block/gritrock"
-	},
-	"instrument=snare,note=1,powered=true": {
+        },
+        "instrument=snare,note=1,powered=true": {
             "model": "gauntlet:block/polished_gritrock"
-	},
-	"instrument=snare,note=2,powered=false": {
+        },
+        "instrument=snare,note=2,powered=false": {
             "model": "gauntlet:block/polished_gritrock_slab"
-	},
-	"instrument=snare,note=2,powered=true": {
+        },
+        "instrument=snare,note=2,powered=true": {
             "model": "gauntlet:block/gritrock_bricks"
-	}
-
+        }
     }
 }

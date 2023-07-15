@@ -408,10 +408,9 @@
     "polished_gritrock_slab": {
         "type": "full_cube",
         "index": 104
-    }
+    },
     "gritrock_bricks": {
         "type": "full_cube",
         "index": 105
     }
-
 }
