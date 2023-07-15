@@ -43,5 +43,7 @@
     "block.minecraft.cherry_door": "Ash Door",
     "block.minecraft.cherry_sign": "Ash Sign",
     "block.minecraft.cherry_hanging_sign": "Ash Wall Sign",
-	"block.minecraft.light_gray_concrete_powder": "Alabaster Sand"
+	"block.minecraft.light_gray_concrete_powder": "Alabaster Sand",
+    "block.minecraft.diorite": "Chalk",
+    "block.minecraft.end_stone_bricks": "Alabaster Bricks"
 }
