@@ -424,5 +424,13 @@
 	"lightly_faded_sand_bricks": {
         "type": "full_cube",
         "index": 108
+    },
+	"chiseled_sandstone": {
+        "type": "full_cube",
+        "index": 109
+    },
+	"chiseled_red_sandstone": {
+        "type": "full_cube",
+        "index": 110
     }
 }

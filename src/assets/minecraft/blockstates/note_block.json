@@ -823,6 +823,12 @@
 		],
 		"instrument=snare,note=4,powered=false": {
 			"model": "gauntlet:block/lightly_faded_sand_bricks"
+		},
+		"instrument=snare,note=4,powered=true": {
+			"model": "gauntlet:block/chiseled_sandstone"
+		},
+		"instrument=snare,note=5,powered=false": {
+			"model": "gauntlet:block/chiseled_red_sandstone"
 		}
     }
 }
