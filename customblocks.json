@@ -432,5 +432,14 @@
 	"chiseled_red_sand_bricks": {
         "type": "full_cube",
         "index": 110
+    },
+	"dripstone_tiles": {
+        "type": "full_cube",
+        "index": 111
+    },
+	"granite_bricks": {
+        "type": "full_cube",
+        "index": 112
     }
+	
 }
