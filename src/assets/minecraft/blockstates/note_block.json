@@ -789,7 +789,7 @@
 	"instrument=basedrum,note=24,powered=false": {
             "model": "gauntlet:block/polished_flowstone_slab"
 	},
-	"instrument=basedrum,note=24,powered=true: {
+	"instrument=basedrum,note=24,powered=true": {
             "model": "gauntlet:block/polished_limestone"
 	},
 	"instrument=snare,note=0,powered=false": {
