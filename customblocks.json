@@ -412,5 +412,9 @@
     "gritrock_bricks": {
         "type": "full_cube",
         "index": 105
+    },
+	"sand_bricks": {
+        "type": "full_cube",
+        "index": 106
     }
 }
