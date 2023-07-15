@@ -1,0 +1,66 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "minecraft:block/smooth_sandstone"
+            },
+            {
+                "model": "minecraft:block/smooth_sandstone",
+                "x": 180
+            },
+            {
+                "model": "minecraft:block/smooth_sandstone",
+                "y": 180
+            },
+            {
+                "model": "minecraft:block/smooth_sandstone",
+                "z": 180
+            },
+            {
+                "model": "minecraft:block/smooth_sandstone_1"
+            },
+            {
+                "model": "minecraft:block/smooth_sandstone_1",
+                "x": 180
+            },
+            {
+                "model": "minecraft:block/smooth_sandstone_1",
+                "y": 180
+            },
+            {
+                "model": "minecraft:block/smooth_sandstone_1",
+                "z": 180
+            },
+            {
+                "model": "minecraft:block/smooth_sandstone_2"
+            },
+            {
+                "model": "minecraft:block/smooth_sandstone_2",
+                "x": 180
+            },
+            {
+                "model": "minecraft:block/smooth_sandstone_2",
+                "y": 180
+            },
+            {
+                "model": "minecraft:block/smooth_sandstone_2",
+                "z": 180
+            },
+            {
+                "model": "minecraft:block/smooth_sandstone_3"
+            },
+            {
+                "model": "minecraft:block/smooth_sandstone_3",
+                "x": 180
+            },
+            {
+                "model": "minecraft:block/smooth_sandstone_3",
+                "y": 180
+            },
+            {
+                "model": "minecraft:block/smooth_sandstone_3",
+                "z": 180
+            }
+        ]
+    }
+}

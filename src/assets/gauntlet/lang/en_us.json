@@ -81,5 +81,10 @@
     "item.gauntlet.spruce_crate": "Spruce Crate",
     "item.gauntlet.pine_crate": "Pine Crate",
     "item.gauntlet.pine_box": "Pine Box",
-    "item.gauntlet.reinforced_crate": "Reinforced Crate"
+    "item.gauntlet.reinforced_crate": "Reinforced Crate",
+    "item.gauntlet.gold_stucco": "Gold Stucco",
+    "item.gauntlet.mirage_stucco": "Mirage Stucco",
+    "item.gauntlet.seafoam_stucco": "Seafoam Stucco",
+    "item.gauntlet.marine_stucco": "Marine Stucco",
+    "item.gauntlet.umbral_stucco": "Umbral Stucco"
 }
