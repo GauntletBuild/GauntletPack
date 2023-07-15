@@ -360,5 +360,13 @@
     "pine_bookshelf": {
         "type": "full_cube",
         "index": 92
+    },
+    "walnut_bookshelf": {
+        "type": "full_cube",
+        "index": 93
+    },
+    "spruce_bookshelf": {
+        "type": "full_cube",
+        "index": 94
     }
 }

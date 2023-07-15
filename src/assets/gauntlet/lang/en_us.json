@@ -82,5 +82,7 @@
     "item.gauntlet.pine_crate": "Pine Crate",
     "item.gauntlet.pine_box": "Pine Box",
     "item.gauntlet.reinforced_crate": "Reinforced Crate",
-    "item.gauntlet.pine_bookshelf": "Pine Bookshelf"
+    "item.gauntlet.pine_bookshelf": "Pine Bookshelf",
+    "item.gauntlet.walnut_bookshelf": "Walnut Bookshelf",
+    "item.gauntlet.spruce_bookshelf": "Spruce Bookshelf"
 }

@@ -770,6 +770,12 @@
         ],
         "instrument=basedrum,note=21,powered=false": {
             "model": "gauntlet:block/bookshelves/pine_bookshelf"
+        },
+	"instrument=basedrum,note=21,powered=true": {
+            "model": "gauntlet:block/bookshelves/walnut_bookshelf"
+        },
+	"instrument=basedrum,note=22,powered=false": {
+            "model": "gauntlet:block/bookshelves/spruce_bookshelf"
         }
     }
 }
