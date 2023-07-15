@@ -396,6 +396,22 @@
     "smooth_deepslate": {
         "type": "full_cube",
         "index": 101
+    },
+    "gritrock": {
+        "type": "full_cube",
+        "index": 102
+    },
+    "polished_gritrock": {
+        "type": "full_cube",
+        "index": 103
+    },
+    "polished_gritrock_slab": {
+        "type": "full_cube",
+        "index": 104
+    }
+    "gritrock_bricks": {
+        "type": "full_cube",
+        "index": 105
     }
 
 }

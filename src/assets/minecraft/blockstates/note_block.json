@@ -797,6 +797,19 @@
 	},
 	"instrument=snare,note=0,powered=true": {
             "model": "gauntlet:block/smooth_deepslate"
+	},
+	"instrument=snare,note=1,powered=false": {
+            "model": "gauntlet:block/gritrock"
+	},
+	"instrument=snare,note=1,powered=true": {
+            "model": "gauntlet:block/polished_gritrock"
+	},
+	"instrument=snare,note=2,powered=false": {
+            "model": "gauntlet:block/polished_gritrock_slab"
+	},
+	"instrument=snare,note=2,powered=true": {
+            "model": "gauntlet:block/gritrock_bricks"
 	}
+
     }
 }
