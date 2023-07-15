@@ -176,17 +176,9 @@
                 "model": "gauntlet:block/chert_2"
             }
         ],
-        "instrument=harp,note=24,powered=false": [
-            {
-                "model": "gauntlet:block/chalk"
+        "instrument=harp,note=24,powered=false": {
+                "model": "gauntlet:block/thatch"
             },
-            {
-                "model": "gauntlet:block/chalk_1"
-            },
-            {
-                "model": "gauntlet:block/chalk_2"
-            }
-        ],
         "instrument=harp,note=24,powered=true": [
             {
                 "model": "gauntlet:block/cobblestone_bricks/cobblestone_bricks"
