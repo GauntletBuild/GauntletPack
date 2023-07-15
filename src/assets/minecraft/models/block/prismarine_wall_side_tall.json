@@ -2,7 +2,6 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/spruce_wall_side",
-		"1": "block/spruce_wall_top",
 		"particle": "block/spruce_wall_side"
 	},
 	"elements": [
@@ -14,7 +13,7 @@
 				"east": {"uv": [0, 0, 8, 16], "texture": "#0"},
 				"south": {"uv": [5, 0, 11, 16], "texture": "#0"},
 				"west": {"uv": [8, 0, 16, 16], "texture": "#0"},
-				"up": {"uv": [5, 8, 11, 16], "texture": "#1"},
+				"up": {"uv": [5, 8, 11, 16], "texture": "#0"},
 				"down": {"uv": [5, 0, 11, 8], "texture": "#missing"}
 			}
 		}
