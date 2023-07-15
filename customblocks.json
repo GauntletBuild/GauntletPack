@@ -384,5 +384,18 @@
     "polished_flowstone_slab": {
         "type": "full_cube",
         "index": 98
+    },
+    "polished_limestone": {
+        "type": "full_cube",
+        "index": 99
+    },
+    "polished_limestone_slab": {
+        "type": "full_cube",
+        "index": 100
+    },
+    "smooth_deepslate": {
+        "type": "full_cube",
+        "index": 101
     }
+
 }
