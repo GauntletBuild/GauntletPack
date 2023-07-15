@@ -369,8 +369,12 @@
         "type": "full_cube",
         "index": 94
     },
-    "marble": {
+    "polished_dripstone": {
         "type": "full_cube",
         "index": 95
+    },
+    "polished_dripstone_slab": {
+        "type": "full_cube",
+        "index": 96
     }
 }

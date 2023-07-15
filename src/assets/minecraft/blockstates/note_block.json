@@ -778,7 +778,10 @@
             "model": "gauntlet:block/bookshelves/spruce_bookshelf"
         },
 	"instrument=basedrum,note=22,powered=true": {
-            "model": "gauntlet:block/marble"
+            "model": "gauntlet:block/polished_dripstone"
+	},
+	"instrument=basedrum,note=23,powered=false": {
+            "model": "gauntlet:block/polished_dripstone_slab"
 	}
     }
 }
