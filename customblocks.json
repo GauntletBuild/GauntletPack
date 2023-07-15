@@ -416,5 +416,13 @@
 	"sand_bricks": {
         "type": "full_cube",
         "index": 106
+    },
+	"faded_sand_bricks": {
+        "type": "full_cube",
+        "index": 107
+    },
+	"lightly_faded_sand_bricks": {
+        "type": "full_cube",
+        "index": 108
     }
 }

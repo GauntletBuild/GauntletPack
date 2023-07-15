@@ -96,5 +96,7 @@
     "item.gauntlet.polished_gritrock": "Polished Gritrock",
     "item.gauntlet.polished_gritrock_slab": "Polished Gritrock Slab",
     "item.gauntlet.gritrock_bricks": "Gritrock Bricks",
-	"item.gauntlet.sand_bricks": "Sand Bricks"
+	"item.gauntlet.sand_bricks": "Sand Bricks",
+	"item.gauntlet.faded_sand_bricks": "Faded Sand Bricks",
+	"item.gauntlet.lightly_faded_sand_bricks": "Lightly Faded Sand Bricks"
 }

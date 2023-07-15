@@ -812,6 +812,17 @@
         },
 		"instrument=snare,note=3,powered=false": {
             "model": "gauntlet:block/sand_bricks"
-        }
+        },
+		"instrument=snare,note=3,powered=true": [
+            {
+                "model": "gauntlet:block/faded_sand_bricks"
+            },
+			{
+                "model": "gauntlet:block/faded_sand_bricks_1"
+            }
+		],
+		"instrument=snare,note=4,powered=false": {
+			"model": "gauntlet:block/lightly_faded_sand_bricks"
+		}
     }
 }
