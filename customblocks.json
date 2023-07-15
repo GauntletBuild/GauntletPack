@@ -368,5 +368,9 @@
     "spruce_bookshelf": {
         "type": "full_cube",
         "index": 94
+    },
+    "marble": {
+        "type": "full_cube",
+        "index": 95
     }
 }
