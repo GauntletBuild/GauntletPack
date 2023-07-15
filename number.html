@@ -2,11 +2,20 @@
 
 <head>
     <style>
-        #table {
+        #tableNoteBlock {
             margin-top: 20px;
         }
 
-        #table td, #table th {
+        #tableNoteBlock td, #tableNoteBlock th {
+            border: 1px solid black;
+            padding: 5px;
+        }
+
+        #tableRedstone {
+            margin-top: 20px;
+        }
+
+        #tableRedstone td, #tableRedstone th {
             border: 1px solid black;
             padding: 5px;
         }
@@ -14,23 +23,44 @@
 </head>
 
 <body>
-<label for="number">Enter Block Id:</label>
-<input type="number" id="number">
-<button id="submit">Submit</button>
-<div id="output"></div>
+<div class="container">
+    <div class="block">
+        <label for="number">Enter Noteblock Id:</label>
+        <input type="number" id="number">
+        <button id="submit">Submit</button>
+        <div id="output"></div>
 
-<table id="table">
-    <thead>
-    <tr>
-        <th>Index</th>
-        <th>Blockstate</th>
-    </tr>
-    </thead>
-    <tbody>
-    </tbody>
-</table>
+        <table id="tableNoteBlock">
+            <thead>
+            <tr>
+                <th>Index</th>
+                <th>Blockstate</th>
+                <th>Remove</th>
+            </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
 
+    <div class="block">
+        <label for="numberRedstone">Enter Redstone Id:</label>
+        <input type="number" id="numberRedstone">
+        <button id="submitRedstone">Submit</button>
+        <div id="outputRedstone"></div>
 
+        <table id="tableRedstone">
+            <thead>
+            <tr>
+                <th>Index</th>
+                <th>Blockstate</th>
+                <th>Remove</th>
+            </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
 </div>
 </body>
 <script>
@@ -81,7 +111,7 @@
         const number = numberField.value;
         const state = getState(number);
 
-        const table = document.getElementById("table").getElementsByTagName('tbody')[0];
+        const table = document.getElementById("tableNoteBlock").getElementsByTagName('tbody')[0];
 
         let row = table.insertRow();
         let cell1 = row.insertCell(0);
@@ -90,26 +120,99 @@
 
         cell1.innerHTML = number;
         cell2.innerHTML = `<button onclick="copyToClipboard('${state}')">${state}</button>`;
-        cell3.innerHTML = '<button onclick="this.parentElement.parentElement.remove()">-</button>';  /* Add a button that, when clicked, removes the row it's in */
+        cell3.innerHTML = '<button onclick="this.parentElement.parentElement.remove()">-</button>';
 
-        numberField.value = Number(number) + 1;  /* Increment the number in the input field */
+        numberField.value = Number(number) + 1;
     });
 
     function copyToClipboard(text) {
-    var textarea = document.createElement("textarea");
-    textarea.textContent = text;
-    textarea.style.position = "fixed";  // Prevent scrolling to bottom of page in MS Edge.
-    document.body.appendChild(textarea);
-    textarea.select();
-    try {
-        return document.execCommand("copy");  // Security exception may be thrown by some browsers.
-    } catch (ex) {
-        console.warn("Copy to clipboard failed.", ex);
-        return false;
-    } finally {
-        document.body.removeChild(textarea);
+        var textarea = document.createElement("textarea");
+        textarea.textContent = text;
+        textarea.style.position = "fixed";
+        document.body.appendChild(textarea);
+        textarea.select();
+        try {
+            return document.execCommand("copy");
+        } catch (ex) {
+            console.warn("Copy to clipboard failed.", ex);
+            return false;
+        } finally {
+            document.body.removeChild(textarea);
+        }
     }
-}
 </script>
+
+<script>
+    const CONNECTIONS = [
+        "NONE",
+        "SIDE",
+        "UP"
+    ]
+
+    const DATA = {};
+
+    let id = 0;
+    for (let power = 0; power < 16; power++) {
+        for (let i = 0; i < CONNECTIONS.length; i++) {
+            for (let j = 0; j < CONNECTIONS.length; j++) {
+                for (let k = 0; k < CONNECTIONS.length; k++) {
+                    for (let l = 0; l < CONNECTIONS.length; l++) {
+                        DATA[`${id}`] = {
+                            north: CONNECTIONS[i],
+                            south: CONNECTIONS[j],
+                            east: CONNECTIONS[k],
+                            west: CONNECTIONS[l],
+                            power: power
+                        }
+                        id++;
+                    }
+                }
+            }
+        }
+    }
+
+    function fromIndex(index) {
+        if (index < 0 || index >= Object.keys(DATA).length) {
+            throw new Error("Index out of bounds");
+        }
+        return DATA[index];
+    }
+
+    document.getElementById("submitRedstone").addEventListener("click", ev => {
+        const numberField = document.getElementById("numberRedstone");
+        const number = numberField.value;
+        const state = fromIndex(number);
+
+        const table = document.getElementById("tableRedstone").getElementsByTagName('tbody')[0];
+
+        let row = table.insertRow();
+        let cell1 = row.insertCell(0);
+        let cell2 = row.insertCell(1);
+        let cell3 = row.insertCell(2);
+
+        cell1.innerHTML = number;
+        cell2.innerHTML = `<button onclick="copyToClipboard('${JSON.stringify(state)}')">${JSON.stringify(state)}</button>`;
+        cell3.innerHTML = '<button onclick="this.parentElement.parentElement.remove()">-</button>';
+
+        numberField.value = Number(number) + 1;
+    });
+
+    function copyToClipboard(text) {
+        var textarea = document.createElement("textarea");
+        textarea.textContent = text;
+        textarea.style.position = "fixed";
+        document.body.appendChild(textarea);
+        textarea.select();
+        try {
+            return document.execCommand("copy");
+        } catch (ex) {
+            console.warn("Copy to clipboard failed.", ex);
+            return false;
+        } finally {
+            document.body.removeChild(textarea);
+        }
+    }
+</script>
+
 </body>
 </html>
