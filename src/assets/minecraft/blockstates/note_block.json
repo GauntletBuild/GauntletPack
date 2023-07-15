@@ -835,6 +835,9 @@
 		},
 		"instrument=snare,note=6,powered=false": {
 			"model": "gauntlet:block/granite_bricks"
+		},
+		"instrument=snare,note=6,powered=true": {
+			"model": "gauntlet:block/charred_grass"
 		}
     }
 }

@@ -440,6 +440,10 @@
 	"granite_bricks": {
         "type": "full_cube",
         "index": 112
+    },
+	"charred_grass": {
+        "type": "full_cube",
+        "index": 113
     }
 	
 }
