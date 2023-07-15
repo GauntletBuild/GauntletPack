@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "gauntlet:block/chiseled_sandstone"
+    "all": "gauntlet:block/chiseled_sand_bricks"
   }
 }
