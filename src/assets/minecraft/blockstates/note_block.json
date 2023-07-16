@@ -855,6 +855,26 @@
 		],
 		"instrument=snare,note=7,powered=false": {
 			"model": "gauntlet:block/alabaster/crossed_alabaster_bricks"
-		}
+		},
+		"instrument=snare,note=7,powered=true": {
+			"model": "gauntlet:block/stucco/peeled_stucco"
+		},
+		"instrument=snare,note=7,powered=false": [
+            {
+                "model": "gauntlet:block/stucco/peeled_stucco"
+            },
+            {
+                "model": "gauntlet:block/stucco/peeled_stucco",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/peeled_stucco",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/peeled_stucco",
+                "z": 180
+            }
+		]
     }
 }

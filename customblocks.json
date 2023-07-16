@@ -448,6 +448,14 @@
 	"crossed_alabaster_bricks": {
         "type": "full_cube",
         "index": 114
+    },
+	"peeled_stucco": {
+        "type": "full_cube",
+        "index": 115
+    },
+	"peeling_tan_stucco": {
+        "type": "full_cube",
+        "index": 116
     }
 	
 }
