@@ -444,6 +444,10 @@
 	"charred_grass": {
         "type": "full_cube",
         "index": 113
+    },
+	"crossed_alabaster_bricks": {
+        "type": "full_cube",
+        "index": 114
     }
 	
 }

@@ -852,6 +852,9 @@
 			"model": "gauntlet:block/charred_grass",
 			"y": 270
 			}
-		]
+		],
+		"instrument=snare,note=7,powered=false": {
+			"model": "gauntlet:block/alabaster/crossed_alabaster_bricks"
+		}
     }
 }
