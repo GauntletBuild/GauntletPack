@@ -859,20 +859,20 @@
 		"instrument=snare,note=7,powered=true": {
 			"model": "gauntlet:block/stucco/peeled_stucco"
 		},
-		"instrument=snare,note=7,powered=false": [
+		"instrument=snare,note=8,powered=false": [
             {
-                "model": "gauntlet:block/stucco/peeled_stucco"
+                "model": "gauntlet:block/stucco/peeling_tan_stucco"
             },
             {
-                "model": "gauntlet:block/stucco/peeled_stucco",
+                "model": "gauntlet:block/stucco/peeling_tan_stucco",
                 "x": 180
             },
             {
-                "model": "gauntlet:block/stucco/peeled_stucco",
+                "model": "gauntlet:block/stucco/peeling_tan_stucco",
                 "y": 180
             },
             {
-                "model": "gauntlet:block/stucco/peeled_stucco",
+                "model": "gauntlet:block/stucco/peeling_tan_stucco",
                 "z": 180
             }
 		]
