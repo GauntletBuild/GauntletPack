@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "minecraft:block/glazed_terracotta/east_peeled_beige_stucco",
+    },
+    "facing=north": {
+      "model": "minecraft:block/glazed_terracotta/north_peeled_beige_stucco",
+    },
+    "facing=south": {
+      "model": "minecraft:block/glazed_terracotta/south_peeled_beige_stucco"
+    },
+    "facing=west": {
+      "model": "minecraft:block/glazed_terracotta/west_peeled_beige_stucco",
+    }
+  }
+}

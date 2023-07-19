@@ -53,5 +53,13 @@
     "block.minecraft.end_stone_brick_slab": "Alabaster Brick Slab",
     "block.minecraft.end_stone_brick_stairs": "Alabaster Brick Stairs",
     "block.minecraft.end_stone_brick_wall": "Alabaster Brick Wall",
-	"block.minecraft.prismarine_wall": "Spruce Post"
+	"block.minecraft.prismarine_wall": "Spruce Post",
+	"block.minecraft.pink_glazed_terracotta": "Peeled Tan Stucco",
+	"block.minecraft.magenta_glazed_terracotta": "Peeled Beige Stucco",
+	"block.minecraft.purple_glazed_terracotta": "Peeled Latte Stucco",
+	"block.minecraft.blue_glazed_terracotta": "Peeled Sunbaked Stucco",
+	"block.minecraft.light_blue_glazed_terracotta": "Peeled Gold Stucco",
+	"block.minecraft.cyan_glazed_terracotta": "Peeled Marine Stucco",
+	"block.minecraft.green_glazed_terracotta": "Peeled Mirage Stucco",
+	"block.minecraft.brown_glazed_terracotta": "Peeled Seafoam Stucco"
 }
