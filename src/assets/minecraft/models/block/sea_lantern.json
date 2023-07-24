@@ -1,7 +1,23 @@
 {
-    "parent": "minecraft:block/cube_all",
-    "ambientocclusion": false,
-    "textures": {
-        "all": "minecraft:block/sea_lantern"
-    }
+	"parent": "block/block",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "block/sea_lantern",
+		"particle": "block/sea_lantern"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"shade": false,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "north"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "east"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "south"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "up"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1", "cullface": "down"}
+			}
+		}
+	]
 }
