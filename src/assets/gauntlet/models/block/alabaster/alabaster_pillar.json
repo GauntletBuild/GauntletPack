@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "gauntlet:block/alabaster/alabaster_pillar_top",
+    "side": "gauntlet:block/alabaster/alabaster_pillar"
+  }
+}

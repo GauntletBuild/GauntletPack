@@ -413,49 +413,47 @@
         "type": "full_cube",
         "index": 105
     },
-	"sand_bricks": {
+    "sand_bricks": {
         "type": "full_cube",
         "index": 106
     },
-	"faded_sand_bricks": {
+    "faded_sand_bricks": {
         "type": "full_cube",
         "index": 107
     },
-	"lightly_faded_sand_bricks": {
+    "lightly_faded_sand_bricks": {
         "type": "full_cube",
         "index": 108
     },
-	"chiseled_sand_bricks": {
+    "chiseled_sand_bricks": {
         "type": "full_cube",
         "index": 109
     },
-	"chiseled_red_sand_bricks": {
+    "chiseled_red_sand_bricks": {
         "type": "full_cube",
         "index": 110
     },
-	"dripstone_tiles": {
+    "dripstone_tiles": {
         "type": "full_cube",
         "index": 111
     },
-	"granite_bricks": {
+    "granite_bricks": {
         "type": "full_cube",
         "index": 112
     },
-	"charred_grass": {
+    "charred_grass": {
         "type": "full_cube",
         "index": 113
     },
-	"crossed_alabaster_bricks": {
+    "crossed_alabaster_bricks": {
         "type": "full_cube",
         "index": 114
     },
-	"peeled_stucco": {
-        "type": "full_cube",
-        "index": 115
-    },
-	"peeling_tan_stucco": {
-        "type": "full_cube",
-        "index": 116
+    "alabaster_pillar": {
+        "type": "pillar",
+        "index": 115,
+        "x": 116,
+        "y": 115,
+        "z": 117
     }
-	
 }
