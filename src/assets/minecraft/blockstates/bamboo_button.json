@@ -4,7 +4,7 @@
       "model": "minecraft:block/bamboo_button",
       "x": 180,
       "y": 270
-    },
+    }
     "face=ceiling,facing=east,powered=true": {
       "model": "minecraft:block/bamboo_button_pressed",
       "x": 180,
