@@ -51,26 +51,26 @@ jobs:
       - name: Tell Server
         run: |
           curl -X 'POST' \
-            'https://api.exaroton.com/v1/servers/${{ vars.SERVER_ID }}/command/' \
+            'https://${{ secrets.SERVER_DOMAIN }}/api/client/servers/${{ secrets.SERVER_ID }}/command/' \
             -H 'accept: application/json' \
             -H 'Content-Type: application/json' \
-            -H 'Authorization: Bearer ${{ secrets.EXAROTON_TOKEN }}' \
+            -H 'Authorization: Bearer ${{ secrets.SERVER_TOKEN }}' \
             -d '{"command":"tellraw @a \"§9§l-----------[§aGauntlet Build Server§9§l]-----------§r\\n§aCommit Uploader:§7 ${{ github.actor }}!§r\\n§aCommit Message:§7 ${{ steps.message.outputs.message }}\\n§9§l---------------------------------------\""}'
 
       - name: Reload Server
         run: |
           curl -X 'POST' \
-            'https://api.exaroton.com/v1/servers/${{ vars.SERVER_ID }}/command/' \
+            'https://${{ secrets.SERVER_DOMAIN }}/api/client/servers/${{ secrets.SERVER_ID }}/command/' \
             -H 'accept: application/json' \
             -H 'Content-Type: application/json' \
-            -H 'Authorization: Bearer ${{ secrets.EXAROTON_TOKEN }}' \
+            -H 'Authorization: Bearer ${{ secrets.SERVER_TOKEN }}' \
             -d '{"command":"reload-resourcepack"}'
 
       - name: Reload Custom Blocks
         run: |
           curl -X 'POST' \
-            'https://api.exaroton.com/v1/servers/${{ vars.SERVER_ID }}/command/' \
+            'https://${{ secrets.SERVER_DOMAIN }}/api/client/servers/${{ secrets.SERVER_ID }}/command/' \
             -H 'accept: application/json' \
             -H 'Content-Type: application/json' \
-            -H 'Authorization: Bearer ${{ secrets.EXAROTON_TOKEN }}' \
+            -H 'Authorization: Bearer ${{ secrets.SERVER_TOKEN }}' \
             -d '{"command":"blocksreload"}'
