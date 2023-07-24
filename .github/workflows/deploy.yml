@@ -47,6 +47,10 @@ jobs:
       - name: Format Commit Message
         id: message
         run: echo "message=$(git log --format='%s' | head -n 1)" >> $GITHUB_OUTPUT
+        
+      - name: Sanitize Commit Message
+        id: sanitize
+        run: echo "message=$('${{ steps.message.outputs.message }}' | sed s/[^[:alnum:]+._- ]//g" >> $GITHUB_OUTPUT
 
       - name: Tell Server
         run: |
@@ -55,7 +59,7 @@ jobs:
             -H 'accept: application/json' \
             -H 'Content-Type: application/json' \
             -H 'Authorization: Bearer ${{ secrets.SERVER_TOKEN }}' \
-            -d '{"command":"tellraw @a \"§9§l-----------[§aGauntlet Build Server§9§l]-----------§r\\n§aCommit Uploader:§7 ${{ github.actor }}!§r\\n§aCommit Message:§7 ${{ steps.message.outputs.message }}\\n§9§l---------------------------------------\""}'
+            -d '{"command":"tellraw @a \"§9§l-----------[§aGauntlet Build Server§9§l]-----------§r\\n§aCommit Uploader:§7 ${{ github.actor }}!§r\\n§aCommit Message:§7 ${{ steps.sanitize.outputs.message }}\\n§9§l---------------------------------------\""}'
 
       - name: Reload Server
         run: |
