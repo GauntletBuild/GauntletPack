@@ -46,7 +46,7 @@ jobs:
 
       - name: Format Commit Message
         id: message
-        run: echo "message=$(git log --format='%s' | head -n 1)" >> $GITHUB_OUTPUT
+        run: echo "message=$(git log --format='%s' | head -n 1 | sed 's/[^[:alnum:] ]//g')" >> $GITHUB_OUTPUT
 
       - name: Tell Server
         run: |
