@@ -455,5 +455,9 @@
         "x": 115,
         "y": 116,
         "z": 117
+    },
+    "old_brick_road": {
+        "type": "full_cube",
+        "index": 118
     }
 }

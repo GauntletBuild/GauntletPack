@@ -867,6 +867,14 @@
         "instrument=snare,note=8,powered=true": {
             "model": "gauntlet:block/alabaster/alabaster_pillar_horizontal",
             "x": 90
-        }
+        },
+        "instrument=snare,note=9,powered=false": [
+            {
+                "model": "gauntlet:block/old_brick_road"
+            },
+            {
+                "model": "gauntlet:block/old_brick_road_1"
+            }
+        ]
     }
 }
