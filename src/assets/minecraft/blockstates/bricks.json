@@ -1,13 +1,34 @@
 {
     "variants": {
         "": [
-            { "model": "minecraft:block/bricks",   "weight": 10  },
-            { "model": "minecraft:block/bricks_1", "weight": 10  },
-            { "model": "minecraft:block/bricks_2", "weight": 10  },
-            { "model": "minecraft:block/bricks_3", "weight": 10  },
-            { "model": "minecraft:block/bricks_4", "weight": 10  },
-            { "model": "minecraft:block/bricks_5", "weight": 10  },
-            { "model": "minecraft:block/bricks_6", "weight": 1   }
+            {
+                "model": "minecraft:block/bricks",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bricks_1",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bricks_2",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bricks_3",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bricks_4",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bricks_5",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bricks_6",
+                "weight": 1
+            }
         ]
     }
 }
