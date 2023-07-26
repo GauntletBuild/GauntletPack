@@ -810,52 +810,52 @@
         "instrument=snare,note=2,powered=true": {
             "model": "gauntlet:block/gritrock_bricks"
         },
-		"instrument=snare,note=3,powered=false": {
+        "instrument=snare,note=3,powered=false": {
             "model": "gauntlet:block/sand_bricks"
         },
-		"instrument=snare,note=3,powered=true": [
+        "instrument=snare,note=3,powered=true": [
             {
                 "model": "gauntlet:block/faded_sand_bricks"
             },
-			{
+            {
                 "model": "gauntlet:block/faded_sand_bricks_1"
             }
-		],
-		"instrument=snare,note=4,powered=false": {
-			"model": "gauntlet:block/lightly_faded_sand_bricks"
-		},
-		"instrument=snare,note=4,powered=true": {
-			"model": "gauntlet:block/chiseled_sand_bricks"
-		},
-		"instrument=snare,note=5,powered=false": {
-			"model": "gauntlet:block/chiseled_red_sand_bricks"
-		},
-		"instrument=snare,note=5,powered=true": {
-			"model": "gauntlet:block/dripstone_tiles"
-		},
-		"instrument=snare,note=6,powered=false": {
-			"model": "gauntlet:block/granite_bricks"
-		},
-		"instrument=snare,note=6,powered=true": [
-			{
-			"model": "gauntlet:block/charred_grass"
-			},
-			{
-			"model": "gauntlet:block/charred_grass",
-			"y": 90
-			},
-			{
-			"model": "gauntlet:block/charred_grass",
-			"y": 180
-			},
-			{
-			"model": "gauntlet:block/charred_grass",
-			"y": 270
-			}
-		],
-		"instrument=snare,note=7,powered=false": {
-			"model": "gauntlet:block/alabaster/crossed_alabaster_bricks"
-		},
+        ],
+        "instrument=snare,note=4,powered=false": {
+            "model": "gauntlet:block/lightly_faded_sand_bricks"
+        },
+        "instrument=snare,note=4,powered=true": {
+            "model": "gauntlet:block/chiseled_sand_bricks"
+        },
+        "instrument=snare,note=5,powered=false": {
+            "model": "gauntlet:block/chiseled_red_sand_bricks"
+        },
+        "instrument=snare,note=5,powered=true": {
+            "model": "gauntlet:block/dripstone_tiles"
+        },
+        "instrument=snare,note=6,powered=false": {
+            "model": "gauntlet:block/granite_bricks"
+        },
+        "instrument=snare,note=6,powered=true": [
+            {
+                "model": "gauntlet:block/charred_grass"
+            },
+            {
+                "model": "gauntlet:block/charred_grass",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:block/charred_grass",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/charred_grass",
+                "y": 270
+            }
+        ],
+        "instrument=snare,note=7,powered=false": {
+            "model": "gauntlet:block/alabaster/crossed_alabaster_bricks"
+        },
         "instrument=snare,note=7,powered=true": {
             "model": "gauntlet:block/alabaster/alabaster_pillar_horizontal",
             "x": 90,
