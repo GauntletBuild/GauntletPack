@@ -874,6 +874,9 @@
             },
             {
                 "model": "gauntlet:block/old_brick_road_1"
+            },
+            {
+                "model": "gauntlet:block/old_brick_road_2"
             }
         ]
     }
