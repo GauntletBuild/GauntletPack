@@ -1,0 +1,7 @@
+{
+    "parent":"minecraft:block/leaves_cross",
+    "textures": {
+        "all":"minecraft:block/oak_leaves",
+	"bushy": "gauntlet:block/oak_leaves_bushy"
+    }
+}

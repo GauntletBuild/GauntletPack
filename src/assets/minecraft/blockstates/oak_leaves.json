@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "distance=1": {
+      "model": "minecraft:block/oak_leaves"
+    },
+    "distance=2": {
+      "model": "minecraft:block/oak_leaves"
+    },
+    "distance=3": {
+      "model": "minecraft:block/oak_leaves"
+    },
+    "distance=4": {
+      "model": "minecraft:block/oak_leaves"
+    },
+    "distance=5": {
+      "model": "minecraft:block/oak_leaves"
+    },
+    "distance=6": [
+			{ "model": "minecraft:block/oak_leaves_bushy" },
+			{ "model": "minecraft:block/oak_leaves_bushy1" }
+		],
+    "distance=7": {
+      "model": "minecraft:block/oak_leaves"
+    }
+  }
+}
