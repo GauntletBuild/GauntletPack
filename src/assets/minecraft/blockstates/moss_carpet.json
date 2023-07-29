@@ -1,63 +1,18 @@
 {
     "variants": {
         "": [
-				[
-					{
-						"model": "minecraft:block/moss_carpet"
-						"y": 90
-					},
-					{
-						"model": "minecraft:block/moss_carpet"
-						"y": 180
-					},
-					{
-						"model": "minecraft:block/moss_carpet"
-						"y": 270
-					}
-				],
-				[
-						{
-							"model": "minecraft:block/moss_carpet_1"
-							"y": 90
-						},
-						{
-							"model": "minecraft:block/moss_carpet_1"
-							"y": 180
-						},
-						{
-							"model": "minecraft:block/moss_carpet_1"
-							"y": 270
-						}
-				],
-            
-				[
-						{
-							"model": "minecraft:block/moss_carpet_2"
-							"y": 90
-						},
-						{
-							"model": "minecraft:block/moss_carpet_2"
-							"y": 180
-						},
-						{
-							"model": "minecraft:block/moss_carpet_2"
-							"y": 270
-						}
-				],
-				[
-						{
-							"model": "minecraft:block/moss_carpet_3"
-							"y": 90
-						},
-						{
-							"model": "minecraft:block/moss_carpet_3"
-							"y": 180
-						},
-						{
-							"model": "minecraft:block/moss_carpet_3"
-							"y": 270
-						}
-				]
+            {
+                "model": "minecraft:block/moss_carpet"
+            },
+            {
+                "model": "minecraft:block/moss_carpet_1"
+            },
+            {
+                "model": "minecraft:block/moss_carpet_2"
+            },
+            {
+                "model": "minecraft:block/moss_carpet_3"
+            }
         ]
     }
 }
