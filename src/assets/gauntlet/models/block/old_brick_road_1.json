@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "gauntlet:block/old_brick_road_1"
-  }
-}

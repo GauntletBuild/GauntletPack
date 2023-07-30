@@ -1,0 +1,34 @@
+{
+    "variants": {
+        "type=bottom": [
+            {
+                "model": "gauntlet:block/old_brick_road",
+                "weight": 10
+            },
+            {
+                "model": "gauntlet:block/old_brick_road_1",
+                "weight": 20
+            },
+            {
+                "model": "gauntlet:block/old_brick_road_2",
+                "weight": 10
+            },
+            {
+                "model": "gauntlet:block/old_brick_road_3",
+                "weight": 20
+            },
+            {
+                "model": "gauntlet:block/old_brick_road_4",
+                "weight": 10
+            },
+            {
+                "model": "gauntlet:block/old_brick_road_5",
+                "weight": 20
+            },
+            {
+                "model": "gauntlet:block/old_brick_road_6",
+                "weight": 30
+            }
+        ]
+    }
+}
