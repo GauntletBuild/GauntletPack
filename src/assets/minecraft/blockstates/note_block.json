@@ -869,7 +869,7 @@
             "x": 90
         },
         "instrument=snare,note=9,powered=false": {
-            "model": "gauntlet:block/checkered_tiles",
+            "model": "gauntlet:block/checkered_tiles"
         },
 		"instrument=snare,note=9,powered=true": {
             "model": "gauntlet:block/gabbro"
