@@ -29,6 +29,66 @@
                 "model": "gauntlet:block/brick_road/old_brick_road_6",
                 "weight": 30
             }
+        ],
+        "type=top": [
+            {
+                "model": "gauntlet:block/brick_road/old_brick_road_top",
+                "weight": 10
+            },
+            {
+                "model": "gauntlet:block/brick_road/old_brick_road_1_top",
+                "weight": 20
+            },
+            {
+                "model": "gauntlet:block/brick_road/old_brick_road_2_top",
+                "weight": 10
+            },
+            {
+                "model": "gauntlet:block/brick_road/old_brick_road_3_top",
+                "weight": 20
+            },
+            {
+                "model": "gauntlet:block/brick_road/old_brick_road_4_top",
+                "weight": 10
+            },
+            {
+                "model": "gauntlet:block/brick_road/old_brick_road_5_top",
+                "weight": 20
+            },
+            {
+                "model": "gauntlet:block/brick_road/old_brick_road_6_top",
+                "weight": 30
+            }
+        ],
+        "type=double": [
+            {
+                "model": "gauntlet:block/brick_road/old_brick_road_full",
+                "weight": 10
+            },
+            {
+                "model": "gauntlet:block/brick_road/old_brick_road_1_full",
+                "weight": 20
+            },
+            {
+                "model": "gauntlet:block/brick_road/old_brick_road_2_full",
+                "weight": 10
+            },
+            {
+                "model": "gauntlet:block/brick_road/old_brick_road_3_full",
+                "weight": 20
+            },
+            {
+                "model": "gauntlet:block/brick_road/old_brick_road_4_full",
+                "weight": 10
+            },
+            {
+                "model": "gauntlet:block/brick_road/old_brick_road_5_full",
+                "weight": 20
+            },
+            {
+                "model": "gauntlet:block/brick_road/old_brick_road_6_full",
+                "weight": 30
+            }
         ]
     }
 }
