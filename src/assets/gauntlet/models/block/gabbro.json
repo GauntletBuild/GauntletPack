@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "gauntlet:block/gabbro_top",
+    "side": "gauntlet:block/gabbro"
+  }
+}

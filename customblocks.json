@@ -459,5 +459,9 @@
     "old_brick_road": {
         "type": "full_cube",
         "index": 118
-    }
+    },
+	"gabbro": {
+		"type": "full_cube",
+		"index": 119
+	}
 }

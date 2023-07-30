@@ -897,6 +897,9 @@
                 "model": "gauntlet:block/old_brick_road_6",
                 "weight": 30
             }
-        ]
+        ],
+		"instrument=snare,note=9,powered=true": {
+            "model": "gauntlet:block/gabbro"
+        }
     }
 }
