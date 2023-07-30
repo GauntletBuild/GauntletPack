@@ -456,7 +456,7 @@
         "y": 116,
         "z": 117
     },
-    "old_brick_road": {
+    "checkered_tiles": {
         "type": "full_cube",
         "index": 118
     },
