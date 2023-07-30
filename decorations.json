@@ -1,5 +1,6 @@
 {
   "pebbles": {
-    "index": 0
+    "index": 0,
+    "shape": "mini"
   }
 }
