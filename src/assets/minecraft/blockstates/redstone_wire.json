@@ -1,0 +1,39 @@
+{
+    "variants": {
+        "north=NONE,south=NONE,east=NONE,west=NONE,power=0": [
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_1"
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_2"
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_3"
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_4"
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_5"
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_6"
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_7"
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_8"
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_9"
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_10"
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_11"
+            }
+        ]
+    }
+}
