@@ -1,6 +1,6 @@
 {
     "variants": {
-        "north=UP,south=UP,east=UP,west=UP,power=0": [
+        "north=up,south=up,east=up,west=up,power=0": [
             {
                 "model": "gauntlet:decoration/pebbles/pebble_1"
             },
