@@ -66,5 +66,7 @@
 	"block.minecraft.cyan_glazed_terracotta": "Peeled Marine Stucco",
 	"block.minecraft.green_glazed_terracotta": "Peeled Mirage Stucco",
 	"block.minecraft.brown_glazed_terracotta": "Peeled Seafoam Stucco",
-    "block.minecraft.bamboo_mosaic_slab": "Old Brick Road Slab"
+    "block.minecraft.bamboo_mosaic_slab": "Old Brick Road Slab",
+	"block.minecraft.bamboo_mosaic_stairs": "Old Brick Road Stairs",
+	"block.minecraft.bamboo_mosaic": "Old Brick Road"
 }
