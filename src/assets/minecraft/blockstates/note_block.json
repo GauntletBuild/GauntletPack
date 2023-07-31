@@ -873,16 +873,16 @@
         },
 		"instrument=snare,note=9,powered=true": [
             {
-                "model": "gauntlet:block/bricks/gabbro"
+                "model": "gauntlet:block/gabbro"
             },
             {
-                "model": "gauntlet:block/bricks/gabbro_1"
+                "model": "gauntlet:block/gabbro_1"
             },
             {
-                "model": "gauntlet:block/bricks/gabbro_2"
+                "model": "gauntlet:block/gabbro_2"
             },
 			{
-                "model": "gauntlet:block/bricks/gabbro_3"
+                "model": "gauntlet:block/gabbro_3"
             }
         ]
     }
