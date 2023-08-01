@@ -49,19 +49,19 @@
         },
         "north=up,south=up,east=side,west=none,power=0": [
             {
-                "model": "gauntlet:decoration/rocks/rocks_1"
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_1"
             },
             {
-                "model": "gauntlet:decoration/rocks/rocks_2"
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_2"
             },
             {
-                "model": "gauntlet:decoration/rocks/rocks_3"
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_3"
             },
             {
-                "model": "gauntlet:decoration/rocks/rocks_4"
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_4"
             },
             {
-                "model": "gauntlet:decoration/rocks/rocks_5"
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_5"
             }
         ],
         "north=up,south=up,east=none,west=up,power=0": {

@@ -1,8 +1,8 @@
 {
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "gauntlet:decoration/rocks/rocks_3",
-		"particle": "minecraft:block/stone"
+		"0": "gauntlet:decoration/rocks/alabaster_rocks_3",
+		"particle": "minecraft:block/end_stone"
 	},
 	"elements": [
 		{

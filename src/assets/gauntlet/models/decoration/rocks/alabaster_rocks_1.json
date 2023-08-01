@@ -1,9 +1,9 @@
 {
 	"parent": "block/block",
 	"textures": {
-		"0": "gauntlet:decoration/rocks/rocks_1",
-		"1": "gauntlet:decoration/rocks/rocks_floor",
-		"particle": "minecraft:block/stone"
+		"0": "gauntlet:decoration/rocks/alabaster_rocks_1",
+		"1": "gauntlet:decoration/rocks/alabaster_rocks_floor",
+		"particle": "minecraft:block/end_stone"
 	},
 	"elements": [
 		{
