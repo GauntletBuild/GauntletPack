@@ -1,0 +1,21 @@
+{
+	"textures": {
+		"0": "gauntlet:decoration/torches/snuffed_torch",
+		"particle": "gauntlet:decoration/torches/snuffed_torch"
+	},
+	"elements": [
+		{
+			"from": [7, 3.5, 15],
+			"to": [9, 13.5, 17],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 3.5, 16]},
+			"faces": {
+				"north": {"uv": [0, 2, 2, 12], "texture": "#0"},
+				"east": {"uv": [0, 2, 2, 12], "texture": "#0"},
+				"south": {"uv": [0, 2, 2, 12], "texture": "#0"},
+				"west": {"uv": [0, 2, 2, 12], "texture": "#0"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#0"},
+				"down": {"uv": [0, 12, 2, 14], "texture": "#0"}
+			}
+		}
+	]
+}

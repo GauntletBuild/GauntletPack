@@ -338,6 +338,24 @@
                 "model": "gauntlet:decoration/flower_beds/white_flowerbed",
                 "y": 180
             }
-        ]
+        ],
+        "north=up,south=side,east=up,west=up,power=0": {
+            "model": "gauntlet:decoration/torches/snuffed_torch"
+        },
+        "north=up,south=side,east=up,west=side,power=0": {
+            "model": "gauntlet:decoration/torches/snuffed_wall_torch"
+        },
+        "north=up,south=side,east=up,west=none,power=0": {
+            "model": "gauntlet:decoration/torches/snuffed_wall_torch",
+            "y": 90
+        },
+        "north=up,south=side,east=side,west=up,power=0": {
+            "model": "gauntlet:decoration/torches/snuffed_wall_torch",
+            "y": 180
+        },
+        "north=up,south=side,east=side,west=side,power=0": {
+            "model": "gauntlet:decoration/torches/snuffed_wall_torch",
+            "y": 270
+        }
     }
 }
