@@ -18,5 +18,21 @@
     "grate_top": {
         "index": 4,
         "shape": "full"
+    },
+    "rocks": {
+        "index": 5,
+        "shape": "mini"
+    },
+    "blue_flowerbed": {
+        "index": 6,
+        "shape": "flat"
+    },
+    "magenta_flowerbed": {
+        "index": 7,
+        "shape": "flat"
+    },
+    "white_flowerbed": {
+        "index": 8,
+        "shape": "flat"
     }
 }

@@ -1,0 +1,46 @@
+{
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "gauntlet:blocks/pots/small_pot_2",
+		"particle": "gauntlet:blocks/pots/small_pot_2"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 1],
+			"to": [15, 8, 15],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 7.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 12, 7, 16], "texture": "#0"},
+				"east": {"uv": [0, 12, 7, 16], "texture": "#0"},
+				"south": {"uv": [0, 12, 7, 16], "texture": "#0"},
+				"west": {"uv": [0, 12, 7, 16], "texture": "#0"},
+				"up": {"uv": [0, 5, 7, 12], "texture": "#0"},
+				"down": {"uv": [2, 7, 5, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 8, 5],
+			"to": [11, 9, 11],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 7.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 3, 0.5], "texture": "#0"},
+				"east": {"uv": [0, 0, 3, 0.5], "texture": "#0"},
+				"south": {"uv": [0, 0, 3, 0.5], "texture": "#0"},
+				"west": {"uv": [0, 0, 3, 0.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 9, 3],
+			"to": [13, 11, 13],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 7.5, 8]},
+			"faces": {
+				"north": {"uv": [11, 15, 16, 16], "texture": "#0"},
+				"east": {"uv": [11, 15, 16, 16], "texture": "#0"},
+				"south": {"uv": [11, 15, 16, 16], "texture": "#0"},
+				"west": {"uv": [11, 15, 16, 16], "texture": "#0"},
+				"up": {"uv": [11, 10, 16, 15], "texture": "#0"},
+				"down": {"uv": [11, 10, 16, 15], "texture": "#0"}
+			}
+		}
+	]
+}

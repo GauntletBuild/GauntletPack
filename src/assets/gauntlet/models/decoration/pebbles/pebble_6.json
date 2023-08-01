@@ -1,7 +1,7 @@
 {
 	"credit": "Made by Farcr",
 	"textures": {
-		"0": "gauntlet:decoration/pebbles",
+		"0": "gauntlet:decoration/pebbles/pebbles",
 		"particle": "minecraft:block/stone"
 	},
 	"elements": [

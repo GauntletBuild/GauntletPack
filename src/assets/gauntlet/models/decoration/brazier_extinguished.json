@@ -1,12 +1,12 @@
 {
 	"credit": "Made by Farcr",
 	"textures": {
-		"0": "gauntlet:decoration/brazier_base",
-		"1": "gauntlet:decoration/brazier_legs",
-		"2": "gauntlet:decoration/brazier_bottom",
-		"3": "gauntlet:decoration/brazier_side",
-		"4": "gauntlet:decoration/brazier_top",
-		"particle": "gauntlet:decoration/brazier_base"
+		"0": "gauntlet:decoration/braziers/brazier_base",
+		"1": "gauntlet:decoration/braziers/brazier_legs",
+		"2": "gauntlet:decoration/braziers/brazier_bottom",
+		"3": "gauntlet:decoration/braziers/brazier_side",
+		"4": "gauntlet:decoration/braziers/brazier_top",
+		"particle": "gauntlet:decoration/braziers/brazier_base"
 	},
 	"elements": [
 		{
