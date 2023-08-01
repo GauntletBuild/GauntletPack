@@ -15,8 +15,8 @@
         "index": 3,
         "shape": "full",
         "type": "vertical",
-        "down": 3,
-        "up": 4
+        "bottom": 3,
+        "top": 4
     },
     "alabaster_rocks": {
         "index": 5,
