@@ -347,15 +347,15 @@
         },
         "north=up,south=side,east=up,west=none,power=0": {
             "model": "gauntlet:decoration/torches/snuffed_wall_torch",
-            "y": 90
+            "y": 270
         },
         "north=up,south=side,east=side,west=up,power=0": {
             "model": "gauntlet:decoration/torches/snuffed_wall_torch",
-            "y": 180
+            "y": 90
         },
         "north=up,south=side,east=side,west=side,power=0": {
             "model": "gauntlet:decoration/torches/snuffed_wall_torch",
-            "y": 270
+            "y": 180
         }
     }
 }
