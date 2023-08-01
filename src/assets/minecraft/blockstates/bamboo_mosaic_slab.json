@@ -1,0 +1,94 @@
+{
+    "variants": {
+        "type=bottom": [
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_bottom",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_bottom_1",
+                "weight": 20
+            },
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_bottom_2",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_bottom_3",
+                "weight": 20
+            },
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_bottom_4",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_bottom_5",
+                "weight": 20
+            },
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_bottom_6",
+                "weight": 30
+            }
+        ],
+        "type=double": [
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_1",
+                "weight": 20
+            },
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_2",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_3",
+                "weight": 20
+            },
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_4",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_5",
+                "weight": 20
+            },
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_6",
+                "weight": 30
+            }
+        ],
+        "type=top": [
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_top",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_top_1",
+                "weight": 20
+            },
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_top_2",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_top_3",
+                "weight": 20
+            },
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_top_4",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_top_5",
+                "weight": 20
+            },
+            {
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_top_6",
+                "weight": 30
+            }
+        ]
+    }
+}
