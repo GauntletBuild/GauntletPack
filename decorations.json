@@ -11,13 +11,12 @@
         "index": 2,
         "shape": "full"
     },
-    "grate_bottom": {
+    "grate": {
         "index": 3,
-        "shape": "full"
-    },
-    "grate_top": {
-        "index": 4,
-        "shape": "full"
+        "shape": "full",
+        "type": "vertical",
+        "bottom": 3,
+        "top": 4
     },
     "alabaster_rocks": {
         "index": 5,

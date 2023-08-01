@@ -119,10 +119,10 @@
     "item.gauntlet_decoration.pebbles": "Pebbles",
     "item.gauntlet_decoration.brazier": "Brazier",
     "item.gauntlet_decoration.brazier_extinguished": "Extinguished Brazier",
-    "item.gauntlet_decoration.grate_bottom": "Bottom Grate",
-    "item.gauntlet_decoration.grate_top": "Top Grate",
+    "item.gauntlet_decoration.grate": "Grate",
     "item.gauntlet_decoration.alabaster_rocks": "Alabaster Rocks",
     "item.gauntlet_decoration.blue_flowerbed": "Blue Flowerbed",
     "item.gauntlet_decoration.magenta_flowerbed": "Magenta Flowerbed",
-    "item.gauntlet_decoration.white_flowerbed": "White Flowerbed"
+    "item.gauntlet_decoration.white_flowerbed": "White Flowerbed",
+    "item.gauntlet_decoration.snuffed_torch": "Snuffed Torch"
 }
