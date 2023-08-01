@@ -871,7 +871,7 @@
         "instrument=snare,note=9,powered=false": {
             "model": "gauntlet:block/checkered_tiles"
         },
-		"instrument=snare,note=9,powered=true": [
+        "instrument=snare,note=9,powered=true": [
             {
                 "model": "gauntlet:block/gabbro"
             },
@@ -881,8 +881,46 @@
             {
                 "model": "gauntlet:block/gabbro_2"
             },
-			{
+            {
                 "model": "gauntlet:block/gabbro_3"
+            }
+        ],
+        "instrument=snare,note=10,powered=false": [
+            {
+                "model": "gauntlet:block/roads/sidewalk"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_1"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_2"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_3"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_4"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_5"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_6"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_7"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_8"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_9"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_10"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_11"
             }
         ]
     }

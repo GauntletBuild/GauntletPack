@@ -463,5 +463,9 @@
 	"gabbro": {
 		"type": "full_cube",
 		"index": 119
-	}
+	},
+    "sidewalk": {
+        "type": "full_cube",
+        "index": 120
+    }
 }
