@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/slab_top",
-  "textures": {
-    "bottom": "gauntlet:block/old_brick_road",
-    "side": "gauntlet:block/old_brick_road",
-    "top": "gauntlet:block/old_brick_road"
-  }
-}
