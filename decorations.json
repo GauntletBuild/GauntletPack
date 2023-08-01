@@ -40,9 +40,9 @@
         "type": "clicked",
         "down": 9,
         "up": 9,
-        "north": 13,
-        "east": 11,
-        "south": 12,
-        "west": 10
+        "north": 10,
+        "east": 12,
+        "south": 11,
+        "west": 13
     }
 }
