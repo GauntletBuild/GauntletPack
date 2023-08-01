@@ -38,7 +38,7 @@
         "index": 9,
         "shape": "mini",
         "type": "clicked",
-        "up": 9,
+        "down": 9,
         "north": 10,
         "east": 12,
         "south": 13,
