@@ -1,6 +1,22 @@
 {
-  "pebbles": {
-    "index": 0,
-    "shape": "mini"
-  }
+    "pebbles": {
+        "index": 0,
+        "shape": "mini"
+    },
+    "brazier": {
+        "index": 1,
+        "shape": "full"
+    },
+    "brazier_extinguished": {
+        "index": 2,
+        "shape": "full"
+    },
+    "grate_bottom": {
+        "index": 3,
+        "shape": "full"
+    },
+    "grate_top": {
+        "index": 4,
+        "shape": "full"
+    }
 }

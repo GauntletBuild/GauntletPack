@@ -1,3 +1,4 @@
 {
-  "minecraft:light_gray_concrete_powder": true
+    "minecraft:light_gray_concrete_powder": true,
+    "minecraft:black_concrete_powder": true
 }

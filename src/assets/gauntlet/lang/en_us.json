@@ -115,5 +115,9 @@
 	"item.gauntlet.charred_grass": "Charred Grass",
     "item.gauntlet.checkered_tiles": "Checkered Tiles",
 	"item.gauntlet.gabbro": "Gabbro",
-	"item.gauntlet_decoration.pebbles": "Pebbles"
+	"item.gauntlet_decoration.pebbles": "Pebbles",
+    "item.gauntlet_decoration.brazier": "Brazier",
+    "item.gauntlet_decoration.brazier_extinguished": "Extinguished Brazier",
+    "item.gauntlet_decoration.grate_bottom": "Bottom Grate",
+    "item.gauntlet_decoration.grate_top": "Top Grate"
 }

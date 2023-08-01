@@ -34,6 +34,18 @@
             {
                 "model": "gauntlet:decoration/pebbles/pebble_11"
             }
-        ]
+        ],
+        "north=up,south=up,east=up,west=side,power=0": {
+            "model": "gauntlet:decoration/brazier"
+        },
+        "north=up,south=up,east=up,west=none,power=0": {
+            "model": "gauntlet:decoration/brazier_extinguished"
+        },
+        "north=up,south=up,east=side,west=up,power=0": {
+            "model": "gauntlet:decoration/grate_bottom"
+        },
+        "north=up,south=up,east=side,west=side,power=0": {
+            "model": "gauntlet:decoration/grate_top"
+        }
     }
 }
