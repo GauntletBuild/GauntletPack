@@ -2,31 +2,31 @@
     "variants": {
         "": [
             {
-                "model": "minecraft:block/brick_road/old_brick_road",
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic",
                 "weight": 10
             },
             {
-                "model": "minecraft:block/brick_road/old_brick_road_1",
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_1",
                 "weight": 20
             },
             {
-                "model": "minecraft:block/brick_road/old_brick_road_2",
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_2",
                 "weight": 10
             },
             {
-                "model": "minecraft:block/brick_road/old_brick_road_3",
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_3",
                 "weight": 20
             },
             {
-                "model": "minecraft:block/brick_road/old_brick_road_4",
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_4",
                 "weight": 10
             },
             {
-                "model": "minecraft:block/brick_road/old_brick_road_5",
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_5",
                 "weight": 20
             },
             {
-                "model": "minecraft:block/brick_road/old_brick_road_6",
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_6",
                 "weight": 30
             }
         ]
