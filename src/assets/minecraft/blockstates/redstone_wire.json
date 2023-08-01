@@ -33,6 +33,138 @@
             },
             {
                 "model": "gauntlet:decoration/pebbles/pebble_11"
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_1",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_2",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_3",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_4",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_5",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_6",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_7",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_8",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_9",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_10",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_11",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_1",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_2",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_3",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_4",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_5",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_6",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_7",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_8",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_9",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_10",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_11",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_1",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_2",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_3",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_4",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_5",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_6",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_7",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_8",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_9",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_10",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/pebbles/pebble_11",
+                "y": 270
             }
         ],
         "north=up,south=up,east=up,west=side,power=0": {
@@ -62,16 +194,118 @@
             },
             {
                 "model": "gauntlet:decoration/rocks/alabaster_rocks_5"
+            },
+            {
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_1",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_2",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_3",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_4",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_5",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_1",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_2",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_3",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_4",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_5",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_1",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_2",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_3",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_4",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/rocks/alabaster_rocks_5",
+                "y": 270
             }
         ],
-        "north=up,south=up,east=none,west=up,power=0": {
-            "model": "gauntlet:decoration/flower_beds/blue_flowerbed"
-        },
-        "north=up,south=up,east=none,west=side,power=0": {
-            "model": "gauntlet:decoration/flower_beds/magenta_flowerbed"
-        },
-        "north=up,south=up,east=none,west=none,power=0": {
-            "model": "gauntlet:decoration/flower_beds/white_flowerbed"
-        }
+        "north=up,south=up,east=none,west=up,power=0": [
+            {
+                "model": "gauntlet:decoration/flower_beds/blue_flowerbed"
+            },
+            {
+                "model": "gauntlet:decoration/flower_beds/blue_flowerbed",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/flower_beds/blue_flowerbed",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/flower_beds/blue_flowerbed",
+                "y": 270
+            }
+        ],
+        "north=up,south=up,east=none,west=side,power=0": [
+            {
+                "model": "gauntlet:decoration/flower_beds/magenta_flowerbed"
+            },
+            {
+                "model": "gauntlet:decoration/flower_beds/magenta_flowerbed",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/flower_beds/magenta_flowerbed",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/flower_beds/magenta_flowerbed",
+                "y": 270
+            }
+        ],
+        "north=up,south=up,east=none,west=none,power=0": [
+            {
+                "model": "gauntlet:decoration/flower_beds/white_flowerbed"
+            },
+            {
+                "model": "gauntlet:decoration/flower_beds/white_flowerbed",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/flower_beds/white_flowerbed",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/flower_beds/white_flowerbed",
+                "y": 270
+            }
+        ]
     }
 }
