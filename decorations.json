@@ -33,5 +33,15 @@
     "white_flowerbed": {
         "index": 8,
         "shape": "flat"
+    },
+    "snuffed_torch": {
+        "index": 9,
+        "shape": "mini",
+        "type": "clicked",
+        "down": 9,
+        "north": 10,
+        "east": 12,
+        "south": 11,
+        "west": 13
     }
 }
