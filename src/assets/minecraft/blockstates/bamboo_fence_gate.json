@@ -30,12 +30,12 @@
             "y": 0
         },
         "facing=east,in_wall=false,open=false": {
-            "model": "minecraft:block/bamboo_fence_gate",
+            "model": "gauntlet:block/alabaster/alabaster_balustrade_straight",
             "uvlock": false,
             "y": 270
         },
         "facing=north,in_wall=false,open=false": {
-            "model": "minecraft:block/bamboo_fence_gate",
+            "model": "gauntlet:block/alabaster/alabaster_balustrade_straight",
             "uvlock": false,
             "y": 180
         }
