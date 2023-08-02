@@ -1,0 +1,74 @@
+{
+	"credit": "hatsondogs",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "gauntlet:block/alabaster/alabaster_balustrade_diagonal",
+		"1": "gauntlet:block/alabaster/alabaster_balustrade_top",
+		"particle": "gauntlet:decoration/balustrade/alabaster_balustrade_diagonal"
+	},
+	"elements": [
+		{
+			"from": [6, 2, -5],
+			"to": [10, 14, -1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 9]},
+			"faces": {
+				"north": {"uv": [11.5, 10, 13.5, 16], "texture": "#0"},
+				"east": {"uv": [11.5, 10, 13.5, 16], "texture": "#0"},
+				"south": {"uv": [11.5, 10, 13.5, 16], "texture": "#0"},
+				"west": {"uv": [11.5, 10, 13.5, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 10, 3],
+			"to": [10, 22, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 9]},
+			"faces": {
+				"north": {"uv": [11.5, 10, 13.5, 16], "texture": "#0"},
+				"east": {"uv": [11.5, 10, 13.5, 16], "texture": "#0"},
+				"south": {"uv": [11.5, 10, 13.5, 16], "texture": "#0"},
+				"west": {"uv": [11.5, 10, 13.5, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 10, 3],
+			"to": [10, 22, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 9]},
+			"faces": {
+				"north": {"uv": [11.5, 10, 13.5, 16], "texture": "#0"},
+				"east": {"uv": [11.5, 10, 13.5, 16], "texture": "#0"},
+				"south": {"uv": [11.5, 10, 13.5, 16], "texture": "#0"},
+				"west": {"uv": [11.5, 10, 13.5, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 17, 8],
+			"to": [12, 21, 30.65],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 0, 9]},
+			"faces": {
+				"east": {"uv": [0, 14, 11.5, 16], "texture": "#0"},
+				"west": {"uv": [0, 14, 11.5, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 11.5, 4], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [11.5, 0, 15.5, 11.5], "rotation": 180, "texture": "#1"}
+			}
+		},
+		{
+			"from": [4, 4, -3],
+			"to": [12, 12, 19.65],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 0, 9]},
+			"faces": {
+				"east": {"uv": [0, 10, 11.5, 14], "texture": "#0"},
+				"west": {"uv": [0, 10, 11.5, 14], "texture": "#0"},
+				"up": {"uv": [0, 0, 11.5, 6], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 7, 11.5, 16], "rotation": 270, "texture": "#1"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "bone",
+			"origin": [0, 0, 2],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}

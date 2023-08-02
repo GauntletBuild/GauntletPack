@@ -52,5 +52,9 @@
         "east": 17,
         "south": 14,
         "west": 15
-	}
+	},
+    "alabaster_ball": {
+        "index": 18,
+        "shape": "mini"
+    }
 }
