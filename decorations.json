@@ -61,19 +61,19 @@
 		"index": 19,
 		"shape": "full",
         "type": "clicked",
-        "north": 20,
-        "east": 21,
-        "south": 22,
-        "west": 23
+        "north": 21,
+        "east": 22,
+        "south": 19,
+        "west": 20
 	},
 	"large_ornate_pine_bench": {
-		"index": 24,
+		"index": 23,
 		"shape": "full",
         "type": "clicked",
         "north": 25,
         "east": 26,
-        "south": 27,
-        "west": 28
+        "south": 23,
+        "west": 24
 	}
 	
 }
