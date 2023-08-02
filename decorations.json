@@ -43,5 +43,9 @@
         "east": 12,
         "south": 13,
         "west": 11
-    }
+    },
+	"ornate_pine_bench": {
+		"index": 10,
+		"shape": "flat"
+	}
 }
