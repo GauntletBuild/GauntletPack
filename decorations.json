@@ -48,9 +48,9 @@
 		"index": 14,
 		"shape": "flat",
         "type": "clicked",
-        "north": 14,
-        "east": 15,
-        "south": 16,
-        "west": 17
+        "north": 16,
+        "east": 17,
+        "south": 14,
+        "west": 15
 	}
 }
