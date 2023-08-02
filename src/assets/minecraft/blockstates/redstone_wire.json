@@ -357,8 +357,8 @@
             "model": "gauntlet:decoration/torches/snuffed_wall_torch",
             "y": 180
         },
-		"north=none,south=side,east=none,west=side,power=0": {
+		"north=none,south=side,east=side,west=up,power=0": {
 			"model": "gauntlet:decoration/benches/ornate_pine_bench"
-		}
+			}
     }
 }
