@@ -359,6 +359,6 @@
         },
 		"north=none,south=side,east=side,west=up,power=0": {
 			"model": "gauntlet:decoration/benches/ornate_pine_bench"
-			}
+		}
     }
 }
