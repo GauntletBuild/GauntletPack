@@ -56,5 +56,24 @@
     "alabaster_ball": {
         "index": 18,
         "shape": "mini"
-    }
+    },
+	"centered_ornate_pine_bench": {
+		"index": 19,
+		"shape": "full",
+        "type": "clicked",
+        "north": 20,
+        "east": 21,
+        "south": 22,
+        "west": 23
+	},
+	"large_ornate_pine_bench": {
+		"index": 24,
+		"shape": "full",
+        "type": "clicked",
+        "north": 25,
+        "east": 26,
+        "south": 27,
+        "west": 28
+	}
+	
 }
