@@ -46,7 +46,7 @@
     },
 	"ornate_pine_bench": {
 		"index": 14,
-		"shape": "flat",
+		"shape": "full",
         "type": "clicked",
         "north": 16,
         "east": 17,
