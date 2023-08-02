@@ -357,8 +357,20 @@
             "model": "gauntlet:decoration/torches/snuffed_wall_torch",
             "y": 180
         },
-		"north=up,south=side,east=side,west=none,power=0": {
-			"model": "gauntlet:decoration/benches/ornate_pine_bench"
-		}
+        "north=up,south=side,east=side,west=none,power=0": {
+            "model": "gauntlet:decoration/benches/ornate_pine_bench"
+        },
+        "north=up,south=side,east=none,west=up,power=0": {
+            "model": "gauntlet:decoration/benches/ornate_pine_bench",
+            "y": 90
+        },
+        "north=up,south=side,east=none,west=side,power=0": {
+            "model": "gauntlet:decoration/benches/ornate_pine_bench",
+            "y": 180
+        },
+        "north=up,south=side,east=none,west=none,power=0": {
+            "model": "gauntlet:decoration/benches/ornate_pine_bench",
+            "y": 270
+        }
     }
 }
