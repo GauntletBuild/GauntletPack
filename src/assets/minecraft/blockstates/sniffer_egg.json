@@ -1,8 +1,9 @@
 {
   "variants": {
-    "hatch=0": {
-      "model": "gauntlet:block/alabaster/alabaster_post"
-    },
+    "hatch=0": [
+      {"model": "gauntlet:block/alabaster/alabaster_post1"},
+      {"model": "gauntlet:block/alabaster/alabaster_post2"}
+    ],
     "hatch=1": {
       "model": "minecraft:block/sniffer_egg_slightly_cracked"
     },
