@@ -133,6 +133,7 @@
           "model": "minecraft:block/vine_across_1"
         },
         "when": {
+          "up": "true",
           "north": "true",
           "south": "true"
         }
@@ -142,6 +143,7 @@
           "model": "minecraft:block/vine_across_2"
         },
         "when": {
+          "up": "true",
           "east": "true",
           "west": "true"
         }
