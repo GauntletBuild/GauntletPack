@@ -5,7 +5,10 @@
           "model": "minecraft:block/vine"
         },
         "when": {
-          "north": "true"
+          "north": "true",
+          "east": "false",
+          "south": "false",
+          "west": "false"
         }
       },
       {
@@ -15,7 +18,10 @@
           "y": 90
         },
         "when": {
-          "east": "true"
+          "north": "false",
+          "east": "true",
+          "south": "false",
+          "west": "false"
         }
       },
       {
@@ -25,7 +31,10 @@
           "y": 180
         },
         "when": {
-          "south": "true"
+          "north": "false",
+          "east": "false",
+          "south": "true",
+          "west": "false"
         }
       },
       {
@@ -35,6 +44,9 @@
           "y": 270
         },
         "when": {
+          "north": "false",
+          "east": "false",
+          "south": "false",
           "west": "true"
         }
       },
@@ -43,7 +55,11 @@
           "model": "minecraft:block/vine_up"
         },
         "when": {
-          "up": "true"
+          "up": "true",
+          "north": "false",
+          "east": "false",
+          "south": "false",
+          "west": "false"
         }
       },
       {
@@ -52,7 +68,10 @@
         },
         "when": {
           "up": "true",
-          "north": "true"
+          "north": "true",
+          "east": "false",
+          "south": "false",
+          "west": "false"
         }
       },  
       {
@@ -62,7 +81,10 @@
         },
         "when": {
           "up": "true",
-          "east": "true"
+          "north": "false",
+          "east": "true",
+          "south": "false",
+          "west": "false"
         }
       },  
       {
@@ -72,7 +94,10 @@
         },
         "when": {
           "up": "true",
-          "south": "true"
+          "north": "false",
+          "east": "false",
+          "south": "true",
+          "west": "false"
         }
       },  
       {
@@ -82,6 +107,9 @@
         },
         "when": {
           "up": "true",
+          "north": "false",
+          "east": "false",
+          "south": "false",
           "west": "true"
         }
       }, 
@@ -92,7 +120,9 @@
         "when": {
           "up": "true",
           "north": "true",
-          "east": "true"
+          "east": "true",
+          "south": "false",
+          "west": "false"
         }
       },  
       {
@@ -102,8 +132,10 @@
         },
         "when": {
           "up": "true",
+          "north": "false",
           "east": "true",
-          "south": "true"
+          "south": "true",
+          "west": "false"
         }
       },  
       {
@@ -113,6 +145,8 @@
         },
         "when": {
           "up": "true",
+          "north": "false",
+          "east": "false",
           "south": "true",
           "west": "true"
         }
@@ -124,27 +158,33 @@
         },
         "when": {
           "up": "true",
-          "west": "true",
-          "north": "true"
+          "north": "true",
+          "east": "false",
+          "south": "false",
+          "west": "true"
         }
       },    
       {
         "apply": {
-          "model": "minecraft:block/vine_across_1"
+          "model": "minecraft:block/vine_up_across_1"
         },
         "when": {
           "up": "true",
           "north": "true",
-          "south": "true"
+          "east": "false",
+          "south": "true",
+          "west": "false"
         }
       },  
       {
         "apply": {
-          "model": "minecraft:block/vine_across_2"
+          "model": "minecraft:block/vine_up_across_2"
         },
         "when": {
           "up": "true",
+          "north": "false",
           "east": "true",
+          "south": "false",
           "west": "true"
         }
       }
