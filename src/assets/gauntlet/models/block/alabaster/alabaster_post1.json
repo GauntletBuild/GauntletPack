@@ -3,6 +3,7 @@
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
+		"particle": "block/end_stone_bricks",
 		"1": "gauntlet:block/alabaster/alabaster_post"
 	},
 	"elements": [
