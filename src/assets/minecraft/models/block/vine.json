@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "guantlet:block/ivy",
-		"particle": "guantlet:block/ivy"
+		"0": "gauntlet:block/ivy",
+		"particle": "gauntlet:block/ivy"
 	},
 	"elements": [
 		{
