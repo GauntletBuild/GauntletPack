@@ -6,19 +6,19 @@
                     "model": "minecraft:block/vine"
                 },
                 {
-                    "model": "minecraft:block/vine_1"
+                    "model": "minecraft:block/vine"
                 },
                 {
-                    "model": "minecraft:block/vine_2"
+                    "model": "minecraft:block/vine"
                 },
                 {
-                    "model": "minecraft:block/vine_3"
+                    "model": "minecraft:block/vine"
                 },
                 {
-                    "model": "minecraft:block/vine_4"
+                    "model": "minecraft:block/vine"
                 },
                 {
-                    "model": "minecraft:block/vine_5"
+                    "model": "minecraft:block/vine"
                 }
             ],
             "when": {
@@ -31,19 +31,19 @@
                     "model": "minecraft:block/vine"
                 },
                 {
-                    "model": "minecraft:block/vine_1"
+                    "model": "minecraft:block/vine"
                 },
                 {
-                    "model": "minecraft:block/vine_2"
+                    "model": "minecraft:block/vine"
                 },
                 {
-                    "model": "minecraft:block/vine_3"
+                    "model": "minecraft:block/vine"
                 },
                 {
-                    "model": "minecraft:block/vine_4"
+                    "model": "minecraft:block/vine"
                 },
                 {
-                    "model": "minecraft:block/vine_5"
+                    "model": "minecraft:block/vine"
                 }
             ],
             "when": {
@@ -62,27 +62,27 @@
                     "y": 90
                 },
                 {
-                    "model": "minecraft:block/vine_1",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 90
                 },
                 {
-                    "model": "minecraft:block/vine_2",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 90
                 },
                 {
-                    "model": "minecraft:block/vine_3",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 90
                 },
                 {
-                    "model": "minecraft:block/vine_4",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 90
                 },
                 {
-                    "model": "minecraft:block/vine_5",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 90
                 }
@@ -99,27 +99,27 @@
                     "y": 90
                 },
                 {
-                    "model": "minecraft:block/vine_1",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 90
                 },
                 {
-                    "model": "minecraft:block/vine_2",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 90
                 },
                 {
-                    "model": "minecraft:block/vine_3",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 90
                 },
                 {
-                    "model": "minecraft:block/vine_4",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 90
                 },
                 {
-                    "model": "minecraft:block/vine_5",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 90
                 }
@@ -140,27 +140,27 @@
                     "y": 180
                 },
                 {
-                    "model": "minecraft:block/vine_1",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 180
                 },
                 {
-                    "model": "minecraft:block/vine_2",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 180
                 },
                 {
-                    "model": "minecraft:block/vine_3",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 180
                 },
                 {
-                    "model": "minecraft:block/vine_4",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 180
                 },
                 {
-                    "model": "minecraft:block/vine_5",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 180
                 }
@@ -177,27 +177,27 @@
                     "y": 180
                 },
                 {
-                    "model": "minecraft:block/vine_1",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 180
                 },
                 {
-                    "model": "minecraft:block/vine_2",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 180
                 },
                 {
-                    "model": "minecraft:block/vine_3",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 180
                 },
                 {
-                    "model": "minecraft:block/vine_4",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 180
                 },
                 {
-                    "model": "minecraft:block/vine_5",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 180
                 }
@@ -218,27 +218,27 @@
                     "y": 270
                 },
                 {
-                    "model": "minecraft:block/vine_1",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 270
                 },
                 {
-                    "model": "minecraft:block/vine_2",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 270
                 },
                 {
-                    "model": "minecraft:block/vine_3",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 270
                 },
                 {
-                    "model": "minecraft:block/vine_4",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 270
                 },
                 {
-                    "model": "minecraft:block/vine_5",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 270
                 }
@@ -255,27 +255,27 @@
                     "y": 270
                 },
                 {
-                    "model": "minecraft:block/vine_1",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 270
                 },
                 {
-                    "model": "minecraft:block/vine_2",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 270
                 },
                 {
-                    "model": "minecraft:block/vine_3",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 270
                 },
                 {
-                    "model": "minecraft:block/vine_4",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 270
                 },
                 {
-                    "model": "minecraft:block/vine_5",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "y": 270
                 }
@@ -296,27 +296,27 @@
                     "x": 270
                 },
                 {
-                    "model": "minecraft:block/vine_1",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "x": 270
                 },
                 {
-                    "model": "minecraft:block/vine_2",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "x": 270
                 },
                 {
-                    "model": "minecraft:block/vine_3",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "x": 270
                 },
                 {
-                    "model": "minecraft:block/vine_4",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "x": 270
                 },
                 {
-                    "model": "minecraft:block/vine_5",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "x": 270
                 }
@@ -333,27 +333,27 @@
                     "x": 270
                 },
                 {
-                    "model": "minecraft:block/vine_1",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "x": 270
                 },
                 {
-                    "model": "minecraft:block/vine_2",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "x": 270
                 },
                 {
-                    "model": "minecraft:block/vine_3",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "x": 270
                 },
                 {
-                    "model": "minecraft:block/vine_4",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "x": 270
                 },
                 {
-                    "model": "minecraft:block/vine_5",
+                    "model": "minecraft:block/vine",
                     "uvlock": true,
                     "x": 270
                 }
