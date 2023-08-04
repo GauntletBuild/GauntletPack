@@ -56,7 +56,7 @@
       },
       {
         "apply": {
-          "model": "minecraft:block/vine_up_1"
+          "model": "minecraft:block/vine_right_angle"
         },
         "when": {
           "up": "true",
@@ -68,7 +68,7 @@
       },  
       {
         "apply": {
-          "model": "minecraft:block/vine_up_1",
+          "model": "minecraft:block/vine_right_angle",
           "y": 90
         },
         "when": {
@@ -81,7 +81,7 @@
       },  
       {
         "apply": {
-          "model": "minecraft:block/vine_up_1",
+          "model": "minecraft:block/vine_right_angle",
           "y": 180
         },
         "when": {
@@ -94,7 +94,7 @@
       },  
       {
         "apply": {
-          "model": "minecraft:block/vine_up_1",
+          "model": "minecraft:block/vine_right_angle",
           "y": 270
         },
         "when": {
@@ -107,7 +107,7 @@
       }, 
       {
         "apply": {
-          "model": "minecraft:block/vine_up_corner_1"
+          "model": "minecraft:block/vine_up_corner"
         },
         "when": {
           "up": "true",
@@ -119,7 +119,7 @@
       },  
       {
         "apply": {
-          "model": "minecraft:block/vine_up_corner_2",
+          "model": "minecraft:block/vine_up_corner",
           "y": 90
         },
         "when": {
@@ -132,7 +132,7 @@
       },  
       {
         "apply": {
-          "model": "minecraft:block/vine_up_corner_3",
+          "model": "minecraft:block/vine_up_corner",
           "y": 180
         },
         "when": {
@@ -145,7 +145,7 @@
       },  
       {
         "apply": {
-          "model": "minecraft:block/vine_up_corner_4",
+          "model": "minecraft:block/vine_up_corner",
           "y": 270
         },
         "when": {
@@ -158,7 +158,7 @@
       },    
       {
         "apply": {
-          "model": "minecraft:block/vine_up_across_1"
+          "model": "minecraft:block/vine_up_across"
         },
         "when": {
           "up": "true",
@@ -170,7 +170,8 @@
       },  
       {
         "apply": {
-          "model": "minecraft:block/vine_up_across_2"
+          "model": "minecraft:block/vine_up_across",
+          "y": 90
         },
         "when": {
           "up": "true",
