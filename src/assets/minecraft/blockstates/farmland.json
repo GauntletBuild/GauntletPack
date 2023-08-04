@@ -6,7 +6,7 @@
     "moisture=1": {
       "model": "minecraft:block/farmland"
     },
-    "moisture=2": {
+    "moisture=2": [
       { "model": "gauntlet:block/paths/mycelium_path_0" },
       { "model": "gauntlet:block/paths/mycelium_path_0", "y": 90 },
       { "model": "gauntlet:block/paths/mycelium_path_0", "y": 180 },
@@ -27,7 +27,8 @@
       { "model": "gauntlet:block/paths/mycelium_path_4", "y": 90 },
       { "model": "gauntlet:block/paths/mycelium_path_4", "y": 180 },
       { "model": "gauntlet:block/paths/mycelium_path_4", "y": 270 }
-    },
+	  
+    ],
     "moisture=3": [
       { "model": "gauntlet:block/paths/snow_path_0" },
       { "model": "gauntlet:block/paths/snow_path_0", "y": 90 },
