@@ -26,8 +26,7 @@
 	  { "model": "gauntlet:block/paths/mycelium_path_4" },
       { "model": "gauntlet:block/paths/mycelium_path_4", "y": 90 },
       { "model": "gauntlet:block/paths/mycelium_path_4", "y": 180 },
-      { "model": "gauntlet:block/paths/mycelium_path_4", "y": 270 }
-	  
+      { "model": "gauntlet:block/paths/mycelium_path_4", "y": 270 } 
     ],
     "moisture=3": [
       { "model": "gauntlet:block/paths/snow_path_0" },
