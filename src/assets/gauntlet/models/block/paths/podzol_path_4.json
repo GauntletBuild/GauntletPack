@@ -1,8 +1,8 @@
 {   "parent": "block/block",
     "textures": {
         "particle": "block/dirt_4",
-        "top": "block/paths/podzol_path_top",
-        "side": "block/paths/podzol_path_side_4",
+        "top": "gauntlet:block/paths/podzol_path_top",
+        "side": "gauntlet:block/paths/podzol_path_side_4",
         "bottom": "block/dirt_4"
     },
     "elements": [

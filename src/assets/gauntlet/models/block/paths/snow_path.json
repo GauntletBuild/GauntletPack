@@ -2,8 +2,8 @@
 {   "parent": "block/block",
     "textures": {
         "particle": "minecraft:block/dirt",
-        "top": "gauntlet:block/paths/snow_path_top",
-        "side": "gauntlet:block/paths/snow_path_side",
+        "top": "gauntlet:gauntlet:block/paths/snow_path_top",
+        "side": "gauntlet:gauntlet:block/paths/snow_path_side",
         "bottom": "minecraft:block/dirt"
     },
     "elements": [
