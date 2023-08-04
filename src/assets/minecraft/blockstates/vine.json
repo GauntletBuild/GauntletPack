@@ -68,7 +68,7 @@
       },  
       {
         "apply": {
-          "model": "minecraft:block/vine_up_2",
+          "model": "minecraft:block/vine_up_1",
           "y": 90
         },
         "when": {
@@ -81,7 +81,7 @@
       },  
       {
         "apply": {
-          "model": "minecraft:block/vine_up_3",
+          "model": "minecraft:block/vine_up_1",
           "y": 180
         },
         "when": {
@@ -94,7 +94,7 @@
       },  
       {
         "apply": {
-          "model": "minecraft:block/vine_up_4",
+          "model": "minecraft:block/vine_up_1",
           "y": 270
         },
         "when": {
