@@ -1,8 +1,8 @@
 {   "parent": "block/block",
     "textures": {
         "particle": "block/dirt_2",
-        "top": "block/mycelium_path_top",
-        "side": "block/mycelium_path_side_2",
+        "top": "gauntlet:block/paths/mycelium_path_top",
+        "side": "gauntlet:block/paths/mycelium_path_side_2",
         "bottom": "block/dirt_2"
     },
     "elements": [
