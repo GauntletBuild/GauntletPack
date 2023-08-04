@@ -180,6 +180,69 @@
           "south": "false",
           "west": "true"
         }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/vine_up_third"
+        },
+        "when": {
+          "up": "true",
+          "north": "true",
+          "east": "true",
+          "south": "false",
+          "west": "true"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/vine_up_third",
+          "y": 90
+        },
+        "when": {
+          "up": "true",
+          "north": "true",
+          "east": "true",
+          "south": "true",
+          "west": "false"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/vine_up_third",
+          "y": 180
+        },
+        "when": {
+          "up": "true",
+          "north": "false",
+          "east": "true",
+          "south": "true",
+          "west": "true"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/vine_up_third",
+          "y": 270
+        },
+        "when": {
+          "up": "true",
+          "north": "true",
+          "east": "false",
+          "south": "true",
+          "west": "true"
+        }
+      },
+      {
+        "apply": {
+          "model": "minecraft:block/vine_up_full"
+        },
+        "when": {
+          "up": "true",
+          "north": "true",
+          "east": "true",
+          "south": "true",
+          "west": "true"
+        }
       }
     ]
   }
