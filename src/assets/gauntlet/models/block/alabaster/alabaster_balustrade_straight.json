@@ -1,11 +1,10 @@
 {
 	"credit": "hatsondogs",
-	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"particle": "block/end_stone_bricks",
 		"0": "gauntlet:block/alabaster/alabaster_balustrade_straight",
-		"1": "gauntlet:block/alabaster/alabaster_balustrade_top_straight"
+		"1": "gauntlet:block/alabaster/alabaster_balustrade_top_straight",
+		"particle": "block/end_stone_bricks"
 	},
 	"elements": [
 		{
