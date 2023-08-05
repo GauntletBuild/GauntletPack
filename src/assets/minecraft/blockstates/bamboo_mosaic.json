@@ -2,32 +2,16 @@
     "variants": {
         "": [
             {
-                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic",
-                "weight": 10
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic"
             },
             {
-                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_1",
-                "weight": 20
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_1"
             },
             {
-                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_2",
-                "weight": 10
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_2"
             },
             {
-                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_3",
-                "weight": 20
-            },
-            {
-                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_4",
-                "weight": 10
-            },
-            {
-                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_5",
-                "weight": 20
-            },
-            {
-                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_6",
-                "weight": 30
+                "model": "minecraft:block/bamboo_mosaic/bamboo_mosaic_3"
             }
         ]
     }
