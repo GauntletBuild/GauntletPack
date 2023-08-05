@@ -1,0 +1,58 @@
+{
+    "variants": {
+        "type=bottom": [
+            {
+                "model": "minecraft:block/bamboo_planks/bamboo_planks_bottom",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bamboo_planks/bamboo_planks_bottom_1",
+                "weight": 20
+            },
+            {
+                "model": "minecraft:block/bamboo_planks/bamboo_planks_bottom_2",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bamboo_planks/bamboo_planks_bottom_3",
+                "weight": 20
+            }
+        ],
+        "type=double": [
+            {
+                "model": "minecraft:block/bamboo_planks/bamboo_planks",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bamboo_planks/bamboo_planks_1",
+                "weight": 20
+            },
+            {
+                "model": "minecraft:block/bamboo_planks/bamboo_planks_2",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bamboo_planks/bamboo_planks_3",
+                "weight": 20
+            }
+        ],
+        "type=top": [
+            {
+                "model": "minecraft:block/bamboo_planks/bamboo_planks_top",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bamboo_planks/bamboo_planks_top_1",
+                "weight": 20
+            },
+            {
+                "model": "minecraft:block/bamboo_planks/bamboo_planks_top_2",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/bamboo_planks/bamboo_planks_top_3",
+                "weight": 20
+            }
+        ]
+    }
+}
