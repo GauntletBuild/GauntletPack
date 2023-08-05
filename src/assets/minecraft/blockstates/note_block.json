@@ -922,6 +922,66 @@
             {
                 "model": "gauntlet:block/roads/sidewalk_11"
             }
+        ],
+        "instrument=snare,note=10,powered=true": [
+            {
+                "model": "gauntlet:block/roads/eroded_sidewalk"
+            },
+            {
+                "model": "gauntlet:block/roads/eroded_sidewalk_1"
+            },
+            {
+                "model": "gauntlet:block/roads/eroded_sidewalk_2"
+            },
+            {
+                "model": "gauntlet:block/roads/eroded_sidewalk_3"
+            }
+        ],
+        "instrument=snare,note=11,powered=false": [
+            {
+                "model": "gauntlet:block/roads/very_eroded_sidewalk"
+            },
+            {
+                "model": "gauntlet:block/roads/very_eroded_sidewalk_1"
+            }
+        ],
+        "instrument=snare,note=11,powered=true": [
+            {
+                "model": "gauntlet:block/roads/sidewalk_gutter"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_gutter_1"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_gutter_2"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_gutter_3"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_gutter_4"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_gutter_5"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_gutter_6"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_gutter_7"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_gutter_8"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_gutter_9"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_gutter_10"
+            },
+            {
+                "model": "gauntlet:block/roads/sidewalk_gutter_11"
+            }
         ]
     }
 }

@@ -467,5 +467,17 @@
     "sidewalk": {
         "type": "full_cube",
         "index": 120
+    },
+    "eroded_sidewalk": {
+        "type": "full_cube",
+        "index": 121
+    },
+    "very_eroded_sidewalk": {
+        "type": "full_cube",
+        "index": 122
+    },
+    "sidewalk_gutter": {
+        "type": "full_cube",
+        "index": 123
     }
 }

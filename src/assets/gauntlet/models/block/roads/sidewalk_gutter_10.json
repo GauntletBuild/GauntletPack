@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:block/cube_column",  "textures": {
+    "end": "gauntlet:block/roads/sidewalk_10", "side": "gauntlet:block/roads/sidewalk_side" }
+}
