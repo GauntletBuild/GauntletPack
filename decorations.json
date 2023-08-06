@@ -98,5 +98,9 @@
     "iron_post": {
       "index": 32,
       "shape": "full"
+    },
+    "iron_post_two": {
+      "index": 33,
+      "shape": "full"
     }
 }

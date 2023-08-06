@@ -422,6 +422,9 @@
 		},
         "north=side,south=up,east=side,west=none,power=0": {
             "model": "gauntlet:decoration/iron_fence_post"
+        },
+        "north=side,south=up,east=none,west=up,power=0": {
+            "model": "gauntlet:decoration/iron_fence_post_two"
         }
     }
 }
