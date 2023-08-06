@@ -94,5 +94,9 @@
 	"gold_bell": {
 		"index": 31,
         "shape": "full"
-	}
+	},
+    "iron_post": {
+      "index": 32,
+      "shape": "full"
+    }
 }
