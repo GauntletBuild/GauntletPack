@@ -982,6 +982,28 @@
             {
                 "model": "gauntlet:block/roads/sidewalk_gutter_11"
             }
+        ],
+        "instrument=snare,note=12,powered=false": [
+            {
+                "model": "gauntlet:block/roads/dark_palerock"
+            },
+            {
+                "model": "gauntlet:block/roads/dark_palerock_1"
+            }
+        ],
+        "instrument=snare,note=12,powered=true": [
+            {
+                "model": "gauntlet:block/roads/chiseled_palerock"
+            },
+            {
+                "model": "gauntlet:block/roads/chiseled_palerock"
+            },
+            {
+                "model": "gauntlet:block/roads/chiseled_palerock"
+            },
+            {
+                "model": "gauntlet:block/roads/chiseled_palerock"
+            }
         ]
     }
 }

@@ -479,5 +479,13 @@
     "sidewalk_gutter": {
         "type": "full_cube",
         "index": 123
+    },
+    "dark_palerock": {
+        "type": "full_cube",
+        "index": 124
+    },
+    "chiseled_palerock": {
+        "type": "full_cube",
+        "index": 125
     }
 }
