@@ -841,15 +841,63 @@
                 "model": "gauntlet:block/charred_grass"
             },
             {
-                "model": "gauntlet:block/charred_grass",
+                "model": "gauntlet:block/charred_grass_0",
                 "y": 90
             },
             {
-                "model": "gauntlet:block/charred_grass",
+                "model": "gauntlet:block/charred_grass_0",
                 "y": 180
             },
             {
-                "model": "gauntlet:block/charred_grass",
+                "model": "gauntlet:block/charred_grass_0",
+                "y": 270
+            },
+			{
+                "model": "gauntlet:block/charred_grass_1",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:block/charred_grass_1",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/charred_grass_1",
+                "y": 270
+            },
+			{
+                "model": "gauntlet:block/charred_grass_2",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:block/charred_grass_2",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/charred_grass_2",
+                "y": 270
+            },
+			{
+                "model": "gauntlet:block/charred_grass_3",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:block/charred_grass_3",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/charred_grass_3",
+                "y": 270
+            },
+			{
+                "model": "gauntlet:block/charred_grass_4",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:block/charred_grass_4",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/charred_grass_4",
                 "y": 270
             }
         ],
