@@ -495,5 +495,9 @@
     "gold_plated_shingles": {
         "type": "full_cube",
         "index": 127
+    },
+    "alabaster_post": {
+        "type": "full_cube",
+        "index": 128
     }
 }

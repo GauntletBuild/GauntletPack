@@ -1063,6 +1063,14 @@
         ],
         "instrument=snare,note=13,powered=true": {
             "model": "gauntlet:block/shingles/gold_plated_shingles"
-        }
+        },
+        "instrument=snare,note=14,powered=false": [
+            {
+                "model": "gauntlet:block/alabaster/alabaster_post1"
+            },
+            {
+                "model": "gauntlet:block/alabaster/alabaster_post2"
+            }
+        ]
     }
 }
