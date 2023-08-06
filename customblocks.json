@@ -487,5 +487,10 @@
     "chiseled_pale_rock": {
         "type": "full_cube",
         "index": 125
+    },
+    "not_so_pale_rock": {
+        "type": "full_cube",
+        "index": 126
     }
+}
 }

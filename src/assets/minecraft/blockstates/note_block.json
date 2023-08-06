@@ -1004,6 +1004,14 @@
             {
                 "model": "gauntlet:block/chiseled_pale_rock_3"
             }
+        ],
+        "instrument=snare,note=13,powered=false": [
+            {
+                "model": "gauntlet:block/not_so_pale_rock"
+            },
+            {
+                "model": "gauntlet:block/not_so_pale_rock_1"
+            }
         ]
     }
 }
