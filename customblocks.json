@@ -480,11 +480,11 @@
         "type": "full_cube",
         "index": 123
     },
-    "dark_palerock": {
+    "dark_pale_rock": {
         "type": "full_cube",
         "index": 124
     },
-    "chiseled_palerock": {
+    "chiseled_pale_rock": {
         "type": "full_cube",
         "index": 125
     }

@@ -985,24 +985,24 @@
         ],
         "instrument=snare,note=12,powered=false": [
             {
-                "model": "gauntlet:block/dark_palerock"
+                "model": "gauntlet:block/dark_pale_rock"
             },
             {
-                "model": "gauntlet:block/dark_palerock_1"
+                "model": "gauntlet:block/dark_pale_rock_1"
             }
         ],
         "instrument=snare,note=12,powered=true": [
             {
-                "model": "gauntlet:block/chiseled_palerock"
+                "model": "gauntlet:block/chiseled_pale_rock"
             },
             {
-                "model": "gauntlet:block/chiseled_palerock_1"
+                "model": "gauntlet:block/chiseled_pale_rock_1"
             },
             {
-                "model": "gauntlet:block/chiseled_palerock_2"
+                "model": "gauntlet:block/chiseled_pale_rock_2"
             },
             {
-                "model": "gauntlet:block/chiseled_palerock_3"
+                "model": "gauntlet:block/chiseled_pale_rock_3"
             }
         ]
     }
