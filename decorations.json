@@ -86,5 +86,9 @@
 	"walnut_stool": {
 		"index": 29,
         "shape": "full"
+	},
+	"large_gold_bell": {
+		"index": 30,
+        "shape": "full"
 	}
 }

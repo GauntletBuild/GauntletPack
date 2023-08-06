@@ -413,6 +413,9 @@
 		},
 		"north=side,south=up,east=up,west=none,power=0": {
 			"model": "gauntlet:decoration/stools/walnut_stool"
+		},
+		"north=side,south=up,east=side,west=up,power=0": {
+			"model": "gauntlet:decoration/gold_bells/large_gold_bell"
 		}
     }
 }
