@@ -852,7 +852,7 @@
                 "model": "gauntlet:block/charred_grass_0",
                 "y": 270
             },
-			{
+            {
                 "model": "gauntlet:block/charred_grass_1",
                 "y": 90
             },
@@ -864,7 +864,7 @@
                 "model": "gauntlet:block/charred_grass_1",
                 "y": 270
             },
-			{
+            {
                 "model": "gauntlet:block/charred_grass_2",
                 "y": 90
             },
@@ -876,7 +876,7 @@
                 "model": "gauntlet:block/charred_grass_2",
                 "y": 270
             },
-			{
+            {
                 "model": "gauntlet:block/charred_grass_3",
                 "y": 90
             },
@@ -888,7 +888,7 @@
                 "model": "gauntlet:block/charred_grass_3",
                 "y": 270
             },
-			{
+            {
                 "model": "gauntlet:block/charred_grass_4",
                 "y": 90
             },
@@ -1060,6 +1060,9 @@
             {
                 "model": "gauntlet:block/not_so_pale_rock_1"
             }
-        ]
+        ],
+        "instrument=snare,note=13,powered=true": {
+            "model": "gauntlet:block/shingles/gold_plated_shingles"
+        }
     }
 }
