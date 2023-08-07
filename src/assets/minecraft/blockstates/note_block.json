@@ -1085,6 +1085,38 @@
             {
                 "model": "gauntlet:block/grimy_pale_rock_bricks_3"
             }
+        ],
+        "instrument=snare,note=15,powered=false": [
+            {
+                "model": "gauntlet:block/spiral_stone/spiral_stone"
+            },
+            {
+                "model": "gauntlet:block/spiral_stone/spiral_stone_1"
+            },
+            {
+                "model": "gauntlet:block/spiral_stone/spiral_stone_2"
+            },
+            {
+                "model": "gauntlet:block/spiral_stone/spiral_stone_3"
+            },
+            {
+                "model": "gauntlet:block/spiral_stone/spiral_stone_4"
+            },
+            {
+                "model": "gauntlet:block/spiral_stone/spiral_stone_5"
+            },
+            {
+                "model": "gauntlet:block/spiral_stone/spiral_stone_6"
+            },
+            {
+                "model": "gauntlet:block/spiral_stone/spiral_stone_7"
+            },
+            {
+                "model": "gauntlet:block/spiral_stone/spiral_stone_8"
+            },
+            {
+                "model": "gauntlet:block/spiral_stone/spiral_stone_9"
+            }
         ]
     }
 }
