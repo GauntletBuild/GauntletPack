@@ -425,6 +425,9 @@
         },
         "north=side,south=up,east=none,west=up,power=0": {
             "model": "gauntlet:decoration/iron_fence_post_two"
-        }
+        },
+		"north=side,south=up,east=none,west=side,power=0": {
+			"model": "gauntlet:decoration/gold_bells/colossal_gold_bell"
+		}
     }
 }

@@ -102,5 +102,9 @@
     "iron_post_two": {
       "index": 33,
       "shape": "full"
-    }
+    },
+	"colossal_gold_bell": {
+		"index": 34,
+		"shape": "full"
+	}
 }
