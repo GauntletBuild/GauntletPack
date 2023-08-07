@@ -503,9 +503,5 @@
     "grimy_pale_rock_bricks": {
         "type": "full_cube",
         "index": 129
-    },
-    "muddy_ash_wood": {
-        "type": "full_cube",
-        "index": 130
     }
 }

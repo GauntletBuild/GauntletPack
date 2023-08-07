@@ -1085,9 +1085,6 @@
             {
                 "model": "gauntlet:block/grimy_pale_rock_bricks_3"
             }
-        ],
-        "instrument=snare,note=15,powered=false": {
-            "model": "gauntlet:block/muddy_ash_wood"
-        }
+        ]
     }
 }
