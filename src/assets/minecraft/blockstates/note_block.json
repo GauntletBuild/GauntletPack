@@ -1071,6 +1071,20 @@
             {
                 "model": "gauntlet:block/alabaster/alabaster_post2"
             }
+        ],
+        "instrument=snare,note=14,powered=true": [
+            {
+                "model": "gauntlet:block/grimy_pale_rock_bricks"
+            },
+            {
+                "model": "gauntlet:block/grimy_pale_rock_bricks_1"
+            },
+            {
+                "model": "gauntlet:block/grimy_pale_rock_bricks_2"
+            },
+            {
+                "model": "gauntlet:block/grimy_pale_rock_bricks_3"
+            }
         ]
     }
 }

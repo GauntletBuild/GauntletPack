@@ -499,5 +499,9 @@
     "alabaster_post": {
         "type": "full_cube",
         "index": 128
+    },
+    "grimy_pale_rock_bricks": {
+        "type": "full_cube",
+        "index": 129
     }
 }
