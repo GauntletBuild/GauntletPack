@@ -428,6 +428,9 @@
         },
 		"north=side,south=up,east=none,west=side,power=0": {
 			"model": "gauntlet:decoration/gold_bells/colossal_gold_bell"
+		},
+		"north=side,south=up,east=none,west=none,power=0": {
+			"model": "gauntlet:decoration/pots/clay_pot"
 		}
     }
 }

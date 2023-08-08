@@ -106,5 +106,9 @@
 	"colossal_gold_bell": {
 		"index": 34,
 		"shape": "full"
+	},
+	"clay_pot": {
+		"index": 35,
+		"shape": "full"
 	}
 }
