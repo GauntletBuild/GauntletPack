@@ -495,5 +495,17 @@
     "gold_plated_shingles": {
         "type": "full_cube",
         "index": 127
+    },
+    "alabaster_post": {
+        "type": "full_cube",
+        "index": 128
+    },
+    "grimy_pale_rock_bricks": {
+        "type": "full_cube",
+        "index": 129
+    },
+    "spiral_stone": {
+        "type": "full_cube",
+        "index": 130
     }
 }

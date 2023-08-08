@@ -135,8 +135,16 @@
 	"item.gauntlet_decoration.pine_stool": "Pine Stool",
 	"item.gauntlet_decoration.spruce_stool": "Spruce Stool",
 	"item.gauntlet_decoration.walnut_stool": "Walnut Stool",
+	"item.gauntlet_decoration.gold_bell": "Gold Bell",
 	"item.gauntlet_decoration.large_gold_bell": "Large Gold Bell",
+	"item.gauntlet_decoration.colossal_gold_bell": "Colossal Gold Bell",
 	"item.gauntlet.dark_pale_rock": "Dark Pale Rock",
     "item.gauntlet.chiseled_pale_rock": "Chiseled Pale Rock",
-    "item.gauntlet.not_so_pale_rock": "Not-so-Pale Rock"
+    "item.gauntlet.not_so_pale_rock": "Not-so-Pale Rock",
+	"item.gauntlet.gold_plated_shingles": "Gold Plated Shingles",
+	"item.gauntlet.alabaster_post": "Alabaster Post",
+	"item.gauntlet_decoration.iron_post": "Iron Post",
+	"item.gauntlet_decoration.iron_post_two": "Two Tall Iron Post",
+	"item.gauntlet.grimy_pale_rock_bricks": "Grimy Pale Rock Bricks",
+	"item.gauntlet.spiral_stone": "Spiral Stone"
 }

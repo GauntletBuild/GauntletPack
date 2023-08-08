@@ -90,5 +90,21 @@
 	"large_gold_bell": {
 		"index": 30,
         "shape": "full"
+	},
+	"gold_bell": {
+		"index": 31,
+        "shape": "full"
+	},
+    "iron_post": {
+      "index": 32,
+      "shape": "full"
+    },
+    "iron_post_two": {
+      "index": 33,
+      "shape": "full"
+    },
+	"colossal_gold_bell": {
+		"index": 34,
+		"shape": "full"
 	}
 }

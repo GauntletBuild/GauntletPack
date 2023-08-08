@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "gauntlet:block/not_so_pale_rock_1"
+    "all": "gauntlet:block/spiral_stone/spiral_stone_5"
   }
 }
