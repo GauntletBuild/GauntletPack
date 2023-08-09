@@ -51,6 +51,11 @@
 		"ground": {
 			"translation": [0, 3, 0],
 			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 136, 0],
+			"translation": [-1.75, -3.75, 0],
+			"scale": [0.39, 0.39, 0.39]
 		}
 	},
 	"groups": [
