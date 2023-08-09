@@ -113,7 +113,7 @@
 	},
     "light_blue_window_shutter": {
         "index": 36,
-        "shape": "flat",
+        "shape": "full",
         "type": "clicked",
         "north": 38,
         "east": 39,
