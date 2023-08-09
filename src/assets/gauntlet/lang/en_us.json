@@ -147,5 +147,7 @@
 	"item.gauntlet_decoration.iron_post_two": "Two Tall Iron Post",
 	"item.gauntlet.grimy_pale_rock_bricks": "Grimy Pale Rock Bricks",
 	"item.gauntlet.spiral_stone": "Spiral Stone",
-	"item.gauntlet_decoration.clay_pot": "Clay Pot"
+	"item.gauntlet_decoration.clay_pot": "Clay Pot",
+    "item.gauntlet_decoration.light_blue_window_shutter": "Light Blue Window Shutter",
+    "item.gauntlet_decoration.light_blue_window_shutter_flipped": "Light Blue Window Shutter (Flipped)"
 }
