@@ -96,7 +96,7 @@
         "shape": "full"
 	},
     "iron_post": {
-      "index": 32,
+      "index": 32,  
       "shape": "full"
     },
     "iron_post_two": {
@@ -119,5 +119,14 @@
         "east": 37,
         "south": 38,
         "west": 39
-    }
+    },
+    "light_blue_window_shutter_flipped": {
+        "index": 40,
+        "shape": "full",
+        "type": "clicked",
+        "north": 40,
+        "east": 41,
+        "south": 42,
+        "west": 43
+    },
 }

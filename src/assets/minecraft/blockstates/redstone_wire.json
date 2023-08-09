@@ -446,6 +446,21 @@
         "north=side,south=side,east=side,west=up,power=0": {
             "model": "gauntlet:decoration/shutters/light_blue_shutter",
             "y": 270
+        },
+        "north=side,south=side,east=side,west=side,power=0": {
+            "model": "gauntlet:decoration/shutters/light_blue_shutter_flipped"
+        },
+        "north=side,south=side,east=side,west=none,power=0": {
+            "model": "gauntlet:decoration/shutters/light_blue_shutter_flipped",
+            "y": 90
+        },
+        "north=side,south=side,east=none,west=up,power=0": {
+            "model": "gauntlet:decoration/shutters/light_blue_shutter_flipped",
+            "y": 180
+        },
+        "north=side,south=side,east=none,west=side,power=0": {
+            "model": "gauntlet:decoration/shutters/light_blue_shutter_flipped",
+            "y": 270
         }
     }
 }
