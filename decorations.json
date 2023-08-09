@@ -128,5 +128,23 @@
         "east": 41,
         "south": 42,
         "west": 43
+    },
+    "red_black_window_shutter": {
+        "index": 44,
+        "shape": "full",
+        "type": "clicked",
+        "north": 44,
+        "east": 45,
+        "south": 46,
+        "west": 47
+    },
+    "red_black_window_shutter_flipped": {
+        "index": 48,
+        "shape": "full",
+        "type": "clicked",
+        "north": 48,
+        "east": 49,
+        "south": 50,
+        "west": 51
     }
 }

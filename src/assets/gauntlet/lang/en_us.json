@@ -149,5 +149,7 @@
 	"item.gauntlet.spiral_stone": "Spiral Stone",
 	"item.gauntlet_decoration.clay_pot": "Clay Pot",
     "item.gauntlet_decoration.light_blue_window_shutter": "Light Blue Window Shutter",
-    "item.gauntlet_decoration.light_blue_window_shutter_flipped": "Light Blue Window Shutter (Flipped)"
+    "item.gauntlet_decoration.light_blue_window_shutter_flipped": "Light Blue Window Shutter (Flipped)",
+    "item.gauntlet_decoration.red_black_window_shutter": "Red and Black Window Shutter",
+    "item.gauntlet_decoration.red_black_window_shutter_flipped": "Red and Black Window Shutter (Flipped)"
 }
