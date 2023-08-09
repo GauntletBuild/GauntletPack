@@ -110,5 +110,14 @@
 	"clay_pot": {
 		"index": 35,
 		"shape": "full"
-	}
+	},
+    "light_blue_window_shutter": {
+        "index": 36,
+        "shape": "flat",
+        "type": "clicked",
+        "north": 38,
+        "east": 39,
+        "south": 36,
+        "west": 37
+    }
 }

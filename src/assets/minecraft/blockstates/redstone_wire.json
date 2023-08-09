@@ -431,6 +431,21 @@
 		},
 		"north=side,south=up,east=none,west=none,power=0": {
 			"model": "gauntlet:decoration/pots/clay_pot"
-		}
+		},
+        "north=side,south=side,east=up,west=up,power=0": {
+            "model": "gauntlet:decoration/shutters/light_blue_shutter"
+        },
+        "north=side,south=side,east=up,west=side,power=0": {
+            "model": "gauntlet:decoration/shutters/light_blue_shutter",
+            "y": 90
+        },
+        "north=side,south=side,east=up,west=none,power=0": {
+            "model": "gauntlet:decoration/shutters/light_blue_shutter",
+            "y": 180
+        },
+        "north=side,south=side,east=side,west=up,power=0": {
+            "model": "gauntlet:decoration/shutters/light_blue_shutter",
+            "y": 270
+        }
     }
 }
