@@ -44,73 +44,73 @@
         "south": 13,
         "west": 11
     },
-	"ornate_pine_bench": {
-		"index": 14,
-		"shape": "full",
+    "ornate_pine_bench": {
+        "index": 14,
+        "shape": "full",
         "type": "clicked",
         "north": 16,
         "east": 17,
         "south": 14,
         "west": 15
-	},
+    },
     "alabaster_ball": {
         "index": 18,
         "shape": "mini"
     },
-	"centered_ornate_pine_bench": {
-		"index": 19,
-		"shape": "full",
+    "centered_ornate_pine_bench": {
+        "index": 19,
+        "shape": "full",
         "type": "clicked",
         "north": 21,
         "east": 22,
         "south": 19,
         "west": 20
-	},
-	"large_ornate_pine_bench": {
-		"index": 23,
-		"shape": "full",
+    },
+    "large_ornate_pine_bench": {
+        "index": 23,
+        "shape": "full",
         "type": "clicked",
         "north": 25,
         "east": 26,
         "south": 23,
         "west": 24
-	},
-	"pine_stool": {
-		"index": 27,
+    },
+    "pine_stool": {
+        "index": 27,
         "shape": "full"
-	},
-	"spruce_stool": {
-		"index": 28,
+    },
+    "spruce_stool": {
+        "index": 28,
         "shape": "full"
-	},
-	"walnut_stool": {
-		"index": 29,
+    },
+    "walnut_stool": {
+        "index": 29,
         "shape": "full"
-	},
-	"large_gold_bell": {
-		"index": 30,
+    },
+    "large_gold_bell": {
+        "index": 30,
         "shape": "full"
-	},
-	"gold_bell": {
-		"index": 31,
+    },
+    "gold_bell": {
+        "index": 31,
         "shape": "full"
-	},
+    },
     "iron_post": {
-      "index": 32,
-      "shape": "full"
+        "index": 32,
+        "shape": "full"
     },
     "iron_post_two": {
-      "index": 33,
-      "shape": "full"
+        "index": 33,
+        "shape": "full"
     },
-	"colossal_gold_bell": {
-		"index": 34,
-		"shape": "full"
-	},
-	"clay_pot": {
-		"index": 35,
-		"shape": "full"
-	},
+    "colossal_gold_bell": {
+        "index": 34,
+        "shape": "full"
+    },
+    "clay_pot": {
+        "index": 35,
+        "shape": "full"
+    },
     "light_blue_window_shutter": {
         "index": 36,
         "shape": "full",
@@ -149,10 +149,20 @@
     },
     "mannequin": {
         "index": 52,
-        "shape": "full"
+        "shape": "full",
+        "type": "clicked",
+        "north": 52,
+        "east": 53,
+        "south": 54,
+        "west": 55
     },
     "statue": {
-        "index": 53,
-        "shape": "full"
+        "index": 56,
+        "shape": "full",
+        "type": "clicked",
+        "north": 56,
+        "east": 57,
+        "south": 58,
+        "west": 59
     }
 }
