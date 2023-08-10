@@ -164,5 +164,14 @@
         "east": 57,
         "south": 58,
         "west": 59
+    },
+    "alabaster_fountain": {
+        "index": 60,
+        "shape": "full",
+        "type": "clicked",
+        "north": 60,
+        "east": 61,
+        "south": 62,
+        "west": 63
     }
 }
