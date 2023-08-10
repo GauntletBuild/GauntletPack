@@ -523,7 +523,7 @@
             "y": 270
         },
         "north=none,south=up,east=none,west=up,power=0": {
-            "model": "gauntlet:decoration/alabaster_fountain",
+            "model": "gauntlet:decoration/alabaster_fountain"
         },
         "north=none,south=up,east=none,west=side,power=0": {
             "model": "gauntlet:decoration/alabaster_fountain",
