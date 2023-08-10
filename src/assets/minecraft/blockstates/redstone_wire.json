@@ -491,6 +491,12 @@
         "north=side,south=none,east=none,west=up,power=0": {
             "model": "gauntlet:decoration/shutters/red_black_shutter_flipped",
             "y": 270
+        },
+        "north=side,south=none,east=none,west=side,power=0": {
+            "model": "gauntlet:decoration/mannequin"
+        },
+        "north=side,south=none,east=none,west=none,power=0": {
+            "model": "gauntlet:decoration/statue"
         }
     }
 }
