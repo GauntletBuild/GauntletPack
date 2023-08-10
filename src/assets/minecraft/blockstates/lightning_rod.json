@@ -5,8 +5,7 @@
             "x": 180
         },
         "facing=down,powered=true": {
-            "model": "minecraft:block/lightning_rod_on",
-            "x": 180
+            "model": "minecraft:block/air"
         },
         "facing=east,powered=false": {
             "model": "minecraft:block/lightning_rod",
@@ -14,17 +13,14 @@
             "y": 90
         },
         "facing=east,powered=true": {
-            "model": "minecraft:block/lightning_rod_on",
-            "x": 90,
-            "y": 90
+            "model": "minecraft:block/air"
         },
         "facing=north,powered=false": {
             "model": "minecraft:block/lightning_rod",
             "x": 90
         },
         "facing=north,powered=true": {
-            "model": "minecraft:block/lightning_rod_on",
-            "x": 90
+            "model": "minecraft:block/air"
         },
         "facing=south,powered=false": {
             "model": "minecraft:block/lightning_rod",
@@ -38,7 +34,7 @@
             "model": "minecraft:block/lightning_rod"
         },
         "facing=up,powered=true": {
-            "model": "minecraft:block/lightning_rod_on"
+            "model": "minecraft:block/air"
         },
         "facing=west,powered=false": {
             "model": "minecraft:block/lightning_rod",
@@ -46,9 +42,7 @@
             "y": 270
         },
         "facing=west,powered=true": {
-            "model": "minecraft:block/lightning_rod_on",
-            "x": 90,
-            "y": 270
+            "model": "minecraft:block/air"
         }
     }
 }
