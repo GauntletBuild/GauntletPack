@@ -40,7 +40,9 @@ jobs:
             -F 'raw.asset1=@resourcepack.zip;type=application/zip' \
             -F 'raw.asset1.filename=${{ steps.hash.outputs.hash }}-resourcepack.zip' \
             -F 'raw.asset2=@manifest.json;type=application/json' \
-            -F 'raw.asset2.filename=manifest.json' 
+            -F 'raw.asset2.filename=manifest.json' \
+            -F 'raw.asset3=@customitems.json;type=application/json' \
+            -F 'raw.asset3.filename=customitems.json'
 
       - name: Upload Custom Blocks
         run: |

@@ -1,0 +1,9 @@
+{
+  "short_grass": {
+    "index": 0,
+    "block": "minecraft:tall_grass",
+    "properties": {
+      "half": "upper"
+    }
+  }
+}
