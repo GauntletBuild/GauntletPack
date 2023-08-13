@@ -515,5 +515,9 @@
     "faded_chalk_bricks": {
         "type": "full_cube",
         "index": 132
+    },
+    "indigo_stucco": {
+        "type": "full_cube",
+        "index": 133
     }
 }
