@@ -507,5 +507,9 @@
     "spiral_stone": {
         "type": "full_cube",
         "index": 130
+    },
+    "chalk_bricks": {
+        "type": "full_cube",
+        "index": 131
     }
 }

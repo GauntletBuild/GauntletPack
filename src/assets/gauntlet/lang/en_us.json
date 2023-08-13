@@ -155,5 +155,6 @@
     "item.gauntlet_decoration.mannequin": "Mannequin",
     "item.gauntlet_decoration.statue": "Statue",
     "item.gauntlet_decoration.alabaster_fountain": "Alabaster Fountain",
-    "item.gauntlet_items.short_grass": "Short Grass"
+    "item.gauntlet_items.short_grass": "Short Grass",
+	"item.gauntlet.chalk_bricks": "Chalk Bricks",
 }

@@ -1117,6 +1117,20 @@
             {
                 "model": "gauntlet:block/spiral_stone/spiral_stone_9"
             }
+        ],
+        "instrument=snare,note=15,powered=true": [
+            {
+                "model": "gauntlet:block/chalk_bricks"
+            },
+            {
+                "model": "gauntlet:block/chalk_bricks_1"
+            },
+            {
+                "model": "gauntlet:block/chalk_bricks_2"
+            },
+            {
+                "model": "gauntlet:block/chalk_bricks_3"
+            }
         ]
     }
 }
