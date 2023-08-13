@@ -1131,6 +1131,20 @@
             {
                 "model": "gauntlet:block/chalk_bricks_3"
             }
+        ],
+        "instrument=snare,note=16,powered=false": [
+            {
+                "model": "gauntlet:block/faded_chalk_bricks"
+            },
+            {
+                "model": "gauntlet:block/faded_chalk_bricks_1"
+            },
+            {
+                "model": "gauntlet:block/faded_chalk_bricks_2"
+            },
+            {
+                "model": "gauntlet:block/faded_chalk_bricks_3"
+            }
         ]
     }
 }

@@ -511,5 +511,9 @@
     "chalk_bricks": {
         "type": "full_cube",
         "index": 131
+    },
+    "faded_chalk_bricks": {
+        "type": "full_cube",
+        "index": 132
     }
 }
