@@ -519,5 +519,13 @@
     "indigo_stucco": {
         "type": "full_cube",
         "index": 133
+    },
+    "spruce_box": {
+        "type": "full_cube",
+        "index": 134
+    },
+    "walnut_box": {
+        "type": "full_cube",
+        "index": 135
     }
 }

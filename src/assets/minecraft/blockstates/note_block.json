@@ -1192,6 +1192,12 @@
                 "model": "gauntlet:block/stucco/indigo_stucco_2",
                 "z": 180
             }
-        ]
+        ],
+        "instrument=snare,note=17,powered=false": {
+            "model": "gauntlet:block/crates/spruce_box"
+        },
+        "instrument=snare,note=17,powered=true": {
+            "model": "gauntlet:block/crates/walnut_box"
+        }
     }
 }
