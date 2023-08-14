@@ -6,12 +6,8 @@
             "half": "upper"
         }
     },
-    "barrier_pane": {
-        "index": 1,
-        "block": "minecraft:glass_pane"
-    },
     "barrier_slab": {
-        "index": 2,
+        "index": 1,
         "block": "minecraft:soul_campfire",
         "properties": {
             "lit": "false",
@@ -21,7 +17,7 @@
         }
     },
     "barrier_rod": {
-        "index": 3,
+        "index": 2,
         "block": "minecraft:lightning_rod",
         "properties": {
             "powered": "true",
