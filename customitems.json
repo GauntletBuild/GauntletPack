@@ -23,5 +23,47 @@
             "powered": "true",
             "waterlogged": "false"
         }
+    },
+    "mycelium_path": {
+        "index": 3,
+        "block": "minecraft:farmland",
+        "properties": {
+            "moisture": "2"
+        }
+    },
+    "snowy_path": {
+        "index": 4,
+        "block": "minecraft:farmland",
+        "properties": {
+            "moisture": "3"
+        }
+    },
+    "podzol_path": {
+        "index": 5,
+        "block": "minecraft:farmland",
+        "properties": {
+            "moisture": "4"
+        }
+    },
+    "dirt_path": {
+        "index": 6,
+        "block": "minecraft:farmland",
+        "properties": {
+            "moisture": "5"
+        }
+    },
+    "gravel_path": {
+        "index": 7,
+        "block": "minecraft:farmland",
+        "properties": {
+            "moisture": "6"
+        }
+    },
+    "sand_path": {
+        "index": 8,
+        "block": "minecraft:farmland",
+        "properties": {
+            "moisture": "7"
+        }
     }
 }
