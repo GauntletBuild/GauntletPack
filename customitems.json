@@ -1,9 +1,31 @@
 {
-  "short_grass": {
-    "index": 0,
-    "block": "minecraft:tall_grass",
-    "properties": {
-      "half": "upper"
+    "short_grass": {
+        "index": 0,
+        "block": "minecraft:tall_grass",
+        "properties": {
+            "half": "upper"
+        }
+    },
+    "barrier_pane": {
+        "index": 1,
+        "block": "minecraft:glass_pane"
+    },
+    "barrier_slab": {
+        "index": 2,
+        "block": "minecraft:soul_campfire",
+        "properties": {
+            "lit": "false",
+            "facing": "east",
+            "signal_fire": "true",
+            "waterlogged": "false"
+        }
+    },
+    "barrier_rod": {
+        "index": 3,
+        "block": "minecraft:lightning_rod",
+        "properties": {
+            "powered": "true",
+            "waterlogged": "false"
+        }
     }
-  }
 }
