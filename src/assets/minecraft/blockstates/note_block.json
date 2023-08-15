@@ -1198,6 +1198,20 @@
         },
         "instrument=snare,note=17,powered=true": {
             "model": "gauntlet:block/crates/walnut_box"
-        }
+        },
+        "instrument=snare,note=18,powered=false": [
+            {
+                "model": "gauntlet:block/large_chalk_bricks"
+            },
+            {
+                "model": "gauntlet:block/large_chalk_bricks_1"
+            },
+            {
+                "model": "gauntlet:block/large_chalk_bricks_2"
+            },
+            {
+                "model": "gauntlet:block/large_chalk_bricks_3"
+            }
+        ]
     }
 }

@@ -167,5 +167,6 @@
     "item.gauntlet_items.gravel_path": "Gravel Path",
     "item.gauntlet_items.sand_path": "Sand Path",
     "item.gauntlet.chalk_bricks": "Chalk Bricks",
-    "item.gauntlet.faded_chalk_bricks": "Faded Chalk Bricks"
+    "item.gauntlet.faded_chalk_bricks": "Faded Chalk Bricks",
+    "item.gauntlet.large_chalk_bricks": "Large Chalk Bricks"
 }

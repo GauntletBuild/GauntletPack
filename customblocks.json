@@ -527,5 +527,9 @@
     "walnut_box": {
         "type": "full_cube",
         "index": 135
+    },
+    "large_chalk_bricks": {
+        "type": "full_cube",
+        "index": 136
     }
 }
