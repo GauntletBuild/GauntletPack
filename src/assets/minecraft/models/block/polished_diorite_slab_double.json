@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_column",
   "textures": {
-    "end": "minecraft:block/polished_diorite",
-    "side": "minecraft:block/polished_diorite_slab"
+    "end": "minecraft:block/chalk_bricks",
+    "side": "minecraft:block/chalk_bricks"
   }
 }

@@ -1,8 +1,8 @@
 {
   "parent": "minecraft:block/slab",
   "textures": {
-    "bottom": "minecraft:block/polished_diorite",
-    "top": "minecraft:block/polished_diorite",
-    "side": "minecraft:block/polished_diorite_slab"
+    "bottom": "minecraft:block/chalk_bricks",
+    "side": "minecraft:block/chalk_bricks",
+    "top": "minecraft:block/chalk_bricks"
   }
 }
