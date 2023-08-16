@@ -4,13 +4,13 @@
       "model": "minecraft:block/oak_leaves"
     },
     "distance=2": {
-      "model": "minecraft:block/oak_leaves"
+      "model": "minecraft:block/leaves/cypress_leaves"
     },
     "distance=3": {
-      "model": "minecraft:block/oak_leaves"
+      "model": "minecraft:block/leaves/chestnut_leaves"
     },
     "distance=4": {
-      "model": "minecraft:block/oak_leaves"
+      "model": "minecraft:block/leaves/ash_leaves"
     },
     "distance=5": {
       "model": "minecraft:block/oak_leaves"

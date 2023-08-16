@@ -65,5 +65,26 @@
         "properties": {
             "moisture": "7"
         }
+    },
+    "cedar_leaves": {
+        "index": 9,
+        "block": "minecraft:oak_leaves",
+        "properties": {
+            "distance": "2"
+        }
+    },
+    "chestnut_leaves": {
+        "index": 10,
+        "block": "minecraft:oak_leaves",
+        "properties": {
+            "distance": "3"
+        }
+    },
+    "ash_leaves": {
+        "index": 11,
+        "block": "minecraft:oak_leaves",
+        "properties": {
+            "distance": "4"
+        }
     }
 }
