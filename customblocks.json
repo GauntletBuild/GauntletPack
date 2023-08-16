@@ -531,5 +531,9 @@
     "large_chalk_bricks": {
         "type": "full_cube",
         "index": 136
+    },
+    "verdant_stucco": {
+        "type": "full_cube",
+        "index": 137
     }
 }

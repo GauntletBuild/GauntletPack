@@ -1212,6 +1212,53 @@
             {
                 "model": "gauntlet:block/large_chalk_bricks_3"
             }
+        ],
+        "instrument=snare,note=18,powered=true": [
+            {
+                "model": "gauntlet:block/stucco/verdant_stucco"
+            },
+            {
+                "model": "gauntlet:block/stucco/verdant_stucco",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/verdant_stucco",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/verdant_stucco",
+                "z": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/verdant_stucco_1"
+            },
+            {
+                "model": "gauntlet:block/stucco/verdant_stucco_1",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/verdant_stucco_1",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/verdant_stucco_1",
+                "z": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/verdant_stucco_2"
+            },
+            {
+                "model": "gauntlet:block/stucco/verdant_stucco_2",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/verdant_stucco_2",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/verdant_stucco_2",
+                "z": 180
+            }
         ]
     }
 }
