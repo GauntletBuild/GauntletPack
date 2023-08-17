@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:block/cube_column",
   "textures": {
-    "end": "gauntlet:block/alabaster/cypress_log_top",
-    "side": "gauntlet:block/alabaster/cypress_log"
+    "end": "gauntlet:block/wood/cypress_log_top",
+    "side": "gauntlet:block/wood/cypress_log"
   }
 }
