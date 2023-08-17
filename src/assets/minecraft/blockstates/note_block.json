@@ -1259,6 +1259,9 @@
                 "model": "gauntlet:block/stucco/verdant_stucco_2",
                 "z": 180
             }
-        ]
+        ],
+        "instrument=snare,note=19,powered=false": {
+            "model": "gauntlet:block/wood/cypress_log"
+        }
     }
 }

@@ -535,5 +535,9 @@
     "verdant_stucco": {
         "type": "full_cube",
         "index": 137
+    },
+    "cypress_log": {
+        "type": "full_cube",
+        "index": 138
     }
 }
