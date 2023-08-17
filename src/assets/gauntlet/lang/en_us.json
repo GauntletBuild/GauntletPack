@@ -146,7 +146,7 @@
     "item.gauntlet.not_so_pale_rock": "Not-so-Pale Rock",
     "item.gauntlet.gold_plated_shingles": "Gold Plated Shingles",
     "item.gauntlet.alabaster_post": "Alabaster Post",
-    "item.gauntlet_decoration.iron_post": "Iron Post",
+    "item.gauntlet_decoration.iron_post": "Iron Post",z
     "item.gauntlet_decoration.iron_post_two": "Two Tall Iron Post",
     "item.gauntlet.grimy_pale_rock_bricks": "Grimy Pale Rock Bricks",
     "item.gauntlet.spiral_stone": "Spiral Stone",
@@ -172,5 +172,6 @@
     "item.gauntlet_items.chestnut_leaves": "Chestnut Leaves",
     "item.gauntlet.chalk_bricks": "Chalk Bricks",
     "item.gauntlet.faded_chalk_bricks": "Faded Chalk Bricks",
-    "item.gauntlet.large_chalk_bricks": "Large Chalk Bricks"
+    "item.gauntlet.large_chalk_bricks": "Large Chalk Bricks",
+
 }
