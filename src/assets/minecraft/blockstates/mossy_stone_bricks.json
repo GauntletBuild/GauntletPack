@@ -1,0 +1,34 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "minecraft:block/mossy_stone_bricks",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/tan_bricks/tan_bricks_1",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/tan_bricks/tan_bricks_2",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/tan_bricks/tan_bricks_3",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/tan_bricks/tan_bricks_4",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/tan_bricks/tan_bricks_5",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/tan_bricks/tan_bricks_6",
+                "weight": 1
+            }
+        ]
+    }
+}

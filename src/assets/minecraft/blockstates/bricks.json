@@ -6,27 +6,27 @@
                 "weight": 10
             },
             {
-                "model": "minecraft:block/bricks_1",
+                "model": "minecraft:block/red_bricks/red_bricks_1",
                 "weight": 10
             },
             {
-                "model": "minecraft:block/bricks_2",
+                "model": "minecraft:block/red_bricks/red_bricks_2",
                 "weight": 10
             },
             {
-                "model": "minecraft:block/bricks_3",
+                "model": "minecraft:block/red_bricks/red_bricks_3",
                 "weight": 10
             },
             {
-                "model": "minecraft:block/bricks_4",
+                "model": "minecraft:block/red_bricks/red_bricks_4",
                 "weight": 10
             },
             {
-                "model": "minecraft:block/bricks_5",
+                "model": "minecraft:block/red_bricks/red_bricks_5",
                 "weight": 10
             },
             {
-                "model": "minecraft:block/bricks_6",
+                "model": "minecraft:block/red_bricks/red_bricks_6",
                 "weight": 1
             }
         ]

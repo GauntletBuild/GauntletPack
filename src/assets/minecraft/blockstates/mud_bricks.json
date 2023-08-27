@@ -1,0 +1,34 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "minecraft:block/mud_bricks",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/brown_bricks/brown_bricks_1",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/brown_bricks/brown_bricks_2",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/brown_bricks/brown_bricks_3",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/brown_bricks/brown_bricks_4",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/brown_bricks/brown_bricks_5",
+                "weight": 10
+            },
+            {
+                "model": "minecraft:block/brown_bricks/brown_bricks_6",
+                "weight": 1
+            }
+        ]
+    }
+}
