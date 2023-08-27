@@ -74,6 +74,14 @@
     "block.minecraft.bamboo_slab": "Trodden Old Brick Road Slab",
     "block.minecraft.bamboo_stairs": "Trodden Old Brick Road Stairs",
     "block.minecraft.bamboo_planks": "Trodden Old Brick Road",
+    "block.minecraft.mossy_stone_bricks": "Tan Bricks",
+    "block.minecraft.mossy_stone_brick_slab": "Tan Brick Slab",
+    "block.minecraft.mossy_stone_brick_stairs": "Tan Brick Stairs",
+    "block.minecraft.mossy_stone_brick_wall": "Tan Brick Wall",
+    "block.minecraft.mud_bricks": "Brown Bricks",
+    "block.minecraft.mud_brick_slab": "Brown Brick Slab",
+    "block.minecraft.mud_brick_stairs": "Brown Brick Stairs",
+    "block.minecraft.mud_brick_wall": "Brown Brick Wall",
     "block.minecraft.bell": "Small Gold Bell",
     "block.minecraft.glass_pane": "Barrier Pane"
 }
