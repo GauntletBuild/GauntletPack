@@ -2,8 +2,8 @@
 	"credit": "Made by Farcr",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "gauntlet:decorations/old_chalice",
-		"particle": "gauntlet:decorations/iron_fence_particle"
+		"0": "gauntlet:decoration/old_chalice",
+		"particle": "gauntlet:decoration/iron_fence_particle"
 	},
 	"elements": [
 		{
