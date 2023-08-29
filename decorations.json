@@ -173,5 +173,9 @@
         "east": 61,
         "south": 62,
         "west": 63
+    },
+	"old_chalice": {
+        "index": 64,
+        "shape": "mini"
     }
 }

@@ -174,5 +174,6 @@
     "item.gauntlet.chalk_bricks": "Chalk Bricks",
     "item.gauntlet.faded_chalk_bricks": "Faded Chalk Bricks",
     "item.gauntlet.large_chalk_bricks": "Large Chalk Bricks",
-    "item.gauntlet.cypress_log": "Cypress Log"
+    "item.gauntlet.cypress_log": "Cypress Log",
+	"item.gauntlet_decoration.old_chalice": "Old Chalice"
 }
