@@ -83,5 +83,7 @@
     "block.minecraft.mud_brick_stairs": "Brown Brick Stairs",
     "block.minecraft.mud_brick_wall": "Brown Brick Wall",
     "block.minecraft.bell": "Small Gold Bell",
-    "block.minecraft.glass_pane": "Barrier Pane"
+    "block.minecraft.glass_pane": "Barrier Pane",
+	"block.minecraft.bamboo_trapdoor": "Lattice",
+	"block.minecraft.soul_sand": "Mud"
 }
