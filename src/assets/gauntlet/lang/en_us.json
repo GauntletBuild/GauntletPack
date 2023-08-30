@@ -157,9 +157,11 @@
     "item.gauntlet_decoration.red_black_window_shutter_flipped": "Red and Black Window Shutter (Flipped)",
     "item.gauntlet_decoration.mannequin": "Mannequin",
     "item.gauntlet_decoration.statue": "Statue",
+    "item.gauntlet_decoration.old_chalice": "Old Chalice",
     "item.gauntlet_decoration.alabaster_fountain": "Alabaster Fountain",
     "item.gauntlet_decoration.alabaster_manticore": "Alabaster Manticore",
     "item.gauntlet_decoration.alabaster_finial": "Alabaster Finial",
+    "item.gauntlet_decoration.alabaster_balustrade_pot": "Alabaster Balustrade Pot",
     "item.gauntlet_items.short_grass": "Short Grass",
     "item.gauntlet_items.barrier_slab": "Barrier Slab",
     "item.gauntlet_items.barrier_rod": "Barrier Rod",
@@ -176,6 +178,5 @@
     "item.gauntlet.chalk_bricks": "Chalk Bricks",
     "item.gauntlet.faded_chalk_bricks": "Faded Chalk Bricks",
     "item.gauntlet.large_chalk_bricks": "Large Chalk Bricks",
-    "item.gauntlet.cypress_log": "Cypress Log",
-	"item.gauntlet_decoration.old_chalice": "Old Chalice"
+    "item.gauntlet.cypress_log": "Cypress Log"
 }

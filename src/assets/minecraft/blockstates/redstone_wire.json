@@ -557,6 +557,9 @@
         },
         "north=none,south=side,east=none,west=up,power=0": {
             "model": "gauntlet:decoration/alabaster_finial"
+        },
+        "north=none,south=side,east=none,west=side,power=0": {
+            "model": "gauntlet:decoration/alabaster_balustrade_pot"
         }
     }
 }

@@ -190,5 +190,9 @@
     "alabaster_finial": {
         "index": 69,
         "shape": "mini"
+    },
+    "alabaster_balustrade_pot": {
+        "index": 70,
+        "shape": "full"
     }
 }
