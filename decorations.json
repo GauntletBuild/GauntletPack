@@ -198,5 +198,14 @@
     "alabaster_balustrade_lantern_base": {
         "index": 71,
         "shape": "full"
+    },
+	"silver_chalice": {
+        "index": 72,
+        "shape": "mini"
+    },,
+	"golden_chalice": {
+        "index": 73,
+        "shape": "mini"
     }
+
 }
