@@ -563,6 +563,12 @@
         },
         "north=none,south=side,east=none,west=none,power=0": {
             "model": "gauntlet:decoration/alabaster_balustrade_lantern_base"
+        },
+        "north=none,south=none,east=up,west=side,power=0": {
+            "model": "gauntlet:decoration/golden_chalice"
+        },
+        "north=none,south=none,east=up,west=up,power=0": {
+            "model": "gauntlet:decoration/silver_chalice"
         }
     }
 }
