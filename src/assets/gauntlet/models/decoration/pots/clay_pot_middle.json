@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"render_type": "cutout",
+	"textures": {
+		"stone_pot_middle": "gauntlet:decoration/pots/clay_pot_middle",
+		"particle": "gauntlet:decoration/pots/clay_pot"
+	},
+	"elements": [
+		{
+			"from": [1, -16, 1],
+			"to": [15, 0, 15],
+			"faces": {
+				"north": {"uv": [1, 0, 15, 16], "texture": "#stone_pot_middle"},
+				"east": {"uv": [1, 0, 15, 16], "texture": "#stone_pot_middle"},
+				"south": {"uv": [1, 0, 15, 16], "texture": "#stone_pot_middle"},
+				"west": {"uv": [1, 0, 15, 16], "texture": "#stone_pot_middle"}
+			}
+		}
+	],
+	"loader": "framework:open_model"
+}

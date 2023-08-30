@@ -1,0 +1,73 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"render_type": "cutout",
+	"textures": {
+		"stone_pot_top": "gauntlet:decoration/pots/clay_pot_top",
+		"stone_pot_outer_top": "gauntlet:decoration/pots/clay_pot_outer_top",
+		"particle": "gauntlet:decoration/pots/clay_pot_upper",
+		"stone_pot_upper": "gauntlet:decoration/pots/clay_pot_upper",
+		"stone_pot_inner": "gauntlet:decoration/pots/clay_pot_inner"
+	},
+	"elements": [
+		{
+			"from": [1, -16, 1],
+			"to": [15, -8, 15],
+			"faces": {
+				"north": {"uv": [1, 8, 15, 16], "texture": "#stone_pot_upper"},
+				"east": {"uv": [1, 8, 15, 16], "texture": "#stone_pot_upper"},
+				"south": {"uv": [1, 8, 15, 16], "texture": "#stone_pot_upper"},
+				"west": {"uv": [1, 8, 15, 16], "texture": "#stone_pot_upper"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#stone_pot_outer_top"}
+			}
+		},
+		{
+			"from": [3, -16, 3],
+			"to": [13, -5, 4],
+			"faces": {
+				"north": {"uv": [3, 5, 13, 16], "texture": "#stone_pot_upper"},
+				"east": {"uv": [12, 5, 13, 16], "texture": "#stone_pot_upper"},
+				"south": {"uv": [3, 0, 13, 11], "texture": "#stone_pot_inner"},
+				"west": {"uv": [3, 5, 4, 16], "texture": "#stone_pot_upper"},
+				"up": {"uv": [3, 3, 13, 4], "texture": "#stone_pot_top"}
+			}
+		},
+		{
+			"from": [3, -16, 12],
+			"to": [13, -5, 13],
+			"faces": {
+				"north": {"uv": [3, 0, 13, 11], "texture": "#stone_pot_inner"},
+				"east": {"uv": [3, 5, 4, 16], "texture": "#stone_pot_upper"},
+				"south": {"uv": [3, 5, 13, 16], "texture": "#stone_pot_upper"},
+				"west": {"uv": [12, 5, 13, 16], "texture": "#stone_pot_upper"},
+				"up": {"uv": [3, 12, 13, 13], "texture": "#stone_pot_top"}
+			}
+		},
+		{
+			"from": [3, -16, 4],
+			"to": [4, -5, 12],
+			"faces": {
+				"east": {"uv": [4, 0, 12, 11], "texture": "#stone_pot_inner"},
+				"west": {"uv": [4, 5, 12, 16], "texture": "#stone_pot_upper"},
+				"up": {"uv": [3, 4, 4, 12], "texture": "#stone_pot_top"}
+			}
+		},
+		{
+			"from": [12, -16, 4],
+			"to": [13, -5, 12],
+			"faces": {
+				"east": {"uv": [4, 5, 12, 16], "texture": "#stone_pot_upper"},
+				"west": {"uv": [4, 0, 12, 11], "texture": "#stone_pot_inner"},
+				"up": {"uv": [3, 4, 4, 12], "texture": "#stone_pot_top"}
+			}
+		},
+		{
+			"from": [4, -15, 4],
+			"to": [12, -15, 12],
+			"faces": {
+				"up": {"uv": [4, 4, 12, 12], "texture": "#stone_pot_top"}
+			}
+		}
+	],
+	"loader": "framework:open_model"
+}

@@ -1,0 +1,35 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"render_type": "cutout",
+	"textures": {
+		"stone_pot_lower": "gauntlet:decoration/pots/clay_pot_lower",
+		"stone_pot_bottom": "gauntlet:decoration/pots/clay_pot_bottom",
+		"particle": "gauntlet:decoration/pots/clay_pot"
+	},
+	"elements": [
+		{
+			"from": [1, -14, 1],
+			"to": [15, 0, 15],
+			"faces": {
+				"north": {"uv": [1, 0, 15, 14], "texture": "#stone_pot_lower"},
+				"east": {"uv": [1, 0, 15, 14], "texture": "#stone_pot_lower"},
+				"south": {"uv": [1, 0, 15, 14], "texture": "#stone_pot_lower"},
+				"west": {"uv": [1, 0, 15, 14], "texture": "#stone_pot_lower"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#stone_pot_bottom"}
+			}
+		},
+		{
+			"from": [3, -16, 3],
+			"to": [13, -14, 13],
+			"faces": {
+				"north": {"uv": [3, 14, 13, 16], "texture": "#stone_pot_lower"},
+				"east": {"uv": [3, 14, 13, 16], "texture": "#stone_pot_lower"},
+				"south": {"uv": [3, 14, 13, 16], "texture": "#stone_pot_lower"},
+				"west": {"uv": [3, 14, 13, 16], "texture": "#stone_pot_lower"},
+				"down": {"uv": [3, 3, 13, 13], "texture": "#stone_pot_bottom"}
+			}
+		}
+	],
+	"loader": "framework:open_model"
+}
