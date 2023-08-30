@@ -584,6 +584,6 @@
         "north=none,south=none,east=side,west=none,power=0": {
             "model": "gauntlet:decoration/ornate_pine_chair",
             "y": 270
-        },
+        }
     }
 }
