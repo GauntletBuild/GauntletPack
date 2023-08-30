@@ -560,6 +560,9 @@
         },
         "north=none,south=side,east=none,west=side,power=0": {
             "model": "gauntlet:decoration/alabaster_balustrade_pot"
+        },
+        "north=none,south=side,east=none,west=none,power=0": {
+            "model": "gauntlet:decoration/alabaster_balustrade_lantern_base"
         }
     }
 }
