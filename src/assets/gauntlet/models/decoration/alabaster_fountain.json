@@ -142,5 +142,6 @@
 				}
 			]
 		}
-	]
+	],
+	"loader": "framework:open_model"
 }
