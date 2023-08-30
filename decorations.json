@@ -177,5 +177,14 @@
 	"old_chalice": {
         "index": 64,
         "shape": "mini"
+    },
+    "alabaster_manticore": {
+        "index": 65,
+        "shape": "full",
+        "type": "clicked",
+        "north": 65,
+        "east": 66,
+        "south": 67,
+        "west": 68
     }
 }
