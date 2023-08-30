@@ -222,5 +222,29 @@
         "type": "clicked",
         "north": 78,
         "east": 79
+    },
+    "clay_pot_large": {
+        "index": 80,
+        "shape": "full"
+    },
+    "clay_pot_with_lid": {
+        "index": 81,
+        "shape": "full"
+    },
+    "clay_pot_lower": {
+        "index": 82,
+        "shape": "full"
+    },
+    "clay_pot_middle": {
+        "index": 83,
+        "shape": "full"
+    },
+    "clay_pot_upper": {
+        "index": 84,
+        "shape": "full"
+    },
+    "clay_pot_with_lid_upper": {
+        "index": 85,
+        "shape": "full"
     }
 }

@@ -570,27 +570,45 @@
         "north=none,south=none,east=up,west=up,power=0": {
             "model": "gauntlet:decoration/silver_chalice"
         },
-		"north=none,south=none,east=up,west=none,power=0": {
-			"model": "gauntlet:decoration/chairs/ornate_pine_chair"
-		},
-		"north=none,south=none,east=side,west=up,power=0": {
-			"model": "gauntlet:decoration/chairs/ornate_pine_chair",
-			"y":90
-		},
-		"north=none,south=none,east=side,west=side,power=0": {
-			"model": "gauntlet:decoration/chairs/ornate_pine_chair",
-			"y":180
-		},
-		"north=none,south=none,east=side,west=none,power=0": {
-			"model": "gauntlet:decoration/chairs/ornate_pine_chair",
-			"y":270
-		},
+        "north=none,south=none,east=up,west=none,power=0": {
+            "model": "gauntlet:decoration/chairs/ornate_pine_chair"
+        },
+        "north=none,south=none,east=side,west=up,power=0": {
+            "model": "gauntlet:decoration/chairs/ornate_pine_chair",
+            "y": 90
+        },
+        "north=none,south=none,east=side,west=side,power=0": {
+            "model": "gauntlet:decoration/chairs/ornate_pine_chair",
+            "y": 180
+        },
+        "north=none,south=none,east=side,west=none,power=0": {
+            "model": "gauntlet:decoration/chairs/ornate_pine_chair",
+            "y": 270
+        },
         "north=none,south=none,east=none,west=up,power=0": {
             "model": "gauntlet:decoration/benches/alabaster_bench"
         },
         "north=none,south=none,east=none,west=side,power=0": {
             "model": "gauntlet:decoration/benches/alabaster_bench",
             "y": 90
+        },
+        "north=none,south=none,east=none,west=none,power=0": {
+            "model": "gauntlet:decoration/pots/clay_pot_large"
+        },
+        "north=up,south=up,east=up,west=up,power=1": {
+            "model": "gauntlet:decoration/pots/clay_pot_lid"
+        },
+        "north=up,south=up,east=up,west=side,power=1": {
+            "model": "gauntlet:decoration/pots/clay_pot_lower"
+        },
+        "north=up,south=up,east=up,west=none,power=1": {
+            "model": "gauntlet:decoration/pots/clay_pot_middle"
+        },
+        "north=up,south=up,east=side,west=up,power=1": {
+            "model": "gauntlet:decoration/pots/clay_pot_upper"
+        },
+        "north=up,south=up,east=side,west=side,power=1": {
+            "model": "gauntlet:decoration/pots/clay_pot_upper_lid"
         }
     }
 }
