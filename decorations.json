@@ -186,5 +186,9 @@
         "east": 66,
         "south": 67,
         "west": 68
+    },
+    "alabaster_finial": {
+        "index": 69,
+        "shape": "mini"
     }
 }

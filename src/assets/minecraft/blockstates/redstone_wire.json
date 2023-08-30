@@ -554,6 +554,9 @@
         "north=none,south=side,east=side,west=none,power=0": {
             "model": "gauntlet:decoration/alabaster_manticore",
             "y": 270
+        },
+        "north=none,south=side,east=none,west=up,power=0": {
+            "model": "gauntlet:decoration/alabaster_finial"
         }
     }
 }
