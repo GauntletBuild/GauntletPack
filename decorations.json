@@ -211,7 +211,7 @@
 		"index": 74
 		"shape": "full",
 		"type": "clicked",
-		"north": 74
+		"north": 74,
 		"east": 75,
         "south": 76,
         "west": 77
