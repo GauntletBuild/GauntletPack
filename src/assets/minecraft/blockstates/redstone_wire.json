@@ -541,7 +541,7 @@
             "model": "gauntlet:decoration/old_chalice"
         },
         "north=none,south=side,east=up,west=none,power=0": {
-            "model": "gauntlet:decoration/alabaster_manticore",
+            "model": "gauntlet:decoration/alabaster_manticore"
         },
         "north=none,south=side,east=side,west=up,power=0": {
             "model": "gauntlet:decoration/alabaster_manticore",
