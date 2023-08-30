@@ -150,7 +150,6 @@
     "item.gauntlet_decoration.iron_post_two": "Two Tall Iron Post",
     "item.gauntlet.grimy_pale_rock_bricks": "Grimy Pale Rock Bricks",
     "item.gauntlet.spiral_stone": "Spiral Stone",
-    "item.gauntlet_decoration.clay_pot": "Clay Pot",
     "item.gauntlet_decoration.light_blue_window_shutter": "Light Blue Window Shutter",
     "item.gauntlet_decoration.light_blue_window_shutter_flipped": "Light Blue Window Shutter (Flipped)",
     "item.gauntlet_decoration.red_black_window_shutter": "Red and Black Window Shutter",
@@ -158,14 +157,15 @@
     "item.gauntlet_decoration.mannequin": "Mannequin",
     "item.gauntlet_decoration.statue": "Statue",
     "item.gauntlet_decoration.old_chalice": "Old Chalice",
-	"item.gauntlet_decoration.golden_chalice": "Golden Chalice",
-	"item.gauntlet_decoration.silver_chalice": "Silver Chalice",
+    "item.gauntlet_decoration.golden_chalice": "Golden Chalice",
+    "item.gauntlet_decoration.silver_chalice": "Silver Chalice",
     "item.gauntlet_decoration.alabaster_fountain": "Alabaster Fountain",
     "item.gauntlet_decoration.alabaster_manticore": "Alabaster Manticore",
     "item.gauntlet_decoration.alabaster_finial": "Alabaster Finial",
     "item.gauntlet_decoration.alabaster_balustrade_pot": "Alabaster Balustrade Pot",
     "item.gauntlet_decoration.alabaster_balustrade_lantern_base": "Alabaster Balustrade Lantern Base",
     "item.gauntlet_decoration.alabaster_bench": "Alabaster Bench",
+    "item.gauntlet_items.clay_pot": "Clay Pot",
     "item.gauntlet_items.clay_pot_large": "Large Clay Pot",
     "item.gauntlet_items.clay_pot_with_lid": "Clay Pot with Lid",
     "item.gauntlet_items.clay_pot_lower": "Lower Clay Pot",
@@ -189,5 +189,5 @@
     "item.gauntlet.faded_chalk_bricks": "Faded Chalk Bricks",
     "item.gauntlet.large_chalk_bricks": "Large Chalk Bricks",
     "item.gauntlet.cypress_log": "Cypress Log",
-	"item.gauntlet_decoration.ornate_pine_chair": "Ornate Pine Chair"
+    "item.gauntlet_decoration.ornate_pine_chair": "Ornate Pine Chair"
 }
