@@ -7,7 +7,7 @@
             "model": "gauntlet:decoration/pots/clay_pot_large"
         },
         "distance=2,persistent=false": {
-            "model": "gauntlet:decoration/pots/clay_pot_with_lid"
+            "model": "gauntlet:decoration/pots/clay_pot_lid"
         },
         "distance=3,persistent=false": {
             "model": "gauntlet:decoration/pots/clay_pot_lower"
@@ -19,7 +19,7 @@
             "model": "gauntlet:decoration/pots/clay_pot_upper"
         },
         "distance=6,persistent=false": {
-            "model": "gauntlet:decoration/pots/clay_pot_with_lid_upper"
+            "model": "gauntlet:decoration/pots/clay_pot_upper_lid"
         },
         "distance=7,persistent=false": {
             "model": "gauntlet:decoration/pots/clay_pot"
