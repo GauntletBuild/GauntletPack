@@ -93,5 +93,68 @@
         "properties": {
             "distance": "6"
         }
+    },
+    "clay_pot_large": {
+        "index": 13,
+        "block": "minecraft:cherry_leaves",
+        "properties": {
+            "distance": "1",
+            "persistent": "true",
+            "waterlogged": "false"
+        }
+    },
+    "clay_pot_with_lid": {
+        "index": 14,
+        "block": "minecraft:cherry_leaves",
+        "properties": {
+            "distance": "2",
+            "persistent": "true",
+            "waterlogged": "false"
+        }
+    },
+    "clay_pot_lower": {
+        "index": 15,
+        "block": "minecraft:cherry_leaves",
+        "properties": {
+            "distance": "3",
+            "persistent": "true",
+            "waterlogged": "false"
+        }
+    },
+    "clay_pot_middle": {
+        "index": 16,
+        "block": "minecraft:cherry_leaves",
+        "properties": {
+            "distance": "4",
+            "persistent": "true",
+            "waterlogged": "false"
+        }
+    },
+    "clay_pot_upper": {
+        "index": 17,
+        "block": "minecraft:cherry_leaves",
+        "properties": {
+            "distance": "5",
+            "persistent": "true",
+            "waterlogged": "false"
+        }
+    },
+    "clay_pot_with_lid_upper": {
+        "index": 18,
+        "block": "minecraft:cherry_leaves",
+        "properties": {
+            "distance": "6",
+            "persistent": "true",
+            "waterlogged": "false"
+        }
+    },
+    "clay_pot": {
+        "index": 19,
+        "block": "minecraft:cherry_leaves",
+        "properties": {
+            "distance": "7",
+            "persistent": "true",
+            "waterlogged": "false"
+        }
     }
 }
