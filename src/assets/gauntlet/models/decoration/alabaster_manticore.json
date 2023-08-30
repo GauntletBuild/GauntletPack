@@ -307,7 +307,7 @@
 		},
 		{
 			"from": [2, -13, 8],
-			"to": [14, 2, 24],
+			"to": [14, 2, 27],
 			"rotation": {"angle": 0, "axis": "y", "origin": [0, -17, 0]},
 			"faces": {
 				"north": {"uv": [2.4375, 3.125, 3.1875, 4.0625], "texture": "#0"},
@@ -484,5 +484,6 @@
 				}
 			]
 		}
-	]
+	],
+	"loader": "framework:open_model"
 }
