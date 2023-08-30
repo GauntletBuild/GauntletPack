@@ -584,6 +584,13 @@
 		"north=none,south=none,east=side,west=none,power=0": {
 			"model": "gauntlet:decoration/chairs/ornate_pine_chair",
 			"y":270
-		}
+		},
+        "north=none,south=none,east=none,west=up,power=0": {
+            "model": "gauntlet:decoration/benches/alabaster_bench"
+        },
+        "north=none,south=none,east=none,west=side,power=0": {
+            "model": "gauntlet:decoration/benches/alabaster_bench",
+            "y": 90
+        }
     }
 }

@@ -215,5 +215,14 @@
         "east": 75,
         "south": 76,
         "west": 77
+    },
+    "alabaster_bench": {
+        "index": 78,
+        "shape": "full",
+        "type": "clicked",
+        "north": 78,
+        "east": 79,
+        "south": 78,
+        "west": 79
     }
 }

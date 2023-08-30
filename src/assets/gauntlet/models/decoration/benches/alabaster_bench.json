@@ -1,0 +1,59 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "gauntlet:decoration/benches/alabaster_bench",
+		"particle": "gauntlet:decoration/benches/alabaster_bench"
+	},
+	"elements": [
+		{
+			"from": [-11, 0, 0],
+			"to": [-6, 6, 16],
+			"faces": {
+				"north": {"uv": [0, 7, 0.625, 7.75], "texture": "#0"},
+				"east": {"uv": [5.25, 2, 7.25, 2.75], "texture": "#0"},
+				"south": {"uv": [0.75, 7, 1.375, 7.75], "texture": "#0"},
+				"west": {"uv": [5.25, 2.875, 7.25, 3.625], "texture": "#0"},
+				"up": {"uv": [2.75, 8.125, 2.125, 6.125], "texture": "#0"},
+				"down": {"uv": [3.5, 6.125, 2.875, 8.125], "texture": "#0"}
+			}
+		},
+		{
+			"from": [22, 0, 0],
+			"to": [27, 6, 16],
+			"faces": {
+				"north": {"uv": [5.125, 7.125, 5.75, 7.875], "texture": "#0"},
+				"east": {"uv": [5.25, 3.75, 7.25, 4.5], "texture": "#0"},
+				"south": {"uv": [5.875, 7.125, 6.5, 7.875], "texture": "#0"},
+				"west": {"uv": [0, 6.125, 2, 6.875], "texture": "#0"},
+				"up": {"uv": [4.25, 8.125, 3.625, 6.125], "texture": "#0"},
+				"down": {"uv": [5, 6.125, 4.375, 8.125], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-11, 6, 3],
+			"to": [27, 9, 13],
+			"faces": {
+				"north": {"uv": [5.25, 1, 10, 1.375], "texture": "#0"},
+				"east": {"uv": [6.625, 7.125, 7.875, 7.5], "texture": "#0"},
+				"south": {"uv": [5.25, 1.5, 10, 1.875], "texture": "#0"},
+				"west": {"uv": [7.375, 2, 8.625, 2.375], "texture": "#0"},
+				"up": {"uv": [4.75, 6, 0, 4.75], "texture": "#0"},
+				"down": {"uv": [9.625, 4.75, 4.875, 6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-13, 9, -1],
+			"to": [28, 12, 17],
+			"faces": {
+				"north": {"uv": [5.25, 0, 10.375, 0.375], "texture": "#0"},
+				"east": {"uv": [5.125, 6.125, 7.375, 6.5], "texture": "#0"},
+				"south": {"uv": [5.25, 0.5, 10.375, 0.875], "texture": "#0"},
+				"west": {"uv": [5.125, 6.625, 7.375, 7], "texture": "#0"},
+				"up": {"uv": [5.125, 2.25, 0, 0], "texture": "#0"},
+				"down": {"uv": [5.125, 2.375, 0, 4.625], "texture": "#0"}
+			}
+		}
+	],
+	"loader": "framework:open_model"
+}
