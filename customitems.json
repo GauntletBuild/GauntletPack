@@ -99,7 +99,7 @@
         "block": "minecraft:cherry_leaves",
         "properties": {
             "distance": "1",
-            "persistent": "true",
+            "persistent": "false",
             "waterlogged": "false"
         }
     },
@@ -108,7 +108,7 @@
         "block": "minecraft:cherry_leaves",
         "properties": {
             "distance": "2",
-            "persistent": "true",
+            "persistent": "false",
             "waterlogged": "false"
         }
     },
@@ -117,7 +117,7 @@
         "block": "minecraft:cherry_leaves",
         "properties": {
             "distance": "3",
-            "persistent": "true",
+            "persistent": "false",
             "waterlogged": "false"
         }
     },
@@ -126,7 +126,7 @@
         "block": "minecraft:cherry_leaves",
         "properties": {
             "distance": "4",
-            "persistent": "true",
+            "persistent": "false",
             "waterlogged": "false"
         }
     },
@@ -135,7 +135,7 @@
         "block": "minecraft:cherry_leaves",
         "properties": {
             "distance": "5",
-            "persistent": "true",
+            "persistent": "false",
             "waterlogged": "false"
         }
     },
@@ -144,7 +144,7 @@
         "block": "minecraft:cherry_leaves",
         "properties": {
             "distance": "6",
-            "persistent": "true",
+            "persistent": "false",
             "waterlogged": "false"
         }
     },
@@ -153,7 +153,7 @@
         "block": "minecraft:cherry_leaves",
         "properties": {
             "distance": "7",
-            "persistent": "true",
+            "persistent": "false",
             "waterlogged": "false"
         }
     }
