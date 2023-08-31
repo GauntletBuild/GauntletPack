@@ -222,5 +222,9 @@
         "type": "clicked",
         "north": 78,
         "east": 79
-    }
+    },
+	"ornate_metal_table": {
+		"index": 80,
+		"shape": "full"
+	}
 }
