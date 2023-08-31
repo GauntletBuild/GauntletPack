@@ -20,7 +20,7 @@ out vec4 vertexColor;
 flat out float isRedstoneWireParticle;
 
 void main() {
-    if (/*Color.g <= 0.2 && Color.r >= 0.3 && */Color.b == 0.0) {
+    if (Color.g <= 0.2 && Color.b == 0.0) {
         isRedstoneWireParticle = 1.0;
     } else {
         isRedstoneWireParticle = 0.0;
