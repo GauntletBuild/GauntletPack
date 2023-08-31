@@ -430,7 +430,7 @@
             "model": "gauntlet:decoration/gold_bells/colossal_gold_bell"
         },
         "north=side,south=up,east=none,west=none,power=0": {
-            "model": "gauntlet:decoration/pots/clay_pot"
+            "model": "gauntlet:decoration/rose_crest"
         },
         "north=side,south=side,east=up,west=up,power=0": {
             "model": "gauntlet:decoration/shutters/light_blue_shutter"

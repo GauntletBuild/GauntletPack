@@ -1,0 +1,62 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "gauntlet:decoration/rose_crest",
+		"particle": "gauntlet:decoration/rose_crest"
+	},
+	"elements": [
+		{
+			"from": [8, -16, -9],
+			"to": [8, 16, 25],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [8.75, 8.25, 8.75, 12.25], "texture": "#0"},
+				"east": {"uv": [0, 0, 4.25, 4], "texture": "#0"},
+				"south": {"uv": [8.875, 8.25, 8.875, 12.25], "texture": "#0"},
+				"west": {"uv": [4.25, 0, 0, 4], "texture": "#0"},
+				"up": {"uv": [9, 12.5, 9, 8.25], "texture": "#0"},
+				"down": {"uv": [9.125, 8.25, 9.125, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-9, -16, 8],
+			"to": [25, 16, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [8.625, 0, 4.375, 4], "texture": "#0"},
+				"east": {"uv": [9.25, 8.25, 9.25, 12.25], "texture": "#0"},
+				"south": {"uv": [4.375, 0, 8.625, 4], "texture": "#0"},
+				"west": {"uv": [9.375, 8.25, 9.375, 12.25], "texture": "#0"},
+				"up": {"uv": [13.75, 8.25, 9.5, 8.25], "texture": "#0"},
+				"down": {"uv": [13.75, 8.375, 9.5, 8.375], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, -16, -9],
+			"to": [8, 16, 25],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [9.5, 8.5, 9.5, 12.5], "texture": "#0"},
+				"east": {"uv": [0, 4.125, 4.25, 8.125], "texture": "#0"},
+				"south": {"uv": [9.625, 8.5, 9.625, 12.5], "texture": "#0"},
+				"west": {"uv": [4.25, 4.125, 0, 8.125], "texture": "#0"},
+				"up": {"uv": [9.75, 12.75, 9.75, 8.5], "texture": "#0"},
+				"down": {"uv": [9.875, 8.5, 9.875, 12.75], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, -16, -9],
+			"to": [8, 16, 25],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [10, 8.5, 10, 12.5], "texture": "#0"},
+				"east": {"uv": [8.75, 0, 13, 4], "texture": "#0"},
+				"south": {"uv": [10.125, 8.5, 10.125, 12.5], "texture": "#0"},
+				"west": {"uv": [13, 0, 8.75, 4], "texture": "#0"},
+				"up": {"uv": [10.25, 12.75, 10.25, 8.5], "texture": "#0"},
+				"down": {"uv": [10.375, 8.5, 10.375, 12.75], "texture": "#0"}
+			}
+		}
+	]
+}
