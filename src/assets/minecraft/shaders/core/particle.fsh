@@ -18,7 +18,7 @@ flat in float isRedstoneWireParticle;
 out vec4 fragColor;
 
 void main() {
-    if (isRedstoneWireParticle == 1.0) {
+    if (1 == 1) {
         discard;
     }
 
