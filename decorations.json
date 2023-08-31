@@ -226,5 +226,9 @@
 	"ornate_metal_table": {
 		"index": 80,
 		"shape": "full"
+	},
+	"tableware": {
+		"index": 81,
+		"shape": "mini"
 	}
 }
