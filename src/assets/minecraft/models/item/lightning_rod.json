@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/lightning_rod",
   "overrides": [
-    {"predicate": {"custom_model_data": 1}, "model": "minecraft:item/barrier"}
+    {"predicate": {"custom_model_data": 0}, "model": "minecraft:item/barrier"}
   ]
 }
