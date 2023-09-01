@@ -243,5 +243,9 @@
         "east": 84,
         "south": 85,
         "west": 86
-	}
+	},
+    "candle_wine_bottle": {
+        "index": 87,
+        "shape": "mini"
+    }
 }
