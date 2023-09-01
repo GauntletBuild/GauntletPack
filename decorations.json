@@ -230,5 +230,18 @@
 	"tableware": {
 		"index": 81,
 		"shape": "mini"
+	},
+	"small_pine_keg": {
+		"index": 82,
+		"shape": "full"
+	},
+	"small_pine_keg_sideways": {
+		"index": 83,
+		"shape": "full",
+		"type": "clicked",
+		"north": 83,
+        "east": 84,
+        "south": 85,
+        "west": 86
 	}
 }
