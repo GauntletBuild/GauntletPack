@@ -255,5 +255,19 @@
 	"large_pine_keg": {
 		"index": 89,
 		"shape": "full"
+	},
+	"large_pine_keg_sideways": {
+		"index": 90,
+        "shape": "full",
+        "type": "clicked",
+        "north": 90,
+        "east": 91
+	}
+	"pine_keg_sideways": {
+		"index": 92,
+        "shape": "full",
+        "type": "clicked",
+        "north": 92,
+        "east": 93
 	}
 }
