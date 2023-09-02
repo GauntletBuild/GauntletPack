@@ -18,9 +18,9 @@ flat in float isRedstoneWireParticle;
 out vec4 fragColor;
 
 void main() {
-    if (isRedstoneWireParticle == 1.0) {
-        discard;
-    }
+//    if (isRedstoneWireParticle == 1.0) {
+//        discard;
+//    }
 
     vec4 color = texture(Sampler0, texCoord0) * vertexColor * ColorModulator;
     if (color.a < 0.1) {
