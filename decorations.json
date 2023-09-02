@@ -251,5 +251,9 @@
 	"pine_keg": {
 		"index": 88,
 		"shape": "full"
+	},
+	"large_pine_keg": {
+		"index": 89
+		"shape": "full"
 	}
 }
