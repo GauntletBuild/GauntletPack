@@ -667,6 +667,21 @@
 		"north=up,south=side,east=side,west=up,power=1": {
 			"model": "gauntlet:decoration/kegs/pine_keg_sideways",
 			"y": 90
-		}
+		},
+        "north=up,south=side,east=side,west=side,power=1": {
+            "model": "gauntlet:decoration/kegs/keg_tap"
+        },
+        "north=up,south=side,east=side,west=none,power=1": {
+            "model": "gauntlet:decoration/kegs/keg_tap",
+            "y": 90
+        },
+        "north=up,south=side,east=none,west=up,power=1": {
+            "model": "gauntlet:decoration/kegs/keg_tap",
+            "y": 180
+        },
+        "north=up,south=side,east=none,west=side,power=1": {
+            "model": "gauntlet:decoration/kegs/keg_tap",
+            "y": 270
+        }
     }
 }

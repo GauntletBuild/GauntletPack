@@ -269,5 +269,14 @@
         "type": "clicked",
         "north": 92,
         "east": 93
+	},
+	"keg_tap": {
+        "index": 94,
+        "shape": "full",
+        "type": "clicked",
+        "north": 94,
+        "east": 95,
+        "south": 96,
+        "west": 97
 	}
 }
