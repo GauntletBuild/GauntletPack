@@ -247,5 +247,9 @@
     "candle_wine_bottle": {
         "index": 87,
         "shape": "mini"
-    }
+    },
+	"pine_keg": {
+		"index": 88,
+		"shape": "full"
+	}
 }
