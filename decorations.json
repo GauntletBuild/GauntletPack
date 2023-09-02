@@ -272,7 +272,7 @@
 	},
 	"keg_tap": {
         "index": 94,
-        "shape": "full",
+        "shape": "mini",
         "type": "clicked",
         "north": 94,
         "east": 95,
