@@ -87,5 +87,6 @@
     "block.minecraft.bell": "Small Gold Bell",
     "block.minecraft.glass_pane": "Barrier Pane",
 	"block.minecraft.bamboo_trapdoor": "Lattice",
-	"block.minecraft.soul_sand": "Mud"
+	"block.minecraft.soul_sand": "Mud",
+	"block.minecraft.soul_lantern": "Oil Lamp"
 }

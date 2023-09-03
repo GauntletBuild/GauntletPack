@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "hanging=false": {
+      "model": "gauntlet:block/decoration/lanterns/oil_lamp"
+    },
+    "hanging=true": {
+      "model": "gauntlet:block/decoration/lanterns/oil_lamp_hanging"
+    }
+  }
+}
