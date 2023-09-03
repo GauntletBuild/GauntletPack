@@ -1,0 +1,43 @@
+{
+    "variants": {
+        "distance=1,persistent=true": {
+            "model": "gauntlet:decoration/kegs/small_pine_keg"
+        },
+        "distance=2,persistent=false": {
+            "model": "gauntlet:decoration/kegs/small_pine_keg_sideways"
+        },
+        "distance=2,persistent=true": {
+            "model": "gauntlet:decoration/kegs/small_pine_keg_sideways",
+            "y": 90
+        },
+        "distance=3,persistent=false": {
+            "model": "gauntlet:decoration/kegs/small_pine_keg_sideways",
+            "y": 180
+        },
+        "distance=3,persistent=true": {
+            "model": "gauntlet:decoration/kegs/small_pine_keg_sideways",
+            "y": 270
+        },
+        "distance=4,persistent=false": {
+            "model": "gauntlet:decoration/pots/clay_pot_large"
+        },
+        "distance=4,persistent=true": {
+            "model": "gauntlet:decoration/pots/clay_pot_lid"
+        },
+        "distance=5,persistent=false": {
+            "model": "gauntlet:decoration/pots/clay_pot_lower"
+        },
+        "distance=5,persistent=true": {
+            "model": "gauntlet:decoration/pots/clay_pot_middle"
+        },
+        "distance=6,persistent=false": {
+            "model": "gauntlet:decoration/pots/clay_pot_upper"
+        },
+        "distance=6,persistent=true": {
+            "model": "gauntlet:decoration/pots/clay_pot_upper_lid"
+        },
+        "distance=7,persistent=false": {
+            "model": "gauntlet:decoration/pots/clay_pot"
+        }
+    }
+}
