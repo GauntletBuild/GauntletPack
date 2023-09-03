@@ -1262,6 +1262,9 @@
         ],
         "instrument=snare,note=19,powered=false": {
             "model": "gauntlet:block/wood/cypress_log"
+        },
+        "instrument=snare,note=19,powered=true": {
+            "model": "gauntlet:block/red_checkered_tiles"
         }
     }
 }

@@ -539,5 +539,9 @@
     "cypress_log": {
         "type": "full_cube",
         "index": 138
+    },
+    "red_checkered_tiles": {
+        "type": "full_cube",
+        "index": 139
     }
 }
