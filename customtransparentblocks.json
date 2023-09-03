@@ -1,11 +1,9 @@
 {
-  "small_pine_keg": {
-    "type": "orientable",
+  "test": {
+    "type": "pillar",
     "index": 0,
-    "north": 1,
-    "south": 0,
-    "east": 2,
-    "west": 3,
-    "up": 4
+    "x": 1,
+    "y": 0,
+    "z": 2
   }
 }
