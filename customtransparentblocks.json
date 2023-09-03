@@ -14,22 +14,19 @@
     "clay_pot_lid": {
         "index": 6
     },
-    "clay_pot_small": {
+    "clay_pot_lower": {
         "index": 7
     },
-    "clay_pot_lower": {
+    "clay_pot_middle": {
         "index": 8
     },
-    "clay_pot_middle": {
+    "clay_pot_upper": {
         "index": 9
     },
-    "clay_pot_upper": {
+    "clay_pot_upper_lid": {
         "index": 10
     },
-    "clay_pot_upper_lid": {
-        "index": 11
-    },
     "clay_pot": {
-        "index": 12
+        "index": 11
     }
 }
