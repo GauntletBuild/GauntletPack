@@ -3,6 +3,7 @@
 	"texture_size": [256, 256],
 	"textures": {
 		"0": "gauntlet:decoration/alabaster_fountain",
+		"1": "gauntlet:block/cape_of_gold_water",
 		"particle": "gauntlet:decoration/alabaster_fountain"
 	},
 	"elements": [
@@ -15,6 +16,17 @@
 				"west": {"uv": [6, 1.9375, 7.25, 2.125], "texture": "#0"},
 				"up": {"uv": [6, 1.25, 3, 0], "texture": "#0"},
 				"down": {"uv": [6, 1.25, 3, 2.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-16, -3, -8],
+			"to": [32, 0, 12],
+			"faces": {
+				"north": {"uv": [6, 0.9375, 9, 1.125], "texture": "#0"},
+				"east": {"uv": [6, 2.125, 7.25, 2.3125], "texture": "#0"},
+				"west": {"uv": [6, 2.3125, 7.25, 2.5], "texture": "#0"},
+				"up": {"uv": [6, 3.75, 3, 2.5], "texture": "#0"},
+				"down": {"uv": [6, 3.75, 3, 5], "texture": "#0"}
 			}
 		},
 		{
@@ -92,6 +104,27 @@
 				"up": {"uv": [0, 0, 0.375, 0.125], "texture": "#missing"},
 				"down": {"uv": [6.3125, 1.25, 6.6875, 1.375], "texture": "#0"}
 			}
+		},
+		{
+			"from": [-10, -13, -2],
+			"to": [6, -2, 12],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 13.875], "texture": "#1"}
+			}
+		},
+		{
+			"from": [6, -13, -2],
+			"to": [22, -2, 12],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 13.875], "texture": "#1"}
+			}
+		},
+		{
+			"from": [22, -13, -2],
+			"to": [26, -2, 12],
+			"faces": {
+				"up": {"uv": [0, 0, 3.25, 13.875], "texture": "#1"}
+			}
 		}
 	],
 	"display": {
@@ -134,14 +167,18 @@
 				3,
 				4,
 				5,
+				6,
 				{
 					"name": "group",
 					"origin": [0, 0, 0],
 					"color": 0,
-					"children": [6, 7]
+					"children": [7, 8]
 				}
 			]
-		}
+		},
+		9,
+		10,
+		11
 	],
 	"loader": "framework:open_model"
 }
