@@ -1,11 +1,35 @@
 {
-  "small_pine_keg": {
-    "type": "orientable",
-    "index": 0,
-    "north": 1,
-    "south": 2,
-    "east": 3,
-    "west": 4,
-    "up": 0
-  }
+    "small_pine_keg": {
+        "type": "orientable",
+        "index": 0,
+        "north": 1,
+        "south": 2,
+        "east": 3,
+        "west": 4,
+        "up": 0
+    },
+    "clay_pot_large": {
+        "index": 5
+    },
+    "clay_pot_lid": {
+        "index": 6
+    },
+    "clay_pot_small": {
+        "index": 7
+    },
+    "clay_pot_lower": {
+        "index": 8
+    },
+    "clay_pot_middle": {
+        "index": 9
+    },
+    "clay_pot_upper": {
+        "index": 10
+    },
+    "clay_pot_upper_lid": {
+        "index": 11
+    },
+    "clay_pot": {
+        "index": 12
+    }
 }

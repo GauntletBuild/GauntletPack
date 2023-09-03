@@ -167,13 +167,6 @@
     "item.gauntlet_decoration.alabaster_bench": "Alabaster Bench",
     "item.gauntlet_decoration.rose_crest": "Rose Crest",
     "item.gauntlet_decoration.candle_wine_bottle": "Wine Bottle with Candle",
-    "item.gauntlet_items.clay_pot": "Clay Pot",
-    "item.gauntlet_items.clay_pot_large": "Large Clay Pot",
-    "item.gauntlet_items.clay_pot_with_lid": "Clay Pot with Lid",
-    "item.gauntlet_items.clay_pot_lower": "Lower Clay Pot",
-    "item.gauntlet_items.clay_pot_middle": "Middle Clay Pot",
-    "item.gauntlet_items.clay_pot_upper": "Upper Clay Pot",
-    "item.gauntlet_items.clay_pot_with_lid_upper": "Upper Clay Pot with Lid",
     "item.gauntlet_items.short_grass": "Short Grass",
     "item.gauntlet_items.barrier_slab": "Barrier Slab",
     "item.gauntlet_items.barrier_rod": "Barrier Rod",
@@ -201,5 +194,12 @@
 	"item.gauntlet_decoration.large_pine_keg": "Large Pine Keg",
 	"item.gauntlet_decoration.large_pine_keg_sideways": "Sideways Large Pine Keg",
 	"item.gauntlet_decoration.keg_tap": "Keg Tap",
-    "item.gauntlet_transparent.small_pine_keg": "Small Pine Keg"
+    "item.gauntlet_transparent.small_pine_keg": "Small Pine Keg",
+    "item.gauntlet_transparent.clay_pot": "Clay Pot",
+    "item.gauntlet_transparent.clay_pot_large": "Large Clay Pot",
+    "item.gauntlet_transparent.clay_pot_with_lid": "Clay Pot with Lid",
+    "item.gauntlet_transparent.clay_pot_lower": "Lower Clay Pot",
+    "item.gauntlet_transparent.clay_pot_middle": "Middle Clay Pot",
+    "item.gauntlet_transparent.clay_pot_upper": "Upper Clay Pot",
+    "item.gauntlet_transparent.clay_pot_with_lid_upper": "Upper Clay Pot with Lid"
 }
