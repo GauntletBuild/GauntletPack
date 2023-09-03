@@ -6,6 +6,6 @@
     "south": 2,
     "east": 3,
     "west": 4,
-    "down": 0
+    "up": 0
   }
 }
