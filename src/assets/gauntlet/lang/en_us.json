@@ -197,9 +197,9 @@
     "item.gauntlet_transparent.small_pine_keg": "Small Pine Keg",
     "item.gauntlet_transparent.clay_pot": "Clay Pot",
     "item.gauntlet_transparent.clay_pot_large": "Large Clay Pot",
-    "item.gauntlet_transparent.clay_pot_with_lid": "Clay Pot with Lid",
+    "item.gauntlet_transparent.clay_pot_lid": "Clay Pot with Lid",
     "item.gauntlet_transparent.clay_pot_lower": "Lower Clay Pot",
     "item.gauntlet_transparent.clay_pot_middle": "Middle Clay Pot",
     "item.gauntlet_transparent.clay_pot_upper": "Upper Clay Pot",
-    "item.gauntlet_transparent.clay_pot_with_lid_upper": "Upper Clay Pot with Lid"
+    "item.gauntlet_transparent.clay_pot_upper_lid": "Upper Clay Pot with Lid"
 }
