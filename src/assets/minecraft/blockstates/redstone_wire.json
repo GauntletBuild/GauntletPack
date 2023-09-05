@@ -688,6 +688,119 @@
         },
         "north=up,south=none,east=up,west=up,power=1": {
             "model": "gauntlet:decoration/braziers/hanging_brazier_lit"
-        }
+        },
+        "north=up,south=none,east=up,west=side,power=1": [
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack"
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_1"
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_2"
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_3"
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_4"
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_5"
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_6"
+            }
+        ],
+        "north=up,south=none,east=up,west=none,power=1": [
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_1",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_2",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_3",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_4",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_5",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_6",
+                "y": 90
+            }
+        ],
+        "north=up,south=none,east=side,west=up,power=1": [
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_1",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_2",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_3",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_4",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_5",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_6",
+                "y": 180
+            }
+        ],
+        "north=up,south=none,east=side,west=side,power=1": [
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_1",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_2",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_3",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_4",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_5",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/wine_rack/wine_rack_6",
+                "y": 270
+            }
+        ]
     }
 }

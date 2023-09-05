@@ -286,5 +286,14 @@
     "hanging_brazier_lit": {
         "index": 99,
         "shape": "full"
+    },
+    "wine_rack": {
+        "index": 100,
+        "shape": "full",
+        "type": "clicked",
+        "north": 100,
+        "east": 101,
+        "south": 102,
+        "west": 103
     }
 }
