@@ -278,5 +278,13 @@
         "east": 95,
         "south": 96,
         "west": 97
-	}
+	},
+    "hanging_brazier": {
+        "index": 98,
+        "shape": "full"
+    },
+    "hanging_brazier_lit": {
+        "index": 99,
+        "shape": "full"
+    }
 }
