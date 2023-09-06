@@ -291,9 +291,9 @@
         "index": 100,
         "shape": "full",
         "type": "clicked",
-        "north": 100,
-        "east": 101,
-        "south": 102,
-        "west": 103
+        "north": 102,
+        "east": 103,
+        "south": 100,
+        "west": 101
     }
 }
