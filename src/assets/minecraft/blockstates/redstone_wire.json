@@ -802,9 +802,23 @@
                 "y": 270
             }
         ],
-        "north=up,south=none,east=side,west=none,power=1": {
-            "model": "gauntlet:decoration/wooden_bucket"
-        },
+        "north=up,south=none,east=side,west=none,power=1": [
+            {
+                "model": "gauntlet:decoration/wooden_bucket"
+            },
+            {
+                "model": "gauntlet:decoration/wooden_bucket",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/wooden_bucket",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/wooden_bucket",
+                "y": 270
+            }
+        ],
         "north=up,south=none,east=none,west=up,power=1": {
             "model": "gauntlet:decoration/cage"
         },
