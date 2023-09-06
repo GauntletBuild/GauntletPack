@@ -648,26 +648,26 @@
                 "y": 270
             }
         ],
-		"north=up,south=up,east=none,west=side,power=1": {
-			"model": "gauntlet:decoration/kegs/pine_keg"
-		},
-		"north=up,south=up,east=none,west=none,power=1": {
-			"model": "gauntlet:decoration/kegs/large_pine_keg"
-		},
-		"north=up,south=side,east=up,west=up,power=1": {
-			"model": "gauntlet:decoration/kegs/large_pine_keg_sideways"
-		},
-		"north=up,south=side,east=up,west=side,power=1": {
-			"model": "gauntlet:decoration/kegs/large_pine_keg_sideways",
-			"y": 90
-		},
-		"north=up,south=side,east=up,west=none,power=1": {
-			"model": "gauntlet:decoration/kegs/pine_keg_sideways"
-		},
-		"north=up,south=side,east=side,west=up,power=1": {
-			"model": "gauntlet:decoration/kegs/pine_keg_sideways",
-			"y": 90
-		},
+        "north=up,south=up,east=none,west=side,power=1": {
+            "model": "gauntlet:decoration/kegs/pine_keg"
+        },
+        "north=up,south=up,east=none,west=none,power=1": {
+            "model": "gauntlet:decoration/kegs/large_pine_keg"
+        },
+        "north=up,south=side,east=up,west=up,power=1": {
+            "model": "gauntlet:decoration/kegs/large_pine_keg_sideways"
+        },
+        "north=up,south=side,east=up,west=side,power=1": {
+            "model": "gauntlet:decoration/kegs/large_pine_keg_sideways",
+            "y": 90
+        },
+        "north=up,south=side,east=up,west=none,power=1": {
+            "model": "gauntlet:decoration/kegs/pine_keg_sideways"
+        },
+        "north=up,south=side,east=side,west=up,power=1": {
+            "model": "gauntlet:decoration/kegs/pine_keg_sideways",
+            "y": 90
+        },
         "north=up,south=side,east=side,west=side,power=1": {
             "model": "gauntlet:decoration/kegs/keg_tap"
         },
@@ -801,6 +801,24 @@
                 "model": "gauntlet:decoration/wine_rack/wine_bottle_rack_6",
                 "y": 270
             }
-        ]
+        ],
+        "north=up,south=none,east=side,west=none,power=1": {
+            "model": "gauntlet:decoration/wooden_bucket"
+        },
+        "north=up,south=none,east=none,west=up,power=1": {
+            "model": "gauntlet:decoration/cage"
+        },
+        "north=up,south=none,east=none,west=side,power=1": {
+            "model": "gauntlet:decoration/pots/pot_long_neck"
+        },
+        "north=up,south=none,east=none,west=none,power=1": {
+            "model": "gauntlet:decoration/pots/pot_normal"
+        },
+        "north=side,south=up,east=up,west=up,power=1": {
+            "model": "gauntlet:decoration/pots/pot_short"
+        },
+        "north=side,south=up,east=up,west=side,power=1": {
+            "model": "gauntlet:decoration/pots/pot_thin"
+        }
     }
 }

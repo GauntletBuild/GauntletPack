@@ -295,5 +295,29 @@
         "east": 103,
         "south": 100,
         "west": 101
+    },
+    "wooden_bucket": {
+        "index": 104,
+        "shape": "mini"
+    },
+    "cage": {
+        "index": 105,
+        "shape": "full"
+    },
+    "pot_long_neck": {
+        "index": 106,
+        "shape": "full"
+    },
+    "pot_normal": {
+        "index": 107,
+        "shape": "full"
+    },
+    "pot_short": {
+        "index": 108,
+        "shape": "full"
+    },
+    "pot_thin": {
+        "index": 109,
+        "shape": "full"
     }
 }
