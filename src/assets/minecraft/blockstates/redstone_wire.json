@@ -836,6 +836,18 @@
         },
 		"north=side,south=up,east=up,west=none,power=1": {
 			"model": "gauntlet:decoration/manhole_cover"
+		},
+		"north=side,south=up,east=side,west=up,power=1": {
+			"model": "gauntlet:decoration/manhole_cover",
+			"y": 90
+		},
+		"north=side,south=up,east=side,west=side,power=1": {
+			"model": "gauntlet:decoration/manhole_cover",
+			"y": 180
+		},
+		"north=side,south=up,east=side,west=none,power=1": {
+			"model": "gauntlet:decoration/manhole_cover",
+			"y": 270
 		}
     }
 }
