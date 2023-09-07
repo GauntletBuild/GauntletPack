@@ -328,5 +328,14 @@
         "east": 111,
         "south": 112,
         "west": 113
+	},
+	"manhole_cover_centered": {
+		"index": 114
+		"shape": "full",
+		"type": "clicked",
+		"north": 114,
+        "east": 115,
+        "south": 116,
+        "west": 117
 	}
 }
