@@ -319,5 +319,9 @@
     "pot_thin": {
         "index": 109,
         "shape": "full"
-    }
+    },
+	"manhole_cover": {
+		"index": 110,
+		"shape": "full"
+	}
 }
