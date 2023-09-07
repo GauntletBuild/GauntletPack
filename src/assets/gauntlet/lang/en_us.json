@@ -212,5 +212,6 @@
     "item.gauntlet_transparent.clay_pot_middle": "Middle Clay Pot",
     "item.gauntlet_transparent.clay_pot_upper": "Upper Clay Pot",
     "item.gauntlet_transparent.clay_pot_upper_lid": "Upper Clay Pot with Lid",
-	"item.gauntlet_decoration.manhole_cover": "Manhole Cover"
+	"item.gauntlet_decoration.manhole_cover": "Manhole Cover",
+	"item.gauntlet_decoration.manhole_cover_centered": "Centered Manhole Cover"
 }
