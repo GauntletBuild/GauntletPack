@@ -833,6 +833,9 @@
         },
         "north=side,south=up,east=up,west=side,power=1": {
             "model": "gauntlet:decoration/pots/pot_thin"
-        }
+        },
+		"north=side,south=up,east=up,west=none,power=1": {
+			"model": "gauntlet:decoration/manhole_cover"
+		}
     }
 }
