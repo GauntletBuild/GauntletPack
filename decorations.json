@@ -323,6 +323,7 @@
 	"manhole_cover": {
 		"index": 110,
 		"shape": "full",
+		"type": "clicked",
 		"north": 110,
         "east": 111,
         "south": 112,
