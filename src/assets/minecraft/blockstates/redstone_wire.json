@@ -864,6 +864,6 @@
 		"north=side,south=side,east=up,west=up,power=1": {
 			"model": "gauntlet:decoration/manhole_cover_centered",
 			"y": 270
-		},
+		}
     }
 }
