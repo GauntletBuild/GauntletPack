@@ -174,7 +174,7 @@
         "south": 62,
         "west": 63
     },
-	"old_chalice": {
+    "old_chalice": {
         "index": 64,
         "shape": "mini"
     },
@@ -199,15 +199,15 @@
         "index": 71,
         "shape": "full"
     },
-	"silver_chalice": {
+    "silver_chalice": {
         "index": 72,
         "shape": "mini"
     },
-	"golden_chalice": {
+    "golden_chalice": {
         "index": 73,
         "shape": "mini"
     },
-	"ornate_pine_chair": {
+    "ornate_pine_chair": {
         "index": 74,
         "shape": "full",
         "type": "clicked",
@@ -223,54 +223,54 @@
         "north": 78,
         "east": 79
     },
-	"ornate_metal_table": {
-		"index": 80,
-		"shape": "full"
-	},
-	"tableware": {
-		"index": 81,
-		"shape": "mini"
-	},
-	"small_pine_keg": {
-		"index": 82,
-		"shape": "full"
-	},
-	"small_pine_keg_sideways": {
-		"index": 83,
-		"shape": "full",
-		"type": "clicked",
-		"north": 83,
+    "ornate_metal_table": {
+        "index": 80,
+        "shape": "full"
+    },
+    "tableware": {
+        "index": 81,
+        "shape": "mini"
+    },
+    "small_pine_keg": {
+        "index": 82,
+        "shape": "full"
+    },
+    "small_pine_keg_sideways": {
+        "index": 83,
+        "shape": "full",
+        "type": "clicked",
+        "north": 83,
         "east": 84,
         "south": 85,
         "west": 86
-	},
+    },
     "candle_wine_bottle": {
         "index": 87,
         "shape": "mini"
     },
-	"pine_keg": {
-		"index": 88,
-		"shape": "full"
-	},
-	"large_pine_keg": {
-		"index": 89,
-		"shape": "full"
-	},
-	"large_pine_keg_sideways": {
-		"index": 90,
+    "pine_keg": {
+        "index": 88,
+        "shape": "full"
+    },
+    "large_pine_keg": {
+        "index": 89,
+        "shape": "full"
+    },
+    "large_pine_keg_sideways": {
+        "index": 90,
         "shape": "full",
         "type": "clicked",
         "north": 90,
         "east": 91
-	},
-	"pine_keg_sideways": {
-		"index": 92,
+    },
+    "pine_keg_sideways": {
+        "index": 92,
         "shape": "full",
         "type": "clicked",
         "north": 92,
         "east": 93
-	},
-	"keg_tap": {
+    },
+    "keg_tap": {
         "index": 94,
         "shape": "mini",
         "type": "clicked",
@@ -278,7 +278,7 @@
         "east": 95,
         "south": 96,
         "west": 97
-	},
+    },
     "hanging_brazier": {
         "index": 98,
         "shape": "full"
@@ -320,22 +320,31 @@
         "index": 109,
         "shape": "full"
     },
-	"manhole_cover": {
-		"index": 110,
-		"shape": "full",
-		"type": "clicked",
-		"north": 110,
+    "manhole_cover": {
+        "index": 110,
+        "shape": "full",
+        "type": "clicked",
+        "north": 110,
         "east": 111,
         "south": 112,
         "west": 113
-	},
-	"manhole_cover_centered": {
-		"index": 114,
-		"shape": "full",
-		"type": "clicked",
-		"north": 114,
+    },
+    "manhole_cover_centered": {
+        "index": 114,
+        "shape": "full",
+        "type": "clicked",
+        "north": 114,
         "east": 115,
         "south": 116,
         "west": 117
-	}
+    },
+    "pine_cupboard": {
+        "index": 118,
+        "shape": "full",
+        "type": "clicked",
+        "north": 120,
+        "east": 121,
+        "south": 118,
+        "west": 119
+    }
 }

@@ -834,36 +834,50 @@
         "north=side,south=up,east=up,west=side,power=1": {
             "model": "gauntlet:decoration/pots/pot_thin"
         },
-		"north=side,south=up,east=up,west=none,power=1": {
-			"model": "gauntlet:decoration/manhole_cover"
-		},
-		"north=side,south=up,east=side,west=up,power=1": {
-			"model": "gauntlet:decoration/manhole_cover",
-			"y": 90
-		},
-		"north=side,south=up,east=side,west=side,power=1": {
-			"model": "gauntlet:decoration/manhole_cover",
-			"y": 180
-		},
-		"north=side,south=up,east=side,west=none,power=1": {
-			"model": "gauntlet:decoration/manhole_cover",
-			"y": 270
-		},
-		"north=side,south=up,east=none,west=up,power=1": {
-			"model": "gauntlet:decoration/manhole_cover_centered"
-			
-		},
-		"north=side,south=up,east=none,west=side,power=1": {
-			"model": "gauntlet:decoration/manhole_cover_centered",
-			"y": 90
-		},
-		"north=side,south=up,east=none,west=none,power=1": {
-			"model": "gauntlet:decoration/manhole_cover_centered",
-			"y": 180
-		},
-		"north=side,south=side,east=up,west=up,power=1": {
-			"model": "gauntlet:decoration/manhole_cover_centered",
-			"y": 270
-		}
+        "north=side,south=up,east=up,west=none,power=1": {
+            "model": "gauntlet:decoration/manhole_cover"
+        },
+        "north=side,south=up,east=side,west=up,power=1": {
+            "model": "gauntlet:decoration/manhole_cover",
+            "y": 90
+        },
+        "north=side,south=up,east=side,west=side,power=1": {
+            "model": "gauntlet:decoration/manhole_cover",
+            "y": 180
+        },
+        "north=side,south=up,east=side,west=none,power=1": {
+            "model": "gauntlet:decoration/manhole_cover",
+            "y": 270
+        },
+        "north=side,south=up,east=none,west=up,power=1": {
+            "model": "gauntlet:decoration/manhole_cover_centered"
+        },
+        "north=side,south=up,east=none,west=side,power=1": {
+            "model": "gauntlet:decoration/manhole_cover_centered",
+            "y": 90
+        },
+        "north=side,south=up,east=none,west=none,power=1": {
+            "model": "gauntlet:decoration/manhole_cover_centered",
+            "y": 180
+        },
+        "north=side,south=side,east=up,west=up,power=1": {
+            "model": "gauntlet:decoration/manhole_cover_centered",
+            "y": 270
+        },
+        "north=side,south=side,east=up,west=side,power=1": {
+            "model": "gauntlet:decoration/pine_cupboard"
+        },
+        "north=side,south=side,east=up,west=none,power=1": {
+            "model": "gauntlet:decoration/pine_cupboard",
+            "y": 90
+        },
+        "north=side,south=side,east=side,west=up,power=1": {
+            "model": "gauntlet:decoration/pine_cupboard",
+            "y": 180
+        },
+        "north=side,south=side,east=side,west=side,power=1": {
+            "model": "gauntlet:decoration/pine_cupboard",
+            "y": 270
+        }
     }
 }
