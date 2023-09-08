@@ -863,6 +863,21 @@
         "north=side,south=side,east=side,west=side,power=1": {
             "model": "gauntlet:decoration/pine_cupboard",
             "y": 270
+        },
+        "north=side,south=side,east=side,west=none,power=1": {
+            "model": "gauntlet:decoration/spruce_shelf"
+        },
+        "north=side,south=side,east=none,west=up,power=1": {
+            "model": "gauntlet:decoration/spruce_shelf",
+            "y": 90
+        },
+        "north=side,south=side,east=none,west=side,power=1": {
+            "model": "gauntlet:decoration/spruce_shelf",
+            "y": 180
+        },
+        "north=side,south=side,east=none,west=none,power=1": {
+            "model": "gauntlet:decoration/spruce_shelf",
+            "y": 270
         }
     }
 }

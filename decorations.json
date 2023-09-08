@@ -346,5 +346,14 @@
         "east": 121,
         "south": 118,
         "west": 119
+    },
+    "spruce_shelf": {
+        "index": 122,
+        "shape": "full",
+        "type": "clicked",
+        "north": 124,
+        "east": 125,
+        "south": 122,
+        "west": 123
     }
 }
