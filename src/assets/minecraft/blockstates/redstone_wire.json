@@ -595,9 +595,23 @@
         "north=none,south=none,east=none,west=none,power=0": {
             "model": "gauntlet:decoration/tables/ornate_metal_table"
         },
-        "north=up,south=up,east=up,west=up,power=1": {
-            "model": "gauntlet:decoration/tableware"
-        },
+        "north=up,south=up,east=up,west=up,power=1": [
+            {
+                "model": "gauntlet:decoration/tableware"
+            },
+            {
+                "model": "gauntlet:decoration/tableware",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/tableware",
+                "y": 180,
+            },
+            {
+                "model": "gauntlet:decoration/tableware",
+                "y": 270
+            }
+        ],
         "north=up,south=up,east=up,west=side,power=1": {
             "model": "gauntlet:decoration/kegs/small_pine_keg"
         },
