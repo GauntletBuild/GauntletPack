@@ -141,6 +141,10 @@
     "item.gauntlet_decoration.walnut_stool": "Walnut Stool",
     "item.gauntlet_decoration.gold_bell": "Gold Bell",
     "item.gauntlet_decoration.wooden_bucket": "Wooden Bucket",
+    "item.gauntlet_decoration.fallen_wooden_bucket": "Fallen Wooden Bucket",
+    "item.gauntlet_decoration.empty_jar": "Empty Jar",
+    "item.gauntlet_decoration.basket": "Basket",
+    "item.gauntlet_decoration.log_stack": "Stack of Logs",
     "item.gauntlet_decoration.cage": "Cage",
     "item.gauntlet_decoration.pot_long_neck": "Long Neck Pot",
     "item.gauntlet_decoration.pot_normal": "Normal Pot",
@@ -215,6 +219,6 @@
     "item.gauntlet_transparent.clay_pot_middle": "Middle Clay Pot",
     "item.gauntlet_transparent.clay_pot_upper": "Upper Clay Pot",
     "item.gauntlet_transparent.clay_pot_upper_lid": "Upper Clay Pot with Lid",
-	"item.gauntlet_decoration.manhole_cover": "Manhole Cover",
-	"item.gauntlet_decoration.manhole_cover_centered": "Centered Manhole Cover"
+    "item.gauntlet_decoration.manhole_cover": "Manhole Cover",
+    "item.gauntlet_decoration.manhole_cover_centered": "Centered Manhole Cover"
 }

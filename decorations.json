@@ -355,5 +355,21 @@
         "east": 125,
         "south": 122,
         "west": 123
+    },
+    "fallen_wooden_bucket": {
+        "index": 126,
+        "shape": "mini"
+    },
+    "empty_jar": {
+        "index": 127,
+        "shape": "mini"
+    },
+    "basket": {
+        "index": 128,
+        "shape": "mini"
+    },
+    "log_stack":{
+        "index": 129,
+        "shape": "full"
     }
 }
