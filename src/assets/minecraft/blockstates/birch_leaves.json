@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "distance=1,persistent=false": {
+            "model": "gauntlet:decoration/kegs/small_spruce_keg_sideways"
+        },
+        "distance=1,persistent=true": {
+            "model": "gauntlet:decoration/kegs/small_spruce_keg_sideways",
+            "y": 180
+        },
+        "distance=2,persistent=false": {
+            "model": "gauntlet:decoration/kegs/small_spruce_keg_sideways",
+            "y": 90
+        },
+        "distance=2,persistent=true": {
+            "model": "gauntlet:decoration/kegs/small_spruce_keg_sideways",
+            "y": 270
+        }
+    }
+}

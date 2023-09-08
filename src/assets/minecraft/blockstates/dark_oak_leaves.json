@@ -38,6 +38,9 @@
         },
         "distance=6,persistent=true": {
             "model": "gauntlet:decoration/pots/clay_pot"
+        },
+        "distance=7,persistent=false": {
+            "model": "gauntlet:decoration/kegs/small_spruce_keg"
         }
     }
 }

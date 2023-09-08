@@ -28,5 +28,14 @@
     },
     "clay_pot": {
         "index": 11
+    },
+    "small_spruce_keg": {
+        "type": "orientable",
+        "index": 12,
+        "north": 13,
+        "south": 14,
+        "east": 15,
+        "west": 16,
+        "up": 12
     }
 }
