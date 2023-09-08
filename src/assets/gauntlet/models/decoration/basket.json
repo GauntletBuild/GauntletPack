@@ -29,12 +29,12 @@
 			}
 		},
 		{
-			"from": [5, 6, -8],
-			"to": [11, 11, -8],
-			"rotation": {"angle": -90, "axis": "y", "origin": [0, 0, 0]},
+			"from": [8, 6, 5],
+			"to": [8, 11, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.5, 8]},
 			"faces": {
-				"north": {"uv": [0, 2.5, 3, 5], "texture": "#basket"},
-				"south": {"uv": [0, 2.5, 3, 5], "texture": "#basket"}
+				"east": {"uv": [0, 2.5, 3, 5], "texture": "#basket"},
+				"west": {"uv": [0, 2.5, 3, 5], "texture": "#basket"}
 			}
 		}
 	],
