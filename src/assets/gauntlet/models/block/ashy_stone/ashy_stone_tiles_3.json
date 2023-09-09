@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "gauntlet:block/ashy_stone/ashy_stone_tiles_3"
+  }
+}

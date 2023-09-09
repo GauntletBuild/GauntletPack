@@ -1265,6 +1265,82 @@
         },
         "instrument=snare,note=19,powered=true": {
             "model": "gauntlet:block/red_checkered_tiles"
-        }
+        },
+        "instrument=snare,note=20,powered=false": [
+            {
+                "model": "gauntlet:block/ashy_stone/ashy_stone_tiles"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/ashy_stone_tiles_1"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/ashy_stone_tiles_2"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/ashy_stone_tiles_3"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/ashy_stone_tiles_4"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/ashy_stone_tiles_5"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/ashy_stone_tiles_6"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/ashy_stone_tiles_7"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/ashy_stone_tiles_8"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/ashy_stone_tiles_9"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/ashy_stone_tiles_10"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/ashy_stone_tiles_11"
+            }
+        ],
+        "instrument=snare,note=20,powered=true": [
+            {
+                "model": "gauntlet:block/ashy_stone/broken_ashy_stone_tiles"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/broken_ashy_stone_tiles_1"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/broken_ashy_stone_tiles_2"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/broken_ashy_stone_tiles_3"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/broken_ashy_stone_tiles_4"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/broken_ashy_stone_tiles_5"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/broken_ashy_stone_tiles_6"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/broken_ashy_stone_tiles_7"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/broken_ashy_stone_tiles_8"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/broken_ashy_stone_tiles_9"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/broken_ashy_stone_tiles_10"
+            },
+            {
+                "model": "gauntlet:block/ashy_stone/broken_ashy_stone_tiles_11"
+            }
+        ]
     }
 }
