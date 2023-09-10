@@ -543,5 +543,13 @@
     "red_checkered_tiles": {
         "type": "full_cube",
         "index": 139
+    },
+    "ashy_stone_tiles": {
+        "type": "full_cube",
+        "index": 140
+    },
+    "broken_ashy_stone_tiles": {
+        "type": "full_cube",
+        "index": 141
     }
 }

@@ -370,6 +370,31 @@
     },
     "log_stack":{
         "index": 129,
-        "shape": "full"
-    }
+        "shape": "full",
+		"type": "clicked",
+		"north": 129,
+        "east": 130
+    },
+	"spruce_keg": {
+		"index": 131,
+		"shape": "full"
+	},
+	"spruce_keg_sideways": {
+		"index": 132,
+		"shape": "full",
+		"type": "clicked",
+		"north": 132,
+		"east": 133
+	},
+	"large_spruce_keg": {
+		"index": 134,
+		"shape": "full"
+	},
+	"large_spruce_keg_sideways": {
+		"index": 135,
+		"shape": "full",
+		"type": "clicked",
+		"north": 135,
+		"east": 136
+	}
 }

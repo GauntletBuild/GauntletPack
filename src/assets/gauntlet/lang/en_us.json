@@ -203,12 +203,14 @@
     "item.gauntlet_decoration.ornate_pine_chair": "Ornate Pine Chair",
     "item.gauntlet_decoration.ornate_metal_table": "Ornate Metal Table",
     "item.gauntlet_decoration.tableware": "Tableware",
-    "item.gauntlet_decoration.small_pine_keg": "Small Pine Keg",
-    "item.gauntlet_decoration.small_pine_keg_sideways": "Sideways Small Pine Keg",
     "item.gauntlet_decoration.pine_keg": "Pine Keg",
+	"item.gauntlet_decoration.spruce_keg": "Spruce Keg",
     "item.gauntlet_decoration.pine_keg_sideways": "Sideways Pine Keg",
+	"item.gauntlet_decoration.spruce_keg_sideways": "Sideways Spruce Keg",
     "item.gauntlet_decoration.large_pine_keg": "Large Pine Keg",
+	"item.gauntlet_decoration.large_spruce_keg": "Large Spruce Keg",
     "item.gauntlet_decoration.large_pine_keg_sideways": "Sideways Large Pine Keg",
+	"item.gauntlet_decoration.large_spruce_keg_sideways": "Sideways Large Spruce Keg",
     "item.gauntlet_decoration.keg_tap": "Keg Tap",
     "item.gauntlet_transparent.small_pine_keg": "Small Pine Keg",
     "item.gauntlet_transparent.small_spruce_keg": "Small Spruce Keg",
@@ -220,5 +222,7 @@
     "item.gauntlet_transparent.clay_pot_upper": "Upper Clay Pot",
     "item.gauntlet_transparent.clay_pot_upper_lid": "Upper Clay Pot with Lid",
     "item.gauntlet_decoration.manhole_cover": "Manhole Cover",
-    "item.gauntlet_decoration.manhole_cover_centered": "Centered Manhole Cover"
+    "item.gauntlet_decoration.manhole_cover_centered": "Centered Manhole Cover",
+    "item.gauntlet.ashy_stone_tiles": "Ashen Stone Tiles",
+    "item.gauntlet.broken_ashy_stone_tiles": "Broken Ashen Stone Tiles"
 }
