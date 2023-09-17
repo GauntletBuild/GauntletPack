@@ -613,7 +613,7 @@
             }
         ],
         "north=up,south=up,east=up,west=side,power=1": {
-            "model": "gauntlet:decoration/kegs/small_pine_keg"
+            "model": "gauntlet:decoration/tables/spruce_table"
         },
         "north=up,south=up,east=up,west=none,power=1": {
             "model": "gauntlet:decoration/chairs/pine_chair"

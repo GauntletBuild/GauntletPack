@@ -1,0 +1,44 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "gauntlet:decoration/tables/spruce_table",
+		"particle": "gauntlet:decoration/tables/spruce_table"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 2, 12],
+			"faces": {
+				"north": {"uv": [12, 4, 16, 5], "texture": "#0"},
+				"east": {"uv": [12, 4, 16, 5], "texture": "#0"},
+				"south": {"uv": [12, 4, 16, 5], "texture": "#0"},
+				"west": {"uv": [12, 4, 16, 5], "texture": "#0"},
+				"up": {"uv": [12, 0, 16, 4], "texture": "#0"},
+				"down": {"uv": [12, 0, 16, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-4, 14, -4],
+			"to": [20, 16, 20],
+			"faces": {
+				"north": {"uv": [0, 12, 12, 13], "texture": "#0"},
+				"east": {"uv": [0, 12, 12, 13], "texture": "#0"},
+				"south": {"uv": [0, 12, 12, 13], "texture": "#0"},
+				"west": {"uv": [0, 12, 12, 13], "texture": "#0"},
+				"up": {"uv": [0, 0, 12, 12], "texture": "#0"},
+				"down": {"uv": [0, 0, 12, 12], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 2, 7],
+			"to": [9, 14, 9],
+			"faces": {
+				"north": {"uv": [12, 5, 13, 11], "texture": "#0"},
+				"east": {"uv": [13, 5, 12, 11], "texture": "#0"},
+				"south": {"uv": [12, 5, 13, 11], "texture": "#0"},
+				"west": {"uv": [13, 5, 12, 11], "texture": "#0"}
+			}
+		}
+	]
+}
