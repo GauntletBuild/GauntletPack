@@ -414,5 +414,9 @@
         "east": 142,
         "south": 143,
         "west": 144
-    }
+    },
+	"large_spruce_table": {
+		"index": 142,
+		"shape": "full"
+	}
 }
