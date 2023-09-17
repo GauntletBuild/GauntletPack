@@ -2,8 +2,8 @@
 	"credit": "Made by Farcr",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gauntlet:decoration/walnut_armchair",
-		"particle": "gauntlet:decoration/walnut_armchair"
+		"0": "gauntlet:decoration/chairs/walnut_armchair",
+		"particle": "gauntlet:decoration/chairs/walnut_armchair"
 	},
 	"elements": [
 		{
