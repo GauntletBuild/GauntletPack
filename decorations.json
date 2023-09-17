@@ -419,7 +419,9 @@
 		"index": 145,
 		"shape": "full",
         "type": "clicked",
-        "north": 145,
-        "east": 146
+        "north": 146,
+        "east": 145,
+        "south": 146,
+        "west": 145
 	}
 }
