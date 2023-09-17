@@ -420,8 +420,6 @@
 		"shape": "full",
         "type": "clicked",
         "north": 146,
-        "east": 145,
-        "south": 146,
-        "west": 145
+        "east": 145
 	}
 }
