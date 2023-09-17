@@ -1008,7 +1008,7 @@
             "model": "gauntlet:decoration/chairs/spruce_ladder_back_chair",
             "y": 270
         },
-		"north=none,south=up,east=none,west=side,power=1": {
+		"north=none,south=side,east=up,west=side,power=1": {
 			"model": "gauntlet:decoration/tables/large_spruce_table"
 		}
     }
