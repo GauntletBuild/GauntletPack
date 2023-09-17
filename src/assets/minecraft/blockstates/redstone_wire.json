@@ -1010,6 +1010,10 @@
         },
 		"north=none,south=side,east=up,west=side,power=1": {
 			"model": "gauntlet:decoration/tables/large_spruce_table"
-		}
+		},
+        "north=none,south=side,east=up,west=none,power=1": {
+            "model": "gauntlet:decoration/tables/large_spruce_table",
+            "y": 90
+        }
     }
 }

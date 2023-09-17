@@ -417,6 +417,9 @@
     },
 	"large_spruce_table": {
 		"index": 145,
-		"shape": "full"
+		"shape": "full",
+        "type": "clicked",
+        "north": 145,
+        "east": 146
 	}
 }
