@@ -396,5 +396,23 @@
 		"type": "clicked",
 		"north": 135,
 		"east": 136
-	}
+	},
+    "walnut_armchair": {
+        "index": 137,
+        "shape": "full",
+        "type": "clicked",
+        "north": 137,
+        "east": 138,
+        "south": 139,
+        "west": 140
+    },
+    "spruce_ladder_back_chair": {
+        "index": 141,
+        "shape": "full",
+        "type": "clicked",
+        "north": 141,
+        "east": 142,
+        "south": 143,
+        "west": 144
+    }
 }
