@@ -616,18 +616,18 @@
             "model": "gauntlet:decoration/kegs/small_pine_keg"
         },
         "north=up,south=up,east=up,west=none,power=1": {
-            "model": "gauntlet:decoration/kegs/small_pine_keg_sideways"
+            "model": "gauntlet:decoration/chairs/pine_chair"
         },
         "north=up,south=up,east=side,west=up,power=1": {
-            "model": "gauntlet:decoration/kegs/small_pine_keg_sideways",
+            "model": "gauntlet:decoration/chairs/pine_chair",
             "y": 90
         },
         "north=up,south=up,east=side,west=side,power=1": {
-            "model": "gauntlet:decoration/kegs/small_pine_keg_sideways",
+            "model": "gauntlet:decoration/chairs/pine_chair",
             "y": 180
         },
         "north=up,south=up,east=side,west=none,power=1": {
-            "model": "gauntlet:decoration/kegs/small_pine_keg_sideways",
+            "model": "gauntlet:decoration/chairs/pine_chair",
             "y": 270
         },
         "north=up,south=up,east=none,west=up,power=1": [
