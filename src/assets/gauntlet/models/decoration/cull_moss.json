@@ -1,0 +1,7 @@
+{
+    "parent": "gauntlet:decoration/cull_overlay_base",
+    "textures": {
+        "0": "block/moss_block",
+        "particle": "block/moss_block"
+    }
+}

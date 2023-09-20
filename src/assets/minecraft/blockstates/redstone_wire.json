@@ -1014,6 +1014,9 @@
         "north=none,south=side,east=up,west=none,power=1": {
             "model": "gauntlet:decoration/tables/large_spruce_table",
             "y": 90
+        },
+        "north=none,south=side,east=side,west=up,power=1": {
+            "model": "gauntlet:decoration/cull_moss"
         }
     }
 }
