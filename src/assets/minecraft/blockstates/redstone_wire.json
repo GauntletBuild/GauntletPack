@@ -831,7 +831,7 @@
             "model": "gauntlet:decoration/pots/pot_short"
         },
         "north=side,south=up,east=up,west=side,power=1": {
-            "model": "gauntlet:decoration/pots/pot_thin"
+            "model": "gauntlet:decoration/trash/ornate_trashcan"
         },
         "north=side,south=up,east=up,west=none,power=1": {
             "model": "gauntlet:decoration/manhole_cover"
