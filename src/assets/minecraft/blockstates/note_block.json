@@ -1341,6 +1341,9 @@
             {
                 "model": "gauntlet:block/ashy_stone/broken_ashy_stone_tiles_11"
             }
-        ]
+        ],
+        "instrument=snare,note=21,powered=false": {
+            "model": "gauntlet:block/empty_barrel"
+        }
     }
 }

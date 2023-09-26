@@ -551,5 +551,9 @@
     "broken_ashy_stone_tiles": {
         "type": "full_cube",
         "index": 141
+    },
+    "empty_barrel": {
+        "type": "full_cube",
+        "index": 142
     }
 }
