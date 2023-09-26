@@ -1343,7 +1343,7 @@
             }
         ],
         "instrument=snare,note=21,powered=false": {
-            "model": "gauntlet:block/empty_barrel"
+            "model": "gauntlet:block/barrels/empty_barrel"
         }
     }
 }
