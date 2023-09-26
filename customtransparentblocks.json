@@ -40,5 +40,8 @@
     },
     "ceramic_pot": {
         "index": 17
+    },
+    "old_pot": {
+        "index": 18
     }
 }

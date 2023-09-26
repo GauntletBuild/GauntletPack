@@ -25,6 +25,26 @@
             {
                 "model": "gauntlet:decoration/pots/pot_long"
             }
+        ],
+        "distance=3,persistent=true": [
+            {
+                "model": "gauntlet:decoration/pots/old_pot"
+            },
+            {
+                "model": "gauntlet:decoration/pots/old_pot_1"
+            },
+            {
+                "model": "gauntlet:decoration/pots/old_pot_2"
+            },
+            {
+                "model": "gauntlet:decoration/pots/old_pot_3"
+            },
+            {
+                "model": "gauntlet:decoration/pots/cracked_old_pot"
+            },
+            {
+                "model": "gauntlet:decoration/pots/cracked_old_pot_2"
+            }
         ]
     }
 }
