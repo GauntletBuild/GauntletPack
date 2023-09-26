@@ -16,7 +16,7 @@
 	  {
         "model": "minecraft:block/farmland_4"
       }
-    ]
+    ],
     "moisture=1": [
       {
         "model": "minecraft:block/farmland_moist_0"
