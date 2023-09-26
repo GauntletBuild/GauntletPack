@@ -1,11 +1,39 @@
 {
   "variants": {
-    "moisture=0": {
-      "model": "minecraft:block/farmland"
-    },
-    "moisture=1": {
-      "model": "minecraft:block/farmland"
-    },
+    "moisture=0": [
+      {
+        "model": "minecraft:block/farmland_0"
+      },
+	  {
+        "model": "minecraft:block/farmland_1"
+      },  
+	  {
+        "model": "minecraft:block/farmland_2"
+      },
+	  {
+        "model": "minecraft:block/farmland_3"
+      },
+	  {
+        "model": "minecraft:block/farmland_4"
+      }
+    ]
+    "moisture=1": [
+      {
+        "model": "minecraft:block/farmland_moist_0"
+      },
+	  {
+        "model": "minecraft:block/farmland_moist_1"
+      },  
+	  {
+        "model": "minecraft:block/farmland_moist_2"
+      },
+	  {
+        "model": "minecraft:block/farmland_moist_3"
+      },
+	  {
+        "model": "minecraft:block/farmland_moist_4"
+      }
+    ],
     "moisture=2": [
       { "model": "gauntlet:block/paths/mycelium_path_0" },
       { "model": "gauntlet:block/paths/mycelium_path_0", "y": 90 },
