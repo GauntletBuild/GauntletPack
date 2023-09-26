@@ -10,9 +10,9 @@
 	},
 	"elements": [
 		{
-			"from": [2, -14, 2],
-			"to": [14, 4, 14],
-			"rotation": {"angle": 0, "axis": "y", "origin": [0, -16, 0]},
+			"from": [2, -14, 1.9],
+			"to": [14, 4, 14.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, -16, 14]},
 			"faces": {
 				"north": {"uv": [0.25, 6.5, 3.25, 11], "texture": "#2"},
 				"east": {"uv": [0.25, 6.5, 3.25, 11], "texture": "#2"},
