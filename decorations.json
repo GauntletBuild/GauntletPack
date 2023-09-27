@@ -119,6 +119,14 @@
         "index": 37,
         "shape": "mini"
     },
+    "gold_oil_lantern": {
+        "index": 38,
+        "shape": "mini"
+    },
+    "gold_goblet": {
+        "index": 39,
+        "shape": "mini"
+    },
     "clear": {
         "index": 40,
         "shape": "mini"

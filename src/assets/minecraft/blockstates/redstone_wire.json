@@ -569,13 +569,25 @@
                 "y": 270
             }
         ],
-        "north=side,south=side,east=up,west=none,power=0": {
-            "model": "gauntlet:decoration/shutters/light_blue_shutter",
-            "y": 180
-        },
+        "north=side,south=side,east=up,west=none,power=0": [
+            {
+                "model": "gauntlet:decoration/lanterns/gold_oil_lantern"
+            },
+            {
+                "model": "gauntlet:decoration/lanterns/gold_oil_lantern",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/lanterns/gold_oil_lantern",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/lanterns/gold_oil_lantern",
+                "y": 270
+            }
+        ],
         "north=side,south=side,east=side,west=up,power=0": {
-            "model": "gauntlet:decoration/shutters/light_blue_shutter",
-            "y": 270
+            "model": "gauntlet:decoration/gold_goblet"
         },
         "north=side,south=side,east=side,west=side,power=0": {
             "model": "gauntlet:decoration/shutters/light_blue_shutter_flipped"
