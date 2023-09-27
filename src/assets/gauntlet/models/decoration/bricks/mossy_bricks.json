@@ -3,9 +3,9 @@
 	"parent": "block/block",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "gauntlet:blocks/bricks/mossybricks1",
-		"1": "gauntlet:blocks/bricks/moss1",
-		"particle": "gauntlet:blocks/bricks/mossybricks1"
+		"0": "gauntlet:decoration/bricks/mossy_bricks",
+		"1": "gauntlet:decoration/bricks/mossy_bricks_overlay",
+		"particle": "gauntlet:decoration/bricks/mossy_bricks"
 	},
 	"elements": [
 		{
