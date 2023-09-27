@@ -491,10 +491,84 @@
                 "y": 270
             }
         ],
-        "north=side,south=side,east=up,west=side,power=0": {
-            "model": "gauntlet:decoration/shutters/light_blue_shutter",
-            "y": 90
-        },
+        "north=side,south=side,east=up,west=side,power=0": [
+            {
+                "model": "gauntlet:decoration/bricks/mossy_stone_bricks",
+                "weight": 40
+            },
+            {
+                "model": "gauntlet:decoration/bricks/mossy_stone_bricks",
+                "weight": 40,
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/bricks/mossy_stone_bricks",
+                "weight": 40,
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/bricks/mossy_stone_bricks",
+                "weight": 40,
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/bricks/mossy_stone_bricks_1",
+                "weight": 30
+            },
+            {
+                "model": "gauntlet:decoration/bricks/mossy_stone_bricks_1",
+                "weight": 30,
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/bricks/mossy_stone_bricks_1",
+                "weight": 30,
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/bricks/mossy_stone_bricks_1",
+                "weight": 30,
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/bricks/mossy_stone_bricks_2",
+                "weight": 20
+            },
+            {
+                "model": "gauntlet:decoration/bricks/mossy_stone_bricks_2",
+                "weight": 20,
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/bricks/mossy_stone_bricks_2",
+                "weight": 20,
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/bricks/mossy_stone_bricks_2",
+                "weight": 20,
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/bricks/mossy_stone_bricks_3",
+                "weight": 10
+            },
+            {
+                "model": "gauntlet:decoration/bricks/mossy_stone_bricks_3",
+                "weight": 10,
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/bricks/mossy_stone_bricks_3",
+                "weight": 10,
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/bricks/mossy_stone_bricks_3",
+                "weight": 10,
+                "y": 270
+            }
+        ],
         "north=side,south=side,east=up,west=none,power=0": {
             "model": "gauntlet:decoration/shutters/light_blue_shutter",
             "y": 180

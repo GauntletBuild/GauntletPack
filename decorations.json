@@ -115,6 +115,10 @@
         "index": 36,
         "shape": "mini"
     },
+    "mossy_stone_brick": {
+        "index": 37,
+        "shape": "mini"
+    },
     "clear": {
         "index": 40,
         "shape": "mini"
