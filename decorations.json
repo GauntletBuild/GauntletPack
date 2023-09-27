@@ -111,17 +111,11 @@
         "index": 35,
         "shape": "full"
     },
-
-    "light_blue_window_shutter": {
-        "index": 36,
-        "shape": "full",
-        "type": "clicked",
-        "north": 36,
-        "east": 37,
-        "south": 38,
-        "west": 39
-    },
     "stone_brick": {
+        "index": 36,
+        "shape": "mini"
+    },
+    "stone_brick(": {
         "index": 40,
         "shape": "mini"
     },
