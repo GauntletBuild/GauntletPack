@@ -127,9 +127,14 @@
         "index": 39,
         "shape": "mini"
     },
-    "clear": {
+    "alabaster_grave_small": {
         "index": 40,
-        "shape": "mini"
+        "shape": "full",
+        "type": "clicked",
+        "north": 40,
+        "east": 41,
+        "south": 42,
+        "west": 43
     },
     "red_black_window_shutter": {
         "index": 44,
