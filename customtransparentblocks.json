@@ -43,13 +43,5 @@
     },
     "old_pot": {
         "index": 18
-    },
-    "wine_rack": {
-        "type": "clicked",
-        "index": 19,
-        "north": 19,
-        "east": 20,
-        "south": 21,
-        "west": 22
     }
 }
