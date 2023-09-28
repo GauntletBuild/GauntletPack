@@ -136,7 +136,7 @@
         "south": 42,
         "west": 43
     },
-    "red_black_window_shutter": {
+    "scarecrow": {
         "index": 44,
         "shape": "full",
         "type": "clicked",
