@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "gauntlet:decoration/bricks/red_brick_1",
+		"particle": "gauntlet:decoration/bricks/red_brick_1"
+	},
+	"elements": [
+		{
+			"from": [1.73044, 0, 5.34149],
+			"to": [13.73044, 4, 10.34149],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [6.73044, 2, 7.84149]},
+			"faces": {
+				"north": {"uv": [4, 12, 16, 16], "texture": "#0"},
+				"east": {"uv": [11, 8, 16, 12], "texture": "#0"},
+				"south": {"uv": [16, 12, 4, 16], "texture": "#0"},
+				"west": {"uv": [11, 4, 16, 8], "texture": "#0"},
+				"up": {"uv": [0, 0, 5, 12], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [5, 0, 10, 12], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"loader": "framework:open_model"
+}

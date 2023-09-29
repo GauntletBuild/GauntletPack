@@ -725,9 +725,103 @@
                 "y": 270
             }
         ],
-        "north=side,south=none,east=side,west=up,power=0": {
-            "model": "gauntlet:decoration/shutters/red_black_shutter_flipped"
-        },
+        "north=side,south=none,east=side,west=up,power=0": [
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks",
+                "weight": 50
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks",
+                "weight": 50,
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks",
+                "weight": 50,
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks",
+                "weight": 50,
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks_1",
+                "weight": 30
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks_1",
+                "weight": 30,
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks_1",
+                "weight": 30,
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks_1",
+                "weight": 30,
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks_2",
+                "weight": 20
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks_2",
+                "weight": 20,
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks_2",
+                "weight": 20,
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks_2",
+                "weight": 20,
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks_3",
+                "weight": 20
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks_3",
+                "weight": 20,
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks_3",
+                "weight": 20,
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks_3",
+                "weight": 20,
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks_4",
+                "weight": 20
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks_4",
+                "weight": 20,
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks_4",
+                "weight": 20,
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/bricks/red_bricks_4",
+                "weight": 20,
+                "y": 270
+            }
+        ],
         "north=side,south=none,east=side,west=side,power=0": {
             "model": "gauntlet:decoration/shutters/red_black_shutter_flipped",
             "y": 90
