@@ -145,14 +145,9 @@
         "south": 46,
         "west": 47
     },
-    "red_black_window_shutter_flipped": {
+    "red_bricks": {
         "index": 48,
-        "shape": "full",
-        "type": "clicked",
-        "north": 48,
-        "east": 49,
-        "south": 50,
-        "west": 51
+        "shape": "mini"
     },
     "mannequin": {
         "index": 52,
