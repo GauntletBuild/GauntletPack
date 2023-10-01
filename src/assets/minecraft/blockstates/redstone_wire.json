@@ -1163,9 +1163,103 @@
         "north=up,south=none,east=none,west=up,power=1": {
             "model": "gauntlet:decoration/cage"
         },
-        "north=up,south=none,east=none,west=side,power=1": {
-            "model": "gauntlet:decoration/pots/pot_long"
-        },
+        "north=up,south=none,east=none,west=side,power=1": [
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks",
+                "weight": 50
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks",
+                "weight": 50,
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks",
+                "weight": 50,
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks",
+                "weight": 50,
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks_1",
+                "weight": 30
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks_1",
+                "weight": 30,
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks_1",
+                "weight": 30,
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks_1",
+                "weight": 30,
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks_2",
+                "weight": 20
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks_2",
+                "weight": 20,
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks_2",
+                "weight": 20,
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks_2",
+                "weight": 20,
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks_3",
+                "weight": 20
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks_3",
+                "weight": 20,
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks_3",
+                "weight": 20,
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks_3",
+                "weight": 20,
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks_4",
+                "weight": 20
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks_4",
+                "weight": 20,
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks_4",
+                "weight": 20,
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/bricks/alabaster_bricks_4",
+                "weight": 20,
+                "y": 270
+            }
+        ],
         "north=up,south=none,east=none,west=none,power=1": {
             "model": "gauntlet:decoration/pots/pot_normal"
         },
