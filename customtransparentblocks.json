@@ -40,5 +40,16 @@
     },
     "ceramic_pot": {
         "index": 17
+    },
+    "old_pot": {
+        "index": 18
+    },
+    "wine_rack": {
+        "type": "orientable",
+        "index": 19,
+        "north": 19,
+        "east": 20,
+        "south": 21,
+        "west": 22
     }
 }

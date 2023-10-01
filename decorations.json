@@ -111,16 +111,23 @@
         "index": 35,
         "shape": "full"
     },
-    "light_blue_window_shutter": {
+    "stone_brick": {
         "index": 36,
-        "shape": "full",
-        "type": "clicked",
-        "north": 36,
-        "east": 37,
-        "south": 38,
-        "west": 39
+        "shape": "mini"
     },
-    "light_blue_window_shutter_flipped": {
+    "mossy_stone_brick": {
+        "index": 37,
+        "shape": "mini"
+    },
+    "gold_oil_lantern": {
+        "index": 38,
+        "shape": "mini"
+    },
+    "gold_goblet": {
+        "index": 39,
+        "shape": "mini"
+    },
+    "alabaster_grave_small": {
         "index": 40,
         "shape": "full",
         "type": "clicked",
@@ -129,7 +136,7 @@
         "south": 42,
         "west": 43
     },
-    "red_black_window_shutter": {
+    "scarecrow": {
         "index": 44,
         "shape": "full",
         "type": "clicked",
@@ -138,14 +145,9 @@
         "south": 46,
         "west": 47
     },
-    "red_black_window_shutter_flipped": {
+    "red_bricks": {
         "index": 48,
-        "shape": "full",
-        "type": "clicked",
-        "north": 48,
-        "east": 49,
-        "south": 50,
-        "west": 51
+        "shape": "mini"
     },
     "mannequin": {
         "index": 52,
