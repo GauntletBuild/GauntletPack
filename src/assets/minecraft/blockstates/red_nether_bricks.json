@@ -1,0 +1,27 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "gauntlet:block/limestone/limestone_bricks_0"
+            },
+            {
+                "model": "gauntlet:block/limestone/limestone_bricks_1"
+            },
+            {
+                "model": "gauntlet:block/limestone/limestone_bricks_2"
+            },
+            {
+                "model": "gauntlet:block/limestone/limestone_bricks_3"
+            },
+            {
+                "model": "gauntlet:block/limestone/limestone_bricks_4"
+            },
+            {
+                "model": "gauntlet:block/limestone/limestone_bricks_5"
+            },
+            {
+                "model": "gauntlet:block/limestone/limestone_bricks_6"
+            }
+        ]
+    }
+}

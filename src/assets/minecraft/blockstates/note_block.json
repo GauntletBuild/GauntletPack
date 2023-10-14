@@ -231,7 +231,7 @@
             "model": "gauntlet:block/dye_sack/black_dye_sack"
         },
         "instrument=harp,note=21,powered=false": {
-            "model": "gauntlet:block/limestone"
+            "model": "gauntlet:block/limestone/limestone"
         },
         "instrument=harp,note=21,powered=true": {
             "model": "gauntlet:block/flowstone"
@@ -875,10 +875,10 @@
             "model": "gauntlet:block/polished_flowstone_slab"
         },
         "instrument=basedrum,note=24,powered=true": {
-            "model": "gauntlet:block/polished_limestone"
+            "model": "gauntlet:block/limestone/polished_limestone"
         },
         "instrument=snare,note=0,powered=false": {
-            "model": "gauntlet:block/polished_limestone_slab"
+            "model": "gauntlet:block/limestone/polished_limestone_double_slab"
         },
         "instrument=snare,note=0,powered=true": {
             "model": "gauntlet:block/smooth_deepslate"

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "gauntlet:block/limestone/polished_limestone",
+    "side": "gauntlet:block/limestone/polished_limestone_slab_side"
+  }
+}
