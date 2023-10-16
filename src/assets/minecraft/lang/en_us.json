@@ -88,5 +88,9 @@
     "block.minecraft.glass_pane": "Barrier Pane",
 	"block.minecraft.bamboo_trapdoor": "Lattice",
 	"block.minecraft.soul_sand": "Mud",
-	"block.minecraft.soul_lantern": "Oil Lamp"
+	"block.minecraft.soul_lantern": "Oil Lamp",
+    "block.minecraft.red_nether_bricks": "Limestone Bricks",
+    "block.minecraft.red_nether_brick_stairs": "Limestone Brick Stairs",
+    "block.minecraft.red_nether_brick_slab": "Limestone Brick Slab",
+    "block.minecraft.red_nether_brick_wall": "Limestone Brick Wall"
 }
