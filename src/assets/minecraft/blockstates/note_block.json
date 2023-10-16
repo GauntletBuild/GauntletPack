@@ -1430,7 +1430,7 @@
         "instrument=snare,note=21,powered=false": {
             "model": "gauntlet:block/barrels/empty_barrel"
         },
-        "instrument=snare,note=22,powered=false": [
+        "instrument=snare,note=21,powered=true": [
         {
             "model": "gauntlet:block/roads/checkered_sidewalk"
         },
