@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",  
+  "textures": {
+    "end": "gauntlet:block/roads/checkered_sidewalk_3", 
+	"side": "gauntlet:block/roads/checkered_sidewalk_side" 
+  }
+}

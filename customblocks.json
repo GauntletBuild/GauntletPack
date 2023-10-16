@@ -555,5 +555,9 @@
     "empty_barrel": {
         "type": "full_cube",
         "index": 142
+    },
+    "checkered_sidewalk": {
+        "type": "full_cube",
+        "index": 143
     }
 }

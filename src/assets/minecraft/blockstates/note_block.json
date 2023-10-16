@@ -1429,6 +1429,26 @@
         ],
         "instrument=snare,note=21,powered=false": {
             "model": "gauntlet:block/barrels/empty_barrel"
+        },
+        "instrument=snare,note=22,powered=false": [
+        {
+            "model": "gauntlet:block/roads/checkered_sidewalk"
+        },
+        {
+            "model": "gauntlet:block/roads/checkered_sidewalk_1"
+        },
+        {
+            "model": "gauntlet:block/roads/checkered_sidewalk_2"
+        },
+        {
+            "model": "gauntlet:block/roads/checkered_sidewalk_3"
+        },
+        {
+            "model": "gauntlet:block/roads/checkered_sidewalk_4"
+        },
+        {
+            "model": "gauntlet:block/roads/checkered_sidewalk_5"
         }
+    ]
     }
 }
