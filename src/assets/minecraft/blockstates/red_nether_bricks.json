@@ -21,6 +21,12 @@
             },
             {
                 "model": "gauntlet:block/limestone/limestone_bricks_6"
+            },
+            {
+                "model": "gauntlet:block/limestone/limestone_bricks_7"
+            },
+            {
+                "model": "gauntlet:block/limestone/limestone_bricks_8"
             }
         ]
     }
