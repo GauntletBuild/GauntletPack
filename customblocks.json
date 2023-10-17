@@ -559,5 +559,12 @@
     "checkered_sidewalk": {
         "type": "full_cube",
         "index": 143
+    },
+    "limestone_pillar": {
+        "type": "pillar",
+        "index": 144,
+        "x": 144,
+        "y": 145,
+        "z": 146
     }
 }
