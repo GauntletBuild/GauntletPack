@@ -427,5 +427,13 @@
     "cull_moss": {
         "index": 147,
         "shape": "full"
+    },
+    "walnut_table": {
+        "index": 148,
+        "shape": "full"
+    },
+    "large_walnut_table": {
+        "index": 149,
+        "shape": "full"
     }
 }
