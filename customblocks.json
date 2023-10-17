@@ -508,11 +508,11 @@
         "type": "full_cube",
         "index": 130
     },
-    "chalk_bricks": {
+    "marble_bricks": {
         "type": "full_cube",
         "index": 131
     },
-    "faded_chalk_bricks": {
+    "faded_marble_bricks": {
         "type": "full_cube",
         "index": 132
     },
@@ -528,7 +528,7 @@
         "type": "full_cube",
         "index": 135
     },
-    "large_chalk_bricks": {
+    "large_marble_bricks": {
         "type": "full_cube",
         "index": 136
     },
