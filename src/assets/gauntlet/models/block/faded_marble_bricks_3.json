@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "gauntlet:block/large_chalk_bricks"
+    "all": "gauntlet:block/faded_marble_bricks_3"
   }
 }
