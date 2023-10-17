@@ -1210,30 +1210,30 @@
         ],
         "instrument=snare,note=15,powered=true": [
             {
-                "model": "gauntlet:block/marble_bricks"
+                "model": "gauntlet:block/chalk_bricks"
             },
             {
-                "model": "gauntlet:block/marble_bricks_1"
+                "model": "gauntlet:block/chalk_bricks_1"
             },
             {
-                "model": "gauntlet:block/marble_bricks_2"
+                "model": "gauntlet:block/chalk_bricks_2"
             },
             {
-                "model": "gauntlet:block/marble_bricks_3"
+                "model": "gauntlet:block/chalk_bricks_3"
             }
         ],
         "instrument=snare,note=16,powered=false": [
             {
-                "model": "gauntlet:block/faded_marble_bricks"
+                "model": "gauntlet:block/faded_chalk_bricks"
             },
             {
-                "model": "gauntlet:block/faded_marble_bricks_1"
+                "model": "gauntlet:block/faded_chalk_bricks_1"
             },
             {
-                "model": "gauntlet:block/faded_marble_bricks_2"
+                "model": "gauntlet:block/faded_chalk_bricks_2"
             },
             {
-                "model": "gauntlet:block/faded_marble_bricks_3"
+                "model": "gauntlet:block/faded_chalk_bricks_3"
             }
         ],
         "instrument=snare,note=16,powered=true": [
@@ -1291,16 +1291,16 @@
         },
         "instrument=snare,note=18,powered=false": [
             {
-                "model": "gauntlet:block/large_marble_bricks"
+                "model": "gauntlet:block/large_chalk_bricks"
             },
             {
-                "model": "gauntlet:block/large_marble_bricks_1"
+                "model": "gauntlet:block/large_chalk_bricks_1"
             },
             {
-                "model": "gauntlet:block/large_marble_bricks_2"
+                "model": "gauntlet:block/large_chalk_bricks_2"
             },
             {
-                "model": "gauntlet:block/large_marble_bricks_3"
+                "model": "gauntlet:block/large_chalk_bricks_3"
             }
         ],
         "instrument=snare,note=18,powered=true": [
@@ -1456,12 +1456,12 @@
         }
     ],
     "instrument=snare,note=22,powered=true": {
+        "model": "gauntlet:block/limestone/limestone_pillar"
+    },
+    "instrument=snare,note=22,powered=false": {
         "model": "gauntlet:block/limestone/limestone_pillar_horizontal",
         "x": 90,
         "y": 90
-    },
-    "instrument=snare,note=22,powered=false": {
-        "model": "gauntlet:block/limestone/limestone_pillar"
     },
     "instrument=snare,note=23,powered=false": {
         "model": "gauntlet:block/limestone/limestone_pillar_horizontal",
