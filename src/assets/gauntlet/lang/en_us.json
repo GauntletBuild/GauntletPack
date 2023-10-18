@@ -236,8 +236,8 @@
     "item.gauntlet_decoration.manhole_cover_centered": "Centered Manhole Cover",
     "item.gauntlet.ashy_stone_tiles": "Ashen Stone Tiles",
     "item.gauntlet.broken_ashy_stone_tiles": "Broken Ashen Stone Tiles",
-    "item.gauntlet.cull_moss": "Culled Moss",
-    "item.gauntlet.walnut_table": "Walnut Table",
-    "item.gauntlet.large_walnut_table": "Large Walnut Table",
+    "item.gauntlet_decoration.cull_moss": "Culled Moss",
+    "item.gauntlet_decoration.walnut_table": "Walnut Table",
+    "item.gauntlet_decoration.large_walnut_table": "Large Walnut Table",
     "item.gauntlet.limestone_pillar": "Limestone Pillar"
 }
