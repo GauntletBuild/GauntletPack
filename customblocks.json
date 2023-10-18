@@ -566,5 +566,9 @@
         "x": 144,
         "y": 145,
         "z": 146
-    }
+    },
+	"blue_glazed_shingles": {
+		"type": "full_cube",
+		"index": 147
+	}
 }
