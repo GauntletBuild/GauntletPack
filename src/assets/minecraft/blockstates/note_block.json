@@ -1469,6 +1469,9 @@
 		},
 		"instrument=snare,note=23,powered=true": {
 			"model": "gauntlet:block/shingles/blue_glazed_shingles"
+		},
+		"instrument=snare,note=24,powered=false": {
+			"model": "gauntlet:block/shingles/green_glazed_shingles"
 		}
     }
 }
