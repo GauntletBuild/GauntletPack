@@ -92,5 +92,6 @@
     "block.minecraft.red_nether_bricks": "Limestone Bricks",
     "block.minecraft.red_nether_brick_stairs": "Limestone Brick Stairs",
     "block.minecraft.red_nether_brick_slab": "Limestone Brick Slab",
-    "block.minecraft.red_nether_brick_wall": "Limestone Brick Wall"
+    "block.minecraft.red_nether_brick_wall": "Limestone Brick Wall",
+    "block.minecraft.red_frogspawn": "Duckweed"
 }
