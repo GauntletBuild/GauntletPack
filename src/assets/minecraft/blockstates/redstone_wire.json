@@ -1508,6 +1508,19 @@
                 "model": "gauntlet:decoration/foliage/reeds_1",
                 "y": 270
             }
+        ],
+        "north=none,south=side,east=none,west=none,power=1": [
+            {
+                "model": "gauntlet:decoration/foliage/crab_weed"
+            },
+            {
+                "model": "gauntlet:decoration/foliage/crab_weed",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/foliage/crab_weed",
+                "y": 180
+            }
         ]
     }
 }

@@ -443,5 +443,9 @@
     "reeds": {
         "index": 151,
         "shape": "full"
+    },
+    "crab_weed": {
+        "index": 152,
+        "shape": "flat"
     }
 }
