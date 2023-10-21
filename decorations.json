@@ -439,5 +439,9 @@
     "cat_tail": {
         "index": 150,
         "shape": "full"
+    },
+    "reeds": {
+        "index": 151,
+        "shape": "full"
     }
 }

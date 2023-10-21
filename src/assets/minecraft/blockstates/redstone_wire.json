@@ -1476,6 +1476,38 @@
                 "model": "gauntlet:decoration/foliage/cat_tail",
                 "y": 270
             }
+        ],
+        "north=none,south=side,east=none,west=side,power=1": [
+            {
+                "model": "gauntlet:decoration/foliage/reeds"
+            },
+            {
+                "model": "gauntlet:decoration/foliage/reeds",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/foliage/reeds",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/foliage/reeds",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/foliage/reeds_1"
+            },
+            {
+                "model": "gauntlet:decoration/foliage/reeds_1",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/foliage/reeds_1",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/foliage/reeds_1",
+                "y": 270
+            }
         ]
     }
 }
