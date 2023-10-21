@@ -1472,6 +1472,15 @@
 		},
 		"instrument=snare,note=24,powered=false": {
 			"model": "gauntlet:block/shingles/green_glazed_shingles"
+		},
+		"instrument=snare,note=24,powered=true": {
+			"model": "gauntlet:block/shingles/red_glazed_shingles"
+		},
+		"instrument=hat,note=0,powered=false": {
+			"model": "gauntlet:block/shingles/black_glazed_shingles"
+		},
+		"instrument=hat,note=0,powered=true": {
+			"model": "gauntlet:block/shingles/yellow_glazed_shingles"
 		}
     }
 }
