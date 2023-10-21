@@ -447,5 +447,9 @@
     "crab_weed": {
         "index": 152,
         "shape": "flat"
-    }
+    },
+	"yellow_flowerbed": {
+		"index": 153,
+		"shape": "flat"
+	}
 }

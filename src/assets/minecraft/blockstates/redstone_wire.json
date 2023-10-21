@@ -1521,6 +1521,19 @@
                 "model": "gauntlet:decoration/foliage/crab_weed",
                 "y": 180
             }
+        ],
+        "north=none,south=none,east=up,west=up,power=1": [
+            {
+                "model": "gauntlet:decoration/flower_beds/yellow_flowerbed"
+            },
+            {
+                "model": "gauntlet:decoration/flower_beds/yellow_flowerbed",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/flower_beds/yellow_flowerbed",
+                "y": 180
+            }
         ]
     }
 }
