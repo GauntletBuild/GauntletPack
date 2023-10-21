@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "": [
+    {
+      "model": "gauntlet:decoration/duckweed"
+    },
+    {
+      "model": "gauntlet:decoration/duckweed",
+      "y": 90
+    },
+    {
+      "model": "gauntlet:decoration/duckweed",
+      "y": 180
+    }
+  ]
+  }
+}
