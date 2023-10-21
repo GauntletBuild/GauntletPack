@@ -1459,6 +1459,23 @@
         },
         "north=none,south=side,east=side,west=none,power=1": {
             "model": "gauntlet:decoration/tables/large_walnut_table"
-        }
+        },
+        "north=none,south=side,east=none,west=up,power=1": [
+            {
+                "model": "gauntlet:decoration/foliage/cat_tail"
+            },
+            {
+                "model": "gauntlet:decoration/foliage/cat_tail",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/foliage/cat_tail",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/foliage/cat_tail",
+                "y": 270
+            }
+        ]
     }
 }
