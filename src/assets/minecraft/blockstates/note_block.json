@@ -1454,18 +1454,33 @@
         {
             "model": "gauntlet:block/roads/checkered_sidewalk_5"
         }
-    ],
-    "instrument=snare,note=22,powered=true": {
-        "model": "gauntlet:block/limestone/limestone_pillar"
-    },
-    "instrument=snare,note=22,powered=false": {
-        "model": "gauntlet:block/limestone/limestone_pillar_horizontal",
-        "x": 90,
-        "y": 90
-    },
-    "instrument=snare,note=23,powered=false": {
-        "model": "gauntlet:block/limestone/limestone_pillar_horizontal",
-        "x": 90
-    }
+		],
+		"instrument=snare,note=22,powered=true": {
+			"model": "gauntlet:block/limestone/limestone_pillar"
+		},
+		"instrument=snare,note=22,powered=false": {
+			"model": "gauntlet:block/limestone/limestone_pillar_horizontal",
+			"x": 90,
+			"y": 90
+		},
+		"instrument=snare,note=23,powered=false": {
+			"model": "gauntlet:block/limestone/limestone_pillar_horizontal",
+			"x": 90
+		},
+		"instrument=snare,note=23,powered=true": {
+			"model": "gauntlet:block/shingles/blue_glazed_shingles"
+		},
+		"instrument=snare,note=24,powered=false": {
+			"model": "gauntlet:block/shingles/green_glazed_shingles"
+		},
+		"instrument=snare,note=24,powered=true": {
+			"model": "gauntlet:block/shingles/red_glazed_shingles"
+		},
+		"instrument=hat,note=0,powered=false": {
+			"model": "gauntlet:block/shingles/black_glazed_shingles"
+		},
+		"instrument=hat,note=0,powered=true": {
+			"model": "gauntlet:block/shingles/yellow_glazed_shingles"
+		}
     }
 }

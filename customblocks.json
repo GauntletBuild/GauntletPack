@@ -566,5 +566,26 @@
         "x": 144,
         "y": 145,
         "z": 146
-    }
+    },
+	"blue_glazed_shingles": {
+		"type": "full_cube",
+		"index": 147
+	},
+	"green_glazed_shingles": {
+		"type": "full_cube",
+		"index": 148
+	},
+	"red_glazed_shingles": {
+		"type": "full_cube",
+		"index": 149
+	},
+	"black_glazed_shingles": {
+		"type": "full_cube",
+		"index": 150
+	},
+	"yellow_glazed_shingles": {
+		"type": "full_cube",
+		"index": 151
+	}
+	
 }
