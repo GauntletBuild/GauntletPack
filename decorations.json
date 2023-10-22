@@ -459,5 +459,9 @@
 	"cloth_cover": {
 		"index": 155,
 		"shape": "flat"
+	},
+	"very_large_walnut_table": {
+		"index": 156,
+		"shape": "full"
 	}
 }
