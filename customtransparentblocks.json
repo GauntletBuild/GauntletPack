@@ -51,5 +51,11 @@
         "east": 20,
         "south": 21,
         "west": 22
+    },
+    "grain_pot_closed": {
+        "index": 23
+    },
+    "grain_pot_open": {
+        "index": 24
     }
 }
