@@ -1535,8 +1535,13 @@
                 "y": 180
             }
         ],
-        "north=none,south=none,east=up,west=side,power=1": {
-            "model": "gauntlet:decoration/foliage/peony_bush"
-        }
+        "north=none,south=none,east=up,west=side,power=1": [
+            {
+                "model": "gauntlet:decoration/foliage/peony_bush"
+            },
+            {
+                "model": "gauntlet:decoration/foliage/peony_bush_1"
+            }
+        ]
     }
 }
