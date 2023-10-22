@@ -455,5 +455,9 @@
     "peony_bush": {
         "index": 154,
         "shape": "full"
-    }
+    },
+	"cloth_cover": {
+		"index": 155,
+		"shape": "flat"
+	}
 }
