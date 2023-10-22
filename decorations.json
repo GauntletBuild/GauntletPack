@@ -451,5 +451,9 @@
 	"yellow_flowerbed": {
 		"index": 153,
 		"shape": "flat"
-	}
+	},
+    "peony_bush": {
+        "index": 154,
+        "shape": "full"
+    }
 }

@@ -1534,6 +1534,9 @@
                 "model": "gauntlet:decoration/flower_beds/yellow_flowerbed",
                 "y": 180
             }
-        ]
+        ],
+        "north=none,south=none,east=up,west=side,power=1": {
+            "model": "gauntlet:decoration/foliage/peony_bush"
+        }
     }
 }
