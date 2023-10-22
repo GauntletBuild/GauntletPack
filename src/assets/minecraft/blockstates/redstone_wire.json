@@ -1542,6 +1542,9 @@
             {
                 "model": "gauntlet:decoration/foliage/peony_bush_1"
             }
-        ]
+        ],
+		"north=none,south=none,east=up,west=none,power=1": {
+			"model": "gauntlet:decoration/cloth_cover"
+		}
     }
 }

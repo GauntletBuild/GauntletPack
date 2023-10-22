@@ -254,5 +254,6 @@
     "item.gauntlet_decoration.cull_moss": "Culled Moss",
     "item.gauntlet_decoration.walnut_table": "Walnut Table",
     "item.gauntlet_decoration.large_walnut_table": "Large Walnut Table",
-    "item.gauntlet.limestone_pillar": "Limestone Pillar"
+    "item.gauntlet.limestone_pillar": "Limestone Pillar",
+	"item.gauntlet_decoration.cloth_cover": "Cloth Cover"
 }
