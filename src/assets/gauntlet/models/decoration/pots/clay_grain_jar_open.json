@@ -1,9 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "clay_grain_jar",
-		"1": "clay_grain_jar_open",
-		"particle": "clay_grain_jar"
+		"0": "gauntlet:decoration/pots/clay_grain_jar_open",
+		"particle": "gauntlet:decoration/pots/clay_grain_jar_open"
 	},
 	"elements": [
 		{
@@ -43,15 +42,15 @@
 			}
 		},
 		{
-			"from": [5, 14, 5],
-			"to": [11, 15, 11],
+			"from": [5, 15, 5],
+			"to": [11, 14.5, 11],
 			"faces": {
-				"north": {"uv": [12.5, 4, 15.5, 4.5], "texture": "#1"},
-				"east": {"uv": [12.5, 4, 15.5, 4.5], "texture": "#1"},
-				"south": {"uv": [12.5, 4, 15.5, 4.5], "texture": "#1"},
-				"west": {"uv": [12.5, 4, 15.5, 4.5], "texture": "#1"},
-				"up": {"uv": [6.5, 6.5, 9.5, 9.5], "texture": "#1"},
-				"down": {"uv": [12.5, 0.5, 15.5, 3.5], "texture": "#1"}
+				"north": {"uv": [12.5, 4, 15.5, 4.5], "texture": "#0"},
+				"east": {"uv": [12.5, 4, 15.5, 4.5], "texture": "#0"},
+				"south": {"uv": [12.5, 4, 15.5, 4.5], "texture": "#0"},
+				"west": {"uv": [12.5, 4, 15.5, 4.5], "texture": "#0"},
+				"up": {"uv": [12.5, 0.5, 15.5, 3.5], "texture": "#0"},
+				"down": {"uv": [6.5, 6.5, 9.5, 9.5], "texture": "#0"}
 			}
 		}
 	],
