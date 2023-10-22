@@ -1548,6 +1548,10 @@
 		},
 		"north=none,south=none,east=side,west=up,power=1": {
 			"model": "gauntlet:decoration/tables/very_large_walnut_table"
+		},
+		"north=none,south=none,east=side,west=side,power=1": {
+			"model": "gauntlet:decoration/tables/very_large_walnut_table",
+			"y": 90
 		}
     }
 }
