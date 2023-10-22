@@ -164,6 +164,15 @@
         },
         "distance=6,persistent=true": {
             "model": "gauntlet:decoration/pots/clay_grain_jar_open"
-        }
+        },
+        "distance=7,persistent=false": [
+            {
+                "model": "gauntlet:decoration/pots/clay_amphora"
+            },
+            {
+                "model": "gauntlet:decoration/pots/clay_amphora",
+                "y": 90
+            }
+        ]
     }
 }

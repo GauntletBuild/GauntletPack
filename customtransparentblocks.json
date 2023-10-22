@@ -57,5 +57,14 @@
     },
     "grain_pot_open": {
         "index": 24
+    },
+    "clay_amphora": {
+        "index": 25
+    },
+    "clay_amphora_planter": {
+        "index": 26
+    },
+    "clay_jug": {
+        "index": 27
     }
 }
