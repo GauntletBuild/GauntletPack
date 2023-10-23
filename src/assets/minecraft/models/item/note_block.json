@@ -39,12 +39,10 @@
 		{"predicate": {"custom_model_data": 39}, "model": "gauntlet:block/dye_sack/brown_dye_sack"},
 		{"predicate": {"custom_model_data": 40}, "model": "gauntlet:block/dye_sack/blue_dye_sack"},
 		{"predicate": {"custom_model_data": 41}, "model": "gauntlet:block/dye_sack/black_dye_sack"},
-		{"predicate": {"custom_model_data": 42}, "model": "gauntlet:block/limestone"},
 		{"predicate": {"custom_model_data": 43}, "model": "gauntlet:block/flowstone"},
 		{"predicate": {"custom_model_data": 44}, "model": "gauntlet:block/grout"},
 		{"predicate": {"custom_model_data": 46}, "model": "gauntlet:block/pale_rock"},
 		{"predicate": {"custom_model_data": 47}, "model": "gauntlet:block/chert"},
-		{"predicate": {"custom_model_data": 48}, "model": "gauntlet:block/chalk"},
         {"predicate": {"custom_model_data": 49}, "model": "gauntlet:block/cobblestone_bricks/cobblestone_bricks"},
 		{"predicate": {"custom_model_data": 50}, "model": "gauntlet:block/cobblestone_bricks/indented_cobblestone_bricks"},
 		{"predicate": {"custom_model_data": 51}, "model": "gauntlet:block/cobblestone_bricks/mossy_cobblestone_bricks"},
@@ -57,7 +55,6 @@
 		{"predicate": {"custom_model_data": 58}, "model": "gauntlet:block/barrels/pufferfish_barrel"},
 		{"predicate": {"custom_model_data": 59}, "model": "gauntlet:block/barrels/salmon_barrel"},
 		{"predicate": {"custom_model_data": 60}, "model": "gauntlet:block/barrels/tropical_fish_barrel"},
-		{"predicate": {"custom_model_data": 61}, "model": "gauntlet:block/alabaster/alabaster_bricks"},
 		{"predicate": {"custom_model_data": 62}, "model": "gauntlet:block/stone/faded_stone_bricks"},
 		{"predicate": {"custom_model_data": 63}, "model": "gauntlet:block/stone/mossy_polished_stone"},
 		{"predicate": {"custom_model_data": 64}, "model": "gauntlet:block/stone/cracked_polished_stone"},
@@ -70,6 +67,5 @@
 		{"predicate": {"custom_model_data": 71}, "model": "gauntlet:block/trimmed_planks/trimmed_pine_planks"},
 		{"predicate": {"custom_model_data": 72}, "model": "gauntlet:block/trimmed_planks/trimmed_spruce_planks"},
 		{"predicate": {"custom_model_data": 73}, "model": "gauntlet:block/trimmed_planks/trimmed_walnut_planks"},
-		{"predicate": {"custom_model_data": 74}, "model": "gauntlet:block/stucco"}
 	]
 }
