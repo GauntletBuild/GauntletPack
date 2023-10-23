@@ -1,5 +1,8 @@
 {
-  "parent": "minecraft:item/redstone",
+    "parent": "minecraft:item/generated",
+    "textures": {
+    "layer0": "minecraft:item/redstone"
+  },
   "overrides": [
       {"predicate": {"custom_model_data": 6}, "model": "gauntlet:decoration/item_models/blue_flowerbed"},
       {"predicate": {"custom_model_data": 7}, "model": "gauntlet:decoration/item_models/magenta_flowerbed"},
