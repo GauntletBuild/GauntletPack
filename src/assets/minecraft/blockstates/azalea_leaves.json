@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "distance=1,persistent=false": {
+            "model": "gauntlet:decoration/foliage/dense_crabweed"
+        }
+    }
+}
