@@ -136,14 +136,19 @@
         "south": 42,
         "west": 43
     },
-    "scarecrow": {
+    "large_walnut_table": {
         "index": 44,
         "shape": "full",
         "type": "clicked",
         "north": 44,
-        "east": 45,
-        "south": 46,
-        "west": 47
+        "east": 45
+    },
+    "very_large_walnut_table": {
+        "index": 46,
+        "shape": "full",
+        "type": "clicked",
+        "north": 46,
+        "east": 47
     },
     "red_bricks": {
         "index": 48,
@@ -432,7 +437,7 @@
         "index": 148,
         "shape": "full"
     },
-    "large_walnut_table": {
+    "replace_1": {
         "index": 149,
         "shape": "full"
     },
@@ -459,12 +464,5 @@
 	"cloth_cover": {
 		"index": 155,
 		"shape": "flat"
-	},
-	"very_large_walnut_table": {
-		"index": 156,
-		"shape": "full",
-        "type": "clicked",
-		"north": 157,
-		"east": 156
 	}
 }
