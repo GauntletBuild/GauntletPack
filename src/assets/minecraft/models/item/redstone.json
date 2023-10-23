@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/redstone",
+  "overrides": [
+      {"predicate": {"custom_model_data": 6}, "model": "gauntlet:decoration/item_models/blue_flowerbed"},
+      {"predicate": {"custom_model_data": 7}, "model": "gauntlet:decoration/item_models/magenta_flowerbed"},
+      {"predicate": {"custom_model_data": 8}, "model": "gauntlet:decoration/item_models/white_flowerbed"},
+      {"predicate": {"custom_model_data": 150}, "model": "gauntlet:decoration/item_models/cattails"},
+      {"predicate": {"custom_model_data": 151}, "model": "gauntlet:decoration/item_models/reeds"},
+      {"predicate": {"custom_model_data": 153}, "model": "gauntlet:decoration/item_models/yellow_flowerbed"},
+      {"predicate": {"custom_model_data": 154}, "model": "gauntlet:decoration/item_models/pink_peony"}
+  ]
+}
