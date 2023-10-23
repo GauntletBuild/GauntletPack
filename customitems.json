@@ -93,5 +93,14 @@
         "properties": {
             "distance": "6"
         }
+    },
+    "dense_crabweed": {
+        "index": 13,
+        "block": "minecraft:azalea_leaves",
+        "properties": {
+            "distance": "6",
+            "persistent": "true",
+            "waterlogged": "true"
+        }
     }
 }

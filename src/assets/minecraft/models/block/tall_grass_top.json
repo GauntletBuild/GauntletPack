@@ -34,5 +34,7 @@
 				"down": {"uv": [0, 0, 16, 16], "texture": "#1", "tintindex": 0}
 			}
 		}
-	]
+	],
+	"gui_light": "front",
+	"display": {}
 }
