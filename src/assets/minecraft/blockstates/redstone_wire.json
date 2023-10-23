@@ -302,40 +302,40 @@
         ],
         "north=up,south=up,east=none,west=up,power=0": [
             {
-                "model": "gauntlet:decoration/flower_beds/blue_flowerbed"
+                "model": "gauntlet:decoration/foliage/blue_flowerbed"
             },
             {
-                "model": "gauntlet:decoration/flower_beds/blue_flowerbed",
+                "model": "gauntlet:decoration/foliage/blue_flowerbed",
                 "y": 90
             },
             {
-                "model": "gauntlet:decoration/flower_beds/blue_flowerbed",
+                "model": "gauntlet:decoration/foliage/blue_flowerbed",
                 "y": 180
             }
         ],
         "north=up,south=up,east=none,west=side,power=0": [
             {
-                "model": "gauntlet:decoration/flower_beds/magenta_flowerbed"
+                "model": "gauntlet:decoration/foliage/magenta_flowerbed"
             },
             {
-                "model": "gauntlet:decoration/flower_beds/magenta_flowerbed",
+                "model": "gauntlet:decoration/foliage/magenta_flowerbed",
                 "y": 90
             },
             {
-                "model": "gauntlet:decoration/flower_beds/magenta_flowerbed",
+                "model": "gauntlet:decoration/foliage/magenta_flowerbed",
                 "y": 180
             }
         ],
         "north=up,south=up,east=none,west=none,power=0": [
             {
-                "model": "gauntlet:decoration/flower_beds/white_flowerbed"
+                "model": "gauntlet:decoration/foliage/white_flowerbed"
             },
             {
-                "model": "gauntlet:decoration/flower_beds/white_flowerbed",
+                "model": "gauntlet:decoration/foliage/white_flowerbed",
                 "y": 90
             },
             {
-                "model": "gauntlet:decoration/flower_beds/white_flowerbed",
+                "model": "gauntlet:decoration/foliage/white_flowerbed",
                 "y": 180
             }
         ],
@@ -1440,14 +1440,14 @@
         ],
         "north=none,south=none,east=up,west=up,power=1": [
             {
-                "model": "gauntlet:decoration/flower_beds/yellow_flowerbed"
+                "model": "gauntlet:decoration/foliage/yellow_flowerbed"
             },
             {
-                "model": "gauntlet:decoration/flower_beds/yellow_flowerbed",
+                "model": "gauntlet:decoration/foliage/yellow_flowerbed",
                 "y": 90
             },
             {
-                "model": "gauntlet:decoration/flower_beds/yellow_flowerbed",
+                "model": "gauntlet:decoration/foliage/yellow_flowerbed",
                 "y": 180
             }
         ],

@@ -1,10 +1,9 @@
 {
-	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "gauntlet:decoration/flower_beds/blue_flowerbed",
-		"particle": "gauntlet:decoration/flower_beds/blue_flowerbed"
+		"1": "#texture",
+		"particle": "#texture"
 	},
 	"elements": [
 		{
