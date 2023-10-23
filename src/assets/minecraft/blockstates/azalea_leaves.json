@@ -1,6 +1,6 @@
 {
     "variants": {
-        "distance=1,persistent=false": {
+        "distance=6,persistent=true,waterlogged=true": {
             "model": "gauntlet:decoration/foliage/dense_crabweed"
         }
     }
