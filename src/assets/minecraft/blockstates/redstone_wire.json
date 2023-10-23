@@ -1371,10 +1371,10 @@
             "model": "gauntlet:decoration/cull_moss"
         },
         "north=none,south=side,east=side,west=side,power=1": {
-            "model": "gauntlet:decoration/replace_1"
+            "model": "gauntlet:decoration/tables/walnut_table"
         },
         "north=none,south=side,east=side,west=none,power=1": {
-            "model": "gauntlet:decoration/tables/large_walnut_table"
+            "model": "gauntlet:decoration/replace_me"
         },
         "north=none,south=side,east=none,west=up,power=1": [
             {
