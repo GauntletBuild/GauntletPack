@@ -463,6 +463,7 @@
 	"very_large_walnut_table": {
 		"index": 156,
 		"shape": "full",
+        "type": "clicked",
 		"north": 157,
 		"east": 156
 	}
