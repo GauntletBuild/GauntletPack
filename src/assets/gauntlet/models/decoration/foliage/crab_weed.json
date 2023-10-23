@@ -13,5 +13,11 @@
 				"down": {"uv": [0, 16, 16, 0], "texture": "#1"}
 			}
 		}
-	]
+	],
+	"gui_light": "front",
+	"display": {
+		"gui": {
+			"rotation": [-90, 0, 0]
+		}
+	}
 }
