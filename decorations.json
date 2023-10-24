@@ -464,5 +464,12 @@
 	"cloth_cover": {
 		"index": 155,
 		"shape": "flat"
-	}
+	},
+    "walnut_bench": {
+        "index": 156,
+        "shape": "full",
+        "type": "clicked",
+        "north": 156,
+        "east": 157
+    }
 }
