@@ -1461,6 +1461,13 @@
         ],
         "north=none,south=none,east=up,west=none,power=1": {
             "model": "gauntlet:decoration/cloth_cover"
+        },
+        "north=none,south=none,east=side,west=up,power=1": {
+            "model": "gauntlet:decoration/benches/walnut_bench"
+        },
+        "north=none,south=none,east=side,west=side,power=1": {
+            "model": "gauntlet:decoration/benches/walnut_bench",
+            "y": 90
         }
     }
 }
