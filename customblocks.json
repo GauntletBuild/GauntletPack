@@ -586,6 +586,9 @@
 	"yellow_glazed_shingles": {
 		"type": "full_cube",
 		"index": 151
-	}
-	
+	},
+    "purple_glazed_shingles": {
+        "type": "full_cube",
+        "index": 152
+    }
 }
