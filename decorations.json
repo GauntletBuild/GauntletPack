@@ -512,5 +512,41 @@
     "barber_pole": {
         "index": 169,
         "shape": "full"
+    },
+    "boghorn": {
+        "index": 170,
+        "shape": "mini"
+    },
+    "brown_pillup": {
+        "index": 171,
+        "shape": "mini"
+    },
+    "dukes_plump": {
+        "index": 172,
+        "shape": "mini"
+    },
+    "halibulb_hearty": {
+        "index": 173,
+        "shape": "mini"
+    },
+    "halibulb_sandy": {
+        "index": 174,
+        "shape": "mini"
+    },
+    "maple_plump": {
+        "index": 175,
+        "shape": "mini"
+    },
+    "maritold": {
+        "index": 176,
+        "shape": "mini"
+    },
+    "striped_lumino": {
+        "index": 177,
+        "shape": "mini"
+    },
+    "white_pillup": {
+        "index": 178,
+        "shape": "mini"
     }
 }
