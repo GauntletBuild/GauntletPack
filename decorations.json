@@ -437,7 +437,7 @@
         "index": 148,
         "shape": "full"
     },
-    "replace_1": {
+    "peony_bush_purple": {
         "index": 149,
         "shape": "full"
     },
@@ -457,7 +457,7 @@
 		"index": 153,
 		"shape": "flat"
 	},
-    "peony_bush": {
+    "peony_bush_pink": {
         "index": 154,
         "shape": "full"
     },
@@ -496,5 +496,13 @@
         "east": 163,
         "south": 164,
         "west": 165
+    },
+    "peony_bush_red": {
+        "index": 166,
+        "shape": "full"
+    },
+    "peony_bush_white": {
+        "index": 167,
+        "shape": "full"
     }
 }

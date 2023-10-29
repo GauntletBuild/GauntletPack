@@ -1373,9 +1373,14 @@
         "north=none,south=side,east=side,west=side,power=1": {
             "model": "gauntlet:decoration/tables/walnut_table"
         },
-        "north=none,south=side,east=side,west=none,power=1": {
-            "model": "gauntlet:decoration/replace_me"
-        },
+        "north=none,south=side,east=side,west=none,power=1": [
+            {
+                "model": "gauntlet:decoration/foliage/peony_bush_purple"
+            },
+            {
+                "model": "gauntlet:decoration/foliage/peony_bush_purple_1"
+            }
+        ],
         "north=none,south=side,east=none,west=up,power=1": [
             {
                 "model": "gauntlet:decoration/foliage/cat_tail"
@@ -1453,10 +1458,10 @@
         ],
         "north=none,south=none,east=up,west=side,power=1": [
             {
-                "model": "gauntlet:decoration/foliage/peony_bush"
+                "model": "gauntlet:decoration/foliage/peony_bush_pink"
             },
             {
-                "model": "gauntlet:decoration/foliage/peony_bush_1"
+                "model": "gauntlet:decoration/foliage/peony_bush_pink_1"
             }
         ],
         "north=none,south=none,east=up,west=none,power=1": {
@@ -1495,6 +1500,22 @@
         "north=up,south=up,east=side,west=up,power=2": {
             "model": "gauntlet:decoration/oil_lamp_wall_attachment",
             "y": 270
-        }
+        },
+        "north=up,south=up,east=side,west=side,power=2": [
+            {
+                "model": "gauntlet:decoration/foliage/peony_bush_red"
+            },
+            {
+                "model": "gauntlet:decoration/foliage/peony_bush_red_1"
+            }
+        ],
+        "north=up,south=up,east=side,west=none,power=2": [
+            {
+                "model": "gauntlet:decoration/foliage/peony_bush_white"
+            },
+            {
+                "model": "gauntlet:decoration/foliage/peony_bush_white_1"
+            }
+        ]
     }
 }

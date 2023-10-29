@@ -1,9 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"parent": "block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "gauntlet:decoration/foliage/peony_bush",
-		"particle": "gauntlet:decoration/foliage/peony_bush"
+		"0": "#texture",
+		"particle": "#texture"
 	},
 	"elements": [
 		{
