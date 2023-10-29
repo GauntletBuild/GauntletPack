@@ -1468,6 +1468,18 @@
         "north=none,south=none,east=side,west=side,power=1": {
             "model": "gauntlet:decoration/benches/walnut_bench",
             "y": 90
+        },
+        "north=none,south=none,east=side,west=none,power=1": {
+            "model": "gauntlet:decoration/foliage/rosemary_bush"
+        },
+        "north=none,south=none,east=none,west=up,power=1": {
+            "model": "gauntlet:decoration/foliage/flowering_rosemary_bush"
+        },
+        "north=none,south=none,east=none,west=side,power=1": {
+            "model": "gauntlet:decoration/foliage/large_rosemary_bush"
+        },
+        "north=none,south=none,east=none,west=none,power=1": {
+            "model": "gauntlet:decoration/foliage/flowering_large_rosemary_bush"
         }
     }
 }

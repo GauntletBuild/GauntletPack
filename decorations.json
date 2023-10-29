@@ -471,5 +471,21 @@
         "type": "clicked",
         "north": 156,
         "east": 157
+    },
+    "rosemary_bush": {
+        "index": 158,
+        "shape": "full"
+    },
+    "flowering_rosemary_bush": {
+        "index": 159,
+        "shape": "full"
+    },
+    "large_rosemary_bush": {
+        "index": 160,
+        "shape": "full"
+    },
+    "large_flowering_rosemary_bush": {
+        "index": 161,
+        "shape": "full"
     }
 }
