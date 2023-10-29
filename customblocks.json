@@ -590,5 +590,9 @@
     "purple_glazed_shingles": {
         "type": "full_cube",
         "index": 152
+    },
+    "oxidized_copper_shingles": {
+        "type": "full_cube",
+        "index": 153
     }
 }
