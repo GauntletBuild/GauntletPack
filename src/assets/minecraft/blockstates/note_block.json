@@ -1496,6 +1496,12 @@
         },
         "instrument=hat,note=3,powered=false": {
             "model": "gauntlet:block/shingles/copper_shingles"
+        },
+        "instrument=hat,note=3,powered=true": {
+            "model": "gauntlet:block/shingles/orange_glazed_shingles"
+        },
+        "instrument=hat,note=4,powered=false": {
+            "model": "gauntlet:block/shingles/gray_glazed_shingles"
         }
     }
 }
