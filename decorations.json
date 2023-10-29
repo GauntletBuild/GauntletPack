@@ -487,5 +487,14 @@
     "large_flowering_rosemary_bush": {
         "index": 161,
         "shape": "full"
+    },
+    "oil_lamp_wall_attachment": {
+        "index": 162,
+        "shape": "full",
+        "type": "clicked",
+        "north": 162,
+        "east": 163,
+        "south": 164,
+        "west": 165
     }
 }
