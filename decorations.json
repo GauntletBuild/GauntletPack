@@ -504,5 +504,13 @@
     "peony_bush_white": {
         "index": 167,
         "shape": "full"
+    },
+    "red_flowerbed": {
+        "index": 168,
+        "shape": "flat"
+    },
+    "barber_pole": {
+        "index": 169,
+        "shape": "full"
     }
 }
