@@ -14,6 +14,15 @@
       {"predicate": {"custom_model_data": 154}, "model": "gauntlet:decoration/item_models/peony_pink"},
       {"predicate": {"custom_model_data": 166}, "model": "gauntlet:decoration/item_models/peony_red"},
       {"predicate": {"custom_model_data": 167}, "model": "gauntlet:decoration/item_models/peony_white"},
-      {"predicate": {"custom_model_data": 168}, "model": "gauntlet:decoration/item_models/red_flowerbed"}
+      {"predicate": {"custom_model_data": 168}, "model": "gauntlet:decoration/item_models/red_flowerbed"},
+      {"predicate": {"custom_model_data": 170}, "model": "gauntlet:decoration/item_models/boghorn"},
+      {"predicate": {"custom_model_data": 171}, "model": "gauntlet:decoration/item_models/brown_pillup"},
+      {"predicate": {"custom_model_data": 172}, "model": "gauntlet:decoration/item_models/dukes_plump"},
+      {"predicate": {"custom_model_data": 173}, "model": "gauntlet:decoration/item_models/halibulb_hearty"},
+      {"predicate": {"custom_model_data": 174}, "model": "gauntlet:decoration/item_models/halibulb_sandy"},
+      {"predicate": {"custom_model_data": 175}, "model": "gauntlet:decoration/item_models/maple_plump"},
+      {"predicate": {"custom_model_data": 176}, "model": "gauntlet:decoration/item_models/maritold"},
+      {"predicate": {"custom_model_data": 177}, "model": "gauntlet:decoration/item_models/striped_lumino"},
+      {"predicate": {"custom_model_data": 178}, "model": "gauntlet:decoration/item_models/white_pillup"}
   ]
 }
