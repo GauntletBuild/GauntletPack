@@ -606,5 +606,13 @@
     "copper_shingles": {
         "type": "full_cube",
         "index": 156
+    },
+    "orange_glazed_shingles": {
+        "type": "full_cube",
+        "index": 157
+    },
+    "gray_glazed_shingles": {
+        "type": "full_cube",
+        "index": 158
     }
 }
