@@ -5,7 +5,8 @@
     },
     "brazier": {
         "index": 1,
-        "shape": "full"
+        "shape": "full",
+        "light": 15
     },
     "brazier_extinguished": {
         "index": 2,
