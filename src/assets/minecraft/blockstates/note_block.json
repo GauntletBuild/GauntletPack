@@ -1487,6 +1487,15 @@
         },
         "instrument=hat,note=1,powered=true": {
             "model": "gauntlet:block/shingles/oxidized_copper_shingles"
+        },
+        "instrument=hat,note=2,powered=false": {
+            "model": "gauntlet:block/shingles/weathered_copper_shingles"
+        },
+        "instrument=hat,note=2,powered=true": {
+            "model": "gauntlet:block/shingles/exposed_copper_shingles"
+        },
+        "instrument=hat,note=3,powered=false": {
+            "model": "gauntlet:block/shingles/copper_shingles"
         }
     }
 }

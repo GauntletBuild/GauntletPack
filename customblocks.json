@@ -594,5 +594,17 @@
     "oxidized_copper_shingles": {
         "type": "full_cube",
         "index": 153
+    },
+    "weathered_copper_shingles": {
+        "type": "full_cube",
+        "index": 154
+    },
+    "exposed_copper_shingles": {
+        "type": "full_cube",
+        "index": 155
+    },
+    "copper_shingles": {
+        "type": "full_cube",
+        "index": 156
     }
 }
