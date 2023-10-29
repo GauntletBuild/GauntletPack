@@ -1480,6 +1480,21 @@
         },
         "north=none,south=none,east=none,west=none,power=1": {
             "model": "gauntlet:decoration/foliage/flowering_large_rosemary_bush"
+        },
+        "north=up,south=up,east=up,west=up,power=2": {
+            "model": "gauntlet:decoration/oil_lamp_wall_attachment"
+        },
+        "north=up,south=up,east=up,west=side,power=2": {
+            "model": "gauntlet:decoration/oil_lamp_wall_attachment",
+            "y": 90
+        },
+        "north=up,south=up,east=up,west=none,power=2": {
+            "model": "gauntlet:decoration/oil_lamp_wall_attachment",
+            "y": 180
+        },
+        "north=up,south=up,east=side,west=up,power=2": {
+            "model": "gauntlet:decoration/oil_lamp_wall_attachment",
+            "y": 270
         }
     }
 }
