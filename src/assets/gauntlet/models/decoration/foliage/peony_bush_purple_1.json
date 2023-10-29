@@ -1,7 +1,7 @@
 {
     "parent": "gauntlet:decoration/foliage/peony_bush_1",
     "textures": {
-        "0": "gauntlet:decoration/foliage/purple_peony_bush",
-        "particle": "gauntlet:decoration/foliage/purple_peony_bush"
+        "0": "gauntlet:decoration/foliage/peony_bush_purple",
+        "particle": "gauntlet:decoration/foliage/peony_bush_purple"
     }
 }
