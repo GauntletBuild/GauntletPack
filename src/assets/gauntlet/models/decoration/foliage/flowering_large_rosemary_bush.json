@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
 	"textures": {
 		"0": "gauntlet:decoration/foliage/flowering_large_rosemary_bush",
 		"particle": "gauntlet:decoration/foliage/flowering_large_rosemary_bush"
@@ -8,6 +9,7 @@
 		{
 			"from": [8, 0, -10],
 			"to": [8, 32, 26],
+			"shade": false,
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 1, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 0, 16], "texture": "#missing"},
@@ -21,6 +23,7 @@
 		{
 			"from": [-10, 0, 8],
 			"to": [26, 32, 8],
+			"shade": false,
 			"rotation": {"angle": 45, "axis": "y", "origin": [8, 1, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
