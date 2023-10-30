@@ -1368,7 +1368,7 @@
             "y": 90
         },
         "north=none,south=side,east=side,west=up,power=1": {
-            "model": "gauntlet:decoration/cull_moss"
+            "model": "gauntlet:decoration/foliage/boghorn_tall"
         },
         "north=none,south=side,east=side,west=side,power=1": {
             "model": "gauntlet:decoration/tables/walnut_table"

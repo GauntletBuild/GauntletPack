@@ -430,7 +430,7 @@
         "north": 146,
         "east": 145
 	},
-    "cull_moss": {
+    "boghorn_tall": {
         "index": 147,
         "shape": "full"
     },

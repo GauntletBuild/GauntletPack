@@ -7,6 +7,7 @@
       {"predicate": {"custom_model_data": 6}, "model": "gauntlet:decoration/item_models/blue_flowerbed"},
       {"predicate": {"custom_model_data": 7}, "model": "gauntlet:decoration/item_models/magenta_flowerbed"},
       {"predicate": {"custom_model_data": 8}, "model": "gauntlet:decoration/item_models/white_flowerbed"},
+      {"predicate": {"custom_model_data": 147}, "model": "gauntlet:decoration/item_models/boghorn_tall"},
       {"predicate": {"custom_model_data": 149}, "model": "gauntlet:decoration/item_models/peony_purple"},
       {"predicate": {"custom_model_data": 150}, "model": "gauntlet:decoration/item_models/cattails"},
       {"predicate": {"custom_model_data": 151}, "model": "gauntlet:decoration/item_models/reeds"},
