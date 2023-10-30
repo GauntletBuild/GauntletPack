@@ -1383,18 +1383,18 @@
         ],
         "north=none,south=side,east=none,west=up,power=1": [
             {
-                "model": "gauntlet:decoration/foliage/cat_tail"
+                "model": "gauntlet:decoration/foliage/cattail"
             },
             {
-                "model": "gauntlet:decoration/foliage/cat_tail",
+                "model": "gauntlet:decoration/foliage/cattail",
                 "y": 90
             },
             {
-                "model": "gauntlet:decoration/foliage/cat_tail",
+                "model": "gauntlet:decoration/foliage/cattail",
                 "y": 180
             },
             {
-                "model": "gauntlet:decoration/foliage/cat_tail",
+                "model": "gauntlet:decoration/foliage/cattail",
                 "y": 270
             }
         ],
