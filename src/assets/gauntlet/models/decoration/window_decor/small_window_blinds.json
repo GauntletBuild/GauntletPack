@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"elements": [
+		{
+			"from": [0, 0, 15],
+			"to": [32, 16, 15],
+			"color": 5,
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#missing"}
+			}
+		}
+	]
+}
