@@ -1,0 +1,8 @@
+{
+    "parent": "gauntlet:decoration/foliage/double_cross",
+    "textures": {
+        "0": "gauntlet:decoration/foliage/boghorn_bottom",
+        "1": "gauntlet:decoration/foliage/boghorn_top",
+        "particle": "gauntlet:decoration/foliage/boghorn_top"
+    }
+}
