@@ -1517,9 +1517,19 @@
                 "model": "gauntlet:decoration/foliage/peony_bush_white_1"
             }
         ],
-        "north=up,south=up,east=none,west=up,power=2": {
-            "model": "gauntlet:decoration/foliage/red_flowerbed"
-        },
+        "north=up,south=up,east=none,west=up,power=2": [
+            {
+                "model": "gauntlet:decoration/foliage/red_flowerbed"
+            },
+            {
+                "model": "gauntlet:decoration/foliage/red_flowerbed",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/foliage/red_flowerbed",
+                "y": 180
+            }
+        ],
         "north=up,south=up,east=none,west=side,power=2": {
             "model": "gauntlet:decoration/barber_pole"
         },
