@@ -568,5 +568,12 @@
         "east": 184,
         "south": 185,
         "west": 186
+    },
+    "pillory": {
+        "index": 187,
+        "shape": "full",
+        "type": "clicked",
+        "north": 187,
+        "east": 188
     }
 }
