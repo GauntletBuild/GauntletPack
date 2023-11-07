@@ -1,0 +1,7 @@
+{
+    "parent": "gauntlet:decoration/window_decor/large_angled_awning",
+    "textures": {
+        "0": "gauntlet:decoration/window_decor/yellow_angled_awning",
+        "particle": "gauntlet:decoration/window_decor/yellow_angled_awning"
+    }
+}

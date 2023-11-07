@@ -544,10 +544,29 @@
     },
     "striped_lumino": {
         "index": 177,
-        "shape": "mini"
+        "shape": "mini",
+        "light": 3
     },
     "white_pillup": {
         "index": 178,
         "shape": "mini"
+    },
+    "yellow_large_angled_awning": {
+        "index": 179,
+        "shape": "full",
+        "type": "clicked",
+        "north": 179,
+        "east": 180,
+        "south": 181,
+        "west": 182
+    },
+    "yellow_small_angled_awning": {
+        "index": 183,
+        "shape": "full",
+        "type": "clicked",
+        "north": 183,
+        "east": 184,
+        "south": 185,
+        "west": 186
     }
 }
