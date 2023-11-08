@@ -575,5 +575,14 @@
         "type": "clicked",
         "north": 187,
         "east": 188
+    },
+    "alabaster_grave_tall": {
+        "index": 189,
+        "shape": "full",
+        "type": "clicked",
+        "north": 189,
+        "east": 190,
+        "south": 191,
+        "west": 192
     }
 }
