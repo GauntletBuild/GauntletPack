@@ -1633,7 +1633,7 @@
             "model": "gauntlet:decoration/pillory",
             "y": 90
         },
-		"north=side,south=up,east=up,west=up,power=2": {
+        "north=side,south=up,east=up,west=up,power=2": {
             "model": "gauntlet:decoration/graves/alabaster_grave_tall"
         },
         "north=side,south=up,east=up,west=side,power=2": {
@@ -1647,5 +1647,6 @@
         "north=side,south=up,east=side,west=up,power=2": {
             "model": "gauntlet:decoration/graves/alabaster_grave_tall",
             "y": 270
+        }
     }
 }
