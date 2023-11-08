@@ -584,5 +584,14 @@
         "east": 190,
         "south": 191,
         "west": 192
-    }
+    },
+	"alabaster_grave_ornate": {
+		"index": 193,
+		"shape": "full",
+		"type": "clicked",
+		"north": 193,
+        "east": 194,
+        "south": 195,
+        "west": 196
+	}
 }
