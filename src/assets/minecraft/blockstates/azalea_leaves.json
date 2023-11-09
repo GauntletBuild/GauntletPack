@@ -3,7 +3,7 @@
         "distance=6,persistent=true,waterlogged=true": {
             "model": "gauntlet:decoration/foliage/dense_crabweed"
         },
-        "distance=5,persistent=true": {
+        "distance=5,persistent=false": {
             "model": "minecraft:block/leaves/cypress_leaves"
         }
     }
