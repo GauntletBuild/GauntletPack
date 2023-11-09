@@ -1,0 +1,36 @@
+{
+	"credit": "Made by Frenderman",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "gauntlet:decoration/papers",
+		"particle": "gauntlet:decoration/papers"
+	},
+	"elements": [
+		{
+			"from": [2.18595, 0.03, 3.09946],
+			"to": [9.18595, 0.03, 14.09946],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [7.01855, 0.02, 7.67191]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 5.5, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 3.5, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 5.5, 0], "texture": "#missing"},
+				"up": {"uv": [3.5, 0, 7, 5.5], "texture": "#0"},
+				"down": {"uv": [3.5, 5.5, 7, 0], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2.39476, 0.01, 2.805],
+			"to": [13.39476, 0.01, 9.805],
+			"rotation": {"angle": -45, "axis": "y", "origin": [7.01855, 0.02, 7.67191]},
+			"faces": {
+				"north": {"uv": [0, 0, 5.5, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 3.5, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 5.5, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 3.5, 0], "texture": "#missing"},
+				"up": {"uv": [3.5, 5.5, 0, 0], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [0, 5.5, 3.5, 0], "rotation": 270, "texture": "#0"}
+			}
+		}
+	]
+}
