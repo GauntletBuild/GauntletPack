@@ -1700,6 +1700,115 @@
                 "model": "gauntlet:decoration/graves/alabaster_plaque_1",
                 "y": 270
             }
+        ],
+        "north=side,south=side,east=side,west=up,power=2": [
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers"
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers1"
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers2"
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers3"
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers4"
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers1",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers2",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers3",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers4",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers1",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers2",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers3",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers4",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers1",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers2",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers3",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/papers/scattered_papers4",
+                "y": 270
+            }
+        ],
+        "north=side,south=side,east=side,west=side,power=2": [
+            {
+                "model": "gauntlet:decoration/papers/stacked_papers"
+            },
+            {
+                "model": "gauntlet:decoration/papers/stacked_papers1"
+            },
+            {
+                "model": "gauntlet:decoration/papers/stacked_papers",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/papers/stacked_papers1",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/papers/stacked_papers",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/papers/stacked_papers1",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/papers/stacked_papers",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/papers/stacked_papers1",
+                "y": 270
+            }
         ]
     }
 }
