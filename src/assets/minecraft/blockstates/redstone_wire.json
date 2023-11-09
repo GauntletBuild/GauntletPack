@@ -1648,7 +1648,7 @@
             "model": "gauntlet:decoration/graves/alabaster_grave_tall",
             "y": 270
         },
-		"north=side,south=up,east=side,west=side,power=2": {
+        "north=side,south=up,east=side,west=side,power=2": {
             "model": "gauntlet:decoration/graves/alabaster_grave_ornate"
         },
         "north=side,south=up,east=side,west=none,power=2": {
@@ -1662,6 +1662,44 @@
         "north=side,south=up,east=none,west=side,power=2": {
             "model": "gauntlet:decoration/graves/alabaster_grave_ornate",
             "y": 270
-        }
+        },
+        "north=side,south=up,east=none,west=none,power=2": [
+            {
+                "model": "gauntlet:decoration/graves/alabaster_plaque"
+            },
+            {
+                "model": "gauntlet:decoration/graves/alabaster_plaque_1"
+            }
+        ],
+        "north=side,south=side,east=up,west=up,power=2": [
+            {
+                "model": "gauntlet:decoration/graves/alabaster_plaque",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/graves/alabaster_plaque_1",
+                "y": 90
+            }
+        ],
+        "north=side,south=side,east=up,west=side,power=2": [
+            {
+                "model": "gauntlet:decoration/graves/alabaster_plaque",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/graves/alabaster_plaque_1",
+                "y": 90
+            }
+        ],
+        "north=side,south=side,east=up,west=none,power=2": [
+            {
+                "model": "gauntlet:decoration/graves/alabaster_plaque",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/graves/alabaster_plaque_1",
+                "y": 90
+            }
+        ]
     }
 }

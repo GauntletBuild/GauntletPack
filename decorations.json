@@ -593,5 +593,14 @@
         "east": 194,
         "south": 195,
         "west": 196
-	}
+	},
+    "alabaster_grave_plaque": {
+        "index": 197,
+        "shape": "full",
+        "type": "clicked",
+        "north": 197,
+        "east": 198,
+        "south": 199,
+        "west": 200
+    }
 }

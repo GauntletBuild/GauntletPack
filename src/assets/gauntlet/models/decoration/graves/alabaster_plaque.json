@@ -1,0 +1,52 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "gauntlet:decoration/graves/alabaster_grave_small",
+		"particle": "gauntlet:decoration/graves/alabaster_grave_small"
+	},
+	"elements": [
+		{
+			"from": [2, -2.50737, 6.49895],
+			"to": [14, 1.49263, 14.81395],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [9, -0.50737, 9.99895]},
+			"faces": {
+				"east": {"uv": [1, 13.33333, 4, 14.66667], "texture": "#0"},
+				"south": {"uv": [0, 13.33333, 4, 14.66667], "texture": "#0"},
+				"west": {"uv": [1, 13.33333, 4, 14.66667], "texture": "#0"},
+				"up": {"uv": [4, 13.33333, 0, 10.685], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 225, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	},
+	"loader": "framework:open_model"
+}
