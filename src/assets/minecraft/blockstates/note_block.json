@@ -1502,6 +1502,9 @@
         },
         "instrument=hat,note=4,powered=false": {
             "model": "gauntlet:block/shingles/gray_glazed_shingles"
-        }
+        },
+		"instrument=hat,note=4,powered=true": {
+			"model": "gauntlet:block/barber_tiles"
+		}
     }
 }

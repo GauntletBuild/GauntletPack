@@ -614,5 +614,9 @@
     "gray_glazed_shingles": {
         "type": "full_cube",
         "index": 158
+    },
+	"barber_tiles": {
+        "type": "full_cube",
+        "index": 159
     }
 }
