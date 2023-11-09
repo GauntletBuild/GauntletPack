@@ -1684,21 +1684,21 @@
         "north=side,south=side,east=up,west=side,power=2": [
             {
                 "model": "gauntlet:decoration/graves/alabaster_plaque",
-                "y": 90
+                "y": 180
             },
             {
                 "model": "gauntlet:decoration/graves/alabaster_plaque_1",
-                "y": 90
+                "y": 180
             }
         ],
         "north=side,south=side,east=up,west=none,power=2": [
             {
                 "model": "gauntlet:decoration/graves/alabaster_plaque",
-                "y": 90
+                "y": 270
             },
             {
                 "model": "gauntlet:decoration/graves/alabaster_plaque_1",
-                "y": 90
+                "y": 270
             }
         ]
     }
