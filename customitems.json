@@ -68,9 +68,9 @@
     },
     "cypress_leaves": {
         "index": 9,
-        "block": "minecraft:oak_leaves",
+        "block": "minecraft:azalea_leaves",
         "properties": {
-            "distance": "2"
+            "distance": "5"
         }
     },
     "chestnut_leaves": {
