@@ -602,5 +602,13 @@
         "east": 198,
         "south": 199,
         "west": 200
+    },
+    "scattered_papers": {
+        "index": 201,
+        "shape": "flat"
+    },
+    "stacked_papers": {
+        "index": 202,
+        "shape": "mini"
     }
 }
