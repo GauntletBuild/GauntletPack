@@ -1902,6 +1902,9 @@
                 "y": 270,
                 "z": 180
             }
-        ]
+        ],
+        "north=side,south=none,east=side,west=up,power=2": {
+            "model": "gauntlet:decoration/foliage/moonflower"
+        }
     }
 }

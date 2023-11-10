@@ -24,6 +24,7 @@
       {"predicate": {"custom_model_data": 175}, "model": "gauntlet:decoration/item_models/maple_plump"},
       {"predicate": {"custom_model_data": 176}, "model": "gauntlet:decoration/item_models/maritold"},
       {"predicate": {"custom_model_data": 177}, "model": "gauntlet:decoration/item_models/striped_lumino"},
-      {"predicate": {"custom_model_data": 178}, "model": "gauntlet:decoration/item_models/white_pillup"}
+      {"predicate": {"custom_model_data": 178}, "model": "gauntlet:decoration/item_models/white_pillup"},
+      {"predicate": {"custom_model_data": 210}, "model": "gauntlet:decoration/item_models/moonflower"}
   ]
 }

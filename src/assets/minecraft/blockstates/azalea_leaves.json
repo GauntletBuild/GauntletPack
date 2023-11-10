@@ -5,6 +5,9 @@
         },
         "distance=5,persistent=false": {
             "model": "minecraft:block/leaves/cypress_leaves"
+        },
+        "distance=4,persistent=false": {
+            "model": "minecraft:block/leaves/pine_leaves"
         }
     }
 } 

@@ -631,5 +631,9 @@
         "east": 207,
         "south": 208,
         "west": 209
+    },
+    "moonflower": {
+        "index": 210,
+        "shape": "mini"
     }
 }
