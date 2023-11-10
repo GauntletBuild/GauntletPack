@@ -86,7 +86,7 @@
         "properties": {
             "distance": "4"
         }
-    },’
+    },
     "bushy_oak_leaves": {
         "index": 12,
         "block": "minecraft:oak_leaves",
