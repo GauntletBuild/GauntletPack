@@ -1867,7 +1867,7 @@
             },
             {
                 "model": "gauntlet:decoration/books/book_row",
-                "x": 180
+                "z": 180
             }
         ],
         "north=side,south=none,east=up,west=up,power=2": [
@@ -1878,7 +1878,7 @@
             {
                 "model": "gauntlet:decoration/books/book_row",
                 "y": 90,
-                "x": 180
+                "z": 180
             }
         ],
         "north=side,south=none,east=up,west=side,power=2": [
@@ -1889,7 +1889,7 @@
             {
                 "model": "gauntlet:decoration/books/book_row",
                 "y": 180,
-                "x": 180
+                "z": 180
             }
         ],
         "north=side,south=none,east=up,west=none,power=2": [
@@ -1900,7 +1900,7 @@
             {
                 "model": "gauntlet:decoration/books/book_row",
                 "y": 270,
-                "x": 180
+                "z": 180
             }
         ]
     }
