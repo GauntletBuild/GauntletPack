@@ -376,35 +376,35 @@
         "index": 128,
         "shape": "mini"
     },
-    "log_stack":{
+    "log_stack": {
         "index": 129,
         "shape": "full",
-		"type": "clicked",
-		"north": 129,
+        "type": "clicked",
+        "north": 129,
         "east": 130
     },
-	"spruce_keg": {
-		"index": 131,
-		"shape": "full"
-	},
-	"spruce_keg_sideways": {
-		"index": 132,
-		"shape": "full",
-		"type": "clicked",
-		"north": 132,
-		"east": 133
-	},
-	"large_spruce_keg": {
-		"index": 134,
-		"shape": "full"
-	},
-	"large_spruce_keg_sideways": {
-		"index": 135,
-		"shape": "full",
-		"type": "clicked",
-		"north": 135,
-		"east": 136
-	},
+    "spruce_keg": {
+        "index": 131,
+        "shape": "full"
+    },
+    "spruce_keg_sideways": {
+        "index": 132,
+        "shape": "full",
+        "type": "clicked",
+        "north": 132,
+        "east": 133
+    },
+    "large_spruce_keg": {
+        "index": 134,
+        "shape": "full"
+    },
+    "large_spruce_keg_sideways": {
+        "index": 135,
+        "shape": "full",
+        "type": "clicked",
+        "north": 135,
+        "east": 136
+    },
     "walnut_armchair": {
         "index": 137,
         "shape": "full",
@@ -423,13 +423,13 @@
         "south": 143,
         "west": 144
     },
-	"large_spruce_table": {
-		"index": 145,
-		"shape": "full",
+    "large_spruce_table": {
+        "index": 145,
+        "shape": "full",
         "type": "clicked",
         "north": 146,
         "east": 145
-	},
+    },
     "boghorn_tall": {
         "index": 147,
         "shape": "full"
@@ -454,18 +454,18 @@
         "index": 152,
         "shape": "flat"
     },
-	"yellow_flowerbed": {
-		"index": 153,
-		"shape": "flat"
-	},
+    "yellow_flowerbed": {
+        "index": 153,
+        "shape": "flat"
+    },
     "peony_bush_pink": {
         "index": 154,
         "shape": "full"
     },
-	"cloth_cover": {
-		"index": 155,
-		"shape": "flat"
-	},
+    "cloth_cover": {
+        "index": 155,
+        "shape": "flat"
+    },
     "walnut_bench": {
         "index": 156,
         "shape": "full",
@@ -585,15 +585,15 @@
         "south": 191,
         "west": 192
     },
-	"alabaster_grave_ornate": {
-		"index": 193,
-		"shape": "full",
-		"type": "clicked",
-		"north": 193,
+    "alabaster_grave_ornate": {
+        "index": 193,
+        "shape": "full",
+        "type": "clicked",
+        "north": 193,
         "east": 194,
         "south": 195,
         "west": 196
-	},
+    },
     "alabaster_grave_plaque": {
         "index": 197,
         "shape": "full",
@@ -610,5 +610,26 @@
     "stacked_papers": {
         "index": 202,
         "shape": "mini"
+    },
+    "inkwell": {
+        "index": 203,
+        "shape": "mini"
+    },
+    "scattered_books": {
+        "index": 204,
+        "shape": "mini"
+    },
+    "stacked_books": {
+        "index": 205,
+        "shape": "mini"
+    },
+    "book_row": {
+        "index": 206,
+        "shape": "flat",
+        "type": "clicked",
+        "north": 206,
+        "east": 207,
+        "south": 208,
+        "west": 209
     }
 }
