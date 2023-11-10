@@ -1,0 +1,8 @@
+{
+  "parent": "gauntlet:block/alt_door/alt_door_top_right",
+  "textures": {
+    "bottom": "gauntlet:block/pine/pine_door_bottom",
+    "top": "gauntlet:block/pine/pine_door_top",
+    "side": "gauntlet:block/pine/pine_door_sides"
+  }
+}
