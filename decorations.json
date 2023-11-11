@@ -635,5 +635,23 @@
     "moonflower": {
         "index": 210,
         "shape": "mini"
+    },
+    "mailbox": {
+        "index": 211,
+        "shape": "flat",
+        "type": "clicked",
+        "north": 211,
+        "east": 212,
+        "south": 213,
+        "west": 214
+    },
+    "iron_fountain": {
+        "index": 215,
+        "shape": "full",
+        "type": "clicked",
+        "north": 215,
+        "east": 216,
+        "south": 217,
+        "west": 218
     }
 }
