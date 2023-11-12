@@ -691,5 +691,9 @@
         "east": 229,
         "south": 230,
         "west": 231
+    },
+    "soup": {
+        "index": 232,
+        "shape": "flat"
     }
 }

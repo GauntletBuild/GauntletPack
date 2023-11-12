@@ -1940,6 +1940,15 @@
             },
             {
                 "model": "gauntlet:decoration/food/tableware_5"
+            },
+            {
+                "model": "gauntlet:decoration/food/tableware_6"
+            },
+            {
+                "model": "gauntlet:decoration/food/tableware_7"
+            },
+            {
+                "model": "gauntlet:decoration/food/tableware_8"
             }
         ],
         "north=none,south=up,east=side,west=side,power=2": [
@@ -1965,6 +1974,18 @@
             },
             {
                 "model": "gauntlet:decoration/food/tableware_5",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/food/tableware_6",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/food/tableware_7",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/food/tableware_8",
                 "y": 90
             }
         ],
@@ -1992,6 +2013,18 @@
             {
                 "model": "gauntlet:decoration/food/tableware_5",
                 "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/food/tableware_6",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/food/tableware_7",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/food/tableware_8",
+                "y": 180
             }
         ],
         "north=none,south=up,east=none,west=up,power=2": [
@@ -2017,6 +2050,18 @@
             },
             {
                 "model": "gauntlet:decoration/food/tableware_5",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/food/tableware_6",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/food/tableware_7",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/food/tableware_8",
                 "y": 270
             }
         ],
@@ -2179,6 +2224,17 @@
         "north=none,south=side,east=none,west=up,power=2": {
             "model": "gauntlet:decoration/mirror",
             "y": 270
-        }
+        },
+        "north=none,south=side,east=none,west=side,power=2": [
+            {
+                "model": "gauntlet:decoration/food/soup"
+            },
+            {
+                "model": "gauntlet:decoration/food/soup_1"
+            },
+            {
+                "model": "gauntlet:decoration/food/soup_2"
+            }
+        ]
     }
 }
