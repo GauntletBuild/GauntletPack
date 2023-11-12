@@ -4,6 +4,7 @@
 	"textures": {
 		"0": "gauntlet:decoration/tableware",
 		"1": "gauntlet:decoration/food/foodstuffs",
+		"2": "gauntlet:decoration/old_chalice",
 		"particle": "gauntlet:decoration/tableware"
 	},
 	"elements": [
@@ -115,6 +116,66 @@
 				"up": {"uv": [13.25, 3, 14.25, 4], "rotation": 270, "texture": "#1"},
 				"down": {"uv": [13.25, 3, 14.25, 4], "rotation": 90, "texture": "#1"}
 			}
+		},
+		{
+			"from": [17, -16, -1],
+			"to": [21, -15, 3],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, -12, 8]},
+			"faces": {
+				"north": {"uv": [11, 14, 13, 14.5], "texture": "#2"},
+				"east": {"uv": [11, 14, 13, 14.5], "texture": "#2"},
+				"south": {"uv": [11, 14, 13, 14.5], "texture": "#2"},
+				"west": {"uv": [11, 14, 13, 14.5], "texture": "#2"},
+				"up": {"uv": [1, 5, 3, 7], "texture": "#2"},
+				"down": {"uv": [5, 5, 7, 7], "texture": "#2"}
+			}
+		},
+		{
+			"from": [18, -15, 0],
+			"to": [20, -13, 2],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, -12, 8]},
+			"faces": {
+				"north": {"uv": [11.5, 13, 12.5, 14], "texture": "#2"},
+				"east": {"uv": [11.5, 13, 12.5, 14], "texture": "#2"},
+				"south": {"uv": [11.5, 13, 12.5, 14], "texture": "#2"},
+				"west": {"uv": [11.5, 13, 12.5, 14], "texture": "#2"}
+			}
+		},
+		{
+			"from": [15.99, -13.01, -2.01],
+			"to": [22.01, -8.99, 4.01],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, -12, 8]},
+			"faces": {
+				"north": {"uv": [10.5, 11, 13.5, 13], "texture": "#2"},
+				"east": {"uv": [10.5, 11, 13.5, 13], "texture": "#2"},
+				"south": {"uv": [10.5, 11, 13.5, 13], "texture": "#2"},
+				"west": {"uv": [10.5, 11, 13.5, 13], "texture": "#2"}
+			}
+		},
+		{
+			"from": [22, -8, 4],
+			"to": [16, -13, -2],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, -12, 8]},
+			"faces": {
+				"north": {"uv": [4.5, 9, 7.5, 11.5], "texture": "#2"},
+				"east": {"uv": [4.5, 9, 7.5, 11.5], "texture": "#2"},
+				"south": {"uv": [4.5, 9, 7.5, 11.5], "texture": "#2"},
+				"west": {"uv": [4.5, 9, 7.5, 11.5], "texture": "#2"},
+				"up": {"uv": [0.5, 12.5, 3.5, 15.5], "texture": "#2"}
+			}
+		},
+		{
+			"from": [15, -9, -3],
+			"to": [23, -8, 5],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, -12, 8]},
+			"faces": {
+				"north": {"uv": [10, 10.5, 14, 11], "texture": "#2"},
+				"east": {"uv": [10, 10.5, 14, 11], "texture": "#2"},
+				"south": {"uv": [10, 10.5, 14, 11], "texture": "#2"},
+				"west": {"uv": [10, 10.5, 14, 11], "texture": "#2"},
+				"up": {"uv": [4, 0, 8, 4], "texture": "#2"},
+				"down": {"uv": [4, 0, 8, 4], "texture": "#2"}
+			}
 		}
 	],
 	"groups": [
@@ -128,6 +189,12 @@
 			"children": [3, 4, 5, 6]
 		},
 		7,
-		8
+		8,
+		{
+			"name": "Chalice",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"children": [9, 10, 11, 12, 13]
+		}
 	]
 }
