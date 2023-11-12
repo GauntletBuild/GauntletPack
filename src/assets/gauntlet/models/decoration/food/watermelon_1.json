@@ -1,0 +1,50 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "gauntlet:decoration/food/foodstuffs",
+		"particle": "gauntlet:decoration/food/foodstuffs"
+	},
+	"elements": [
+		{
+			"from": [9, 0, 6],
+			"to": [15, 6, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [12, 3, 9]},
+			"faces": {
+				"north": {"uv": [9.5, 3.5, 8, 5], "texture": "#0"},
+				"east": {"uv": [11, 5, 9.5, 6.5], "texture": "#0"},
+				"south": {"uv": [9.5, 5, 11, 6.5], "texture": "#0"},
+				"west": {"uv": [8, 3.5, 9.5, 5], "texture": "#0"},
+				"up": {"uv": [8, 3.5, 9.5, 5], "texture": "#0"},
+				"down": {"uv": [9.5, 5, 11, 6.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2.575, -0.25, 6],
+			"to": [4.575, 5.75, 12],
+			"rotation": {"angle": -45, "axis": "z", "origin": [3.575, 2.75, 9]},
+			"faces": {
+				"north": {"uv": [8.75, 5, 9.25, 6.5], "texture": "#0"},
+				"east": {"uv": [8, 3.5, 9.5, 5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [10, 5, 10.5, 6.5], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [9.5, 3.5, 8, 5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [9, 5, 8.5, 6.5], "texture": "#0"},
+				"down": {"uv": [10, 5, 10.5, 6.5], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 0, 6],
+			"to": [8, 6, 12],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [7, 3, 9]},
+			"faces": {
+				"north": {"uv": [8, 5, 8.5, 6.5], "texture": "#0"},
+				"east": {"uv": [8, 3.5, 9.5, 5], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [9.5, 5, 10, 6.5], "rotation": 180, "texture": "#0"},
+				"west": {"uv": [9.5, 3.5, 8, 5], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [8.5, 5, 8, 6.5], "texture": "#0"},
+				"down": {"uv": [9.5, 5, 10, 6.5], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"display": {}
+}

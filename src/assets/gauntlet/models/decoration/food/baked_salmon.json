@@ -1,0 +1,30 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "gauntlet:decoration/food/foodstuffs",
+		"particle": "gauntlet:decoration/food/foodstuffs"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 6],
+			"to": [11, 2, 10],
+			"faces": {
+				"north": {"uv": [13.25, 3, 11, 2.5], "texture": "#0"},
+				"east": {"uv": [11, 5, 12, 5.5], "texture": "#0"},
+				"south": {"uv": [11, 4, 13.25, 4.5], "texture": "#0"},
+				"west": {"uv": [11, 4.5, 12, 5], "texture": "#0"},
+				"up": {"uv": [11, 3, 13.25, 4], "texture": "#0"},
+				"down": {"uv": [12, 4.5, 14.25, 5.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11, 1, 6],
+			"to": [15, 1, 10],
+			"faces": {
+				"up": {"uv": [13.25, 3, 14.25, 4], "texture": "#0"},
+				"down": {"uv": [13.25, 3, 14.25, 4], "texture": "#0"}
+			}
+		}
+	]
+}
