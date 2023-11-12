@@ -2,10 +2,10 @@
 	"credit": "Made by Frenderman",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "gauntlet:decoration/tableware",
+		"0": "gauntlet:decoration/food/tableware",
 		"1": "gauntlet:decoration/food/foodstuffs",
 		"2": "gauntlet:decoration/old_chalice",
-		"particle": "gauntlet:decoration/tableware"
+		"particle": "gauntlet:decoration/food/tableware"
 	},
 	"elements": [
 		{
@@ -188,8 +188,12 @@
 			"color": 0,
 			"children": [3, 4, 5, 6]
 		},
-		7,
-		8,
+		{
+			"name": "group",
+			"origin": [13.75, -14, 10],
+			"color": 0,
+			"children": [7, 8]
+		},
 		{
 			"name": "Chalice",
 			"origin": [0, 0, 0],
