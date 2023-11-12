@@ -868,6 +868,21 @@
             {
                 "model": "gauntlet:decoration/tableware",
                 "y": 270
+            },
+			{
+                "model": "gauntlet:decoration/tableware_1"
+            },
+            {
+                "model": "gauntlet:decoration/tableware_1",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/tableware_1",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/tableware_1",
+                "y": 270
             }
         ],
         "north=up,south=up,east=up,west=side,power=1": {
