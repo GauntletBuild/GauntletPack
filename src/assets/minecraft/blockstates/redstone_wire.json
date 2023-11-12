@@ -2235,6 +2235,21 @@
             {
                 "model": "gauntlet:decoration/food/soup_2"
             }
-        ]
+        ],
+        "north=none,south=side,east=none,west=none,power=2": {
+            "model": "gauntlet:decoration/pine_cupboard_extension"
+        },
+        "north=none,south=none,east=up,west=up,power=2": {
+            "model": "gauntlet:decoration/pine_cupboard_extension",
+            "y": 90
+        },
+        "north=none,south=none,east=up,west=side,power=2": {
+            "model": "gauntlet:decoration/pine_cupboard_extension",
+            "y": 180
+        },
+        "north=none,south=none,east=up,west=none,power=2": {
+            "model": "gauntlet:decoration/pine_cupboard_extension",
+            "y": 270
+        }
     }
 }

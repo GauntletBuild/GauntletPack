@@ -1,5 +1,6 @@
 {
 	"credit": "Made by Frenderman",
+	"render_type": "cutout",
 	"texture_size": [32, 32],
 	"textures": {
 		"0": "gauntlet:decoration/papers",
@@ -7,8 +8,8 @@
 	},
 	"elements": [
 		{
-			"from": [4.5, 0.01, 2.5],
-			"to": [11.5, 0.01, 13.5],
+			"from": [4.5, 0.025, 2.5],
+			"to": [11.5, 0.025, 13.5],
 			"faces": {
 				"north": {"uv": [0, 0, 3.5, 0], "texture": "#missing"},
 				"east": {"uv": [0, 0, 5.5, 0], "texture": "#missing"},
@@ -49,5 +50,6 @@
 		"fixed": {
 			"scale": [0.5, 0.5, 0.5]
 		}
-	}
+	},
+	"loader": "framework:open_model"
 }

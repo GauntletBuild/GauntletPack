@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "gauntlet:block/dark_pale_rock_1"
-  }
-}

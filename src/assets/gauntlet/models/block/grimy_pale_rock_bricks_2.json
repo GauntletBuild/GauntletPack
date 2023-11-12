@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "gauntlet:block/grimy_pale_rock_bricks_2"
-  }
-}

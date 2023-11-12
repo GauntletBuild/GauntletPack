@@ -249,10 +249,10 @@
         },
         "instrument=harp,note=23,powered=false": [
             {
-                "model": "gauntlet:block/pale_rock"
+                "model": "gauntlet:block/pale_rock/pale_rock"
             },
             {
-                "model": "gauntlet:block/pale_rock_1"
+                "model": "gauntlet:block/pale_rock/pale_rock_1"
             }
         ],
         "instrument=harp,note=23,powered=true": [
@@ -621,7 +621,7 @@
             "model": "gauntlet:block/crates/reinforced_crate"
         },
         "instrument=basedrum,note=18,powered=false": {
-            "model": "gauntlet:block/pale_rock_bricks"
+            "model": "gauntlet:block/pale_rock/pale_rock_bricks"
         },
         "instrument=basedrum,note=18,powered=true": [
             {
@@ -886,7 +886,7 @@
             "model": "gauntlet:block/limestone/polished_limestone_double_slab"
         },
         "instrument=snare,note=0,powered=true": {
-            "model": "gauntlet:block/smooth_deepslate"
+            "model": "gauntlet:block/pale_rock/darkest_pale_rock"
         },
         "instrument=snare,note=1,powered=false": {
             "model": "gauntlet:block/gritrock"
@@ -1123,32 +1123,32 @@
         ],
         "instrument=snare,note=12,powered=false": [
             {
-                "model": "gauntlet:block/dark_pale_rock"
+                "model": "gauntlet:block/pale_rock/dark_pale_rock"
             },
             {
-                "model": "gauntlet:block/dark_pale_rock_1"
+                "model": "gauntlet:block/pale_rock/dark_pale_rock_1"
             }
         ],
         "instrument=snare,note=12,powered=true": [
             {
-                "model": "gauntlet:block/chiseled_pale_rock"
+                "model": "gauntlet:block/pale_rock/carved_pale_rock"
             },
             {
-                "model": "gauntlet:block/chiseled_pale_rock_1"
+                "model": "gauntlet:block/pale_rock/carved_pale_rock_1"
             },
             {
-                "model": "gauntlet:block/chiseled_pale_rock_2"
+                "model": "gauntlet:block/pale_rock/carved_pale_rock_2"
             },
             {
-                "model": "gauntlet:block/chiseled_pale_rock_3"
+                "model": "gauntlet:block/pale_rock/carved_pale_rock_3"
             }
         ],
         "instrument=snare,note=13,powered=false": [
             {
-                "model": "gauntlet:block/not_so_pale_rock"
+                "model": "gauntlet:block/pale_rock/darker_palerock"
             },
             {
-                "model": "gauntlet:block/not_so_pale_rock_1"
+                "model": "gauntlet:block/pale_rock/darker_palerock_1"
             }
         ],
         "instrument=snare,note=13,powered=true": {
@@ -1164,48 +1164,48 @@
         ],
         "instrument=snare,note=14,powered=true": [
             {
-                "model": "gauntlet:block/grimy_pale_rock_bricks"
+                "model": "gauntlet:block/pale_rock/grimy_pale_rock_bricks"
             },
             {
-                "model": "gauntlet:block/grimy_pale_rock_bricks_1"
+                "model": "gauntlet:block/pale_rock/grimy_pale_rock_bricks_1"
             },
             {
-                "model": "gauntlet:block/grimy_pale_rock_bricks_2"
+                "model": "gauntlet:block/pale_rock/grimy_pale_rock_bricks_2"
             },
             {
-                "model": "gauntlet:block/grimy_pale_rock_bricks_3"
+                "model": "gauntlet:block/pale_rock/grimy_pale_rock_bricks_3"
             }
         ],
         "instrument=snare,note=15,powered=false": [
             {
-                "model": "gauntlet:block/spiral_stone/spiral_stone"
+                "model": "gauntlet:block/pale_rock/pale_spiral_stone"
             },
             {
-                "model": "gauntlet:block/spiral_stone/spiral_stone_1"
+                "model": "gauntlet:block/pale_rock/pale_spiral_stone_1"
             },
             {
-                "model": "gauntlet:block/spiral_stone/spiral_stone_2"
+                "model": "gauntlet:block/pale_rock/pale_spiral_stone_2"
             },
             {
-                "model": "gauntlet:block/spiral_stone/spiral_stone_3"
+                "model": "gauntlet:block/pale_rock/pale_spiral_stone_3"
             },
             {
-                "model": "gauntlet:block/spiral_stone/spiral_stone_4"
+                "model": "gauntlet:block/pale_rock/pale_spiral_stone_4"
             },
             {
-                "model": "gauntlet:block/spiral_stone/spiral_stone_5"
+                "model": "gauntlet:block/pale_rock/pale_spiral_stone_5"
             },
             {
-                "model": "gauntlet:block/spiral_stone/spiral_stone_6"
+                "model": "gauntlet:block/pale_rock/pale_spiral_stone_6"
             },
             {
-                "model": "gauntlet:block/spiral_stone/spiral_stone_7"
+                "model": "gauntlet:block/pale_rock/pale_spiral_stone_7"
             },
             {
-                "model": "gauntlet:block/spiral_stone/spiral_stone_8"
+                "model": "gauntlet:block/pale_rock/pale_spiral_stone_8"
             },
             {
-                "model": "gauntlet:block/spiral_stone/spiral_stone_9"
+                "model": "gauntlet:block/pale_rock/pale_spiral_stone_9"
             }
         ],
         "instrument=snare,note=15,powered=true": [
@@ -1505,6 +1505,30 @@
         },
 		"instrument=hat,note=4,powered=true": {
 			"model": "gauntlet:block/barber_tiles"
-		}
+		},
+        "instrument=hat,note=5,powered=false": {
+            "model": "gauntlet:block/pale_rock/chiseled_pale_rock"
+        },
+        "instrument=hat,note=5,powered=true": {
+            "model": "gauntlet:block/pale_rock/polished_pale_rock"
+        },
+        "instrument=hat,note=6,powered=false": {
+            "model": "gauntlet:block/pale_rock/large_pale_rock_bricks"
+        },
+        "instrument=hat,note=6,powered=true": {
+            "model": "gauntlet:block/pale_rock/chiseled_pale_rock_bricks"
+        },
+        "instrument=hat,note=7,powered=false": {
+            "model": "gauntlet:block/marble/chiseled_marble"
+        },
+        "instrument=hat,note=7,powered=true": {
+            "model": "gauntlet:block/marble/marble_brick_trim"
+        },
+        "instrument=hat,note=8,powered=false": {
+            "model": "gauntlet:block/brown_bricks/chiseled_brown_bricks"
+        },
+        "instrument=hat,note=8,powered=true": {
+            "model": "gauntlet:block/limestone/crossed_limestone_bricks"
+        }
     }
 }

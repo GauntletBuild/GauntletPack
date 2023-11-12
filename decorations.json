@@ -695,5 +695,14 @@
     "soup": {
         "index": 232,
         "shape": "flat"
+    },
+    "pine_cupboard_extension": {
+        "index": 233,
+        "shape": "full",
+        "type": "clicked",
+        "north": 235,
+        "east": 236,
+        "south": 233,
+        "west": 234
     }
 }

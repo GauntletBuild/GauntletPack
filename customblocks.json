@@ -393,7 +393,7 @@
         "type": "full_cube",
         "index": 100
     },
-    "smooth_deepslate": {
+    "darkest_palerock": {
         "type": "full_cube",
         "index": 101
     },
@@ -484,11 +484,11 @@
         "type": "full_cube",
         "index": 124
     },
-    "chiseled_pale_rock": {
+    "carved_pale_rock": {
         "type": "full_cube",
         "index": 125
     },
-    "not_so_pale_rock": {
+    "darker_pale_rock": {
         "type": "full_cube",
         "index": 126
     },
@@ -504,7 +504,7 @@
         "type": "full_cube",
         "index": 129
     },
-    "spiral_stone": {
+    "pale_spiral_stone": {
         "type": "full_cube",
         "index": 130
     },
@@ -618,5 +618,37 @@
 	"barber_tiles": {
         "type": "full_cube",
         "index": 159
+    },
+    "chiseled_pale_rock": {
+        "type": "full_cube",
+        "index": 160
+    },
+    "polished_pale_rock": {
+        "type": "full_cube",
+        "index": 161
+    },
+    "large_pale_rock_bricks": {
+        "type": "full_cube",
+        "index": 162
+    },
+    "chiseled_pale_rock_bricks": {
+        "type": "full_cube",
+        "index": 163
+    },
+    "chiseled_marble": {
+        "type": "full_cube",
+        "index": 164
+    },
+    "marble_brick_trim": {
+        "type": "full_cube",
+        "index": 165
+    },
+    "chiseled_brown_bricks": {
+        "type": "full_cube",
+        "index": 166
+    },
+    "crossed_limestone_bricks": {
+        "type": "full_cube",
+        "index": 167
     }
 }
