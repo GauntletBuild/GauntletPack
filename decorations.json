@@ -656,7 +656,7 @@
     },
     "tableware": {
         "index": 219,
-        "shape": "flat",
+        "shape": "full",
         "type": "clicked",
         "north": 219,
         "east": 220,
