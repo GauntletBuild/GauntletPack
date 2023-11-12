@@ -1,5 +1,6 @@
 {
 	"credit": "hatsondogs",
+	"render_type": "cutout",
 	"texture_size": [64, 64],
 	"textures": {
 		"1": "gauntlet:block/alabaster/alabaster_post",
@@ -15,7 +16,8 @@
 				"east": {"uv": [12, 4.5, 10, 6.5], "texture": "#1"},
 				"south": {"uv": [10, 4.5, 12, 6.5], "texture": "#1"},
 				"west": {"uv": [12, 4.5, 10, 6.5], "texture": "#1"},
-				"up": {"uv": [10, 6.5, 12, 8.5], "texture": "#1"}
+				"up": {"uv": [10, 6.5, 12, 8.5], "texture": "#1"},
+				"down": {"uv": [10, 6.5, 12, 8.5], "texture": "#1"}
 			}
 		}
 	],
@@ -32,6 +34,7 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, 45, 0],
+			"translation": [0, 3, 0],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
@@ -44,13 +47,10 @@
 		},
 		"gui": {
 			"rotation": [30, 225, 0],
-			"translation": [0, -1, 0],
-			"scale": [0.35, 0.35, 0.35]
+			"scale": [0.625, 0.625, 0.625]
 		},
 		"fixed": {
-			"rotation": [-90, 0, 0],
-			"translation": [0, 0, -24],
-			"scale": [2, 2, 2]
+			"scale": [0.5, 0.5, 0.5]
 		}
 	},
 	"groups": [
@@ -58,8 +58,8 @@
 			"name": "bone7",
 			"origin": [16, 0, 0],
 			"color": 0,
-			"nbt": "{}",
 			"children": [0]
 		}
-	]
+	],
+	"loader": "framework:open_model"
 }

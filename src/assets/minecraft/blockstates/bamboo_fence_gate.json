@@ -26,8 +26,7 @@
         },
         "facing=east,in_wall=true,open=false": {
             "model": "gauntlet:block/alabaster/alabaster_balustrade",
-            "uvlock": false,
-            "y": 0
+            "uvlock": false
         },
         "facing=east,in_wall=false,open=false": {
             "model": "gauntlet:block/alabaster/alabaster_balustrade_straight",

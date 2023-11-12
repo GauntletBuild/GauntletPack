@@ -66,5 +66,8 @@
     },
     "clay_jug": {
         "index": 27
+    },
+    "alabaster_pot": {
+        "index": 28
     }
 }

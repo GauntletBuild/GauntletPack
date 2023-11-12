@@ -17,6 +17,15 @@
                 "model": "gauntlet:decoration/pots/clay_jug",
                 "y": 90
             }
+        ],
+        "distance=2,persistent=false": [
+            {
+                "model": "gauntlet:decoration/pots/alabaster_pot"
+            },
+            {
+                "model": "gauntlet:decoration/pots/alabaster_pot",
+                "y": 90
+            }
         ]
     }
 }

@@ -316,11 +316,11 @@
         "index": 106,
         "shape": "mini"
     },
-    "pot_normal": {
+    "remove_1": {
         "index": 107,
         "shape": "full"
     },
-    "pot_short": {
+    "remove_2": {
         "index": 108,
         "shape": "full"
     },

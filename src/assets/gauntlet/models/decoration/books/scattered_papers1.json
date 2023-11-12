@@ -7,8 +7,8 @@
 	},
 	"elements": [
 		{
-			"from": [4, 0.01, 2],
-			"to": [11, 0.01, 13],
+			"from": [4, 0.025, 2],
+			"to": [11, 0.025, 13],
 			"faces": {
 				"north": {"uv": [0, 0, 3.5, 0], "texture": "#missing"},
 				"east": {"uv": [0, 0, 5.5, 0], "texture": "#missing"},
@@ -19,8 +19,8 @@
 			}
 		},
 		{
-			"from": [6.5, 0.02, 3.5],
-			"to": [13.5, 0.02, 14.5],
+			"from": [6.5, 0.035, 3.5],
+			"to": [13.5, 0.035, 14.5],
 			"rotation": {"angle": 22.5, "axis": "y", "origin": [10, 0.02, 8]},
 			"faces": {
 				"north": {"uv": [0, 0, 3.5, 0], "texture": "#missing"},
@@ -62,5 +62,6 @@
 		"fixed": {
 			"scale": [0.5, 0.5, 0.5]
 		}
-	}
+	},
+	"loader": "framework:open_model"
 }

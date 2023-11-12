@@ -1,9 +1,9 @@
 {
-	"credit": "hatsondogs",
-	"texture_size": [32, 32],
 	"textures": {
 		"0": "gauntlet:block/alabaster/alabaster_balustrade_straight",
-		"1": "gauntlet:block/alabaster/alabaster_balustrade_top_straight"
+		"1": "gauntlet:block/alabaster/alabaster_balustrade_top_straight",
+		"2": "gauntlet:block/alabaster/cracked_alabaster_bricks",
+		"particle": "gauntlet:block/alabaster/alabaster_balustrade_diagonal"
 	},
 	"elements": [
 		{
@@ -12,6 +12,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9.25, 4]},
 			"faces": {
 				"north": {"uv": [1.5, 8, 8, 9.5], "texture": "#0"},
+				"east": {"uv": [1, 4, 11, 7], "texture": "#2"},
 				"south": {"uv": [1, 8, 7.5, 9.5], "texture": "#0"},
 				"west": {"uv": [2, 8, 7, 9.5], "texture": "#0"},
 				"up": {"uv": [6.5, 15, 0, 10], "rotation": 180, "texture": "#1"}
@@ -34,7 +35,8 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 9.25, 4]},
 			"faces": {
 				"north": {"uv": [4, 0, 10, 2], "texture": "#0"},
-				"south": {"uv": [4.5, 0, 10.5, 2], "texture": "#0"},
+				"east": {"uv": [2, 4, 10, 8], "texture": "#2"},
+				"south": {"uv": [4, 0, 10, 2], "texture": "#0"},
 				"west": {"uv": [0, 0, 4, 2], "texture": "#0"},
 				"up": {"uv": [16, 16, 10, 12], "rotation": 180, "texture": "#0"},
 				"down": {"uv": [14, 5.5, 10, 11.5], "rotation": 90, "texture": "#0"}
@@ -46,6 +48,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [12, 15, 18]},
 			"faces": {
 				"east": {"uv": [0.95, 0, 2.95, 2], "texture": "#0"},
+				"south": {"uv": [2, 4, 10, 8], "texture": "#2"},
 				"west": {"uv": [1, 0, 3, 2], "texture": "#0"},
 				"up": {"uv": [3.5, 13.5, 1.5, 9.5], "rotation": 90, "texture": "#0"},
 				"down": {"uv": [14, 3.5, 10, 1.5], "rotation": 180, "texture": "#0"}
@@ -57,6 +60,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 16]},
 			"faces": {
 				"east": {"uv": [1, 8, 2.5, 9.5], "texture": "#0"},
+				"south": {"uv": [1, 4, 11, 7], "texture": "#2"},
 				"west": {"uv": [0.5, 8, 2, 9.5], "texture": "#0"},
 				"up": {"uv": [5, 16, 0, 14.5], "rotation": 180, "texture": "#1"}
 			}
@@ -103,5 +107,6 @@
 		"fixed": {
 			"scale": [0.5, 0.5, 0.5]
 		}
-	}
+	},
+	"loader": "framework:open_model"
 }
