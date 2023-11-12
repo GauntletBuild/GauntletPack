@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"render_type": "cutout",
 	"textures": {
 		"particle": "gauntlet:block/roads/checkered_sidewalk",

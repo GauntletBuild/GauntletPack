@@ -1,5 +1,5 @@
 {
-    "model": "gauntlet:block/pale_rock/grimy_pale_rock_bricks_base",
+    "parent": "gauntlet:block/pale_rock/grimy_pale_rock_bricks_base",
     "textures": {
         "side": "gauntlet:block/pale_rock/grimy_pale_rock_bricks_2",
         "end": "gauntlet:block/pale_rock/pale_rock_bricks"
