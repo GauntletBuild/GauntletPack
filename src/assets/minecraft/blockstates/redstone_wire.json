@@ -853,38 +853,9 @@
         "north=none,south=none,east=none,west=none,power=0": {
             "model": "gauntlet:decoration/tables/ornate_metal_table"
         },
-        "north=up,south=up,east=up,west=up,power=1": [
-            {
-                "model": "gauntlet:decoration/tableware"
-            },
-            {
-                "model": "gauntlet:decoration/tableware",
-                "y": 90
-            },
-            {
-                "model": "gauntlet:decoration/tableware",
-                "y": 180
-            },
-            {
-                "model": "gauntlet:decoration/tableware",
-                "y": 270
-            },
-			{
-                "model": "gauntlet:decoration/tableware_1"
-            },
-            {
-                "model": "gauntlet:decoration/tableware_1",
-                "y": 90
-            },
-            {
-                "model": "gauntlet:decoration/tableware_1",
-                "y": 180
-            },
-            {
-                "model": "gauntlet:decoration/tableware_1",
-                "y": 270
-            }
-        ],
+        "north=up,south=up,east=up,west=up,power=1": {
+            "model": "gauntlet:decoration/food/baked_potato"
+        },
         "north=up,south=up,east=up,west=side,power=1": {
             "model": "gauntlet:decoration/tables/spruce_table"
         },
@@ -1921,7 +1892,7 @@
         "north=side,south=none,east=side,west=up,power=2": {
             "model": "gauntlet:decoration/foliage/moonflower"
         },
-        "north=side,south=none,east=side,west=side,power=2":{
+        "north=side,south=none,east=side,west=side,power=2": {
             "model": "gauntlet:decoration/mailbox"
         },
         "north=side,south=none,east=side,west=none,power=2": {
@@ -1951,5 +1922,263 @@
             "model": "gauntlet:decoration/iron_fountain",
             "y": 270
         }
+    },
+    "north=none,south=up,east=side,west=up,power=2": [
+        {
+            "model": "gauntlet:decoration/food/tableware"
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_1"
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_2"
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_3"
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_4"
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_5"
+        }
+    ],
+    "north=none,south=up,east=side,west=side,power=2": [
+        {
+            "model": "gauntlet:decoration/food/tableware",
+            "y": 90
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_1",
+            "y": 90
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_2",
+            "y": 90
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_3",
+            "y": 90
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_4",
+            "y": 90
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_5",
+            "y": 90
+        }
+    ],
+    "north=none,south=up,east=side,west=none,power=2": [
+        {
+            "model": "gauntlet:decoration/food/tableware",
+            "y": 180
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_1",
+            "y": 180
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_2",
+            "y": 180
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_3",
+            "y": 180
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_4",
+            "y": 180
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_5",
+            "y": 180
+        }
+    ],
+    "north=none,south=up,east=none,west=up,power=2": [
+        {
+            "model": "gauntlet:decoration/food/tableware",
+            "y": 270
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_1",
+            "y": 270
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_2",
+            "y": 270
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_3",
+            "y": 270
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_4",
+            "y": 270
+        },
+        {
+            "model": "gauntlet:decoration/food/tableware_5",
+            "y": 270
+        }
+    ],
+    "north=none,south=up,east=none,west=side,power=2": [
+        {
+            "model": "gauntlet:decoration/food/apples"
+        },
+        {
+            "model": "gauntlet:decoration/food/apples_1"
+        },
+        {
+            "model": "gauntlet:decoration/food/apples_1",
+            "y": 90
+        },
+        {
+            "model": "gauntlet:decoration/food/apples_1",
+            "y": 180
+        },
+        {
+            "model": "gauntlet:decoration/food/apples_1",
+            "y": 270
+        }
+    ],
+    "north=none,south=up,east=none,west=none,power=2": [
+        {
+            "model": "gauntlet:decoration/food/bread"
+        },
+        {
+            "model": "gauntlet:decoration/food/bread_1"
+        },
+        {
+            "model": "gauntlet:decoration/food/bread_2"
+        },
+        {
+            "model": "gauntlet:decoration/food/bread",
+            "y": 90
+        },
+        {
+            "model": "gauntlet:decoration/food/bread_1",
+            "y": 90
+        },
+        {
+            "model": "gauntlet:decoration/food/bread_2",
+            "y": 90
+        },
+        {
+            "model": "gauntlet:decoration/food/bread",
+            "y": 180
+        },
+        {
+            "model": "gauntlet:decoration/food/bread_1",
+            "y": 180
+        },
+        {
+            "model": "gauntlet:decoration/food/bread_2",
+            "y": 180
+        },
+        {
+            "model": "gauntlet:decoration/food/bread",
+            "y": 270
+        },
+        {
+            "model": "gauntlet:decoration/food/bread_1",
+            "y": 270
+        },
+        {
+            "model": "gauntlet:decoration/food/bread_2",
+            "y": 270
+        }
+    ],
+    "north=none,south=side,east=up,west=up,power=2": [
+        {
+            "model": "gauntlet:decoration/food/pumpkin_pie"
+        },
+        {
+            "model": "gauntlet:decoration/food/pumpkin_pie_1"
+        },
+        {
+            "model": "gauntlet:decoration/food/pumpkin_pie_2"
+        },
+        {
+            "model": "gauntlet:decoration/food/pumpkin_pie_3"
+        }
+    ],
+    "north=none,south=side,east=up,west=side,power=2": [
+        {
+            "model": "gauntlet:decoration/food/roast_chicken"
+        },
+        {
+            "model": "gauntlet:decoration/food/roast_chicken",
+            "y": 90
+        },
+        {
+            "model": "gauntlet:decoration/food/roast_chicken",
+            "y": 180
+        },
+        {
+            "model": "gauntlet:decoration/food/roast_chicken",
+            "y": 270
+        }
+    ],
+    "north=none,south=side,east=up,west=none,power=2": [
+        {
+            "model": "gauntlet:decoration/food/watermelon"
+        },
+        {
+            "model": "gauntlet:decoration/food/watermelon_1"
+        },
+        {
+            "model": "gauntlet:decoration/food/watermelon_2"
+        },
+        {
+            "model": "gauntlet:decoration/food/watermelon",
+            "y": 90
+        },
+        {
+            "model": "gauntlet:decoration/food/watermelon_1",
+            "y": 90
+        },
+        {
+            "model": "gauntlet:decoration/food/watermelon_2",
+            "y": 90
+        },
+        {
+            "model": "gauntlet:decoration/food/watermelon",
+            "y": 180
+        },
+        {
+            "model": "gauntlet:decoration/food/watermelon_1",
+            "y": 180
+        },
+        {
+            "model": "gauntlet:decoration/food/watermelon_2",
+            "y": 180
+        },
+        {
+            "model": "gauntlet:decoration/food/watermelon",
+            "y": 270
+        },
+        {
+            "model": "gauntlet:decoration/food/watermelon_1",
+            "y": 270
+        },
+        {
+            "model": "gauntlet:decoration/food/watermelon_2",
+            "y": 270
+        }
+    ],
+    "north=none,south=side,east=side,west=up,power=2": {
+        "model": "gauntlet:decoration/mirror"
+    },
+    "north=none,south=side,east=side,west=side,power=2": {
+        "model": "gauntlet:decoration/mirror",
+        "y": 90
+    },
+    "north=none,south=side,east=side,west=none,power=2": {
+        "model": "gauntlet:decoration/mirror",
+        "y": 180
+    },
+    "north=none,south=side,east=none,west=up,power=2": {
+        "model": "gauntlet:decoration/mirror",
+        "y": 270
     }
 }

@@ -235,9 +235,9 @@
         "index": 80,
         "shape": "full"
     },
-    "tableware": {
+    "baked_potato": {
         "index": 81,
-        "shape": "mini"
+        "shape": "flat"
     },
     "spruce_table": {
         "index": 82,
@@ -653,5 +653,43 @@
         "east": 216,
         "south": 217,
         "west": 218
+    },
+    "tableware": {
+        "index": 219,
+        "shape": "full",
+        "type": "clicked",
+        "north": 219,
+        "east": 220,
+        "south": 221,
+        "west": 222
+    },
+    "apples": {
+        "index": 223,
+        "shape": "flat"
+    },
+    "bread": {
+        "index": 224,
+        "shape": "flat"
+    },
+    "pumpkin_pie": {
+        "index": 225,
+        "shape": "flat"
+    },
+    "roast_chicken": {
+        "index": 226,
+        "shape": "flat"
+    },
+    "watermelon": {
+        "index": 227,
+        "shape": "flat"
+    },
+    "mirror": {
+        "index": 228,
+        "shape": "full",
+        "type": "clicked",
+        "north": 228,
+        "east": 229,
+        "south": 230,
+        "west": 231
     }
 }
