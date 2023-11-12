@@ -1145,10 +1145,10 @@
         ],
         "instrument=snare,note=13,powered=false": [
             {
-                "model": "gauntlet:block/pale_rock/darker_palerock"
+                "model": "gauntlet:block/pale_rock/darker_pale_rock"
             },
             {
-                "model": "gauntlet:block/pale_rock/darker_palerock_1"
+                "model": "gauntlet:block/pale_rock/darker_pale_rock_1"
             }
         ],
         "instrument=snare,note=13,powered=true": {
