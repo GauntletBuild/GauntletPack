@@ -1,9 +1,10 @@
 {
+	"credit": "Made with Blockbench",
 	"render_type": "cutout",
 	"textures": {
-		"side": "#texture",
-		"end": "#texture",
-		"particle": "gauntlet:block/pale_rock/grimy_pale_rock_bricks"
+		"particle": "gauntlet:block/roads/checkered_sidewalk",
+		"end": "gauntlet:block/roads/checkered_sidewalk",
+		"side": "gauntlet:block/roads/checkered_sidewalk_side"
 	},
 	"elements": [
 		{
@@ -13,9 +14,9 @@
 				"north": {"uv": [0, 0, 16, 16], "texture": "#side"},
 				"east": {"uv": [16, 0, 0, 16], "texture": "#side"},
 				"south": {"uv": [0, 0, 16, 16], "texture": "#side"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#side"},
-				"up": {"uv": [16, 0, 0, 16], "texture": "#end"},
-				"down": {"uv": [16, 0, 0, 16], "texture": "#end"}
+				"west": {"uv": [16, 0, 0, 16], "texture": "#side"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#end"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#end"}
 			}
 		}
 	],
