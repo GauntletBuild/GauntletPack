@@ -704,5 +704,9 @@
         "east": 236,
         "south": 233,
         "west": 234
+    },
+    "rope": {
+        "index": 237,
+        "shape": "full"
     }
 }

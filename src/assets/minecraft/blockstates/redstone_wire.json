@@ -2250,6 +2250,9 @@
         "north=none,south=none,east=up,west=none,power=2": {
             "model": "gauntlet:decoration/pine_cupboard_extension",
             "y": 270
+        },
+        "north=none,south=none,east=side,west=up,power=2": {
+            "model": "gauntlet:decoration/rope"
         }
     }
 }
