@@ -708,5 +708,14 @@
     "rope": {
         "index": 237,
         "shape": "full"
+    },
+    "small_haligrad_banner": {
+        "index": 238,
+        "shape": "flat",
+        "type": "clicked",
+        "north": 238,
+        "east": 239,
+        "south": 240,
+        "west": 241
     }
 }

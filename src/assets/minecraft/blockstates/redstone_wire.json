@@ -2253,6 +2253,21 @@
         },
         "north=none,south=none,east=side,west=up,power=2": {
             "model": "gauntlet:decoration/rope"
+        },
+        "north=none,south=none,east=side,west=side,power=2": {
+            "model": "gauntlet:decoration/banners/small_haligrad_banner"
+        },
+        "north=none,south=none,east=side,west=none,power=2": {
+            "model": "gauntlet:decoration/banners/small_haligrad_banner",
+            "y": 90
+        },
+        "north=none,south=none,east=none,west=up,power=2": {
+            "model": "gauntlet:decoration/banners/small_haligrad_banner",
+            "y": 180
+        },
+        "north=none,south=none,east=none,west=side,power=2": {
+            "model": "gauntlet:decoration/banners/small_haligrad_banner",
+            "y": 270
         }
     }
 }
