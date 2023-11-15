@@ -2301,15 +2301,7 @@
             },
             {
                 "model": "gauntlet:decoration/candles/chandelier",
-                "y": 90
-            },
-            {
-                "model": "gauntlet:decoration/candles/chandelier",
                 "y": 180
-            },
-            {
-                "model": "gauntlet:decoration/candles/chandelier",
-                "y": 270
             }
         ],
         "north=up,south=up,east=none,west=none,power=3":  [
@@ -2318,15 +2310,7 @@
             },
             {
                 "model": "gauntlet:decoration/candles/chandelier_lit",
-                "y": 90
-            },
-            {
-                "model": "gauntlet:decoration/candles/chandelier_lit",
                 "y": 180
-            },
-            {
-                "model": "gauntlet:decoration/candles/chandelier_lit",
-                "y": 270
             }
         ]
         
