@@ -717,5 +717,38 @@
         "east": 239,
         "south": 240,
         "west": 241
+    },
+    "candle": {
+        "index": 242,
+        "shape": "mini"
+    },
+    "candle_lit": {
+        "index": 243,
+        "shape": "mini",
+        "light": 4
+    },
+    "candlestick": {
+        "index": 244,
+        "shape": "mini"
+    },
+    "candlestick_lit": {
+        "index": 245,
+        "shape": "mini",
+        "light": 5
+    },
+    "candelabra": {
+        "index": 246,
+        "shape": "mini",
+        "type": "clicked",
+        "north": 246,
+        "east": 247
+    },
+    "candelabra_lit": {
+        "index": 248,
+        "shape": "mini",
+        "type": "clicked",
+        "light": 8,
+        "north": 248,
+        "east": 249
     }
 }
