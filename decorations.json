@@ -759,5 +759,32 @@
         "index": 251,
         "shape": "full",
         "light": 10
+    },
+    "candle_holder": {
+        "index": 252,
+        "shape": "mini"
+    },
+    "candle_holder_lit": {
+        "index": 253,
+        "shape": "mini",
+        "light": 4
+    },
+    "tall_candlestick": {
+        "index": 254,
+        "shape": "mini"
+    },
+    "tall_candlestick_lit": {
+        "index": 255,
+        "shape": "full",
+        "light": 5
+    },
+    "thin_long_haligrad_banner": {
+        "index": 256,
+        "shape": "flat",
+        "type": "clicked",
+        "north": 256,
+        "east": 257,
+        "south": 258,
+        "west": 259
     }
 }
