@@ -750,5 +750,14 @@
         "light": 8,
         "north": 248,
         "east": 249
+    },
+    "chandelier": {
+        "index": 250,
+        "shape": "full"
+    },
+    "chandelier_lit": {
+        "index": 251,
+        "shape": "full",
+        "light": 10
     }
 }
