@@ -738,14 +738,14 @@
     },
     "candelabra": {
         "index": 246,
-        "shape": "mini",
+        "shape": "full",
         "type": "clicked",
         "north": 246,
         "east": 247
     },
     "candelabra_lit": {
         "index": 248,
-        "shape": "mini",
+        "shape": "full",
         "type": "clicked",
         "light": 8,
         "north": 248,
