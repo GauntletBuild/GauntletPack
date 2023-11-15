@@ -2299,7 +2299,7 @@
             "model": "gauntlet:decoration/candles/chandelier"
         },
         "north=up,south=up,east=none,west=none,power=3": {
-            "model": "gauntlet:decoration/candles/chandelier_lit",
+            "model": "gauntlet:decoration/candles/chandelier_lit"
         }
     }
 }
