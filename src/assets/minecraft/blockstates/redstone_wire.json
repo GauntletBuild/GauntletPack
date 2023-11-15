@@ -2320,10 +2320,10 @@
             "model": "gauntlet:decoration/candles/candle_holder_lit"
         },
         "north=up,south=side,east=up,west=none,power=3": {
-            "model": "gauntlet:decoration/candles/tall_candle_holder"
+            "model": "gauntlet:decoration/candles/tall_candlestick"
         },
         "north=up,south=side,east=side,west=up,power=3": {
-            "model": "gauntlet:decoration/candles/tall_candle_holder_lit"
+            "model": "gauntlet:decoration/candles/tall_candlestick_lit"
         },
         "north=up,south=side,east=side,west=side,power=3": {
             "model": "gauntlet:decoration/banners/thin_long_haligrad_banner"

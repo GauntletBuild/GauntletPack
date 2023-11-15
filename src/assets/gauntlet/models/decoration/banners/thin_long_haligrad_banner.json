@@ -2,8 +2,8 @@
 	"credit": "Made by Frenderman",
 	"texture_size": [48, 48],
 	"textures": {
-		"0": "gauntlet:decoration/banners/small_long_haligrad_banner",
-		"particle": "gauntlet:decoration/banners/small_long_haligrad_banner"
+		"0": "gauntlet:decoration/banners/thin_long_haligrad_banner",
+		"particle": "gauntlet:decoration/banners/thin_long_haligrad_banner"
 	},
 	"elements": [
 		{
