@@ -2294,6 +2294,12 @@
         "north=up,south=up,east=none,west=up,power=3": {
             "model": "gauntlet:decoration/candles/candelabra_lit",
             "y": 90
+        },
+        "north=up,south=up,east=none,west=side,power=3": {
+            "model": "gauntlet:decoration/candles/chandelier"
+        },
+        "north=up,south=up,east=none,west=none,power=3": {
+            "model": "gauntlet:decoration/candles/chandelier_lit"
         }
     }
 }
