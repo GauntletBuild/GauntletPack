@@ -786,5 +786,12 @@
         "east": 257,
         "south": 258,
         "west": 259
+    },
+    "pottery_table": {
+        "index": 260,
+        "shape": "full",
+        "type": "clicked",
+        "north": 260,
+        "east": 261
     }
 }
