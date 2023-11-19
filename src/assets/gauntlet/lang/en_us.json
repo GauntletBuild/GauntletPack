@@ -340,5 +340,6 @@
     "item.gauntlet_decoration.large_walnut_table": "Large Walnut Table",
     "item.gauntlet_decoration.very_large_walnut_table": "Very Large Walnut Table",
     "item.gauntlet.limestone_pillar": "Limestone Pillar",
-    "item.gauntlet_decoration.cloth_cover": "Cloth Cover"
+    "item.gauntlet_decoration.cloth_cover": "Cloth Cover",
+	"item.gauntlet_decoration.dung": "Dung"
 }

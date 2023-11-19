@@ -2518,6 +2518,22 @@
                 "model": "gauntlet:decoration/wood/leaning_walnut_planks",
                 "y": 270
             }
-        ]
-    }
+        ],
+		"north=side,south=side,east=up,west=side,power=3": [
+			{
+				"model": "gauntlet:decoration/dung"
+			},
+			{
+				"model": "gauntlet:decoration/dung",
+				"y": 90
+			},
+			{
+				"model": "gauntlet:decoration/dung",
+				"y": 180
+			},
+			{
+				"model": "gauntlet:decoration/dung"
+				"y": 270
+			}
+		]
 }

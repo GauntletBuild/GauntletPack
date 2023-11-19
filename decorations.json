@@ -841,5 +841,10 @@
         "east": 277,
         "south": 278,
         "west": 279
-    }
+    }, 
+	"dung": {
+		"index": 280,
+		"shape": "mini",
+		"light": 1
+	}
 }
