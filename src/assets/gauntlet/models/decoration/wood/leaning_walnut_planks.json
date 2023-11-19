@@ -1,5 +1,5 @@
 {
-    "parent": "gauntlet:decoration/wood/strewn_planks",
+    "parent": "gauntlet:decoration/wood/leaning_planks",
     "textures": {
         "0": "gauntlet:decoration/wood/strewn_walnut_planks",
         "particle": "gauntlet:decoration/wood/strewn_walnut_planks"

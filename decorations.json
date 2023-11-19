@@ -793,5 +793,53 @@
         "type": "clicked",
         "north": 260,
         "east": 261
+    },
+    "strewn_pine_planks": {
+        "index": 262,
+        "shape": "full",
+        "type": "clicked",
+        "north": 262,
+        "east": 263
+    },
+    "strewn_spruce_planks": {
+        "index": 264,
+        "shape": "full",
+        "type": "clicked",
+        "north": 264,
+        "east": 265
+    },
+    "strewn_walnut_planks": {
+        "index": 266,
+        "shape": "full",
+        "type": "clicked",
+        "north": 266,
+        "east": 267
+    },
+    "leaning_pine_planks": {
+        "index": 268,
+        "shape": "full",
+        "type": "face",
+        "north": 268,
+        "east": 269,
+        "south": 270,
+        "west": 271
+    },
+    "leaning_spruce_planks": {
+        "index": 272,
+        "shape": "full",
+        "type": "face",
+        "north": 272,
+        "east": 273,
+        "south": 274,
+        "west": 275
+    },
+    "leaning_walnut_planks": {
+        "index": 276,
+        "shape": "full",
+        "type": "face",
+        "north": 276,
+        "east": 277,
+        "south": 278,
+        "west": 279
     }
 }
