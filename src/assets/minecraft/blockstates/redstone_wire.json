@@ -2532,7 +2532,7 @@
 				"y": 180
 			},
 			{
-				"model": "gauntlet:decoration/dung"
+				"model": "gauntlet:decoration/dung",
 				"y": 270
 			}
 		]
