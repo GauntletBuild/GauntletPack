@@ -2,14 +2,14 @@
 	"credit": "Made by Frenderman",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "#texture",
-		"particle": "#texture"
+		"0": "",
+		"particle": ""
 	},
 	"elements": [
 		{
-			"from": [7, 12.09655, -15.8555],
-			"to": [13, 14.09655, 16.1445],
-			"rotation": {"angle": -22.5, "axis": "x", "origin": [7, 11.94015, 16.1445]},
+			"from": [7, 12.17155, -15.8555],
+			"to": [13, 14.17155, 16.1445],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7, 12.01515, 16.1445]},
 			"faces": {
 				"north": {"uv": [0, 8.5, 3, 9.5], "texture": "#0"},
 				"east": {"uv": [0, 6.5, 16, 7.5], "texture": "#0"},
@@ -20,9 +20,9 @@
 			}
 		},
 		{
-			"from": [0, 22.09655, -15.8555],
-			"to": [6, 24.09655, 16.1445],
-			"rotation": {"angle": -45, "axis": "x", "origin": [0, 21.94015, 16.1445]},
+			"from": [0, 22.64655, -15.8555],
+			"to": [6, 24.64655, 16.1445],
+			"rotation": {"angle": -45, "axis": "x", "origin": [0, 22.49015, 16.1445]},
 			"faces": {
 				"north": {"uv": [0, 8.5, 3, 9.5], "texture": "#0"},
 				"east": {"uv": [0, 6.5, 16, 7.5], "texture": "#0"},
