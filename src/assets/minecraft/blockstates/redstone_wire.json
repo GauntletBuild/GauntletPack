@@ -2368,12 +2368,11 @@
         ],
         "north=up,south=none,east=side,west=up,power=3": [
             {
-                "model": "gauntlet:decoration/wood/strewn_spruce_planks",
-                "y": 90
+                "model": "gauntlet:decoration/wood/strewn_spruce_planks"
             },
             {
                 "model": "gauntlet:decoration/wood/strewn_spruce_planks",
-                "y": 270
+                "y": 180
             }
         ],
         "north=up,south=none,east=side,west=side,power=3": [
@@ -2388,12 +2387,11 @@
         ],
         "north=up,south=none,east=side,west=none,power=3": [
             {
-                "model": "gauntlet:decoration/wood/strewn_walnut_planks",
-                "y": 90
+                "model": "gauntlet:decoration/wood/strewn_walnut_planks"
             },
             {
                 "model": "gauntlet:decoration/wood/strewn_walnut_planks",
-                "y": 270
+                "y": 180
             }
         ],
         "north=up,south=none,east=none,west=up,power=3": [
