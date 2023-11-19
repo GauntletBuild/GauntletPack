@@ -2,8 +2,8 @@
 	"credit": "Made by Frenderman",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "",
-		"particle": ""
+		"0": "#texture",
+		"particle": "#texture"
 	},
 	"elements": [
 		{
