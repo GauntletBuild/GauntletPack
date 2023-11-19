@@ -818,7 +818,7 @@
     "leaning_pine_planks": {
         "index": 268,
         "shape": "full",
-        "type": "face",
+        "type": "clicked",
         "north": 268,
         "east": 269,
         "south": 270,
@@ -827,7 +827,7 @@
     "leaning_spruce_planks": {
         "index": 272,
         "shape": "full",
-        "type": "face",
+        "type": "clicked",
         "north": 272,
         "east": 273,
         "south": 274,
@@ -836,7 +836,7 @@
     "leaning_walnut_planks": {
         "index": 276,
         "shape": "full",
-        "type": "face",
+        "type": "clicked",
         "north": 276,
         "east": 277,
         "south": 278,
