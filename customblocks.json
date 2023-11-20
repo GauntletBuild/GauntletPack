@@ -650,5 +650,9 @@
     "crossed_limestone_bricks": {
         "type": "full_cube",
         "index": 167
+    },
+    "cave_red": {
+        "type": "full_cube",
+        "index": 168
     }
 }
