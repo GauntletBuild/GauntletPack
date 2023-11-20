@@ -651,7 +651,7 @@
         "type": "full_cube",
         "index": 167
     },
-    "cave_red": {
+    "cave_dirt": {
         "type": "full_cube",
         "index": 168
     }
