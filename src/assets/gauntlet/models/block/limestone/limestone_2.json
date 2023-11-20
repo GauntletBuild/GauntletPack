@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "gauntlet:block/limestone/limestone"
+    "all": "gauntlet:block/limestone/limestone_2"
   }
 }

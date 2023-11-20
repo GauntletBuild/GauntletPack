@@ -232,10 +232,16 @@
         },
         "instrument=harp,note=21,powered=false": [ 
             {
-            "model": "gauntlet:block/limestone/limestone"
+            "model": "gauntlet:block/limestone/limestone_0"
             },
             {
-            "model": "gauntlet:block/limestone/limestone_alt"
+                "model": "gauntlet:block/limestone/limestone_1"
+            },
+            {
+                "model": "gauntlet:block/limestone/limestone_2"
+            },
+            {
+                "model": "gauntlet:block/limestone/limestone_3"
             }
     ],
         "instrument=harp,note=21,powered=true": {
