@@ -1,7 +1,7 @@
 {
-  "parent": "gauntlet:block/alt_trapdoor_top",
+  "parent": "gauntlet:block/alt_door/alt_trapdoor_top",
   "textures": {
-    "front": "nomansland:block/pine/pine_trapdoor",
-    "side": "nomansland:block/pine/pine_trapdoor_sides"
+    "front": "gauntlet:block/pine/pine_trapdoor",
+    "side": "gauntlet:block/pine/pine_trapdoor_sides"
   }
 }
