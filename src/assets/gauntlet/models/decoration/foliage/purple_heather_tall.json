@@ -1,5 +1,5 @@
 {
-    "parent": "gauntlet:decoration/foliage/double_cross",
+    "parent": "gauntlet:decoration/foliage/double_cross_raised",
     "textures": {
         "0": "gauntlet:decoration/foliage/purple_heather_bottom",
         "1": "gauntlet:decoration/foliage/purple_heather_top",
