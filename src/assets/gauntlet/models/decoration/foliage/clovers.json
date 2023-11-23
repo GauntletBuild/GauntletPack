@@ -1,0 +1,7 @@
+{
+    "parent": "gauntlet:decoration/foliage/flowerbed_base",
+    "textures": {
+        "1": "gauntlet:decoration/foliage/clovers",
+        "particle": "gauntlet:decoration/foliage/clovers"
+    }
+}
