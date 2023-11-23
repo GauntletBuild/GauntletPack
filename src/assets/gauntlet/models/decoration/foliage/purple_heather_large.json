@@ -1,0 +1,7 @@
+{
+    "parent": "gauntlet:decoration/foliage/wide_base",
+    "textures": {
+        "0": "gauntlet:decoration/foliage/purple_heather_large",
+        "particle": "gauntlet:decoration/foliage/purple_heather_large"
+    }
+}

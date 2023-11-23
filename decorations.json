@@ -846,5 +846,70 @@
 		"index": 280,
 		"shape": "mini",
 		"light": 1
-	}
+	},
+    "lavender": {
+        "index": 281,
+        "shape": "full"
+    },
+    "large_lavender": {
+        "index": 282,
+        "shape": "full"
+    },
+    "thyme": {
+        "index": 283,
+        "shape": "full"
+    },
+    "flowering_thyme": {
+        "index": 284,
+        "shape": "full"
+    },
+    "wall_rose": {
+        "index": 285,
+        "shape": "flat",
+        "type": "clicked",
+        "north": 285,
+        "east": 286,
+        "south": 287,
+        "west": 288
+    },
+    "mauve_heather": {
+        "index": 289,
+        "shape": "full"
+    },
+    "large_mauve_heather": {
+        "index": 290,
+        "shape": "full"
+    },
+    "pink_heather": {
+        "index": 291,
+        "shape": "full"
+    },
+    "large_pink_heather": {
+        "index": 292,
+        "shape": "full"
+    },
+    "purple_heather": {
+        "index": 293,
+        "shape": "full"
+    },
+    "large_purple_heather": {
+        "index": 294,
+        "shape": "full"
+    },
+    "cohosh": {
+        "index": 295,
+        "shape": "full"
+    },
+    "dead_man_fingers": {
+        "index": 296,
+        "shape": "full"
+    },
+    "white_mushroom": {
+        "index": 297,
+        "shape": "full"
+    },
+    "clovers": {
+        "index": 298,
+        "shape": "full"
+    }
 }
