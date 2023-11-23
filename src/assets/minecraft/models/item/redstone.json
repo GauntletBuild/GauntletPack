@@ -13,6 +13,10 @@
       {"predicate": {"custom_model_data": 151}, "model": "gauntlet:decoration/item_models/reeds"},
       {"predicate": {"custom_model_data": 153}, "model": "gauntlet:decoration/item_models/yellow_flowerbed"},
       {"predicate": {"custom_model_data": 154}, "model": "gauntlet:decoration/item_models/peony_pink"},
+      {"predicate": {"custom_model_data": 158}, "model": "gauntlet:decoration/item_models/rosemary"},
+      {"predicate": {"custom_model_data": 159}, "model": "gauntlet:decoration/item_models/rosemary_flowering"},
+      {"predicate": {"custom_model_data": 160}, "model": "gauntlet:decoration/item_models/rosemary_large"},
+      {"predicate": {"custom_model_data": 161}, "model": "gauntlet:decoration/item_models/rosemary_large_flowering"},
       {"predicate": {"custom_model_data": 166}, "model": "gauntlet:decoration/item_models/peony_red"},
       {"predicate": {"custom_model_data": 167}, "model": "gauntlet:decoration/item_models/peony_white"},
       {"predicate": {"custom_model_data": 168}, "model": "gauntlet:decoration/item_models/red_flowerbed"},
@@ -25,6 +29,19 @@
       {"predicate": {"custom_model_data": 176}, "model": "gauntlet:decoration/item_models/maritold"},
       {"predicate": {"custom_model_data": 177}, "model": "gauntlet:decoration/item_models/striped_lumino"},
       {"predicate": {"custom_model_data": 178}, "model": "gauntlet:decoration/item_models/white_pillup"},
-      {"predicate": {"custom_model_data": 210}, "model": "gauntlet:decoration/item_models/moonflower"}
+      {"predicate": {"custom_model_data": 210}, "model": "gauntlet:decoration/item_models/moonflower"},
+      {"predicate": {"custom_model_data": 281}, "model": "gauntlet:decoration/item_models/lavender"},
+      {"predicate": {"custom_model_data": 282}, "model": "gauntlet:decoration/item_models/lavender_large"},
+      {"predicate": {"custom_model_data": 283}, "model": "gauntlet:decoration/item_models/thyme"},
+      {"predicate": {"custom_model_data": 284}, "model": "gauntlet:decoration/item_models/thyme_flowering"},
+      {"predicate": {"custom_model_data": 289}, "model": "gauntlet:decoration/item_models/mauve_heather"},
+      {"predicate": {"custom_model_data": 290}, "model": "gauntlet:decoration/item_models/mauve_heather_large"},
+      {"predicate": {"custom_model_data": 291}, "model": "gauntlet:decoration/item_models/pink_heather"},
+      {"predicate": {"custom_model_data": 292}, "model": "gauntlet:decoration/item_models/pink_heather_large"},
+      {"predicate": {"custom_model_data": 293}, "model": "gauntlet:decoration/item_models/purple_heather"},
+      {"predicate": {"custom_model_data": 294}, "model": "gauntlet:decoration/item_models/purple_heather_large"},
+      {"predicate": {"custom_model_data": 295}, "model": "gauntlet:decoration/item_models/cohosh"},
+      {"predicate": {"custom_model_data": 296}, "model": "gauntlet:decoration/item_models/dead_mans_fingers"},
+      {"predicate": {"custom_model_data": 297}, "model": "gauntlet:decoration/item_models/white_mushroom"}
   ]
 }
