@@ -1,0 +1,75 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "minecraft:block/grass"
+            },
+            {
+                "model": "minecraft:block/grass/grass_alt_1"
+            },
+            {
+                "model": "minecraft:block/grass/grass_alt_1",
+                "y": 90
+            },
+            {
+                "model": "minecraft:block/grass/grass_alt_2"
+            },
+            {
+                "model": "minecraft:block/grass/grass_alt_2",
+                "y": 90
+            },
+            {
+                "model": "minecraft:block/grass/grass_alt_2",
+                "y": 180
+            },
+            {
+                "model": "minecraft:block/grass/grass_alt_2",
+                "y": 270
+            },
+            {
+                "model": "minecraft:block/grass/grass_alt_3"
+            },
+            {
+                "model": "minecraft:block/grass/grass_alt_3",
+                "y": 90
+            },
+            {
+                "model": "minecraft:block/grass/grass_alt_3",
+                "y": 180
+            },
+            {
+                "model": "minecraft:block/grass/grass_alt_3",
+                "y": 270
+            },
+            {
+                "model": "minecraft:block/grass/grass_alt_4"
+            },
+            {
+                "model": "minecraft:block/grass/grass_alt_4",
+                "y": 90
+            },
+            {
+                "model": "minecraft:block/grass/grass_alt_4",
+                "y": 180
+            },
+            {
+                "model": "minecraft:block/grass/grass_alt_4",
+                "y": 270
+            },
+            {
+                "model": "minecraft:block/grass/grass_alt_5"
+            },
+            {
+                "model": "minecraft:block/grass/grass_alt_5",
+                "y": 90
+            },
+            {
+                "model": "minecraft:block/grass/grass_alt_6"
+            },
+            {
+                "model": "minecraft:block/grass/grass_alt_6",
+                "y": 90
+            }
+        ]
+    }
+}
