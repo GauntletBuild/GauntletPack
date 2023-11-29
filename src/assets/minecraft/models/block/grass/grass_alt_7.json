@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/grass",
+		"particle": "block/grass"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 2],
+			"to": [7, 14, 20],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 0, 17]},
+			"faces": {
+				"east": {"uv": [0, 2, 16, 16], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [0, 2, 16, 16], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"from": [8, 0, -1],
+			"to": [8, 14, 17],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 0, 17]},
+			"faces": {
+				"east": {"uv": [16, 2, 0, 16], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [16, 2, 0, 16], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"from": [8, 0, -1],
+			"to": [8, 14, 17],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 0, -1]},
+			"faces": {
+				"east": {"uv": [16, 2, 0, 16], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [16, 2, 0, 16], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"from": [9, 0, -4],
+			"to": [9, 14, 14],
+			"shade": false,
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 0, -1]},
+			"faces": {
+				"east": {"uv": [0, 2, 16, 16], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [0, 2, 16, 16], "texture": "#0", "tintindex": 0}
+			}
+		}
+	]
+}

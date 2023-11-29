@@ -6,20 +6,18 @@
 	},
 	"elements": [
 		{
-			"from": [7, 0, -1],
-			"to": [7, 14, 17],
-			"shade": false,
-			"rotation": {"angle": 22.5, "axis": "y", "origin": [7, 0, 8]},
+			"from": [8, 0, -1],
+			"to": [8, 14, 17],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [8, 0, 8]},
 			"faces": {
 				"east": {"uv": [0, 2, 16, 16], "texture": "#0", "tintindex": 0},
 				"west": {"uv": [0, 2, 16, 16], "texture": "#0", "tintindex": 0}
 			}
 		},
 		{
-			"from": [-2, 0, 8],
-			"to": [16, 14, 8],
-			"shade": false,
-			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 8]},
+			"from": [-1, 0, 7],
+			"to": [17, 14, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 7]},
 			"faces": {
 				"north": {"uv": [0, 2, 16, 16], "texture": "#0", "tintindex": 0},
 				"south": {"uv": [0, 2, 16, 16], "texture": "#0", "tintindex": 0}
