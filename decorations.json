@@ -14,7 +14,7 @@
     },
     "grate": {
         "index": 3,
-        "shape": "full",
+        "shape": "flat",
         "type": "vertical",
         "bottom": 3,
         "top": 4
