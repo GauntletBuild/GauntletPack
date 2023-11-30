@@ -1,0 +1,9 @@
+{
+    "parent": "gauntlet:decoration/foliage/triple_cross",
+    "textures": {
+        "0": "gauntlet:decoration/foliage/foxglove_lilac_large_bottom",
+        "1": "gauntlet:decoration/foliage/foxglove_lilac_large_middle",
+        "2": "gauntlet:decoration/foliage/foxglove_lilac_large_top",
+        "particle": "gauntlet:decoration/foliage/foxglove_lilac_large_middle"
+    }
+}

@@ -926,5 +926,37 @@
         "light": 15,
         "north": 301,
         "east": 302
+    },
+    "foxglove_amber": {
+        "index": 303,
+        "shape": "full"
+    },
+    "large_foxglove_amber": {
+        "index": 304,
+        "shape": "full"
+    },
+    "foxglove_lilac": {
+        "index": 305,
+        "shape": "full"
+    },
+    "large_foxglove_lilac": {
+        "index": 306,
+        "shape": "full"
+    },
+    "foxglove_pearl": {
+        "index": 307,
+        "shape": "full"
+    },
+    "large_foxglove_pearl": {
+        "index": 308,
+        "shape": "full"
+    },
+    "foxglove_rouge": {
+        "index": 309,
+        "shape": "full"
+    },
+    "large_foxglove_rouge": {
+        "index": 310,
+        "shape": "full"
     }
 }

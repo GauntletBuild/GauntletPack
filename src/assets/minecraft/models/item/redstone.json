@@ -42,6 +42,14 @@
       {"predicate": {"custom_model_data": 294}, "model": "gauntlet:decoration/item_models/purple_heather_large"},
       {"predicate": {"custom_model_data": 295}, "model": "gauntlet:decoration/item_models/cohosh"},
       {"predicate": {"custom_model_data": 296}, "model": "gauntlet:decoration/item_models/dead_mans_fingers"},
-      {"predicate": {"custom_model_data": 297}, "model": "gauntlet:decoration/item_models/white_mushroom"}
+      {"predicate": {"custom_model_data": 297}, "model": "gauntlet:decoration/item_models/white_mushroom"},
+      {"predicate": {"custom_model_data": 303}, "model": "gauntlet:decoration/item_models/foxglove_amber"},
+      {"predicate": {"custom_model_data": 304}, "model": "gauntlet:decoration/item_models/foxglove_large_amber"},
+      {"predicate": {"custom_model_data": 305}, "model": "gauntlet:decoration/item_models/foxglove_lilac"},
+      {"predicate": {"custom_model_data": 306}, "model": "gauntlet:decoration/item_models/foxglove_large_lilac"},
+      {"predicate": {"custom_model_data": 307}, "model": "gauntlet:decoration/item_models/foxglove_pearl"},
+      {"predicate": {"custom_model_data": 308}, "model": "gauntlet:decoration/item_models/foxglove_large_pearl"},
+      {"predicate": {"custom_model_data": 309}, "model": "gauntlet:decoration/item_models/foxglove_rouge"},
+      {"predicate": {"custom_model_data": 310}, "model": "gauntlet:decoration/item_models/foxglove_large_rouge"}
   ]
 }
