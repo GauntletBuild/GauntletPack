@@ -2675,6 +2675,21 @@
         },
         "north=none,south=side,east=side,west=side,power=3": {
             "model": "gauntlet:decoration/foliage/foxglove_large_rouge"
+        },
+        "north=none,south=side,east=side,west=none,power=3": {
+            "model": "gauntlet:decoration/step_ladder"
+        },
+        "north=none,south=side,east=none,west=up,power=3": {
+            "model": "gauntlet:decoration/step_ladder",
+            "y": 90
+        },
+        "north=none,south=side,east=none,west=side,power=3": {
+            "model": "gauntlet:decoration/step_ladder",
+            "y": 180
+        },
+        "north=none,south=side,east=none,west=none,power=3": {
+            "model": "gauntlet:decoration/step_ladder",
+            "y": 270
         }
     }
 }

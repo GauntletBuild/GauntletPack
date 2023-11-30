@@ -958,5 +958,14 @@
     "large_foxglove_rouge": {
         "index": 310,
         "shape": "full"
+    },
+    "step_ladder": {
+        "index": 311,
+        "shape": "full",
+        "type": "clicked",
+        "north": 311,
+        "east": 312,
+        "south": 313,
+        "west": 314
     }
 }

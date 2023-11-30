@@ -367,5 +367,6 @@
     "item.gauntlet.limestone_pillar": "Limestone Pillar",
     "item.gauntlet_decoration.cloth_cover": "Cloth Cover",
     "item.gauntlet_decoration.dung": "Dung",
-    "item.gauntlet.cave_dirt": "Cave Dirt"
+    "item.gauntlet.cave_dirt": "Cave Dirt",
+    "item.gauntlet_decoration.step_ladder"
 }
