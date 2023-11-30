@@ -1,8 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"texture_size": [128, 128],
+	"render_type": "cutout",
+	"texture_size": [32, 32],
 	"textures": {
 		"0": "gauntlet:decoration/foliage/rose_crest",
+		"1": "gauntlet:decoration/alabaster_balustrade_pole",
 		"particle": "gauntlet:decoration/foliage/rose_crest"
 	},
 	"elements": [
@@ -89,6 +91,18 @@
 				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"},
 				"down": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#0"}
 			}
+		},
+		{
+			"from": [4, 0, 4],
+			"to": [12, 16, 12],
+			"faces": {
+				"north": {"uv": [8, 0, 12, 8], "texture": "#1"},
+				"east": {"uv": [8, 0, 12, 8], "texture": "#1"},
+				"south": {"uv": [8, 0, 12, 8], "texture": "#1"},
+				"west": {"uv": [8, 0, 12, 8], "texture": "#1"},
+				"up": {"uv": [4, 0, 8, 4], "texture": "#1"},
+				"down": {"uv": [4, 0, 8, 4], "texture": "#1"}
+			}
 		}
 	],
 	"gui_light": "front",
@@ -123,5 +137,6 @@
 		"fixed": {
 			"scale": [0.5, 0.5, 0.5]
 		}
-	}
+	},
+	"loader": "framework:open_model"
 }
