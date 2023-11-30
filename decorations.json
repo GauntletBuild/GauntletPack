@@ -911,5 +911,20 @@
     "clovers": {
         "index": 298,
         "shape": "flat"
+    },
+    "lamp_post": {
+        "index": 299,
+        "shape": "full",
+        "type": "clicked",
+        "north": 299,
+        "east": 300
+    },
+    "lamp_post_lit": {
+        "index": 301,
+        "shape": "full",
+        "type": "clicked",
+        "light": 15,
+        "north": 301,
+        "east": 302
     }
 }

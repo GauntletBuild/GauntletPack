@@ -2637,6 +2637,20 @@
                 "model": "gauntlet:decoration/foliage/clovers",
                 "y": 180
             }
-        ]
+        ],
+        "north=none,south=up,east=up,west=none,power=3": {
+            "model": "gauntlet:decoration/lamp_post"
+        },
+        "north=none,south=up,east=side,west=up,power=3": {
+            "model": "gauntlet:decoration/lamp_post",
+            "y": 90
+        },
+        "north=none,south=up,east=side,west=side,power=3": {
+            "model": "gauntlet:decoration/lamp_post_lit"
+        },
+        "north=none,south=up,east=side,west=none,power=3": {
+            "model": "gauntlet:decoration/lamp_post_lit",
+            "y": 90
+        }
     }
 }
