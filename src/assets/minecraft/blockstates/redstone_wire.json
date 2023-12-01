@@ -2695,17 +2695,23 @@
             "model": "gauntlet:decoration/pots/clay_pot_huge"
         },
         "north=none,south=none,east=up,west=side,power=3": {
-            "model": "gauntlet:decoration/clay_pot_huge_planter"
+            "model": "gauntlet:decoration/pots/clay_pot_huge_planter"
         },
         "north=none,south=none,east=up,west=none,power=3": {
-            "model": "gauntlet:decoration/planter_hanging"
+            "model": "gauntlet:decoration/pots/planter_hanging"
         },
         "north=none,south=none,east=side,west=up,power=3": {
-            "model": "gauntlet:decoration/planter_hanging_large"
+            "model": "gauntlet:decoration/pots/planter_hanging_large"
         },
-        "north=none,south=none,east=side,west=side,power=3": {
-            "model": "gauntlet:decoration/books/scroll_pile"
-        },
+        "north=none,south=none,east=side,west=side,power=3": [
+            {
+                "model": "gauntlet:decoration/books/scroll_pile"
+            },
+            {
+                "model": "gauntlet:decoration/books/scroll_pile",
+                "y": 90
+            }
+        ],
         "north=none,south=none,east=side,west=none,power=3": [
             {
                 "model": "gauntlet:decoration/jars/sealed_jar_blue"
