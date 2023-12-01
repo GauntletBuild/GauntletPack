@@ -320,6 +320,14 @@
     "item.gauntlet_decoration.large_pink_heather": "Large Pink Heather",
     "item.gauntlet_decoration.purple_heather": "Purple Heather",
     "item.gauntlet_decoration.large_purple_heather": "Large Purple Heather",
+    "item.gauntlet_decoration.foxglove_amber": "Amber Foxglove",
+    "item.gauntlet_decoration.large_foxglove_amber": "Large Amber Foxglove",
+    "item.gauntlet_decoration.foxglove_lilac": "Lilac Foxglove",
+    "item.gauntlet_decoration.large_foxglove_lilac": "Large Lilac Foxglove",
+    "item.gauntlet_decoration.foxglove_pearl": "Pearl Foxglove",
+    "item.gauntlet_decoration.large_foxglove_pearl": "Large Pearl Foxglove",
+    "item.gauntlet_decoration.foxglove_rouge": "Rouge Foxglove",
+    "item.gauntlet_decoration.large_foxglove_rouge": "Large Rouge Foxglove",
     "item.gauntlet_decoration.cohosh": "Cohosh",
     "item.gauntlet_decoration.dead_man_fingers": "Dead Man's Fingers",
     "item.gauntlet_decoration.white_mushroom": "White Mushroom",
@@ -359,5 +367,6 @@
     "item.gauntlet.limestone_pillar": "Limestone Pillar",
     "item.gauntlet_decoration.cloth_cover": "Cloth Cover",
     "item.gauntlet_decoration.dung": "Dung",
-    "item.gauntlet.cave_dirt": "Cave Dirt"
+    "item.gauntlet.cave_dirt": "Cave Dirt",
+    "item.gauntlet_decoration.step_ladder": "Step Ladder"
 }
