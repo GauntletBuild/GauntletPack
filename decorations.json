@@ -841,12 +841,12 @@
         "east": 277,
         "south": 278,
         "west": 279
-    }, 
-	"dung": {
-		"index": 280,
-		"shape": "mini",
-		"light": 1
-	},
+    },
+    "dung": {
+        "index": 280,
+        "shape": "mini",
+        "light": 1
+    },
     "lavender": {
         "index": 281,
         "shape": "full"
@@ -967,5 +967,29 @@
         "east": 312,
         "south": 313,
         "west": 314
+    },
+    "clay_pot_huge": {
+        "index": 315,
+        "shape": "full"
+    },
+    "clay_pot_huge_planter": {
+        "index": 316,
+        "shape": "full"
+    },
+    "planter_hanging": {
+        "index": 317,
+        "shape": "full"
+    },
+    "planter_hanging_large": {
+        "index": 318,
+        "shape": "full"
+    },
+    "scroll_pile": {
+        "index": 319,
+        "shape": "flat"
+    },
+    "sealed_jars": {
+        "index": 320,
+        "shape": "mini"
     }
 }
