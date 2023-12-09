@@ -1626,8 +1626,54 @@
               "model": "gauntlet:block/dirt/cave_dirt_4",
               "y": 270,
               "x": 270
-            }
-            
+            } 
+          ],
+          "instrument=hat,note=9,powered=true": [
+              {
+                  "model": "gauntlet:block/stucco/rose_stucco"
+              },
+              {
+                  "model": "gauntlet:block/stucco/rose_stucco",
+                  "x": 180
+              },
+              {
+                  "model": "gauntlet:block/stucco/rose_stucco",
+                  "y": 180
+              },
+              {
+                  "model": "gauntlet:block/stucco/rose_stucco",
+                  "z": 180
+              },
+              {
+                  "model": "gauntlet:block/stucco/rose_stucco_1"
+              },
+              {
+                  "model": "gauntlet:block/stucco/rose_stucco_1",
+                  "x": 180
+              },
+              {
+                  "model": "gauntlet:block/stucco/rose_stucco_1",
+                  "y": 180
+              },
+              {
+                  "model": "gauntlet:block/stucco/rose_stucco_1",
+                  "z": 180
+              },
+              {
+                  "model": "gauntlet:block/stucco/rose_stucco_2"
+              },
+              {
+                  "model": "gauntlet:block/stucco/rose_stucco_2",
+                  "x": 180
+              },
+              {
+                  "model": "gauntlet:block/stucco/rose_stucco_2",
+                  "y": 180
+              },
+              {
+                  "model": "gauntlet:block/stucco/rose_stucco_2",
+                  "z": 180
+              }
           ]
     }
 }

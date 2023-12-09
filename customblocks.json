@@ -654,5 +654,9 @@
     "cave_dirt": {
         "type": "full_cube",
         "index": 168
+    },
+    "rose_stucco": {
+        "type": "full_cube",
+        "index": 169
     }
 }
