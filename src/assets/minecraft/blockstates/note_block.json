@@ -1674,6 +1674,9 @@
                   "model": "gauntlet:block/stucco/rose_stucco_2",
                   "z": 180
               }
-          ]
+          ],
+        "instrument=hat,note=10,powered=false": {
+            "model": "gauntlet:block/grue"
+        }
     }
 }

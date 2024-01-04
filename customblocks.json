@@ -658,5 +658,9 @@
     "rose_stucco": {
         "type": "full_cube",
         "index": 169
+    },
+    "grue": {
+        "type": "full_cube",
+        "index": 170
     }
 }
