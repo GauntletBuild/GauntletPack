@@ -1015,5 +1015,9 @@
     "sea_scum": {
         "index": 326,
         "shape": "flat"
+    },
+    "grue_goo": {
+        "index": 327,
+        "shape": "flat"
     }
 }

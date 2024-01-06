@@ -3042,6 +3042,9 @@
         },
         "north=up,south=up,east=up,west=none,power=4": {
             "model": "gauntlet:decoration/block_overlay/sea_scum"
+        },
+        "north=up,south=up,east=side,west=up,power=4": {
+            "model": "gauntlet:decoration/block_overlay/grue_goo"
         }
     }
 }
