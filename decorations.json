@@ -1027,5 +1027,9 @@
     "large_cooking_pot": {
         "index": 329,
         "shape": "full"
+    },
+    "butter_churn": {
+        "index": 330,
+        "shape": "full"
     }
 }

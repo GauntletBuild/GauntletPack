@@ -3057,6 +3057,9 @@
         ],
         "north=up,south=up,east=side,west=none,power=4": {
             "model": "gauntlet:decoration/cookware/large_cooking_pot"
+        },
+        "north=up,south=up,east=none,west=up,power=4":{
+            "model": "gauntlet:decoration/butter_churn"
         }
     }
 }
