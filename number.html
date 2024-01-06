@@ -144,24 +144,24 @@
 
 <script>
     const CONNECTIONS = [
-        "NONE",
+        "UP",
         "SIDE",
-        "UP"
+        "NONE"
     ]
 
     const DATA = {};
 
     let id = 0;
     for (let power = 0; power < 16; power++) {
-        for (let i = 0; i < CONNECTIONS.length; i++) {
-            for (let j = 0; j < CONNECTIONS.length; j++) {
-                for (let k = 0; k < CONNECTIONS.length; k++) {
-                    for (let l = 0; l < CONNECTIONS.length; l++) {
+        for (let north of CONNECTIONS) {
+            for (let south of CONNECTIONS) {
+                for (let east of CONNECTIONS) {
+                    for (let west of CONNECTIONS) {
                         DATA[`${id}`] = {
-                            north: CONNECTIONS[i],
-                            south: CONNECTIONS[j],
-                            east: CONNECTIONS[k],
-                            west: CONNECTIONS[l],
+                            north: north,
+                            south: south,
+                            east: east,
+                            west: west,
                             power: power
                         }
                         id++;
