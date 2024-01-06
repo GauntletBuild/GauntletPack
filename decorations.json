@@ -1019,5 +1019,13 @@
     "grue_goo": {
         "index": 327,
         "shape": "flat"
+    },
+    "cooking_pot": {
+        "index": 328,
+        "shape": "full"
+    },
+    "large_cooking_pot": {
+        "index": 329,
+        "shape": "full"
     }
 }

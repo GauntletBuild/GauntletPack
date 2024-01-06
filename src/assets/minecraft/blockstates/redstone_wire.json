@@ -3045,6 +3045,18 @@
         },
         "north=up,south=up,east=side,west=up,power=4": {
             "model": "gauntlet:decoration/block_overlay/grue_goo"
+        },
+        "north=up,south=up,east=side,west=side,power=4": [
+            {
+                "model": "gauntlet:decoration/cookware_cooking_pot"
+            },
+            {
+                "model": "gauntlet:decoration/cookware_cooking_pot",
+                "y": 90
+            }
+        ],
+        "north=up,south=up,east=side,west=none,power=4": {
+            "model": "gauntlet:decoration/cookware/large_cooking_pot"
         }
     }
 }
