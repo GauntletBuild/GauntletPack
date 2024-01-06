@@ -991,5 +991,21 @@
     "sealed_jars": {
         "index": 320,
         "shape": "mini"
+    },
+    "bird_nest": {
+        "index": 321,
+        "shape": "full"
+    },
+    "bird_nest_eggs": {
+        "index": 322,
+        "shape": "full"
+    },
+    "bird_nest_leafy": {
+        "index": 323,
+        "shape": "full"
+    },
+    "bird_nest_leafy_eggs": {
+        "index": 324,
+        "shape": "full"
     }
 }

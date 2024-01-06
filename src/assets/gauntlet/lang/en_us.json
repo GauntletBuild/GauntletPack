@@ -376,5 +376,9 @@
     "item.gauntlet_decoration.cloth_cover": "Cloth Cover",
     "item.gauntlet_decoration.dung": "Dung",
     "item.gauntlet.cave_dirt": "Cave Dirt",
-    "item.gauntlet_decoration.step_ladder": "Step Ladder"
+    "item.gauntlet_decoration.step_ladder": "Step Ladder",
+    "item.gauntlet_decoration.bird_nest": "Bird Nest",
+    "item.gauntlet_decoration.bird_nest_eggs": "Egged Bird Nest",
+    "item.gauntlet_decoration.bird_nest_leafy": "Leafy Bird Nest",
+    "item.gauntlet_decoration.bird_nest_leafy_eggs": "Egged Leafy Bird Nest"
 }
