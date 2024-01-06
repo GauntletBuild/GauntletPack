@@ -1451,7 +1451,7 @@
             }
         ],
         "north=none,south=none,east=up,west=none,power=1": {
-            "model": "gauntlet:decoration/cloth_cover"
+            "model": "gauntlet:decoration/block_overlay/cloth_cover"
         },
         "north=none,south=none,east=side,west=up,power=1": {
             "model": "gauntlet:decoration/benches/walnut_bench"
@@ -3036,7 +3036,12 @@
                 "model": "gauntlet:decoration/bird_nest_leafy_eggs",
                 "y": 270
             }
-        ]
-        
+        ],
+        "north=up,south=up,east=up,west=side,power=4": {
+            "model": "gauntlet:decoration/block_overlay/bird_poop"
+        },
+        "north=up,south=up,east=up,west=none,power=4": {
+            "model": "gauntlet:decoration/block_overlay/sea_scum"
+        }
     }
 }

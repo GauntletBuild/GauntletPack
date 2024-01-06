@@ -1007,5 +1007,13 @@
     "bird_nest_leafy_eggs": {
         "index": 324,
         "shape": "full"
+    },
+    "bird_poop": {
+        "index": 325,
+        "shape": "flat"
+    },
+    "sea_scum": {
+        "index": 326,
+        "shape": "flat"
     }
 }
