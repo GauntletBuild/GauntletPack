@@ -3048,10 +3048,10 @@
         },
         "north=up,south=up,east=side,west=side,power=4": [
             {
-                "model": "gauntlet:decoration/cookware_cooking_pot"
+                "model": "gauntlet:decoration/cookware/cooking_pot"
             },
             {
-                "model": "gauntlet:decoration/cookware_cooking_pot",
+                "model": "gauntlet:decoration/cookware/cooking_pot",
                 "y": 90
             }
         ],
