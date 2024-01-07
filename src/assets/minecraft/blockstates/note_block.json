@@ -1677,6 +1677,15 @@
           ],
         "instrument=hat,note=10,powered=false": {
             "model": "gauntlet:block/grue"
+        },
+        "instrument=hat,note=10,powered=true": {
+            "model": "gauntlet:block/shingles/cyan_glazed_shingles"
+        },
+        "instrument=hat,note=11,powered=false": {
+            "model": "gauntlet:block/shingles/light_blue_glazed_shingles"
+        },
+        "instrument=hat,note=11,powered=true": {
+            "model": "gauntlet:block/shingles/silver_plated_shingles"
         }
     }
 }

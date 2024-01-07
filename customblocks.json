@@ -662,5 +662,17 @@
     "grue": {
         "type": "full_cube",
         "index": 170
+    },
+    "cyan_glazed_shingles": {
+        "type": "full_cube",
+        "index": 171
+    },
+    "light_blue_glazed_shingles": {
+        "type": "full_cube",
+        "index": 172
+    },
+    "silver_plated_shingles": {
+        "type": "full_cube",
+        "index": 173
     }
 }
