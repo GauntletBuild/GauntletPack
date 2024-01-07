@@ -1031,5 +1031,9 @@
     "butter_churn": {
         "index": 330,
         "shape": "full"
+    },
+    "peony_bush_cyan": {
+        "index": 331,
+        "shape": "full"
     }
 }
