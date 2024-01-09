@@ -1039,5 +1039,9 @@
     "iron_finial": {
         "index": 332,
         "shape": "mini"
+    },
+    "alabaster_post": {
+        "index": 333,
+        "shape": "full"
     }
 }
