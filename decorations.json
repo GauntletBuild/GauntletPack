@@ -1035,5 +1035,9 @@
     "peony_bush_cyan": {
         "index": 331,
         "shape": "full"
+    },
+    "iron_finial": {
+        "index": 332,
+        "shape": "mini"
     }
 }

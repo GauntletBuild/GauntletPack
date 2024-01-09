@@ -3068,6 +3068,9 @@
             {
                 "model": "gauntlet:decoration/foliage/peony_bush_cyan_1"
             }
-        ]
+        ],
+        "north=up,south=up,east=none,west=none,power=4": {
+            "model": "gauntlet:decoration/iron_finial"
+        }
     }
 }
