@@ -1,14 +1,32 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/paper"
-  },
-  "overrides": [
-    {
-      "predicate": {
-        "custom_model_data": 100
-      },
-      "model": "gauntlet:decoration/cookware/skillet"
-    }
-  ]
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/paper"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gauntlet:decoration/doors/rustic_door_pine"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gauntlet:decoration/doors/rustic_door_spruce"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "gauntlet:decoration/doors/rustic_door_walnut"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 100
+            },
+            "model": "gauntlet:decoration/cookware/skillet"
+        }
+    ]
 }

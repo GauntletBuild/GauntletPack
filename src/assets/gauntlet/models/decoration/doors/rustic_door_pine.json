@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "gauntlet:decoration/doors/rustic_door_pine"
+	},
+	"elements": [
+		{
+			"from": [-4, -16, 6],
+			"to": [20, 32, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [20, 0, 8]},
+			"faces": {
+				"north": {"uv": [1, 4, 7, 16], "texture": "#0"},
+				"east": {"uv": [0, 4, 1, 16], "texture": "#0"},
+				"south": {"uv": [8, 4, 14, 16], "texture": "#0"},
+				"west": {"uv": [7, 4, 8, 16], "texture": "#0"},
+				"up": {"uv": [7, 4, 1, 3], "texture": "#0"},
+				"down": {"uv": [13, 3, 7, 4], "texture": "#0"}
+			}
+		}
+	]
+}
