@@ -3074,6 +3074,9 @@
         },
         "north=up,south=side,east=up,west=up,power=4": {
             "model": "gauntlet:decoration/alabaster_post"
+        },
+        "north=up,south=side,east=up,west=side,power=4": {
+            "model": "gauntlet:decoration/iron_chandelier"
         }
     }
 }

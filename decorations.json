@@ -1043,5 +1043,9 @@
     "alabaster_post": {
         "index": 333,
         "shape": "full"
+    },
+    "iron_chandelier": {
+        "index": 334,
+        "shape": "full"
     }
 }
