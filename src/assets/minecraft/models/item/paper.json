@@ -24,6 +24,54 @@
         },
         {
             "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "gauntlet:decoration/window_decor/yellow_large_angled_awning"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "gauntlet:decoration/window_decor/red_large_angled_awning"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "gauntlet:decoration/window_decor/blue_large_angled_awning"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "gauntlet:decoration/window_decor/green_large_angled_awning"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "gauntlet:decoration/window_decor/yellow_small_angled_awning"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 9
+            },
+            "model": "gauntlet:decoration/window_decor/red_small_angled_awning"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "gauntlet:decoration/window_decor/blue_small_angled_awning"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "gauntlet:decoration/window_decor/green_small_angled_awning"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "gauntlet:decoration/cookware/skillet"
