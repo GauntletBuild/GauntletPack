@@ -1,0 +1,91 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [128, 128],
+	"textures": {
+		"0": "gauntlet:decoration/doors/sewer_door"
+	},
+	"elements": [
+		{
+			"name": "right_top",
+			"from": [0, 16, 12],
+			"to": [16, 32, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 24, 10]},
+			"faces": {
+				"north": {"uv": [1, 1, 5, 5], "texture": "#0"},
+				"east": {"uv": [0, 1, 1, 5], "texture": "#0"},
+				"south": {"uv": [6, 1, 10, 5], "texture": "#0"},
+				"west": {"uv": [5, 1, 6, 5], "texture": "#0"},
+				"up": {"uv": [5, 1, 1, 0], "texture": "#0"},
+				"down": {"uv": [9, 0, 5, 1], "texture": "#0"}
+			}
+		},
+		{
+			"name": "right_bot",
+			"from": [0, 0, 12],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 8, 10]},
+			"faces": {
+				"north": {"uv": [1, 5, 5, 9], "texture": "#0"},
+				"east": {"uv": [0, 5, 1, 9], "texture": "#0"},
+				"south": {"uv": [6, 5, 10, 9], "texture": "#0"},
+				"west": {"uv": [5, 5, 6, 9], "texture": "#0"},
+				"up": {"uv": [5, 1, 1, 0], "texture": "#0"},
+				"down": {"uv": [9, 0, 5, 1], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "root",
+			"origin": [8, 0, 8],
+			"color": 0,
+			"nbt": "{}",
+			"children": [
+				{
+					"name": "left",
+					"origin": [-20, 0, 12],
+					"color": 0,
+					"nbt": "{}",
+					"children": [
+						{
+							"name": "left_bot",
+							"origin": [-8, 32, 12],
+							"color": 0,
+							"nbt": "{}",
+							"children": []
+						},
+						{
+							"name": "left_top",
+							"origin": [-8, 32, 12],
+							"color": 0,
+							"nbt": "{}",
+							"children": []
+						}
+					]
+				},
+				{
+					"name": "right",
+					"origin": [36, 0, 12],
+					"color": 0,
+					"nbt": "{}",
+					"children": [
+						{
+							"name": "right_top",
+							"origin": [23, 32, 12],
+							"color": 0,
+							"nbt": "{}",
+							"children": [0]
+						},
+						{
+							"name": "right_bot",
+							"origin": [23, 32, 12],
+							"color": 0,
+							"nbt": "{}",
+							"children": [1]
+						}
+					]
+				}
+			]
+		}
+	]
+}

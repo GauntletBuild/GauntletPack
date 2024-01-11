@@ -114,6 +114,42 @@
         },
         {
             "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "gauntlet:decoration/doors/large_spruce_door"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "gauntlet:decoration/doors/large_wood_door"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "gauntlet:decoration/doors/large_wood_door_closed"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "gauntlet:decoration/doors/large_steel_door"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "gauntlet:decoration/doors/large_steel_door_closed"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "gauntlet:decoration/doors/sewer_door"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "gauntlet:decoration/cookware/skillet"
