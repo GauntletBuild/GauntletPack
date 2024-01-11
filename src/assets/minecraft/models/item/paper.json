@@ -72,6 +72,24 @@
         },
         {
             "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "gauntlet:decoration/crab_cage/crab_cage"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "gauntlet:decoration/crab_cage/crab_cage_open"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "gauntlet:decoration/food/green_bottle"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "gauntlet:decoration/cookware/skillet"
