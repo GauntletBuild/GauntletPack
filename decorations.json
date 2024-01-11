@@ -1047,5 +1047,9 @@
     "iron_chandelier": {
         "index": 334,
         "shape": "full"
+    },
+    "sack": {
+        "index": 335,
+        "shape": "full"
     }
 }

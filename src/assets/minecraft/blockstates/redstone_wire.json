@@ -3077,6 +3077,41 @@
         },
         "north=up,south=side,east=up,west=side,power=4": {
             "model": "gauntlet:decoration/iron_chandelier"
-        }
+        },
+        "north=up,south=side,east=up,west=none,power=4": [
+            {
+                "model": "gauntlet:decoration/sacks/sack_sealed"
+            },
+            {
+                "model": "gauntlet:decoration/sacks/sack_open"
+            },
+            {
+                "model": "gauntlet:decoration/sacks/sack_open",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/sacks/sack_open",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/sacks/sack_open",
+                "y": 270
+            },
+            {
+                "model": "gauntlet:decoration/sacks/sack_open_grain"
+            },
+            {
+                "model": "gauntlet:decoration/sacks/sack_open_grain",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/sacks/sack_open_grain",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/sacks/sack_open_grain",
+                "y": 270
+            }
+        ]
     }
 }
