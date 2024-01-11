@@ -1,0 +1,36 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "gauntlet:decoration/food/tableware",
+		"particle": "gauntlet:decoration/food/tableware"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 6],
+			"to": [10, 7, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 3.5, 6.71884]},
+			"faces": {
+				"north": {"uv": [10, 3, 12, 6.5], "texture": "#0"},
+				"east": {"uv": [10, 3, 12, 6.5], "texture": "#0"},
+				"south": {"uv": [10, 3, 12, 6.5], "texture": "#0"},
+				"west": {"uv": [10, 3, 12, 6.5], "texture": "#0"},
+				"up": {"uv": [12, 8, 14, 10], "texture": "#0"},
+				"down": {"uv": [10, 8, 12, 10], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, 7, 7],
+			"to": [9, 11, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7.11733, 9, 7.02754]},
+			"faces": {
+				"north": {"uv": [12, 1.5, 13, 3.5], "texture": "#0"},
+				"east": {"uv": [12, 1.5, 13, 3.5], "texture": "#0"},
+				"south": {"uv": [12, 1.5, 13, 3.5], "texture": "#0"},
+				"west": {"uv": [12, 1.5, 13, 3.5], "texture": "#0"},
+				"up": {"uv": [11, 1, 12, 2], "texture": "#0"},
+				"down": {"uv": [44, 8, 48, 12], "texture": "#0"}
+			}
+		}
+	]
+}

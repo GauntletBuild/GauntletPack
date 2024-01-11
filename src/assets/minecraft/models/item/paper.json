@@ -90,6 +90,30 @@
         },
         {
             "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "gauntlet:decoration/food/green_bottle_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "gauntlet:decoration/food/brown_bottle"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "gauntlet:decoration/food/plate"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "gauntlet:decoration/food/plate_1"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "gauntlet:decoration/cookware/skillet"
