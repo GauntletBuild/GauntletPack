@@ -150,6 +150,54 @@
         },
         {
             "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "gauntlet:decoration/lock"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "gauntlet:decoration/wood/pine_plank"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "gauntlet:decoration/wood/spruce_plank"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "gauntlet:decoration/wood/walnut_plank"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 28
+            },
+            "model": "gauntlet:decoration/books/book_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 29
+            },
+            "model": "gauntlet:decoration/books/book_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 30
+            },
+            "model": "gauntlet:decoration/books/book_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 31
+            },
+            "model": "gauntlet:decoration/books/book_4"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "gauntlet:decoration/cookware/skillet"
