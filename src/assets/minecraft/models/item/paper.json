@@ -170,12 +170,6 @@
             "predicate": {
                 "custom_model_data": 28
             },
-            "model": "gauntlet:decoration/wood/walnut_plank"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 28
-            },
             "model": "gauntlet:decoration/books/book_1"
         },
         {
@@ -195,6 +189,18 @@
                 "custom_model_data": 31
             },
             "model": "gauntlet:decoration/books/book_4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 32
+            },
+            "model": "gauntlet:decoration/wood/walnut_plank"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 33
+            },
+            "model": "gauntlet:decoration/food/pewter_mug"
         },
         {
             "predicate": {
