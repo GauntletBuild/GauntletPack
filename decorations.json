@@ -1069,5 +1069,23 @@
         "east": 341,
         "south": 342,
         "west": 343
+    },
+    "window_planter_large": {
+        "index": 344,
+        "shape": "flat",
+        "type": "clicked",
+        "north": 344,
+        "east": 345,
+        "south": 346,
+        "west": 347
+    },
+    "window_planter_large_carved": {
+        "index": 348,
+        "shape": "flat",
+        "type": "clicked",
+        "north": 348,
+        "east": 349,
+        "south": 350,
+        "west": 351
     }
 }
