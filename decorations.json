@@ -1051,5 +1051,23 @@
     "sack": {
         "index": 335,
         "shape": "full"
+    },
+    "window_planter": {
+        "index": 336,
+        "shape": "flat",
+        "type": "clicked",
+        "north": 336,
+        "east": 337,
+        "south": 338,
+        "west": 339
+    },
+    "window_planter_carved": {
+        "index": 340,
+        "shape": "flat",
+        "type": "clicked",
+        "north": 340,
+        "east": 341,
+        "south": 342,
+        "west": 343
     }
 }
