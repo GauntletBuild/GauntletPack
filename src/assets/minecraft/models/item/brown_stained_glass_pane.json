@@ -1,20 +1,26 @@
 {
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:block/brown_stained_glass"
-  },
-  "overrides": [
-      {
-          "predicate": {
-              "custom_model_data": 1
-          },
-          "model": "gauntlet:decoration/books/inkwell"
-      },
-      {
-        "predicate": {
-            "custom_model_data": 2
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:block/brown_stained_glass"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "gauntlet:decoration/books/inkwell"
         },
-        "model": "gauntlet:decoration/jar"
-      }
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gauntlet:decoration/jar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "gauntlet:decoration/pots/vase_glass"
+        }
     ]
 }

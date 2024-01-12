@@ -3172,6 +3172,24 @@
         "north=side,south=up,east=up,west=up,power=4": {
             "model": "gauntlet:decoration/pots/window_planter_large_carved",
             "y": 270
+        },
+        "north=side,south=up,east=up,west=side,power=4": {
+            "model": "gauntlet:decoration/pots/vase_aqua"
+        },
+        "north=side,south=up,east=up,west=none,power=4": {
+            "model": "gauntlet:decoration/pots/vase_orange"
+        },
+        "north=side,south=up,east=side,west=up,power=4": {
+            "model": "gauntlet:decoration/pots/vase_purple"
+        },
+        "north=side,south=up,east=side,west=side,power=4": {
+            "model": "gauntlet:decoration/pots/vase_white"
+        },
+        "north=side,south=up,east=side,west=none,power=4": {
+            "model": "gauntlet:decoration/pots/vase_red"
+        },
+        "north=side,south=up,east=none,west=up,power=4": {
+            "model": "gauntlet:decoration/pots/vase_yellow"
         }
     }
 }

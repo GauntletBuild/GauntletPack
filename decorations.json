@@ -1087,5 +1087,29 @@
         "east": 349,
         "south": 350,
         "west": 351
+    },
+    "vase_aqua": {
+        "index": 352,
+        "shape": "full"
+    },
+    "vase_orange": {
+        "index": 353,
+        "shape": "full"
+    },
+    "vase_purple": {
+        "index": 354,
+        "shape": "full"
+    },
+    "vase_white": {
+        "index": 355,
+        "shape": "full"
+    },
+    "vase_red": {
+        "index": 356,
+        "shape": "full"
+    },
+    "vase_yellow": {
+        "index": 357,
+        "shape": "full"
     }
 }
