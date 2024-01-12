@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "gauntlet:block/block_overlay/bird_poop"
+    "all": "gauntlet:decoration/block_overlay/bird_poop"
   }
 }
