@@ -240,6 +240,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 40
+            },
+            "model": "gauntlet:decoration/banners/large_haligrad_banner"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "gauntlet:decoration/cookware/skillet"
