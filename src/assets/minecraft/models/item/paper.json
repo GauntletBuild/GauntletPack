@@ -252,6 +252,42 @@
         },
         {
             "predicate": {
+                "custom_model_data": 42
+            },
+            "model": "gauntlet:decoration/creepie_doll"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 43
+            },
+            "model": "gauntlet:decoration/creepie_doll_friendly"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 44
+            },
+            "model": "gauntlet:decoration/paintings/standing_frame"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 45
+            },
+            "model": "gauntlet:decoration/paintings/standing_frame_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 46
+            },
+            "model": "gauntlet:decoration/paintings/standing_frame_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 47
+            },
+            "model": "gauntlet:decoration/paintings/standing_frame_3"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "gauntlet:decoration/cookware/skillet"

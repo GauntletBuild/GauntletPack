@@ -674,5 +674,9 @@
     "silver_plated_shingles": {
         "type": "full_cube",
         "index": 173
+    },
+    "bird_poop": {
+        "type": "full_cube",
+        "index": 174
     }
 }

@@ -1686,6 +1686,9 @@
         },
         "instrument=hat,note=11,powered=true": {
             "model": "gauntlet:block/shingles/silver_plated_shingles"
+        },
+        "instrument=hat,note=12,powered=false": {
+            "model": "gauntlet:block/bird_poop"
         }
     }
 }
