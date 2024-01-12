@@ -246,6 +246,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 41
+            },
+            "model": "gauntlet:decoration/printing_press"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "gauntlet:decoration/cookware/skillet"
