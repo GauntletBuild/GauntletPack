@@ -288,6 +288,24 @@
         },
         {
             "predicate": {
+                "custom_model_data": 48
+            },
+            "model": "gauntlet:decoration/tables/spruce_side_table"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 49
+            },
+            "model": "gauntlet:decoration/tables/pine_side_table"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50
+            },
+            "model": "gauntlet:decoration/tables/walnut_side_table"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "gauntlet:decoration/cookware/skillet"
