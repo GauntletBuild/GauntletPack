@@ -3142,6 +3142,6 @@
         "north=up,south=none,east=up,west=side,power=4": {
             "model": "gauntlet:decoration/pots/window_planter_carved",
             "y": 270
-        },
+        }
     }
 }
