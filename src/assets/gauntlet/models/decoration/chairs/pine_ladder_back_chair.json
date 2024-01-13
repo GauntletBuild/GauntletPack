@@ -2,7 +2,7 @@
 	"credit": "Made by Farcr",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "gauntlet:decoration/chairs/pine_ladder_back_chair"
+		"0": "gauntlet:decoration/chairs/pine_ladder_chair"
 	},
 	"elements": [
 		{

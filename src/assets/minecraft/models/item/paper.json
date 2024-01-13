@@ -330,6 +330,24 @@
         },
         {
             "predicate": {
+                "custom_model_data": 55
+            },
+            "model": "gauntlet:decoration/shelves/spruce_shelf"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 56
+            },
+            "model": "gauntlet:decoration/shelves/pine_shelf"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 57
+            },
+            "model": "gauntlet:decoration/shelves/walnut_shelf"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "gauntlet:decoration/cookware/skillet"
