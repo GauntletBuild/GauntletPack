@@ -306,6 +306,30 @@
         },
         {
             "predicate": {
+                "custom_model_data": 51
+            },
+            "model": "gauntlet:decoration/chairs/spruce_chair"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 52
+            },
+            "model": "gauntlet:decoration/chairs/pine_ladder_back_chair"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 53
+            },
+            "model": "gauntlet:decoration/window_decor/pink_small_angled_awning"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 54
+            },
+            "model": "gauntlet:decoration/window_decor/pink_large_angled_awning"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "gauntlet:decoration/cookware/skillet"
