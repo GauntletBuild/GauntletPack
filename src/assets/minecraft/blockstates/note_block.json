@@ -1689,6 +1689,12 @@
         },
         "instrument=hat,note=12,powered=false": {
             "model": "gauntlet:block/bird_poop"
+        },
+        "instrument=hat,note=12,powered=true": {
+            "model": "gauntlet:block/brown_bricks/crossed_brown_bricks"
+        },
+        "instrument=hat,note=13,powered=false": {
+            "model": "gauntlet:block/crossed_tan_bricks"
         }
     }
 }

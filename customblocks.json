@@ -678,5 +678,13 @@
     "bird_poop": {
         "type": "full_cube",
         "index": 174
+    },
+    "crossed_brown_bricks": {
+        "type": "full_cube",
+        "index": 175
+    },
+    "crossed_tan_bricks": {
+        "type": "full_cube",
+        "index": 176
     }
 }
