@@ -1111,5 +1111,23 @@
     "vase_yellow": {
         "index": 357,
         "shape": "full"
+    },
+    "spruce_shutter_left": {
+        "index": 358,
+        "shape": "full",
+        "type": "clicked",
+        "north": 358,
+        "east": 359,
+        "south": 360,
+        "west": 361
+    },
+    "spruce_shutter_right": {
+        "index": 362,
+        "shape": "full",
+        "type": "clicked",
+        "north": 362,
+        "east": 363,
+        "south": 364,
+        "west": 365
     }
 }
