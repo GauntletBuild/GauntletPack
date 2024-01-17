@@ -360,6 +360,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 60
+            },
+            "model": "gauntlet:decoration/shutters/spruce_shutter"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 61
+            },
+            "model": "gauntlet:decoration/shutters/spruce_shutter"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "gauntlet:decoration/cookware/skillet"
