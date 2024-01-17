@@ -370,6 +370,30 @@
             },
             "model": "gauntlet:decoration/shutters/spruce_shutter"
         },
+                {
+            "predicate": {
+                "custom_model_data": 62
+            },
+            "model": "minecraft:block/sunflower_top"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 63
+            },
+            "model": "minecraft:block/sunflower_top_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 64
+            },
+            "model": "minecraft:block/sunflower_top_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 65
+            },
+            "model": "minecraft:block/sunflower_top_3"
+        },
         {
             "predicate": {
                 "custom_model_data": 100
