@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "gauntlet:block/brown_bricks/crossed_tan_bricks"
+    "all": "gauntlet:block/crossed_tan_bricks"
   }
 }
