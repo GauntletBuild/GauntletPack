@@ -15,7 +15,7 @@
                 },
                 {
                     "type": "command",
-                    "value": "title @s title {\"type\":\"text\",\"text\":\"\\u0000\",\"font\":\"gauntlet:transitions\"}"
+                    "value": "title @s title {\"type\":\"text\",\"text\":\"\\uE000\",\"font\":\"gauntlet:transitions\"}"
                 },
                 {
                     "type": "command",
