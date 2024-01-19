@@ -3,8 +3,25 @@
         "type": "cooldown",
         "cooldown": 10000,
         "action": {
-            "type": "command",
-            "value": "worlds join {target}"
+            "type": "composite",
+            "value": [
+                {
+                    "type": "command",
+                    "value": "title @s clear"
+                },
+                {
+                    "type": "command",
+                    "value": "title @s times 0 1 20"
+                },
+                {
+                    "type": "command",
+                    "value": "title @s title {\"type\":\"text\",\"text\":\"\\u0000\",\"font\":\"gauntlet:transitions\"}"
+                },
+                {
+                    "type": "command",
+                    "value": "worlds join {target}"
+                }
+            ]
         }
     }
 }
