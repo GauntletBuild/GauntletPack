@@ -68,7 +68,9 @@ jobs:
             -H 'Authorization: Basic ${{ secrets.MAVEN_TOKEN }}' \
             -F 'raw.directory=/' \
             -F 'raw.asset1=@customtransparentblocks.json;type=application/zip' \
-            -F 'raw.asset1.filename=customtransparentblocks.json'
+            -F 'raw.asset1.filename=customtransparentblocks.json' \
+            -F 'raw.asset2=@customactions.json;type=application/json' \
+            -F 'raw.asset2.filename=customactions.json'
 
       - name: Format Commit Message
         id: message
