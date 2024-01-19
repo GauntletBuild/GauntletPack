@@ -1,10 +1,10 @@
 {
     "world_teleport": {
         "type": "cooldown",
-        "cooldown": 40,
+        "cooldown": 10000,
         "action": {
             "type": "command",
-            "value": "worlds join ${target}"
+            "value": "worlds join {target}"
         }
     }
 }
