@@ -19,7 +19,7 @@
                 },
                 {
                     "type": "command",
-                    "value": "worlds join {target}"
+                    "value": "execute in {target} run tp 0 0 0"
                 }
             ]
         }
