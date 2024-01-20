@@ -19,7 +19,7 @@
                 },
                 {
                     "type": "command",
-                    "value": "execute in {target} run tp 0 0 0"
+                    "value": "execute in {target} run tp @s 0 0 0 {xRot:0} {yRot:0}"
                 }
             ]
         }
