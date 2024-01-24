@@ -7,8 +7,8 @@
 	"elements": [
 		{
 			"name": "Center post",
-			"from": [4, -0.005, 4],
-			"to": [12, 16.005, 12],
+			"from": [4, -0.055, 4],
+			"to": [12, 16.08, 12],
 			"faces": {
 				"north": {"uv": [0, 0, 8, 16], "texture": "#0"},
 				"east": {"uv": [0, 0, 8, 16], "texture": "#0"},

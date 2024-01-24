@@ -362,13 +362,13 @@
             "predicate": {
                 "custom_model_data": 60
             },
-            "model": "gauntlet:decoration/shutters/spruce_shutter"
+            "model": "gauntlet:decoration/window_decor/spruce_shutter"
         },
         {
             "predicate": {
                 "custom_model_data": 61
             },
-            "model": "gauntlet:decoration/shutters/pine_shutter"
+            "model": "gauntlet:decoration/window_decor/pine_shutter"
         },
                 {
             "predicate": {
