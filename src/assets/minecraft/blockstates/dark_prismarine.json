@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "gauntlet:block/cobblestone_bricks/cobblestone_bricks_0"
+      },
+      {
+        "model": "gauntlet:block/cobblestone_bricks/cobblestone_bricks_1"
+      },
+      {
+        "model": "gauntlet:block/cobblestone_bricks/cobblestone_bricks_2"
+      }
+    ]
+  }
+}

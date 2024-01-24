@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall_inventory",
+  "textures": {
+    "wall": "gauntlet:block/cobblestone_bricks/cobblestone_bricks_0"
+  }
+}

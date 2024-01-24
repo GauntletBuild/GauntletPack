@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_wall_post",
+  "textures": {
+    "wall": "gauntlet:block/cobblestone_bricks/cobblestone_bricks_0"
+  }
+}

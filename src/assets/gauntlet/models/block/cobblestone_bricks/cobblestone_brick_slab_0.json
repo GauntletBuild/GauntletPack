@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "gauntlet:block/cobblestone_bricks/cobblestone_bricks_0",
+    "top": "gauntlet:block/cobblestone_bricks/cobblestone_bricks_0",
+    "side": "gauntlet:block/cobblestone_bricks/cobblestone_bricks_0"
+  }
+}
