@@ -687,12 +687,12 @@
         "type": "full_cube",
         "index": 176
     },
-    "ornate_red_wallpaper": {
-        "type": "full_cube",
-        "index": 177
-    },
     "ornate_blue_wallpaper": {
-        "type": "full_cube",
-        "index": 178
+        "type": "directional",
+        "index": 177,
+        "directions": {
+            "NORTH": 177,
+            "EAST": 178
+        }
     }
 }

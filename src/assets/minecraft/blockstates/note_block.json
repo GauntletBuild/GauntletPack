@@ -1697,10 +1697,10 @@
             "model": "gauntlet:block/crossed_tan_bricks"
         },
         "instrument=hat,note=13,powered=true": {
-            "model": "gauntlet:block/wallpaper/ornate_red_wallpaper"
+            "model": "gauntlet:block/wallpaper/ornate_blue_wallpaper"
         },
         "instrument=hat,note=14,powered=false": {
-            "model": "gauntlet:block/wallpaper/ornate_blue_wallpaper"
+            "model": "gauntlet:block/wallpaper/ornate_blue_wallpaper_east"
         }
     }
 }
