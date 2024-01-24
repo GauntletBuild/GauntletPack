@@ -691,7 +691,6 @@
         "type": "directional",
         "index": 177,
         "directions": {
-            "NORTH": 177,
             "EAST": 178
         }
     }
