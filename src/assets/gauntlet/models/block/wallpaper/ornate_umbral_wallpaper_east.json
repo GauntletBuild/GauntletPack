@@ -3,7 +3,8 @@
 	"textures": {
 		"1": "gauntlet:block/wallpaper/walnut_wallpaper_side",
 		"2": "gauntlet:block/wallpaper/walnut_wallpaper_top",
-		"3": "gauntlet:block/wallpaper/highly_decorated_umbral_wallpaper"
+		"3": "gauntlet:block/wallpaper/highly_decorated_umbral_wallpaper",
+		"particle": "gauntlet:block/wallpaper/highly_decorated_umbral_wallpaper"
 	},
 	"elements": [
 		{
