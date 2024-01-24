@@ -2,8 +2,8 @@
 	"credit": "Made by Frenderman",
 	"textures": {
 		"0": "gauntlet:block/wallpaper/ornate_red_wallpaper",
-		"1": "gauntlet:block/wallpaper/walnut_wallpaper_side",
-		"2": "gauntlet:block/wallpaper/walnut_wallpaper_top",
+		"1": "gauntlet:block/wallpaper/pine_wallpaper_side",
+		"2": "gauntlet:block/wallpaper/pine_wallpaper_top",
 		"particle": "gauntlet:block/wallpaper/ornate_red_wallpaper"
 	},
 	"elements": [
