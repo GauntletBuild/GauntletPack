@@ -691,8 +691,6 @@
         "type": "orientable",
         "index": 177,
         "north": 177,
-        "east": 178,
-        "south": 177,
-        "west": 178
+        "east": 178
     }
 }
