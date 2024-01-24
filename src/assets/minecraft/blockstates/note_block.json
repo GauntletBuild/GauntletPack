@@ -1709,10 +1709,10 @@
             "model": "gauntlet:block/wallpaper/ornate_red_wallpaper_east"
         },
         "instrument=hat,note=15,powered=true": {
-            "model": "gauntlet:block/wallpaper/ornate_umbral_wallpaper"
+            "model": "gauntlet:block/wallpaper/ornate_umbral_wallpaper_east"
         },
         "instrument=hat,note=16,powered=false": {
-            "model": "gauntlet:block/wallpaper/ornate_umbral_wallpaper_east"
+            "model": "gauntlet:block/wallpaper/ornate_umbral_wallpaper"
         }
     }
 }
