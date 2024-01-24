@@ -1713,6 +1713,12 @@
         },
         "instrument=hat,note=16,powered=false": {
             "model": "gauntlet:block/wallpaper/ornate_umbral_wallpaper_east"
+        },
+        "instrument=hat,note=16,powered=true": {
+            "model": "gauntlet:block/wallpaper/decorated_umbral_wallpaper"
+        },
+        "instrument=hat,note=17,powered=false": {
+            "model": "gauntlet:block/wallpaper/decorated_umbral_wallpaper_east"
         }
     }
 }

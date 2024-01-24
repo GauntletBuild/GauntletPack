@@ -704,5 +704,11 @@
         "index": 181,
         "north": 181,
         "east": 182
+    },
+    "decorated_umbral_wallpaper": {
+        "type": "orientable",
+        "index": 183,
+        "north": 183,
+        "east": 184
     }
 }
