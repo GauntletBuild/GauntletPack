@@ -692,5 +692,17 @@
         "index": 177,
         "north": 177,
         "east": 178
+    },
+    "ornate_red_wallpaper": {
+        "type": "orientable",
+        "index": 179,
+        "north": 179,
+        "east": 180
+    },
+    "ornate_umbral_wallpaper": {
+        "type": "orientable",
+        "index": 181,
+        "north": 181,
+        "east": 182
     }
 }

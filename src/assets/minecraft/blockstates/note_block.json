@@ -44,144 +44,144 @@
             }
         ],
         "instrument=harp,note=4,powered=false": [
-			{
-				"model": "gauntlet:block/shingles/black_terracotta_shingles"
-			},
-			{
-				"model": "gauntlet:block/shingles/black_terracotta_shingles_1"
-			}
-		],
+            {
+                "model": "gauntlet:block/shingles/black_terracotta_shingles"
+            },
+            {
+                "model": "gauntlet:block/shingles/black_terracotta_shingles_1"
+            }
+        ],
         "instrument=harp,note=4,powered=true": [
-			{
-				"model": "gauntlet:block/shingles/blue_terracotta_shingles"
-			},
-			{
-				"model": "gauntlet:block/shingles/blue_terracotta_shingles_1"
-			}
-		],
+            {
+                "model": "gauntlet:block/shingles/blue_terracotta_shingles"
+            },
+            {
+                "model": "gauntlet:block/shingles/blue_terracotta_shingles_1"
+            }
+        ],
         "instrument=harp,note=5,powered=false": [
-			{
-				"model": "gauntlet:block/shingles/brown_terracotta_shingles"
-			},
-			{
-				"model": "gauntlet:block/shingles/brown_terracotta_shingles_1"
-			}
-		],
+            {
+                "model": "gauntlet:block/shingles/brown_terracotta_shingles"
+            },
+            {
+                "model": "gauntlet:block/shingles/brown_terracotta_shingles_1"
+            }
+        ],
         "instrument=harp,note=5,powered=true": [
-			{
-				"model": "gauntlet:block/shingles/cyan_terracotta_shingles"
-			},
-			{
-				"model": "gauntlet:block/shingles/cyan_terracotta_shingles_1"
-			}
-		],
+            {
+                "model": "gauntlet:block/shingles/cyan_terracotta_shingles"
+            },
+            {
+                "model": "gauntlet:block/shingles/cyan_terracotta_shingles_1"
+            }
+        ],
         "instrument=harp,note=6,powered=false": {
             "model": "gauntlet:block/shingles/gloomy_shingles"
         },
         "instrument=harp,note=6,powered=true": [
-			{
-				"model": "gauntlet:block/shingles/gray_terracotta_shingles"
-			},
-			{
-				"model": "gauntlet:block/shingles/gray_terracotta_shingles_1"
-			}
-		],
+            {
+                "model": "gauntlet:block/shingles/gray_terracotta_shingles"
+            },
+            {
+                "model": "gauntlet:block/shingles/gray_terracotta_shingles_1"
+            }
+        ],
         "instrument=harp,note=7,powered=false": [
-			{
-				"model": "gauntlet:block/shingles/green_terracotta_shingles"
-			},
-			{
-				"model": "gauntlet:block/shingles/green_terracotta_shingles_1"
-			}
-		],
+            {
+                "model": "gauntlet:block/shingles/green_terracotta_shingles"
+            },
+            {
+                "model": "gauntlet:block/shingles/green_terracotta_shingles_1"
+            }
+        ],
         "instrument=harp,note=7,powered=true": [
-			{
-				"model": "gauntlet:block/shingles/light_blue_terracotta_shingles"
-			},
-			{
-				"model": "gauntlet:block/shingles/light_blue_terracotta_shingles_1"
-			}
-		],
+            {
+                "model": "gauntlet:block/shingles/light_blue_terracotta_shingles"
+            },
+            {
+                "model": "gauntlet:block/shingles/light_blue_terracotta_shingles_1"
+            }
+        ],
         "instrument=harp,note=8,powered=false": [
-			{
-				"model": "gauntlet:block/shingles/light_gray_terracotta_shingles"
-			},
-			{
-				"model": "gauntlet:block/shingles/light_gray_terracotta_shingles_1"
-			}
-		],
+            {
+                "model": "gauntlet:block/shingles/light_gray_terracotta_shingles"
+            },
+            {
+                "model": "gauntlet:block/shingles/light_gray_terracotta_shingles_1"
+            }
+        ],
         "instrument=harp,note=8,powered=true": [
-			{
-				"model": "gauntlet:block/shingles/lime_terracotta_shingles"
-			},
-			{
-				"model": "gauntlet:block/shingles/lime_terracotta_shingles_1"
-			}
-		],
+            {
+                "model": "gauntlet:block/shingles/lime_terracotta_shingles"
+            },
+            {
+                "model": "gauntlet:block/shingles/lime_terracotta_shingles_1"
+            }
+        ],
         "instrument=harp,note=9,powered=false": [
-			{
-				"model": "gauntlet:block/shingles/magenta_terracotta_shingles"
-			},
-			{
-				"model": "gauntlet:block/shingles/magenta_terracotta_shingles_1"
-			}
-		],
+            {
+                "model": "gauntlet:block/shingles/magenta_terracotta_shingles"
+            },
+            {
+                "model": "gauntlet:block/shingles/magenta_terracotta_shingles_1"
+            }
+        ],
         "instrument=harp,note=9,powered=true": [
-			{
-				"model": "gauntlet:block/shingles/orange_terracotta_shingles"
-			},
-			{
-				"model": "gauntlet:block/shingles/orange_terracotta_shingles_1"
-			}
-		],
+            {
+                "model": "gauntlet:block/shingles/orange_terracotta_shingles"
+            },
+            {
+                "model": "gauntlet:block/shingles/orange_terracotta_shingles_1"
+            }
+        ],
         "instrument=harp,note=10,powered=false": [
-			{
-				"model": "gauntlet:block/shingles/pink_terracotta_shingles"
-			},
-			{
-				"model": "gauntlet:block/shingles/pink_terracotta_shingles_1"
-			}
-		],
+            {
+                "model": "gauntlet:block/shingles/pink_terracotta_shingles"
+            },
+            {
+                "model": "gauntlet:block/shingles/pink_terracotta_shingles_1"
+            }
+        ],
         "instrument=harp,note=10,powered=true": [
-			{
-				"model": "gauntlet:block/shingles/purple_terracotta_shingles"
-			},
-			{
-				"model": "gauntlet:block/shingles/purple_terracotta_shingles_1"
-			}
-		],
+            {
+                "model": "gauntlet:block/shingles/purple_terracotta_shingles"
+            },
+            {
+                "model": "gauntlet:block/shingles/purple_terracotta_shingles_1"
+            }
+        ],
         "instrument=harp,note=11,powered=false": [
-			{
-				"model": "gauntlet:block/shingles/red_terracotta_shingles"
-			},
-			{
-				"model": "gauntlet:block/shingles/red_terracotta_shingles_1"
-			}
-		],
+            {
+                "model": "gauntlet:block/shingles/red_terracotta_shingles"
+            },
+            {
+                "model": "gauntlet:block/shingles/red_terracotta_shingles_1"
+            }
+        ],
         "instrument=harp,note=11,powered=true": [
-			{
-				"model": "gauntlet:block/shingles/terracotta_shingles"
-			},
-			{
-				"model": "gauntlet:block/shingles/terracotta_shingles_1"
-			}
-		],
+            {
+                "model": "gauntlet:block/shingles/terracotta_shingles"
+            },
+            {
+                "model": "gauntlet:block/shingles/terracotta_shingles_1"
+            }
+        ],
         "instrument=harp,note=12,powered=false": [
-			{
-				"model": "gauntlet:block/shingles/white_terracotta_shingles"
-			},
-			{
-				"model": "gauntlet:block/shingles/white_terracotta_shingles_1"
-			}
-		],
+            {
+                "model": "gauntlet:block/shingles/white_terracotta_shingles"
+            },
+            {
+                "model": "gauntlet:block/shingles/white_terracotta_shingles_1"
+            }
+        ],
         "instrument=harp,note=12,powered=true": [
-			{
-				"model": "gauntlet:block/shingles/yellow_terracotta_shingles"
-			},
-			{
-				"model": "gauntlet:block/shingles/yellow_terracotta_shingles_1"
-			}
-		],
+            {
+                "model": "gauntlet:block/shingles/yellow_terracotta_shingles"
+            },
+            {
+                "model": "gauntlet:block/shingles/yellow_terracotta_shingles_1"
+            }
+        ],
         "instrument=harp,note=13,powered=false": {
             "model": "gauntlet:block/dye_sack/yellow_dye_sack"
         },
@@ -230,9 +230,9 @@
         "instrument=harp,note=20,powered=true": {
             "model": "gauntlet:block/dye_sack/black_dye_sack"
         },
-        "instrument=harp,note=21,powered=false": [ 
+        "instrument=harp,note=21,powered=false": [
             {
-            "model": "gauntlet:block/limestone/limestone_0"
+                "model": "gauntlet:block/limestone/limestone_0"
             },
             {
                 "model": "gauntlet:block/limestone/limestone_1"
@@ -243,7 +243,7 @@
             {
                 "model": "gauntlet:block/limestone/limestone_3"
             }
-    ],
+        ],
         "instrument=harp,note=21,powered=true": {
             "model": "gauntlet:block/flowstone"
         },
@@ -1442,52 +1442,52 @@
             "model": "gauntlet:block/barrels/empty_barrel"
         },
         "instrument=snare,note=21,powered=true": [
-        {
-            "model": "gauntlet:block/roads/checkered_sidewalk"
+            {
+                "model": "gauntlet:block/roads/checkered_sidewalk"
+            },
+            {
+                "model": "gauntlet:block/roads/checkered_sidewalk_1"
+            },
+            {
+                "model": "gauntlet:block/roads/checkered_sidewalk_2"
+            },
+            {
+                "model": "gauntlet:block/roads/checkered_sidewalk_3"
+            },
+            {
+                "model": "gauntlet:block/roads/checkered_sidewalk_4"
+            },
+            {
+                "model": "gauntlet:block/roads/checkered_sidewalk_5"
+            }
+        ],
+        "instrument=snare,note=22,powered=true": {
+            "model": "gauntlet:block/limestone/limestone_pillar"
         },
-        {
-            "model": "gauntlet:block/roads/checkered_sidewalk_1"
+        "instrument=snare,note=22,powered=false": {
+            "model": "gauntlet:block/limestone/limestone_pillar_horizontal",
+            "x": 90,
+            "y": 90
         },
-        {
-            "model": "gauntlet:block/roads/checkered_sidewalk_2"
+        "instrument=snare,note=23,powered=false": {
+            "model": "gauntlet:block/limestone/limestone_pillar_horizontal",
+            "x": 90
         },
-        {
-            "model": "gauntlet:block/roads/checkered_sidewalk_3"
+        "instrument=snare,note=23,powered=true": {
+            "model": "gauntlet:block/shingles/blue_glazed_shingles"
         },
-        {
-            "model": "gauntlet:block/roads/checkered_sidewalk_4"
+        "instrument=snare,note=24,powered=false": {
+            "model": "gauntlet:block/shingles/green_glazed_shingles"
         },
-        {
-            "model": "gauntlet:block/roads/checkered_sidewalk_5"
-        }
-		],
-		"instrument=snare,note=22,powered=true": {
-			"model": "gauntlet:block/limestone/limestone_pillar"
-		},
-		"instrument=snare,note=22,powered=false": {
-			"model": "gauntlet:block/limestone/limestone_pillar_horizontal",
-			"x": 90,
-			"y": 90
-		},
-		"instrument=snare,note=23,powered=false": {
-			"model": "gauntlet:block/limestone/limestone_pillar_horizontal",
-			"x": 90
-		},
-		"instrument=snare,note=23,powered=true": {
-			"model": "gauntlet:block/shingles/blue_glazed_shingles"
-		},
-		"instrument=snare,note=24,powered=false": {
-			"model": "gauntlet:block/shingles/green_glazed_shingles"
-		},
-		"instrument=snare,note=24,powered=true": {
-			"model": "gauntlet:block/shingles/red_glazed_shingles"
-		},
-		"instrument=hat,note=0,powered=false": {
-			"model": "gauntlet:block/shingles/black_glazed_shingles"
-		},
-		"instrument=hat,note=0,powered=true": {
-			"model": "gauntlet:block/shingles/yellow_glazed_shingles"
-		},
+        "instrument=snare,note=24,powered=true": {
+            "model": "gauntlet:block/shingles/red_glazed_shingles"
+        },
+        "instrument=hat,note=0,powered=false": {
+            "model": "gauntlet:block/shingles/black_glazed_shingles"
+        },
+        "instrument=hat,note=0,powered=true": {
+            "model": "gauntlet:block/shingles/yellow_glazed_shingles"
+        },
         "instrument=hat,note=1,powered=false": {
             "model": "gauntlet:block/shingles/purple_glazed_shingles"
         },
@@ -1509,9 +1509,9 @@
         "instrument=hat,note=4,powered=false": {
             "model": "gauntlet:block/shingles/gray_glazed_shingles"
         },
-		"instrument=hat,note=4,powered=true": {
-			"model": "gauntlet:block/barber_tiles"
-		},
+        "instrument=hat,note=4,powered=true": {
+            "model": "gauntlet:block/barber_tiles"
+        },
         "instrument=hat,note=5,powered=false": {
             "model": "gauntlet:block/pale_rock/chiseled_pale_rock"
         },
@@ -1538,143 +1538,143 @@
         },
         "instrument=hat,note=9,powered=false": [
             {
-              "model": "gauntlet:block/dirt/cave_dirt_0"
+                "model": "gauntlet:block/dirt/cave_dirt_0"
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_0",
-              "y": 90,
-              "x": 90
+                "model": "gauntlet:block/dirt/cave_dirt_0",
+                "y": 90,
+                "x": 90
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_0",
-              "y": 180,
-              "x": 180
+                "model": "gauntlet:block/dirt/cave_dirt_0",
+                "y": 180,
+                "x": 180
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_0",
-              "y": 270,
-              "x": 270
+                "model": "gauntlet:block/dirt/cave_dirt_0",
+                "y": 270,
+                "x": 270
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_1"
+                "model": "gauntlet:block/dirt/cave_dirt_1"
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_1",
-              "y": 90,
-              "x": 90
+                "model": "gauntlet:block/dirt/cave_dirt_1",
+                "y": 90,
+                "x": 90
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_1",
-              "y": 180,
-              "x": 180
+                "model": "gauntlet:block/dirt/cave_dirt_1",
+                "y": 180,
+                "x": 180
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_1",
-              "y": 270,
-              "x": 270
+                "model": "gauntlet:block/dirt/cave_dirt_1",
+                "y": 270,
+                "x": 270
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_2"
+                "model": "gauntlet:block/dirt/cave_dirt_2"
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_2",
-              "y": 90,
-              "x": 90
+                "model": "gauntlet:block/dirt/cave_dirt_2",
+                "y": 90,
+                "x": 90
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_2",
-              "y": 180,
-              "x": 180
+                "model": "gauntlet:block/dirt/cave_dirt_2",
+                "y": 180,
+                "x": 180
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_2",
-              "y": 270,
-              "x": 270
+                "model": "gauntlet:block/dirt/cave_dirt_2",
+                "y": 270,
+                "x": 270
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_3"
+                "model": "gauntlet:block/dirt/cave_dirt_3"
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_3",
-              "y": 90,
-              "x": 90
+                "model": "gauntlet:block/dirt/cave_dirt_3",
+                "y": 90,
+                "x": 90
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_3",
-              "y": 180,
-              "x": 180
+                "model": "gauntlet:block/dirt/cave_dirt_3",
+                "y": 180,
+                "x": 180
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_3",
-              "y": 270,
-              "x": 270
+                "model": "gauntlet:block/dirt/cave_dirt_3",
+                "y": 270,
+                "x": 270
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_4"
+                "model": "gauntlet:block/dirt/cave_dirt_4"
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_4",
-              "y": 90,
-              "x": 90
+                "model": "gauntlet:block/dirt/cave_dirt_4",
+                "y": 90,
+                "x": 90
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_4",
-              "y": 180,
-              "x": 180
+                "model": "gauntlet:block/dirt/cave_dirt_4",
+                "y": 180,
+                "x": 180
             },
             {
-              "model": "gauntlet:block/dirt/cave_dirt_4",
-              "y": 270,
-              "x": 270
-            } 
-          ],
-          "instrument=hat,note=9,powered=true": [
-              {
-                  "model": "gauntlet:block/stucco/rose_stucco"
-              },
-              {
-                  "model": "gauntlet:block/stucco/rose_stucco",
-                  "x": 180
-              },
-              {
-                  "model": "gauntlet:block/stucco/rose_stucco",
-                  "y": 180
-              },
-              {
-                  "model": "gauntlet:block/stucco/rose_stucco",
-                  "z": 180
-              },
-              {
-                  "model": "gauntlet:block/stucco/rose_stucco_1"
-              },
-              {
-                  "model": "gauntlet:block/stucco/rose_stucco_1",
-                  "x": 180
-              },
-              {
-                  "model": "gauntlet:block/stucco/rose_stucco_1",
-                  "y": 180
-              },
-              {
-                  "model": "gauntlet:block/stucco/rose_stucco_1",
-                  "z": 180
-              },
-              {
-                  "model": "gauntlet:block/stucco/rose_stucco_2"
-              },
-              {
-                  "model": "gauntlet:block/stucco/rose_stucco_2",
-                  "x": 180
-              },
-              {
-                  "model": "gauntlet:block/stucco/rose_stucco_2",
-                  "y": 180
-              },
-              {
-                  "model": "gauntlet:block/stucco/rose_stucco_2",
-                  "z": 180
-              }
-          ],
+                "model": "gauntlet:block/dirt/cave_dirt_4",
+                "y": 270,
+                "x": 270
+            }
+        ],
+        "instrument=hat,note=9,powered=true": [
+            {
+                "model": "gauntlet:block/stucco/rose_stucco"
+            },
+            {
+                "model": "gauntlet:block/stucco/rose_stucco",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/rose_stucco",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/rose_stucco",
+                "z": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/rose_stucco_1"
+            },
+            {
+                "model": "gauntlet:block/stucco/rose_stucco_1",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/rose_stucco_1",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/rose_stucco_1",
+                "z": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/rose_stucco_2"
+            },
+            {
+                "model": "gauntlet:block/stucco/rose_stucco_2",
+                "x": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/rose_stucco_2",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/stucco/rose_stucco_2",
+                "z": 180
+            }
+        ],
         "instrument=hat,note=10,powered=false": {
             "model": "gauntlet:block/grue"
         },
@@ -1701,6 +1701,18 @@
         },
         "instrument=hat,note=14,powered=false": {
             "model": "gauntlet:block/wallpaper/ornate_blue_wallpaper_east"
+        },
+        "instrument=hat,note=14,powered=true": {
+            "model": "gauntlet:block/wallpaper/ornate_red_wallpaper"
+        },
+        "instrument=hat,note=15,powered=false": {
+            "model": "gauntlet:block/wallpaper/ornate_red_wallpaper_east"
+        },
+        "instrument=hat,note=15,powered=true": {
+            "model": "gauntlet:block/wallpaper/ornate_umbral_wallpaper"
+        },
+        "instrument=hat,note=16,powered=false": {
+            "model": "gauntlet:block/wallpaper/ornate_umbral_wallpaper_east"
         }
     }
 }
