@@ -692,7 +692,9 @@
         "index": 177,
         "directions": {
             "NORTH": 177,
-            "EAST": 178
+            "EAST": 178,
+            "SOUTH": 177,
+            "WEST": 178
         }
     }
 }
