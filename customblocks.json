@@ -688,13 +688,11 @@
         "index": 176
     },
     "ornate_blue_wallpaper": {
-        "type": "directional",
+        "type": "orientable",
         "index": 177,
         "directions": {
             "NORTH": 177,
-            "EAST": 178,
-            "SOUTH": 177,
-            "WEST": 178
+            "EAST": 178
         }
     }
 }
