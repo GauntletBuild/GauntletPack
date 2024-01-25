@@ -398,37 +398,37 @@
             "predicate": {
                 "custom_model_data": 66
             },
-            "model": "gauntlet:decoration/noticeboards/blue_noticeboard"
+            "model": "gauntlet:decoration/noticeboards/blue_notice_board"
         },
         {
             "predicate": {
                 "custom_model_data": 67
             },
-            "model": "gauntlet:decoration/noticeboards/red_noticeboard"
+            "model": "gauntlet:decoration/noticeboards/red_notice_board"
         },
         {
             "predicate": {
                 "custom_model_data": 68
             },
-            "model": "gauntlet:decoration/noticeboards/green_noticeboard"
+            "model": "gauntlet:decoration/noticeboards/green_notice_board"
         },
         {
             "predicate": {
                 "custom_model_data": 69
             },
-            "model": "gauntlet:decoration/noticeboards/large_blue_noticeboard"
+            "model": "gauntlet:decoration/noticeboards/large_blue_notice_board"
         },
         {
             "predicate": {
                 "custom_model_data": 70
             },
-            "model": "gauntlet:decoration/noticeboards/large_red_noticeboard"
+            "model": "gauntlet:decoration/noticeboards/large_red_notice_board"
         },
         {
             "predicate": {
                 "custom_model_data": 71
             },
-            "model": "gauntlet:decoration/noticeboards/large_green_noticeboard"
+            "model": "gauntlet:decoration/noticeboards/large_green_notice_board"
         },
         {
             "predicate": {
