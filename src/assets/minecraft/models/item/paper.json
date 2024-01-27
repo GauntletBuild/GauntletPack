@@ -432,6 +432,30 @@
         },
         {
             "predicate": {
+                "custom_model_data": 72
+            },
+            "model": "gauntlet:decoration/sacks/sack_sealed",
+            "axiom:default_transform": {
+                "translation": [0, 16, 0],
+                "left_rotation": [0, 0, 0],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 73
+            },
+            "model": "gauntlet:decoration/sacks/sack_open",
+            "axiom:default_transform": {
+                "translation": [0, 16, 0],
+                "left_rotation": [0, 0, 0],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0]
+            }
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "gauntlet:decoration/cookware/skillet"
