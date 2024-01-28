@@ -8,7 +8,7 @@
             "predicate": {
                 "custom_model_data": 15
             },
-            "model": "gauntlet_build:item/barrier_pot"
+            "model": "gauntlet_build:item/barrier_rod"
         }
     ]
 }
