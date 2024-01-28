@@ -710,5 +710,9 @@
         "index": 183,
         "north": 183,
         "east": 184
+    },
+    "polished_gabbro": {
+        "type": "full_cube",
+        "index": 185
     }
 }
