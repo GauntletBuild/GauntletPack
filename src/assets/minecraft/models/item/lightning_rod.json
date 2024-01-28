@@ -1,6 +1,11 @@
 {
-  "parent": "minecraft:block/lightning_rod",
-  "overrides": [
-    {"predicate": {"custom_model_data": 0}, "model": "minecraft:item/barrier"}
-  ]
+    "parent": "minecraft:block/lightning_rod",
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gauntlet_bluid:item/barrier_rod"
+        }
+    ]
 }
