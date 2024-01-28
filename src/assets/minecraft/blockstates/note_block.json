@@ -1722,6 +1722,13 @@
         },
         "instrument=hat,note=17,powered=true": {
             "model": "gauntlet:block/polished_gabbro"
+        },
+        "instrument=hat,note=18,powered=false": {
+            "model": "gauntlet:block/rope_spool_large"
+        },
+        "instrument=hat,note=18,powered=true": {
+            "model": "gauntlet:block/rope_spool_large",
+            "y": 90
         }
     }
 }
