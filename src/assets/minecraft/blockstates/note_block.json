@@ -1729,6 +1729,18 @@
         "instrument=hat,note=18,powered=true": {
             "model": "gauntlet:block/rope_spool_large",
             "y": 90
+        },
+        "instrument=hat,note=19,powered=false": {
+            "model": "gauntlet:block/rope_spool"
+        },
+        "instrument=hat,note=19,powered=true": {
+            "model": "gauntlet:block/rope_spool",
+            "y": 90
+        },
+        "instrument=hat,note=20,powered=false": {
+            "model": "gauntlet:block/rope_spool",
+            "x": 90,
+            "y": 90
         }
     }
 }
