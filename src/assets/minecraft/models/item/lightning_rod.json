@@ -5,7 +5,7 @@
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "gauntlet_bluid:item/barrier_rod"
+            "model": "gauntlet_build:item/barrier_rod"
         }
     ]
 }
