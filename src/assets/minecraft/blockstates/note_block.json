@@ -1732,15 +1732,15 @@
         },
         "instrument=hat,note=19,powered=false": {
             "model": "gauntlet:block/rope_spool",
-            "x": 90,
-            "y": 90
+            "x": 90
         },
         "instrument=hat,note=19,powered=true": {
             "model": "gauntlet:block/rope_spool_vertical"
         },
         "instrument=hat,note=20,powered=false": {
             "model": "gauntlet:block/rope_spool",
-            "x": 90
+            "x": 90,
+            "y": 90
         }
     }
 }
