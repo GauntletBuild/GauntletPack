@@ -480,6 +480,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 76
+            },
+            "model": "gauntlet:decoration/signs/prancing_rat_sign",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "gauntlet:decoration/cookware/skillet"
