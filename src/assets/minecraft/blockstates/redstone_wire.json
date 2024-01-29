@@ -3190,6 +3190,9 @@
         },
         "north=side,south=up,east=none,west=up,power=4": {
             "model": "gauntlet:decoration/pots/vase_yellow"
+        },
+        "north=side,south=up,east=none,west=side,power=4": {
+            "model": "gauntlet:decoration/golden_finial"
         }
     }
 }

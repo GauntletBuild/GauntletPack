@@ -1111,5 +1111,9 @@
     "vase_yellow": {
         "index": 357,
         "shape": "full"
+    },
+    "golden_finial": {
+        "index": 358,
+        "shape": "mini"
     }
 }
