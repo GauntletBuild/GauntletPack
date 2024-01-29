@@ -1719,6 +1719,28 @@
         },
         "instrument=hat,note=17,powered=false": {
             "model": "gauntlet:block/wallpaper/decorated_umbral_wallpaper_east"
+        },
+        "instrument=hat,note=17,powered=true": {
+            "model": "gauntlet:block/polished_gabbro"
+        },
+        "instrument=hat,note=18,powered=false": {
+            "model": "gauntlet:block/rope_spool_large"
+        },
+        "instrument=hat,note=18,powered=true": {
+            "model": "gauntlet:block/rope_spool_large",
+            "y": 90
+        },
+        "instrument=hat,note=19,powered=false": {
+            "model": "gauntlet:block/rope_spool",
+            "x": 90
+        },
+        "instrument=hat,note=19,powered=true": {
+            "model": "gauntlet:block/rope_spool_vertical"
+        },
+        "instrument=hat,note=20,powered=false": {
+            "model": "gauntlet:block/rope_spool",
+            "x": 90,
+            "y": 90
         }
     }
 }

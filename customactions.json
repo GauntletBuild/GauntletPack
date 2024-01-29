@@ -19,6 +19,10 @@
                 },
                 {
                     "type": "command",
+                    "value": "worlds open {target}"
+                },
+                {
+                    "type": "command",
                     "value": "execute in {target} run tp @s {targetX:0} {targetY:0} {targetZ:0} {xRot:0} {yRot:0}"
                 }
             ]

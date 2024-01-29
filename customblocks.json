@@ -710,5 +710,22 @@
         "index": 183,
         "north": 183,
         "east": 184
+    },
+    "polished_gabbro": {
+        "type": "full_cube",
+        "index": 185
+    },
+    "rope_spool_large": {
+        "type": "orientable",
+        "index": 186,
+        "north": 186,
+        "east": 187
+    },
+    "rope_spool": {
+        "type": "pillar",
+        "index": 188,
+        "x": 188,
+        "y": 189,
+        "z": 190
     }
 }
