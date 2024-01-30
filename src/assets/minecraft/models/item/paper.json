@@ -504,6 +504,42 @@
         },
         {
             "predicate": {
+                "custom_model_data": 78
+            },
+            "model": "gauntlet:decoration/doors/old_ornate_door",
+            "axiom:default_transform": {
+                "translation": [0.5, 0.5, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 79
+            },
+            "model": "gauntlet:decoration/doors/large_rustic_spruce_door",
+            "axiom:default_transform": {
+                "translation": [0.5, 0.5, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 80
+            },
+            "model": "gauntlet:decoration/doors/large_rustic_walnut_door",
+            "axiom:default_transform": {
+                "translation": [0.5, 0.5, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "gauntlet:decoration/cookware/skillet"
