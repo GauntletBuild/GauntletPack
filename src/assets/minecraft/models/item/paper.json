@@ -566,7 +566,7 @@
             "predicate": {
                 "custom_model_data": 83
             },
-            "model": "gauntlet:decoration/crates/large_spruce_crate",
+            "model": "gauntlet:decoration/crates/large_pine_crate",
             "axiom:default_transform": {
                 "translation": [0.5, 0.5, 0],
                 "left_rotation": [0, 0, 0, 1],
