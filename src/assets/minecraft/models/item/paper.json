@@ -556,7 +556,7 @@
             },
             "model": "gauntlet:decoration/crates/large_spruce_crate",
             "axiom:default_transform": {
-                "translation": [0.5, 0.5, 0],
+                "translation": [0, 0, 0],
                 "left_rotation": [0, 0, 0, 1],
                 "scale": [1, 1, 1],
                 "right_rotation": [0, 0, 0, 1]
@@ -568,7 +568,7 @@
             },
             "model": "gauntlet:decoration/crates/large_pine_crate",
             "axiom:default_transform": {
-                "translation": [0.5, 0.5, 0],
+                "translation": [0, 0, 0],
                 "left_rotation": [0, 0, 0, 1],
                 "scale": [1, 1, 1],
                 "right_rotation": [0, 0, 0, 1]
