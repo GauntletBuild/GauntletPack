@@ -2,8 +2,8 @@
 	"credit": "Made by Frenderman",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gauntlet:decoration/doors/carved_spruce_door",
-		"particle": "gauntlet:decoration/doors/carved_spruce_door"
+		"0": "gauntlet:decoration/doors/carved_pine_door",
+		"particle": "gauntlet:decoration/doors/carved_pine_door"
 	},
 	"elements": [
 		{
