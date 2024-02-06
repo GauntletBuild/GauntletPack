@@ -1,0 +1,39 @@
+{
+	"credit": "Made by Frenderman",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "gauntlet:decoration/doors/carved_walnut_door",
+		"particle": "gauntlet:decoration/doors/carved_walnut_door"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 6.5],
+			"to": [16, 24, 9.5],
+			"faces": {
+				"north": {"uv": [0, 4, 8, 16], "texture": "#0"},
+				"east": {"uv": [9.5, 4, 11, 16], "texture": "#0"},
+				"south": {"uv": [8, 4, 0, 16], "texture": "#0"},
+				"west": {"uv": [8, 4, 9.5, 16], "texture": "#0"},
+				"up": {"uv": [0, 2.5, 8, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 24, 6.5],
+			"to": [12, 28, 9.5],
+			"faces": {
+				"north": {"uv": [0, 0.5, 4, 2.5], "texture": "#0"},
+				"east": {"uv": [8, 2, 9.5, 4], "texture": "#0"},
+				"south": {"uv": [0, 0.5, 4, 2.5], "texture": "#0"},
+				"west": {"uv": [8, 2, 9.5, 4], "texture": "#0"},
+				"up": {"uv": [4, 1, 8, 2.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, -3, 0],
+			"scale": [0.45, 0.45, 0.45]
+		}
+	}
+}

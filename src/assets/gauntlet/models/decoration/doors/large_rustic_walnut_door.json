@@ -2,8 +2,8 @@
 	"credit": "Made by Frenderman",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gauntlet:decoration/doors/large_rustic_pine_door",
-		"particle": "gauntlet:decoration/doors/large_rustic_pine_door"
+		"0": "gauntlet:decoration/doors/large_rustic_walnut_door",
+		"particle": "gauntlet:decoration/doors/large_rustic_walnut_door"
 	},
 	"elements": [
 		{
