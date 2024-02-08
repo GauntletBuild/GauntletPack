@@ -1,0 +1,6 @@
+{
+  "parent": "gauntlet:decoration/torches/sconce_wall_torch_template",
+  "textures": {
+    "texture": "gauntlet:decoration/torches/sconce_torch"
+  }
+}
