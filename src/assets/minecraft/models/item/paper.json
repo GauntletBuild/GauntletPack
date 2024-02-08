@@ -648,6 +648,54 @@
         },
         {
             "predicate": {
+                "custom_model_data": 90
+            },
+            "model": "gauntlet:decoration/crates/pine_soap_box_bottles",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 91
+            },
+            "model": "gauntlet:decoration/crates/walnut_soap_box_bottles",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 92
+            },
+            "model": "gauntlet:decoration/crates/spruce_soap_box_bottles",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 93
+            },
+            "model": "gauntlet:decoration/crates/large_rotten_crate",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "gauntlet:decoration/cookware/skillet"
