@@ -1741,6 +1741,9 @@
             "model": "gauntlet:block/rope_spool",
             "x": 90,
             "y": 90
+        },
+        "instrument=hat,note=20,powered=true": {
+            "model": "gauntlet:block/crates/rotten_crate"
         }
     }
 }

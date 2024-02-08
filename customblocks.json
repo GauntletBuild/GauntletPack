@@ -727,5 +727,9 @@
         "x": 188,
         "y": 189,
         "z": 190
+    },
+    "rotten_crate": {
+        "type": "full_cube",
+        "index": 191
     }
 }
