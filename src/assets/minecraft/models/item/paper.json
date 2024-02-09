@@ -720,9 +720,154 @@
         },
         {
             "predicate": {
+                "custom_model_data": 96
+            },
+            "model": "gauntlet:decoration/pots/glazed_vase_1",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 97
+            },
+            "model": "gauntlet:decoration/pots/glazed_vase_2",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 98
+            },
+            "model": "gauntlet:decoration/pots/glazed_vase_3",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 99
+            },
+            "model": "gauntlet:decoration/pots/glazed_vase_4",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "gauntlet:decoration/cookware/skillet"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 101
+            },
+            "model": "gauntlet:decoration/pots/glazed_vase_5",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 102
+            },
+            "model": "gauntlet:decoration/pots/glazed_vase_6",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 103
+            },
+            "model": "gauntlet:decoration/pots/glazed_vase_7",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 104
+            },
+            "model": "gauntlet:decoration/pots/glazed_vase_8",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 105
+            },
+            "model": "gauntlet:decoration/skeletons/human_skull",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 106
+            },
+            "model": "gauntlet:decoration/skeletons/human_ribcage",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 107
+            },
+            "model": "gauntlet:decoration/skeletons/human_leg",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 108
+            },
+            "model": "gauntlet:decoration/skeletons/human_arm",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
         }
     ]
 }
