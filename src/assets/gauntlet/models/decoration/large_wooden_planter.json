@@ -7,8 +7,8 @@
 	},
 	"elements": [
 		{
-			"from": [-4, 0, -4],
-			"to": [20, 2, 20],
+			"from": [-4, -16, -4],
+			"to": [20, -14, 20],
 			"faces": {
 				"north": {"uv": [0, 15.5, 6, 16], "texture": "#0"},
 				"east": {"uv": [0, 15.5, 6, 16], "texture": "#0"},
@@ -19,8 +19,8 @@
 			}
 		},
 		{
-			"from": [-4, 2, -4],
-			"to": [20, 12, -2],
+			"from": [-4, -14, -4],
+			"to": [20, -4, -2],
 			"faces": {
 				"north": {"uv": [0, 13, 6, 15.5], "texture": "#0"},
 				"east": {"uv": [5.5, 13, 6, 15.5], "texture": "#0"},
@@ -30,8 +30,8 @@
 			}
 		},
 		{
-			"from": [-4, 2, 18],
-			"to": [20, 12, 20],
+			"from": [-4, -14, 18],
+			"to": [20, -4, 20],
 			"faces": {
 				"north": {"uv": [6, 13, 12, 15.5], "texture": "#0"},
 				"east": {"uv": [0, 13, 0.5, 15.5], "texture": "#0"},
@@ -41,8 +41,8 @@
 			}
 		},
 		{
-			"from": [-4, 2, -2],
-			"to": [-2, 12, 18],
+			"from": [-4, -14, -2],
+			"to": [-2, -4, 18],
 			"faces": {
 				"east": {"uv": [6.5, 13, 11.5, 15.5], "texture": "#0"},
 				"west": {"uv": [0.5, 13, 5.5, 15.5], "texture": "#0"},
@@ -50,8 +50,8 @@
 			}
 		},
 		{
-			"from": [18, 2, -2],
-			"to": [20, 12, 18],
+			"from": [18, -14, -2],
+			"to": [20, -4, 18],
 			"faces": {
 				"east": {"uv": [0.5, 13, 5.5, 15.5], "texture": "#0"},
 				"west": {"uv": [6.5, 13, 11.5, 15.5], "texture": "#0"},
@@ -62,20 +62,22 @@
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [75, 45, 0],
-			"translation": [0, 2.5, 0],
+			"translation": [0, 2.5, 5.75],
 			"scale": [0.375, 0.375, 0.375]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [75, 45, 0],
-			"translation": [0, 2.5, 0],
+			"translation": [0, 2.5, 5.5],
 			"scale": [0.375, 0.375, 0.375]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, 45, 0],
+			"translation": [0, 6, 0],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, 225, 0],
+			"translation": [0, 7.25, 0],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
@@ -84,7 +86,12 @@
 		},
 		"gui": {
 			"rotation": [30, 225, 0],
+			"translation": [0, 4.5, 0],
 			"scale": [0.4, 0.4, 0.4]
+		},
+		"head": {
+			"translation": [0, 49.75, -0.25],
+			"scale": [4, 4, 4]
 		}
 	}
 }
