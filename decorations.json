@@ -1115,5 +1115,21 @@
     "golden_finial": {
         "index": 358,
         "shape": "mini"
+    },
+    "wooden_planter": {
+        "index": 359,
+        "shape": "full"
+    },
+    "wooden_planter_full": {
+        "index": 360,
+        "shape": "full"
+    },
+    "wooden_planter_grapes": {
+        "index": 361,
+        "shape": "full"
+    },
+    "large_wooden_planter": {
+        "index": 362,
+        "shape": "full"
     }
 }
