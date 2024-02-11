@@ -1,0 +1,68 @@
+{
+	"credit": "Made by Frenderman",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "gauntlet:decoration/large_wooden_planter",
+		"particle": "gauntlet:decoration/large_wooden_planter"
+	},
+	"elements": [
+		{
+			"from": [-4, 0, -4],
+			"to": [20, 2, 20],
+			"faces": {
+				"north": {"uv": [0, 15.5, 6, 16], "texture": "#0"},
+				"east": {"uv": [0, 15.5, 6, 16], "texture": "#0"},
+				"south": {"uv": [0, 15.5, 6, 16], "texture": "#0"},
+				"west": {"uv": [0, 15.5, 6, 16], "texture": "#0"},
+				"up": {"uv": [0, 1, 6, 7], "texture": "#0"},
+				"down": {"uv": [0, 1, 6, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-4, 2, -4],
+			"to": [20, 12, -2],
+			"faces": {
+				"north": {"uv": [0, 13, 6, 15.5], "texture": "#0"},
+				"east": {"uv": [5.5, 13, 6, 15.5], "texture": "#0"},
+				"south": {"uv": [6, 13, 12, 15.5], "texture": "#0"},
+				"west": {"uv": [0, 13, 0.5, 15.5], "texture": "#0"},
+				"up": {"uv": [0, 7, 6, 7.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-4, 2, 18],
+			"to": [20, 12, 20],
+			"faces": {
+				"north": {"uv": [6, 13, 12, 15.5], "texture": "#0"},
+				"east": {"uv": [0, 13, 0.5, 15.5], "texture": "#0"},
+				"south": {"uv": [0, 13, 6, 15.5], "texture": "#0"},
+				"west": {"uv": [5.5, 13, 6, 15.5], "texture": "#0"},
+				"up": {"uv": [0, 12.5, 6, 13], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-4, 2, -2],
+			"to": [-2, 12, 18],
+			"faces": {
+				"east": {"uv": [6.5, 13, 11.5, 15.5], "texture": "#0"},
+				"west": {"uv": [0.5, 13, 5.5, 15.5], "texture": "#0"},
+				"up": {"uv": [0, 7.5, 0.5, 12.5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [18, 2, -2],
+			"to": [20, 12, 18],
+			"faces": {
+				"east": {"uv": [0.5, 13, 5.5, 15.5], "texture": "#0"},
+				"west": {"uv": [6.5, 13, 11.5, 15.5], "texture": "#0"},
+				"up": {"uv": [5.5, 7.5, 6, 12.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 225, 0],
+			"scale": [0.4, 0.4, 0.4]
+		}
+	}
+}
