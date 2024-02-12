@@ -1,0 +1,31 @@
+{
+	"credit": "Made by Frenderman",
+	"textures": {
+		"0": "gauntlet:decoration/baskets/basket",
+		"1": "gauntlet:decoration/baskets/basket_lid",
+		"particle": "gauntlet:decoration/baskets/basket"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 2, 14],
+			"faces": {
+				"north": {"uv": [2, 14, 14, 16], "texture": "#1"},
+				"east": {"uv": [2, 14, 14, 16], "texture": "#1"},
+				"south": {"uv": [2, 14, 14, 16], "texture": "#1"},
+				"west": {"uv": [2, 14, 14, 16], "texture": "#1"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#1"},
+				"down": {"uv": [2, 2, 14, 14], "texture": "#1"}
+			}
+		},
+		{
+			"from": [5, 2, 8],
+			"to": [11, 5, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 18.5, 8]},
+			"faces": {
+				"north": {"uv": [5, 2.5, 8, 4], "texture": "#0"},
+				"south": {"uv": [5, 2.5, 8, 4], "texture": "#0"}
+			}
+		}
+	]
+}
