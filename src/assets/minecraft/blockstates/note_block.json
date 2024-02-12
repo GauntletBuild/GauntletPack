@@ -1746,16 +1746,16 @@
             "model": "gauntlet:block/crates/rotten_crate"
         },
         "instrument=hat,note=21,powered=false": {
-            "model": "gauntlet:block/baskets/big_basket"
+            "model": "gauntlet:decorations/baskets/big_basket"
         },
         "instrument=hat,note=21,powered=true": {
-            "model": "gauntlet:block/baskets/big_basket_covered"
+            "model": "gauntlet:decorations/baskets/big_basket_covered"
         },
         "instrument=hat,note=22,powered=false": {
-            "model": "gauntlet:block/baskets/bigger_basket"
+            "model": "gauntlet:decorations/baskets/bigger_basket"
         },
         "instrument=hat,note=22,powered=true": {
-            "model": "gauntlet:block/baskets/bigger_basket_covered"
+            "model": "gauntlet:decorations/baskets/bigger_basket_covered"
         }
     }
 }
