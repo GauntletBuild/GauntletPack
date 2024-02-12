@@ -1,0 +1,79 @@
+{
+	"credit": "Made by Frenderman",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "gauntlet:decoration/baskets/basket",
+		"1": "gauntlet:decoration/baskets/bigger_basket",
+		"particle": "gauntlet:decoration/baskets/basket"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 2, 16],
+			"faces": {
+				"north": {"uv": [0, 15, 8, 16], "texture": "#1"},
+				"east": {"uv": [0, 15, 8, 16], "texture": "#1"},
+				"south": {"uv": [0, 15, 8, 16], "texture": "#1"},
+				"west": {"uv": [0, 15, 8, 16], "texture": "#1"},
+				"up": {"uv": [0, 8, 8, 16], "texture": "#0"},
+				"down": {"uv": [0, 8, 8, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 2, 14],
+			"to": [16, 24, 16],
+			"faces": {
+				"north": {"uv": [8, 4, 16, 15], "texture": "#1"},
+				"east": {"uv": [0, 4, 1, 15], "texture": "#1"},
+				"south": {"uv": [0, 4, 8, 15], "texture": "#1"},
+				"west": {"uv": [7, 4, 8, 15], "texture": "#1"},
+				"up": {"uv": [8, 7, 16, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 2, 0],
+			"to": [16, 24, 2],
+			"faces": {
+				"north": {"uv": [0, 4, 8, 15], "texture": "#1"},
+				"east": {"uv": [7, 4, 8, 15], "texture": "#1"},
+				"south": {"uv": [8, 4, 16, 15], "texture": "#1"},
+				"west": {"uv": [0, 4, 1, 15], "texture": "#1"},
+				"up": {"uv": [8, 0, 16, 1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 2, 2],
+			"to": [2, 24, 14],
+			"faces": {
+				"east": {"uv": [9, 4, 15, 15], "texture": "#1"},
+				"west": {"uv": [1, 4, 7, 15], "texture": "#1"},
+				"up": {"uv": [8, 1, 9, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [14, 2, 2],
+			"to": [16, 24, 14],
+			"faces": {
+				"east": {"uv": [1, 4, 7, 15], "texture": "#1"},
+				"west": {"uv": [9, 4, 15, 15], "texture": "#1"},
+				"up": {"uv": [15, 1, 16, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1, 24, 5],
+			"to": [1, 27, 11],
+			"faces": {
+				"east": {"uv": [5, 2.5, 8, 4], "texture": "#0"},
+				"west": {"uv": [5, 2.5, 8, 4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [15, 24, 5],
+			"to": [15, 27, 11],
+			"faces": {
+				"east": {"uv": [5, 2.5, 8, 4], "texture": "#0"},
+				"west": {"uv": [5, 2.5, 8, 4], "texture": "#0"}
+			}
+		}
+	]
+}
