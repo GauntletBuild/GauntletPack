@@ -26,6 +26,11 @@
                 "model": "gauntlet:decoration/pots/alabaster_pot",
                 "y": 90
             }
+        ],
+        "distance=2,persistent=true": [
+            {
+                "model": "gauntlet:decoration/baskets/basket"
+            }
         ]
     }
 }

@@ -731,5 +731,21 @@
     "rotten_crate": {
         "type": "full_cube",
         "index": 191
+    },
+    "big_basket": {
+        "type": "full_cube",
+        "index": 192
+    },
+    "big_basket_covered": {
+        "type": "full_cube",
+        "index": 193
+    },
+    "bigger_basket": {
+        "type": "full_cube",
+        "index": 194
+    },
+    "bigger_basket_covered": {
+        "type": "full_cube",
+        "index": 195
     }
 }
