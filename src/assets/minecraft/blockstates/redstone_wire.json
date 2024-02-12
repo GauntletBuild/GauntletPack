@@ -1282,10 +1282,10 @@
         ],
         "north=side,south=none,east=up,west=none,power=1": [
             {
-                "model": "gauntlet:decoration/basket"
+                "model": "gauntlet:decoration/baskets/small_basket"
             },
             {
-                "model": "gauntlet:decoration/basket",
+                "model": "gauntlet:decoration/baskets/small_basket",
                 "y": 90
             }
         ],
@@ -3233,6 +3233,15 @@
         ],
         "north=side,south=side,east=up,west=none,power=4": {
             "model": "gauntlet:decoration/large_wooden_planter"
-        }
+        },
+        "north=side,south=side,east=side,west=up,power=4": [
+            {
+            "model": "gauntlet:decoration/baskets/basket"
+            },
+            {
+            "model": "gauntlet:decoration/baskets/basket",
+            "y": 90
+            }
+        ]
     }
 }

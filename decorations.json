@@ -372,7 +372,7 @@
         "index": 127,
         "shape": "mini"
     },
-    "basket": {
+    "small_basket": {
         "index": 128,
         "shape": "mini"
     },
@@ -1130,6 +1130,10 @@
     },
     "large_wooden_planter": {
         "index": 362,
+        "shape": "full"
+    },
+    "basket": {
+        "index": 363,
         "shape": "full"
     }
 }
