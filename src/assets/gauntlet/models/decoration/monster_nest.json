@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "gauntlet:block/paths/podzol_path_top",
+		"1": "gauntlet:block/paths/podzol_path_side_4",
+		"2": "gauntlet:decoration/monster_nest_top_temp",
+		"3": "gauntlet:block/paths/dirt_path_side_3",
+		"4": "gauntlet:block/charred_grass_top",
+		"particle": "gauntlet:block/paths/podzol_path_top"
+	},
+	"elements": [
+		{
+			"from": [-9, 0, -9],
+			"to": [25, 7, 25],
+			"faces": {
+				"north": {"uv": [0, 1, 16, 8], "texture": "#1"},
+				"east": {"uv": [0, 1, 16, 8], "texture": "#1"},
+				"south": {"uv": [0, 1, 16, 8], "texture": "#1"},
+				"west": {"uv": [0, 1, 16, 8], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [-3, 7, -3],
+			"to": [19, 12, 19],
+			"faces": {
+				"north": {"uv": [0, 1, 16, 6], "texture": "#3"},
+				"east": {"uv": [0, 1, 16, 6], "texture": "#3"},
+				"south": {"uv": [0, 1, 16, 6], "texture": "#3"},
+				"west": {"uv": [0, 1, 16, 6], "texture": "#3"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [1, 12, 1],
+			"to": [15, 8, 15],
+			"faces": {
+				"north": {"uv": [0, 0, 14, 0], "texture": "#4"},
+				"east": {"uv": [0, 0, 14, 0], "texture": "#4"},
+				"south": {"uv": [0, 0, 14, 0], "texture": "#4"},
+				"west": {"uv": [0, 0, 14, 0], "texture": "#4"},
+				"up": {"uv": [0, 0, 14, 14], "texture": "#4"},
+				"down": {"uv": [0, 0, 14, 14], "texture": "#4"}
+			}
+		}
+	]
+}
