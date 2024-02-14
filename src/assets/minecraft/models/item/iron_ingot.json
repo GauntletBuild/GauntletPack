@@ -9,6 +9,12 @@
                 "custom_model_data": 1
             },
             "model": "gauntlet:item/weapon/warpick_handheld"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "gauntlet:item/lockpick"
         }
     ]
 }
