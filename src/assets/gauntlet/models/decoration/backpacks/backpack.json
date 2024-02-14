@@ -1,0 +1,86 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [80, 80],
+	"textures": {
+		"0": "gauntlet:decoration/backpacks/backpack"
+	},
+	"elements": [
+		{
+			"name": "Box",
+			"from": [3, 0, 1],
+			"to": [13, 6, 16],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 16.5, 15]},
+			"faces": {
+				"north": {"uv": [3.2, 1.2, 1.2, 0], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [0, 1.2, 1.2, 4.2], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [5.2, 0, 3.2, 1.2], "texture": "#0"},
+				"west": {"uv": [3.2, 1.2, 4.4, 4.2], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [4.4, 1.2, 6.4, 4.2], "texture": "#0"},
+				"down": {"uv": [1.2, 1.2, 3.2, 4.2], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"name": "Box",
+			"from": [3, 6, 9],
+			"to": [13, 8, 16],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 16.5, 15]},
+			"faces": {
+				"north": {"uv": [2.4, 4.6, 0.4, 4.2], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [0, 4.6, 0.4, 6], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [4.4, 4.2, 2.4, 4.6], "texture": "#0"},
+				"west": {"uv": [2.4, 4.6, 2.8, 6], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [2.8, 4.6, 4.8, 6], "texture": "#0"},
+				"down": {"uv": [0.4, 4.6, 2.4, 6], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"name": "Box",
+			"from": [13, 0, 8],
+			"to": [15, 6, 16],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 16.5, 15]},
+			"faces": {
+				"north": {"uv": [6.4, 4.4, 6.8, 3.2], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [8, 4.4, 6.8, 6], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [6.8, 3.2, 7.2, 4.4], "texture": "#0"},
+				"west": {"uv": [6.4, 4.4, 5.2, 6], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [8.4, 4.4, 8, 6], "texture": "#0"},
+				"down": {"uv": [6.8, 4.4, 6.4, 6], "rotation": 180, "texture": "#0"}
+			}
+		},
+		{
+			"name": "Box",
+			"from": [1, 0, 8],
+			"to": [3, 6, 16],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 16.5, 15]},
+			"faces": {
+				"north": {"uv": [9.6, 4.4, 10, 3.2], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [11.2, 4.4, 10, 6], "rotation": 90, "texture": "#0"},
+				"south": {"uv": [10, 3.2, 10.4, 4.4], "texture": "#0"},
+				"west": {"uv": [9.6, 4.4, 8.4, 6], "rotation": 270, "texture": "#0"},
+				"up": {"uv": [11.6, 4.4, 11.2, 6], "texture": "#0"},
+				"down": {"uv": [10, 4.4, 9.6, 6], "rotation": 180, "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "backpack",
+			"origin": [8, 18.5, 10],
+			"color": 0,
+			"nbt": "{}",
+			"children": [
+				{
+					"name": "strapsWorn",
+					"origin": [8, 17.5, 8],
+					"color": 0,
+					"nbt": "{}",
+					"children": []
+				},
+				0,
+				1,
+				2,
+				3
+			]
+		}
+	]
+}
