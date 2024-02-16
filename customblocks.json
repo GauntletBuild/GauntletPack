@@ -747,5 +747,9 @@
     "bigger_basket_covered": {
         "type": "full_cube",
         "index": 195
+    },
+    "rotten_planks": {
+        "type": "full_cube",
+        "index": 196
     }
 }

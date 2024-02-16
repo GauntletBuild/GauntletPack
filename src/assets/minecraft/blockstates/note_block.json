@@ -1780,6 +1780,9 @@
             "model": "gauntlet:decoration/baskets/bigger_basket_covered",
             "y": 90
             }
-        ]
+        ],
+        "instrument=hat,note=23,powered=false": {
+            "model": "gauntlet:block/rotten_planks"
+        }
     }
 }

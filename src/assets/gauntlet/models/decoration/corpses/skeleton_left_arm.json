@@ -1,0 +1,7 @@
+{
+    "parent": "gauntlet:decoration/corpses/templates/skeleton_left_arm_template",
+    "textures": {
+        "0": "gauntlet:decoration/corpses/skeleton",
+        "particle": "gauntlet:decoration/corpses/skeleton"
+    }
+}
