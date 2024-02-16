@@ -176,6 +176,8 @@
     "item.gauntlet_decoration.yellow_flowerbed": "Yellow Flowerbed",
     "item.gauntlet_decoration.red_flowerbed": "Red Flowerbed",
     "item.gauntlet_decoration.snuffed_torch": "Snuffed Torch",
+    "item.gauntlet_decoration.sconce": "Unlit Sconce",
+    "item.gauntlet_decoration.sconce_lit": "Lit Sconce",
     "item.gauntlet_decoration.ornate_pine_bench": "Ornate Pine Bench",
     "item.gauntlet_decoration.centered_ornate_pine_bench": "Centered Ornate Pine Bench",
     "item.gauntlet_decoration.large_ornate_pine_bench": "Large Ornate Pine Bench",

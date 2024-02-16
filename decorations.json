@@ -1135,5 +1135,26 @@
     "basket": {
         "index": 363,
         "shape": "full"
+    },
+    "sconce": {
+        "index": 364,
+        "shape": "mini",
+        "type": "clicked",
+        "down": 364,
+        "north": 365,
+        "east": 366,
+        "south": 367,
+        "west": 368
+    },
+    "sconce_lit": {
+        "index": 369,
+        "shape": "mini",
+        "type": "clicked",
+        "light": 15,
+        "down": 369,
+        "north": 370,
+        "east": 371,
+        "south": 372,
+        "west": 373
     }
 }
