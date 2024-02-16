@@ -157,13 +157,7 @@
             for (let south of CONNECTIONS) {
                 for (let east of CONNECTIONS) {
                     for (let west of CONNECTIONS) {
-                        DATA[`${id}`] = {
-                            north: north,
-                            south: south,
-                            east: east,
-                            west: west,
-                            power: power
-                        }
+                        DATA[id.toString()] = `north=${north},south=${south},east=${east},west=${west},power=${power}`;
                         id++;
                     }
                 }
@@ -191,7 +185,7 @@
         let cell3 = row.insertCell(2);
 
         cell1.innerHTML = number;
-        cell2.innerHTML = `<button onclick="copyToClipboard('${JSON.stringify(state)}')">${JSON.stringify(state)}</button>`;
+        cell2.innerHTML = `<button onclick="copyToClipboard('${state.toLowerCase()}')">${state.toLowerCase()}</button>`;
         cell3.innerHTML = '<button onclick="this.parentElement.parentElement.remove()">-</button>';
 
         numberField.value = Number(number) + 1;
