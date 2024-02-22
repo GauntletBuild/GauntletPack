@@ -758,5 +758,9 @@
         "x": 199,
         "y": 198,
         "z": 197
+    },
+    "maple_wood": {
+        "type": "full_cube",
+        "index": 200
     }
 }
