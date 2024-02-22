@@ -16,7 +16,7 @@
             "model": "minecraft:block/leaves/yellow_birch_leaves"
         },
         "distance=1,persistent=false": {
-            "model": "minecraft:block/leaves/walnut_leaves_tint"
+            "model": "minecraft:block/leaves/walnut_leaves_tinted"
         },
         "distance=6,persistent=true,waterlogged=false": {
             "model": "minecraft:block/leaves/autumnal_oak_leaves"
