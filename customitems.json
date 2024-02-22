@@ -107,7 +107,8 @@
         "index": 14,
         "block": "minecraft:azalea_leaves",
         "properties": {
-            "distance": "4"
+            "distance": "4",
+            "persistent": "false"
         }
     },
     "barrier_pot": {
@@ -115,5 +116,54 @@
         "block": "minecraft:potted_cherry_sapling",
         "properties": {},
         "item": "minecraft:flower_pot"
+    },
+    "walnut_leaves": {
+        "index": 16,
+        "block": "minecraft:oak_leaves",
+        "properties": {
+            "distance": "2",
+            "persistent": "true"
+        }
+    },
+    "maple_leaves": {
+        "index": 17,
+        "block": "minecraft:oak_leaves",
+        "properties": {
+            "distance": "5",
+            "persistent": "true"
+        }
+    },
+    "red_maple_leaves": {
+        "index": 18,
+        "block": "minecraft:azalea_leaves",
+        "properties": {
+            "distance": "3",
+            "persistent": "false"
+        }
+    },
+    "yellow_birch_leaves": {
+        "index": 19,
+        "block": "minecraft:azalea_leaves",
+        "properties": {
+            "distance": "2",
+            "persistent": "false"
+        }
+    },
+    "walnut_leaves_tint": {
+        "index": 20,
+        "block": "minecraft:azalea_leaves",
+        "properties": {
+            "distance": "1",
+            "persistent": "false"
+        }
+    },
+    "autumnal_oak_leaves": {
+        "index": 21,
+        "block": "minecraft:azalea_leaves",
+        "properties": {
+            "distance": "6",
+            "persistent": "true",
+            "waterlogged": "false"
+        }
     }
 }
