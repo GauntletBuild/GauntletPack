@@ -1192,6 +1192,30 @@
                 "scale": [1, 1, 1],
                 "right_rotation": [0, 0, 0, 1]
             }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 136
+            },
+            "model": "gauntlet:decoration/grue_sack",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 137
+            },
+            "model": "gauntlet:decoration/grue_sack_open",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
         }
     ]
 }
