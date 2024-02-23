@@ -460,10 +460,10 @@
         "type": "full_cube",
         "index": 118
     },
-	"gabbro": {
-		"type": "full_cube",
-		"index": 119
-	},
+    "gabbro": {
+        "type": "full_cube",
+        "index": 119
+    },
     "sidewalk": {
         "type": "full_cube",
         "index": 120
@@ -567,26 +567,26 @@
         "y": 145,
         "z": 146
     },
-	"blue_glazed_shingles": {
-		"type": "full_cube",
-		"index": 147
-	},
-	"green_glazed_shingles": {
-		"type": "full_cube",
-		"index": 148
-	},
-	"red_glazed_shingles": {
-		"type": "full_cube",
-		"index": 149
-	},
-	"black_glazed_shingles": {
-		"type": "full_cube",
-		"index": 150
-	},
-	"yellow_glazed_shingles": {
-		"type": "full_cube",
-		"index": 151
-	},
+    "blue_glazed_shingles": {
+        "type": "full_cube",
+        "index": 147
+    },
+    "green_glazed_shingles": {
+        "type": "full_cube",
+        "index": 148
+    },
+    "red_glazed_shingles": {
+        "type": "full_cube",
+        "index": 149
+    },
+    "black_glazed_shingles": {
+        "type": "full_cube",
+        "index": 150
+    },
+    "yellow_glazed_shingles": {
+        "type": "full_cube",
+        "index": 151
+    },
     "purple_glazed_shingles": {
         "type": "full_cube",
         "index": 152
@@ -615,7 +615,7 @@
         "type": "full_cube",
         "index": 158
     },
-	"barber_tiles": {
+    "barber_tiles": {
         "type": "full_cube",
         "index": 159
     },
@@ -751,5 +751,16 @@
     "rotten_planks": {
         "type": "full_cube",
         "index": 196
+    },
+    "maple_log": {
+        "type": "pillar",
+        "index": 197,
+        "x": 199,
+        "y": 198,
+        "z": 197
+    },
+    "maple_wood": {
+        "type": "full_cube",
+        "index": 200
     }
 }

@@ -1783,6 +1783,21 @@
         ],
         "instrument=hat,note=23,powered=false": {
             "model": "gauntlet:block/rotten_planks"
+        },
+        "instrument=hat,note=23,powered=true": {
+            "model": "gauntlet:block/maple_log",
+            "x": 90
+        },
+        "instrument=hat,note=24,powered=false": {
+            "model": "gauntlet:block/maple_log_horizontal"
+        },
+        "instrument=hat,note=24,powered=true": {
+            "model": "gauntlet:block/maple_log",
+            "y": 90,
+            "x": 90
+        },
+        "instrument=bass,note=0,powered=false": {
+            "model": "gauntlet:block/maple_wood"
         }
     }
 }
