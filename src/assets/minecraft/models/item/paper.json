@@ -1197,7 +1197,7 @@
             "predicate": {
                 "custom_model_data": 136
             },
-            "model": "gauntlet:decoration/grue_sack",
+            "model": "gauntlet:decoration/grubsack",
             "axiom:default_transform": {
                 "translation": [0, 0, 0],
                 "left_rotation": [0, 0, 0, 1],
@@ -1209,7 +1209,7 @@
             "predicate": {
                 "custom_model_data": 137
             },
-            "model": "gauntlet:decoration/grue_sack_open",
+            "model": "gauntlet:decoration/grubsack_open",
             "axiom:default_transform": {
                 "translation": [0, 0, 0],
                 "left_rotation": [0, 0, 0, 1],
