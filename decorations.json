@@ -1156,5 +1156,9 @@
         "east": 371,
         "south": 372,
         "west": 373
+    },
+    "spruce_balustrade_post": {
+        "index": 374,
+        "shape": "full"
     }
 }

@@ -3278,6 +3278,9 @@
         "north=side,south=none,east=side,west=side,power=4": {
             "model": "gauntlet:decoration/torches/sconce_wall_torch",
             "y": 270
+        },
+        "north=side,south=none,east=side,west=none,power=4": {
+            "model": "gauntlet:decoration/spruce_balustrade_post"
         }
     }
 }
