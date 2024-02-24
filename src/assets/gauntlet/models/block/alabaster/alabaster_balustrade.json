@@ -32,17 +32,6 @@
 			}
 		},
 		{
-			"from": [6, -6, 2.75],
-			"to": [10, 6, 6.75],
-			"rotation": {"angle": 0, "axis": "y", "origin": [8, -3.04227, 0.75]},
-			"faces": {
-				"north": {"uv": [11.5, 10, 13.5, 16], "texture": "#0"},
-				"east": {"uv": [11.5, 10, 13.5, 16], "texture": "#0"},
-				"south": {"uv": [11.5, 10, 13.5, 16], "texture": "#0"},
-				"west": {"uv": [11.5, 10, 13.5, 16], "texture": "#0"}
-			}
-		},
-		{
 			"from": [4, -0.86162, -3.75565],
 			"to": [12, 3.13838, 18.89435],
 			"rotation": {"angle": -45, "axis": "x", "origin": [8, -3.04227, 0.75]},
@@ -63,7 +52,7 @@
 				"north": {"uv": [1.5, 10, 6.5, 14], "texture": "#0"},
 				"east": {"uv": [0, 10, 11.5, 14], "texture": "#0"},
 				"south": {"uv": [1.5, 10, 6.5, 14], "texture": "#0"},
-				"west": {"uv": [0, 10, 11.325, 14], "texture": "#0"},
+				"west": {"uv": [0, 10, 11.5, 14], "texture": "#0"},
 				"up": {"uv": [0, 0, 11.5, 5], "rotation": 90, "texture": "#0"},
 				"down": {"uv": [0, 7, 11.5, 16], "rotation": 270, "texture": "#1"}
 			}
@@ -74,7 +63,7 @@
 			"name": "bone",
 			"origin": [0, 0, 2],
 			"color": 0,
-			"children": [0, 1, 2, 3, 4]
+			"children": [0, 1, 2, 3]
 		}
 	],
 	"loader": "framework:open_model"
