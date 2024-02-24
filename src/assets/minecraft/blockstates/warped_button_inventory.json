@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/button_inventory",
+  "parent": "gauntlet:decoration/branches/pine_branch",
   "textures": {
     "texture": "gauntlet:decoration/branches/pine_branch"
   }

@@ -1,0 +1,6 @@
+{
+  "parent": "gauntlet:decoration/branches/oak_branch",
+  "textures": {
+    "texture": "gauntlet:decoration/branches/oak_branch"
+  }
+}
