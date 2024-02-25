@@ -1160,5 +1160,14 @@
     "spruce_balustrade_post": {
         "index": 374,
         "shape": "full"
+    },
+    "cross_barricade": {
+        "index": 375,
+        "shape": "full",
+        "type": "clicked",
+        "north": 375,
+        "east": 376,
+        "south": 377,
+        "west": 378
     }
 }
