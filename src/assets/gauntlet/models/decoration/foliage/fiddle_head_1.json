@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cross",
   "textures": {
-    "cross": "gauntlet:decoration/foliage/fiddle_head"
+    "cross": "gauntlet:decoration/foliage/fiddle_head_1"
   }
 }
