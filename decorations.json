@@ -1169,5 +1169,14 @@
         "east": 376,
         "south": 377,
         "west": 378
+    },
+    "plank_barricade": {
+        "index": 379,
+        "shape": "full",
+        "type": "clicked",
+        "north": 379,
+        "east": 380,
+        "south": 381,
+        "west": 382
     }
 }
