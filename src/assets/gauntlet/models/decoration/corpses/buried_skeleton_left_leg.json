@@ -1,0 +1,7 @@
+{
+    "parent": "gauntlet:decoration/corpses/templates/skeleton_left_leg_template",
+    "textures": {
+        "0": "gauntlet:decoration/corpses/full_grue_skeleton",
+        "particle": "gauntlet:decoration/corpses/full_grue_skeleton"
+    }
+}

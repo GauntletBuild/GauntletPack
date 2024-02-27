@@ -1,0 +1,7 @@
+{
+    "parent": "gauntlet:decoration/corpses/templates/skeleton_skull_template",
+    "textures": {
+        "0": "gauntlet:decoration/corpses/grue_skeleton",
+        "particle": "gauntlet:decoration/corpses/grue_skeleton"
+    }
+}
