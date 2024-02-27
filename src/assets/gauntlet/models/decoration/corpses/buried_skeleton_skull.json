@@ -1,5 +1,5 @@
 {
-    "parent": "gauntlet:decoration/corpses/templates/skeleton_right_leg_template",
+    "parent": "gauntlet:decoration/corpses/templates/skeleton_skull_template",
     "textures": {
         "0": "gauntlet:decoration/corpses/buried_skeleton",
         "particle": "gauntlet:decoration/corpses/buried_skeleton"

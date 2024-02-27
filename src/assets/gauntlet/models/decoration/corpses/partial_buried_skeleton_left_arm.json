@@ -1,7 +1,7 @@
 {
     "parent": "gauntlet:decoration/corpses/templates/skeleton_left_arm_template",
     "textures": {
-        "0": "gauntlet:decoration/corpses/grue_skeleton",
-        "particle": "gauntlet:decoration/corpses/grue_skeleton"
+        "0": "gauntlet:decoration/corpses/partial_buried_skeleton",
+        "particle": "gauntlet:decoration/corpses/partial_buried_skeleton"
     }
 }
