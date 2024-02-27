@@ -3311,6 +3311,14 @@
         "north=none,south=up,east=side,west=side,power=4": {
             "model": "gauntlet:decoration/obstacles/plank_barricade",
             "y": 270
-        }
+        },
+        "north=none,south=up,east=side,west=none,power=4": [
+            {
+                "model": "gauntlet:decoration/foliage/fiddle_head"
+            },
+            {
+                "model": "gauntlet:decoration/foliage/fiddle_head_1"
+            }
+        ]
     }
 }

@@ -1178,5 +1178,9 @@
         "east": 380,
         "south": 381,
         "west": 382
+    },
+    "fiddle_head": {
+        "index": 383,
+        "shape": "full"
     }
 }
