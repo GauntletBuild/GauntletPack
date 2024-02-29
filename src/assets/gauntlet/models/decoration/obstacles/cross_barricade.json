@@ -9,6 +9,7 @@
 		{
 			"from": [4.6, 26, 29],
 			"to": [10.6, 32, 29],
+			"shade": false,
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 10, -9]},
 			"faces": {
 				"north": {"uv": [2, 10, 4, 12], "texture": "#0"},
@@ -18,6 +19,7 @@
 		{
 			"from": [7.6, 26, 26],
 			"to": [7.6, 32, 32],
+			"shade": false,
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 10, -9]},
 			"faces": {
 				"east": {"uv": [2, 10, 4, 12], "texture": "#0"},
@@ -40,6 +42,7 @@
 		{
 			"from": [-6.63503, 20.43503, 14],
 			"to": [-6.63503, 26.43503, 20],
+			"shade": false,
 			"rotation": {"angle": 45, "axis": "z", "origin": [-5.43503, 23.43503, 17]},
 			"faces": {
 				"east": {"uv": [2, 10, 4, 12], "texture": "#0"},
@@ -49,6 +52,7 @@
 		{
 			"from": [-9.63503, 20.43503, 17],
 			"to": [-3.63503, 26.43503, 17],
+			"shade": false,
 			"rotation": {"angle": 45, "axis": "z", "origin": [-5.43503, 23.43503, 17]},
 			"faces": {
 				"north": {"uv": [2, 10, 4, 12], "texture": "#0"},
@@ -97,6 +101,7 @@
 		{
 			"from": [4.6, 26, 5],
 			"to": [10.6, 32, 5],
+			"shade": false,
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 10, -9]},
 			"faces": {
 				"north": {"uv": [2, 10, 4, 12], "texture": "#0"},
@@ -106,6 +111,7 @@
 		{
 			"from": [7.6, 26, 2],
 			"to": [7.6, 32, 8],
+			"shade": false,
 			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 10, -9]},
 			"faces": {
 				"east": {"uv": [2, 10, 4, 12], "texture": "#0"},
@@ -128,6 +134,7 @@
 		{
 			"from": [-9.63503, 20.43503, -7],
 			"to": [-3.63503, 26.43503, -7],
+			"shade": false,
 			"rotation": {"angle": 45, "axis": "z", "origin": [-5.43503, 23.43503, 17]},
 			"faces": {
 				"north": {"uv": [2, 10, 4, 12], "texture": "#0"},
@@ -137,6 +144,7 @@
 		{
 			"from": [-6.63503, 20.43503, -10],
 			"to": [-6.63503, 26.43503, -4],
+			"shade": false,
 			"rotation": {"angle": 45, "axis": "z", "origin": [-5.43503, 23.43503, 17]},
 			"faces": {
 				"east": {"uv": [2, 10, 4, 12], "texture": "#0"},
@@ -343,12 +351,14 @@
 			"name": "group",
 			"origin": [8, 10, 15],
 			"color": 0,
+			"nbt": "{}",
 			"children": [0, 1, 2]
 		},
 		{
 			"name": "group",
 			"origin": [8, 10, 3],
 			"color": 0,
+			"nbt": "{}",
 			"children": [3, 4, 5]
 		},
 		6,
@@ -357,12 +367,14 @@
 			"name": "group",
 			"origin": [8, 10, -9],
 			"color": 0,
+			"nbt": "{}",
 			"children": [8, 9, 10]
 		},
 		{
 			"name": "group",
 			"origin": [8, 10, -21],
 			"color": 0,
+			"nbt": "{}",
 			"children": [11, 12, 13, 14, 15]
 		},
 		16,
