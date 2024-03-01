@@ -762,5 +762,9 @@
     "maple_wood": {
         "type": "full_cube",
         "index": 200
+    },
+    "full_mud": {
+        "type": "full_cube",
+        "index": 201
     }
 }

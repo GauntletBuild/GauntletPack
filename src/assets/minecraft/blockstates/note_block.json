@@ -1798,6 +1798,9 @@
         },
         "instrument=bass,note=0,powered=false": {
             "model": "gauntlet:block/maple_wood"
+        },
+        "instrument=bass,note=0,powered=true": {
+            "model": "gauntlet:block/full_mud"
         }
     }
 }
