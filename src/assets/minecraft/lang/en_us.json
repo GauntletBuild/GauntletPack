@@ -103,5 +103,7 @@
     "block.minecraft.red_nether_brick_slab": "Limestone Brick Slab",
     "block.minecraft.red_nether_brick_wall": "Limestone Brick Wall",
     "block.minecraft.frogspawn": "Duckweed",
-    "block.minecraft.dead_brain_coral_fan": "Cattlerag"
+    "block.minecraft.dead_brain_coral_fan": "Cattlerag",
+    "container.crafting": "",
+    "gui.recipebook.toggleRecipes.craftable": "Showing Filtered"
 }
