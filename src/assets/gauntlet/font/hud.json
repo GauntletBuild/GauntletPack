@@ -1,0 +1,57 @@
+{
+    "providers": [
+          {
+             "type": "space",
+             "advances": {
+                "0": -1,
+                "1": -2,
+                "2": -4,
+                "3": -8,
+                "4": -16,
+                "5": -32,
+                "6": -64,
+                "7": -128,
+                "8": -256,
+                "9": -512,
+                "a": 1,
+                "b": 2,
+                "c": 4,
+                "d": 8,
+                "e": 16,
+                "f": 32,
+                "g": 64,
+                "h": 128,
+                "i": 256,
+                "j": 512
+             }
+          },
+        {
+            "type": "bitmap",
+            "file": "gauntlet:fonts/bar_slices.png",
+            "chars": [
+                "\ue000\ue001\ue002\ue003",
+                "\ue004\ue005\ue006\ue007",
+                "\ue008\ue009\ue00a\ue00b",
+                "\ue00c\ue00d\ue00e\ue00f",
+                "\ue010\ue011\ue012\ue013",
+                "\ue014\ue015\ue016\ue017"
+            ],
+            "ascent": -32,
+            "height": 6
+        },
+        {
+            "type": "bitmap",
+            "file": "gauntlet:fonts/health_bar_icon.png",
+            "chars": ["\ue050"],
+            "ascent": -31,
+            "height": 9
+        },
+        {
+            "type": "bitmap",
+            "file": "gauntlet:fonts/energy_bar_icon.png",
+            "chars": ["\ue051\ue052\ue053"],
+            "ascent": -31,
+            "height": 9
+        }
+    ]
+}
