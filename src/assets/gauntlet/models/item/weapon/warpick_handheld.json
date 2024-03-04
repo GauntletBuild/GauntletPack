@@ -1,6 +1,0 @@
-{
-	"parent": "gauntlet:item/handheld",
-	"textures": {
-		"layer0": "gauntlet:item/weapon/warpick_handheld"
-	}
-}
