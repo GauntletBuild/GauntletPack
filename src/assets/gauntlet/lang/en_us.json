@@ -439,5 +439,7 @@
     "item.gauntlet_decoration.bird_nest_leafy_eggs": "Egged Leafy Bird Nest",
     "item.gauntlet_decoration.cooking_pot": "Cooking Pot",
     "item.gauntlet_decoration.large_cooking_pot": "Large Cooking Pot",
-    "item.gauntlet_decoration.butter_churn": "Butter Churn"
+    "item.gauntlet_decoration.butter_churn": "Butter Churn",
+    "item.gauntlet_decoration.grue_string": "Grue String",
+    "item.gauntlet_decoration.long_grue_string": "Long Grue String"
 }
