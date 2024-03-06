@@ -1480,6 +1480,42 @@
                 "scale": [1, 1, 1],
                 "right_rotation": [0, 0, 0, 1]
             }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 160
+            },
+            "model": "gauntlet:decoration/crab_eggs/small_crab_egg",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 161
+            },
+            "model": "gauntlet:decoration/crab_eggs/crab_egg",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 162
+            },
+            "model": "gauntlet:decoration/crab_eggs/large_crab_egg",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
         }
     ]
 }
