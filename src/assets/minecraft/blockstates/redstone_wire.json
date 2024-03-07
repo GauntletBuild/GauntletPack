@@ -3319,6 +3319,12 @@
             {
                 "model": "gauntlet:decoration/foliage/fiddle_head_1"
             }
-        ]
+        ],
+        "north=none,south=up,east=none,west=up,power=4": {
+            "model": "gauntlet:decoration/grue_string"
+        },
+        "north=none,south=up,east=none,west=side,power=4": {
+            "model": "gauntlet:decoration/long_grue_string"
+        }
     }
 }

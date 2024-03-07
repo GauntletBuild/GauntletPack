@@ -1182,5 +1182,13 @@
     "fiddle_head": {
         "index": 383,
         "shape": "full"
+    },
+    "grue_string": {
+        "index": 384,
+        "shape": "full"
+    },
+    "long_grue_string": {
+        "index": 385,
+        "shape": "full"
     }
 }
