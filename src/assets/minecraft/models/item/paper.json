@@ -1487,7 +1487,7 @@
             },
             "model": "gauntlet:decoration/crab_eggs/small_crab_egg",
             "axiom:default_transform": {
-                "translation": [0, -0.5, 0],
+                "translation": [0, 0.5, 0],
                 "left_rotation": [0, 0, 0, 1],
                 "scale": [1, 1, 1],
                 "right_rotation": [0, 0, 0, 1]
@@ -1499,7 +1499,7 @@
             },
             "model": "gauntlet:decoration/crab_eggs/crab_egg",
             "axiom:default_transform": {
-                "translation": [0, -0.3125, 0],
+                "translation": [0, 0.3125, 0],
                 "left_rotation": [0, 0, 0, 1],
                 "scale": [1, 1, 1],
                 "right_rotation": [0, 0, 0, 1]
@@ -1511,7 +1511,7 @@
             },
             "model": "gauntlet:decoration/crab_eggs/large_crab_egg",
             "axiom:default_transform": {
-                "translation": [0, -0.125, 0],
+                "translation": [0, 0.125, 0],
                 "left_rotation": [0, 0, 0, 1],
                 "scale": [1, 1, 1],
                 "right_rotation": [0, 0, 0, 1]
