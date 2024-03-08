@@ -1552,6 +1552,54 @@
                 "scale": [1, 1, 1],
                 "right_rotation": [0, 0, 0, 1]
             }
+        },
+                {
+            "predicate": {
+                "custom_model_data": 166
+            },
+            "model": "gauntlet:decoration/minaliths/minalith_1",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 167
+            },
+            "model": "gauntlet:decoration/minaliths/minalith_2",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 168
+            },
+            "model": "gauntlet:decoration/minaliths/minalith_3",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 169
+            },
+            "model": "gauntlet:decoration/minaliths/minalith_4",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
         }
     ]
 }
