@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [128, 128],
 	"textures": {
-		"6": "ripclaw_lancer_molt",
-		"particle": "ripclaw_lancer_molt"
+		"6": "gauntlet:decoration/corpses/ripclaw_lancer_molt",
+		"particle": "gauntlet:decoration/corpses/ripclaw_lancer_molt"
 	},
 	"elements": [
 		{
