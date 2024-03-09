@@ -2,8 +2,8 @@
 	"credit": "Made by Farcr",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "gauntlet:decoration/grue_sack",
-		"particle": "gauntlet:decoration/grue_sack"
+		"0": "gauntlet:decoration/grue_sack_open",
+		"particle": "gauntlet:decoration/grue_sack_open"
 	},
 	"elements": [
 		{

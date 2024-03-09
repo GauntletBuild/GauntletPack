@@ -1,0 +1,28 @@
+{
+	"credit": "Made by Frenderman",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "gauntlet:decoration/crab_eggs",
+		"particle": "gauntlet:decoration/crab_eggs"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 12, 14],
+			"faces": {
+				"north": {"uv": [10, 10, 16, 16], "texture": "#0"},
+				"east": {"uv": [10, 10, 16, 16], "texture": "#0"},
+				"south": {"uv": [10, 10, 16, 16], "texture": "#0"},
+				"west": {"uv": [10, 10, 16, 16], "texture": "#0"},
+				"up": {"uv": [10, 4, 16, 10], "texture": "#0"},
+				"down": {"uv": [1, 10, 7, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 225, 0],
+			"scale": [0.625, 0.625, 0.625]
+		}
+	}
+}
