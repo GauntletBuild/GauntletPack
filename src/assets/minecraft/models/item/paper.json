@@ -1600,6 +1600,18 @@
                 "scale": [1, 1, 1],
                 "right_rotation": [0, 0, 0, 1]
             }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 170
+            },
+            "model": "gauntlet:decoration/corpses/ripclaw_molt",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [1, 1, 1],
+                "right_rotation": [0, 0, 0, 1]
+            }
         }
     ]
 }
