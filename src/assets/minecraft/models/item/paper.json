@@ -554,37 +554,19 @@
             "predicate": {
                 "custom_model_data": 82
             },
-            "model": "gauntlet:decoration/crates/large_spruce_crate",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/crates/large_spruce_crate"
         },
         {
             "predicate": {
                 "custom_model_data": 83
             },
-            "model": "gauntlet:decoration/crates/large_pine_crate",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/crates/large_pine_crate"
         },
         {
             "predicate": {
                 "custom_model_data": 84
             },
-            "model": "gauntlet:decoration/crates/large_walnut_crate",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/crates/large_walnut_crate"
         },
         {
             "predicate": {
@@ -614,159 +596,80 @@
             "predicate": {
                 "custom_model_data": 87
             },
-            "model": "gauntlet:decoration/crates/pine_soap_box",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/crates/pine_soap_box"
         },
         {
             "predicate": {
                 "custom_model_data": 88
             },
-            "model": "gauntlet:decoration/crates/walnut_soap_box",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/crates/walnut_soap_box"
         },
         {
             "predicate": {
                 "custom_model_data": 89
             },
-            "model": "gauntlet:decoration/crates/spruce_soap_box",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/crates/spruce_soap_box"
         },
         {
             "predicate": {
                 "custom_model_data": 90
             },
-            "model": "gauntlet:decoration/crates/pine_soap_box_bottles",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/crates/pine_soap_box_bottles"
         },
         {
             "predicate": {
                 "custom_model_data": 91
             },
-            "model": "gauntlet:decoration/crates/walnut_soap_box_bottles",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/crates/walnut_soap_box_bottles"
         },
         {
             "predicate": {
                 "custom_model_data": 92
             },
-            "model": "gauntlet:decoration/crates/spruce_soap_box_bottles",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/crates/spruce_soap_box_bottles"
         },
         {
             "predicate": {
                 "custom_model_data": 93
             },
-            "model": "gauntlet:decoration/crates/large_rotten_crate",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/crates/large_rotten_crate"
         },
         {
             "predicate": {
                 "custom_model_data": 94
             },
-            "model": "gauntlet:decoration/kegs/small_rotten_keg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/kegs/small_rotten_keg"
         },
         {
             "predicate": {
                 "custom_model_data": 95
             },
-            "model": "gauntlet:decoration/kegs/small_broken_rotten_keg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/kegs/small_broken_rotten_keg"
         },
         {
             "predicate": {
                 "custom_model_data": 96
             },
-            "model": "gauntlet:decoration/pots/glazed_vase_1",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/pots/glazed_vase_1"
         },
         {
             "predicate": {
                 "custom_model_data": 97
             },
-            "model": "gauntlet:decoration/pots/glazed_vase_2",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/pots/glazed_vase_2"
         },
         {
             "predicate": {
                 "custom_model_data": 98
             },
-            "model": "gauntlet:decoration/pots/glazed_vase_3",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/pots/glazed_vase_3"
         },
         {
             "predicate": {
                 "custom_model_data": 99
             },
-            "model": "gauntlet:decoration/pots/glazed_vase_4",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/pots/glazed_vase_4"
         },
-
         {
             "predicate": {
                 "custom_model_data": 100
@@ -777,841 +680,421 @@
             "predicate": {
                 "custom_model_data": 101
             },
-            "model": "gauntlet:decoration/pots/glazed_vase_5",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/pots/glazed_vase_5"
         },
         {
             "predicate": {
                 "custom_model_data": 102
             },
-            "model": "gauntlet:decoration/pots/glazed_vase_6",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/pots/glazed_vase_6"
         },
         {
             "predicate": {
                 "custom_model_data": 103
             },
-            "model": "gauntlet:decoration/pots/glazed_vase_7",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/pots/glazed_vase_7"
         },
         {
             "predicate": {
                 "custom_model_data": 104
             },
-            "model": "gauntlet:decoration/pots/glazed_vase_8",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/pots/glazed_vase_8"
         },
         {
             "predicate": {
                 "custom_model_data": 106
             },
-            "model": "gauntlet:decoration/skeletons/human_ribcage",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/skeletons/human_ribcage"
         },
         {
             "predicate": {
                 "custom_model_data": 107
             },
-            "model": "gauntlet:decoration/skeletons/human_leg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/skeletons/human_leg"
         },
         {
             "predicate": {
                 "custom_model_data": 108
             },
-            "model": "gauntlet:decoration/skeletons/human_arm",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/skeletons/human_arm"
         },
         {
             "predicate": {
                 "custom_model_data": 109
             },
-            "model": "gauntlet:decoration/instruments/piano",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/instruments/piano"
         },
         {
             "predicate": {
                 "custom_model_data": 110
             },
-            "model": "gauntlet:decoration/monster_nest",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/monster_nest"
         },
         {
             "predicate": {
                 "custom_model_data": 111
             },
-            "model": "gauntlet:decoration/chests/treasure_chest",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/chests/treasure_chest"
         },
                 {
             "predicate": {
                 "custom_model_data": 112
             },
-            "model": "gauntlet:decoration/washboard",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/washboard"
         },
         {
             "predicate": {
                 "custom_model_data": 113
             },
-            "model": "gauntlet:decoration/backpacks/backpack",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/backpacks/backpack"
         },
         {
             "predicate": {
                 "custom_model_data": 114
             },
-            "model": "gauntlet:decoration/backpacks/knapsack",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/backpacks/knapsack"
         },
         {
             "predicate": {
                 "custom_model_data": 115
             },
-            "model": "gauntlet:decoration/chests/locked_treasure_chest",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/chests/locked_treasure_chest"
         },
         {
             "predicate": {
                 "custom_model_data": 116
             },
-            "model": "gauntlet:decoration/explosives/explosive_keg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/explosives/explosive_keg"
         },
         {
             "predicate": {
                 "custom_model_data": 117
             },
-            "model": "gauntlet:decoration/wood/rotten_plank",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/wood/rotten_plank"
         },
         {
             "predicate": {
                 "custom_model_data": 118
             },
-            "model": "gauntlet:decoration/corpses/skeleton_skull",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/skeleton_skull"
         },
         {
             "predicate": {
                 "custom_model_data": 119
             },
-            "model": "gauntlet:decoration/corpses/skeleton_ribcage",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/skeleton_ribcage"
         },
         {
             "predicate": {
                 "custom_model_data": 120
             },
-            "model": "gauntlet:decoration/corpses/skeleton_left_arm",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/skeleton_left_arm"
         },
         {
             "predicate": {
                 "custom_model_data": 121
             },
-            "model": "gauntlet:decoration/corpses/skeleton_right_arm",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/skeleton_right_arm"
         },
         {
             "predicate": {
                 "custom_model_data": 122
             },
-            "model": "gauntlet:decoration/corpses/skeleton_left_leg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/skeleton_left_leg"
         },
         {
             "predicate": {
                 "custom_model_data": 123
             },
-            "model": "gauntlet:decoration/corpses/skeleton_right_leg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/skeleton_right_leg"
         },
         {
             "predicate": {
                 "custom_model_data": 124
             },
-            "model": "gauntlet:decoration/corpses/grue_skeleton_skull",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/grue_skeleton_skull"
         },
         {
             "predicate": {
                 "custom_model_data": 125
             },
-            "model": "gauntlet:decoration/corpses/grue_skeleton_ribcage",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/grue_skeleton_ribcage"
         },
         {
             "predicate": {
                 "custom_model_data": 126
             },
-            "model": "gauntlet:decoration/corpses/grue_skeleton_left_arm",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/grue_skeleton_left_arm"
         },
         {
             "predicate": {
                 "custom_model_data": 127
             },
-            "model": "gauntlet:decoration/corpses/grue_skeleton_right_arm",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/grue_skeleton_right_arm"
         },
         {
             "predicate": {
                 "custom_model_data": 128
             },
-            "model": "gauntlet:decoration/corpses/grue_skeleton_left_leg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/grue_skeleton_left_leg"
         },
         {
             "predicate": {
                 "custom_model_data": 129
             },
-            "model": "gauntlet:decoration/corpses/grue_skeleton_right_leg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/grue_skeleton_right_leg"
         },
         {
             "predicate": {
                 "custom_model_data": 130
             },
-            "model": "gauntlet:decoration/corpses/full_grue_skeleton_skull",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/full_grue_skeleton_skull"
         },
         {
             "predicate": {
                 "custom_model_data": 131
             },
-            "model": "gauntlet:decoration/corpses/full_grue_skeleton_ribcage",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/full_grue_skeleton_ribcage"
         },
         {
             "predicate": {
                 "custom_model_data": 132
             },
-            "model": "gauntlet:decoration/corpses/full_grue_skeleton_left_arm",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/full_grue_skeleton_left_arm"
         },
         {
             "predicate": {
                 "custom_model_data": 133
             },
-            "model": "gauntlet:decoration/corpses/full_grue_skeleton_right_arm",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/full_grue_skeleton_right_arm"
         },
         {
             "predicate": {
                 "custom_model_data": 134
             },
-            "model": "gauntlet:decoration/corpses/full_grue_skeleton_left_leg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/full_grue_skeleton_left_leg"
         },
         {
             "predicate": {
                 "custom_model_data": 134
             },
-            "model": "gauntlet:decoration/corpses/full_grue_skeleton_right_leg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/full_grue_skeleton_right_leg"
         },
         {
             "predicate": {
                 "custom_model_data": 135
             },
-            "model": "gauntlet:decoration/minaliths/minalith",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/minaliths/minalith"
         },
         {
             "predicate": {
                 "custom_model_data": 136
             },
-            "model": "gauntlet:decoration/grubsack",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/grubsack"
         },
         {
             "predicate": {
                 "custom_model_data": 137
             },
-            "model": "gauntlet:decoration/grubsack_open",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/grubsack_open"
         },
         {
             "predicate": {
                 "custom_model_data": 138
             },
-            "model": "gauntlet:decoration/godray",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/godray"
         },
         {
             "predicate": {
                 "custom_model_data": 139
             },
-            "model": "gauntlet:decoration/baskets/basket_lid",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/baskets/basket_lid"
         },
         {
             "predicate": {
                 "custom_model_data": 140
             },
-            "model": "gauntlet:decoration/corpses/buried_skeleton_skull",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/buried_skeleton_skull"
         },
         {
             "predicate": {
                 "custom_model_data": 141
             },
-            "model": "gauntlet:decoration/corpses/buried_skeleton_ribcage",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/buried_skeleton_ribcage"
         },
         {
             "predicate": {
                 "custom_model_data": 142
             },
-            "model": "gauntlet:decoration/corpses/buried_skeleton_left_arm",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/buried_skeleton_left_arm"
         },
         {
             "predicate": {
                 "custom_model_data": 143
             },
-            "model": "gauntlet:decoration/corpses/buried_skeleton_right_arm",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/buried_skeleton_right_arm"
         },
         {
             "predicate": {
                 "custom_model_data": 144
             },
-            "model": "gauntlet:decoration/corpses/buried_skeleton_left_leg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/buried_skeleton_left_leg"
         },
         {
             "predicate": {
                 "custom_model_data": 145
             },
-            "model": "gauntlet:decoration/corpses/buried_skeleton_right_leg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/buried_skeleton_right_leg"
         },
         {
             "predicate": {
                 "custom_model_data": 146
             },
-            "model": "gauntlet:decoration/corpses/full_buried_skeleton_skull",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/full_buried_skeleton_skull"
         },
         {
             "predicate": {
                 "custom_model_data": 147
             },
-            "model": "gauntlet:decoration/corpses/full_buried_skeleton_ribcage",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/full_buried_skeleton_ribcage"
         },
         {
             "predicate": {
                 "custom_model_data": 148
             },
-            "model": "gauntlet:decoration/corpses/full_buried_skeleton_left_arm",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/full_buried_skeleton_left_arm"
         },
         {
             "predicate": {
                 "custom_model_data": 149
             },
-            "model": "gauntlet:decoration/corpses/full_buried_skeleton_right_arm",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/full_buried_skeleton_right_arm"
         },
         {
             "predicate": {
                 "custom_model_data": 150
             },
-            "model": "gauntlet:decoration/corpses/full_buried_skeleton_left_leg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/full_buried_skeleton_left_leg"
         },
         {
             "predicate": {
                 "custom_model_data": 151
             },
-            "model": "gauntlet:decoration/corpses/full_buried_skeleton_right_leg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/full_buried_skeleton_right_leg"
         },
                 {
             "predicate": {
                 "custom_model_data": 152
             },
-            "model": "gauntlet:decoration/corpses/partial_buried_skeleton_skull",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/partial_buried_skeleton_skull"
         },
         {
             "predicate": {
                 "custom_model_data": 153
             },
-            "model": "gauntlet:decoration/corpses/partial_buried_skeleton_ribcage",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/partial_buried_skeleton_ribcage"
         },
         {
             "predicate": {
                 "custom_model_data": 154
             },
-            "model": "gauntlet:decoration/corpses/partial_buried_skeleton_left_arm",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/partial_buried_skeleton_left_arm"
         },
         {
             "predicate": {
                 "custom_model_data": 155
             },
-            "model": "gauntlet:decoration/corpses/partial_buried_skeleton_right_arm",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/partial_buried_skeleton_right_arm"
         },
         {
             "predicate": {
                 "custom_model_data": 156
             },
-            "model": "gauntlet:decoration/corpses/partial_buried_skeleton_left_leg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/partial_buried_skeleton_left_leg"
         },
         {
             "predicate": {
                 "custom_model_data": 157
             },
-            "model": "gauntlet:decoration/corpses/partial_buried_skeleton_right_leg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/partial_buried_skeleton_right_leg"
         },
         {
             "predicate": {
                 "custom_model_data": 158
             },
-            "model": "gauntlet:decoration/target",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/target"
         },
         {
             "predicate": {
                 "custom_model_data": 159
             },
-            "model": "gauntlet:decoration/arrow",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/arrow"
         },
         {
             "predicate": {
                 "custom_model_data": 160
             },
-            "model": "gauntlet:decoration/crab_eggs/small_crab_egg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/crab_eggs/small_crab_egg"
         },
         {
             "predicate": {
                 "custom_model_data": 161
             },
-            "model": "gauntlet:decoration/crab_eggs/crab_egg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/crab_eggs/crab_egg"
         },
         {
             "predicate": {
                 "custom_model_data": 162
             },
-            "model": "gauntlet:decoration/crab_eggs/large_crab_egg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/crab_eggs/large_crab_egg"
         },
         {
             "predicate": {
                 "custom_model_data": 163
             },
-            "model": "gauntlet:decoration/crab_eggs/broken_crab_egg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/crab_eggs/broken_crab_egg"
         },
         {
             "predicate": {
                 "custom_model_data": 164
             },
-            "model": "gauntlet:decoration/crab_eggs/large_broken_crab_egg",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/crab_eggs/large_broken_crab_egg"
         },
         {
             "predicate": {
                 "custom_model_data": 165
             },
-            "model": "gauntlet:decoration/obstacles/wooden_stake",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/obstacles/wooden_stake"
         },
                 {
             "predicate": {
                 "custom_model_data": 166
             },
-            "model": "gauntlet:decoration/minaliths/minalith_1",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/minaliths/minalith_1"
         },
         {
             "predicate": {
                 "custom_model_data": 167
             },
-            "model": "gauntlet:decoration/minaliths/minalith_2",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/minaliths/minalith_2"
         },
         {
             "predicate": {
                 "custom_model_data": 168
             },
-            "model": "gauntlet:decoration/minaliths/minalith_3",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/minaliths/minalith_3"
         },
         {
             "predicate": {
                 "custom_model_data": 169
             },
-            "model": "gauntlet:decoration/minaliths/minalith_4",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/minaliths/minalith_4"
         },
         {
             "predicate": {
                 "custom_model_data": 170
             },
-            "model": "gauntlet:decoration/corpses/ripclaw_molt",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/corpses/ripclaw_molt"
         }
     ]
 }
