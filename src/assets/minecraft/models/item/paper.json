@@ -1095,6 +1095,12 @@
                 "custom_model_data": 170
             },
             "model": "gauntlet:decoration/corpses/ripclaw_molt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 171
+            },
+            "model": "gauntlet:decoration/corpses/craud_molt"
         }
     ]
 }
