@@ -1119,6 +1119,12 @@
                 "custom_model_data": 174
             },
             "model": "gauntlet:decoration/beds/straw_mattress"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 175
+            },
+            "model": "gauntlet:decoration/corpses/ripclaw_claw_molt"
         }
     ]
 }
