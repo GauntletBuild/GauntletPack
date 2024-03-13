@@ -165,5 +165,13 @@
             "persistent": "true",
             "waterlogged": "false"
         }
+    },
+    "barrier_slab_2": {
+        "index": 22,
+        "block": "minecraft:turtle_egg",
+        "properties": {
+            "eggs": "4",
+            "hatch": "0"
+        }
     }
 }
