@@ -166,6 +166,5 @@
 			"color": 0,
 			"children": [8, 9, 10]
 		}
-	],
-	"loader": "framework:open_model"
+	]
 }

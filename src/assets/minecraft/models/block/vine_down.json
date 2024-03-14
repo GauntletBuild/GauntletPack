@@ -72,6 +72,5 @@
 				"down": {"uv": [0, 8, 8, 8], "rotation": 180, "texture": "#0", "tintindex": 0}
 			}
 		}
-	],
-	"loader": "framework:open_model"
+	]
 }

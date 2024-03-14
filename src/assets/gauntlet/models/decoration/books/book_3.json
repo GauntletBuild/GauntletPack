@@ -80,6 +80,5 @@
 			"nbt": "{}",
 			"children": [0, 1, 2]
 		}
-	],
-	"loader": "framework:open_model"
+	]
 }

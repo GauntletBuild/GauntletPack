@@ -65,6 +65,5 @@
 			"color": 0,
 			"children": [0, 1, 2, 3]
 		}
-	],
-	"loader": "framework:open_model"
+	]
 }

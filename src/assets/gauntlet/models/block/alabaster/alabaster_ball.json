@@ -60,6 +60,5 @@
 			"color": 0,
 			"children": [0]
 		}
-	],
-	"loader": "framework:open_model"
+	]
 }

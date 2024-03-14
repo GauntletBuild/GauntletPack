@@ -105,6 +105,5 @@
 			"nbt": "{}",
 			"children": [0, 1, 2, 3, 4]
 		}
-	],
-	"loader": "framework:open_model"
+	]
 }
