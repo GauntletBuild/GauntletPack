@@ -273,6 +273,5 @@
 			"color": 0,
 			"children": [15, 16, 17]
 		}
-	],
-	"loader": "framework:open_model"
+	]
 }

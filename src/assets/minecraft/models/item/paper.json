@@ -1095,6 +1095,36 @@
                 "custom_model_data": 170
             },
             "model": "gauntlet:decoration/corpses/ripclaw_molt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 171
+            },
+            "model": "gauntlet:decoration/corpses/craud_molt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 172
+            },
+            "model": "gauntlet:decoration/chairs/pine_chair"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 173
+            },
+            "model": "gauntlet:decoration/chairs/spruce_ladder_back_chair"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 174
+            },
+            "model": "gauntlet:decoration/beds/straw_mattress"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 175
+            },
+            "model": "gauntlet:decoration/corpses/ripclaw_claw_molt"
         }
     ]
 }
