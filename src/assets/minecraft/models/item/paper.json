@@ -6,6 +6,12 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 0
+            },
+            "model": "gauntlet:item/invisible"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1
             },
             "model": "gauntlet:decoration/doors/rustic_door_pine"
