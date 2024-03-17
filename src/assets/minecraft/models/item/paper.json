@@ -1125,6 +1125,18 @@
                 "custom_model_data": 175
             },
             "model": "gauntlet:decoration/corpses/ripclaw_claw_molt"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 176
+            },
+            "model": "gauntlet:decoration/kegs/small_pine_keg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 177
+            },
+            "model": "gauntlet:decoration/kegs/small_spruce_keg"
         }
     ]
 }
