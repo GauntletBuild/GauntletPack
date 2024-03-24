@@ -1,0 +1,33 @@
+{
+	"credit": "Made by Frenderman",
+	"texture_size": [80, 80],
+	"textures": {
+		"0": "gauntlet:decoration/cloth/large_torn_cloth",
+		"1": "gauntlet:decoration/cloth/large_torn_cloth_sides",
+		"particle": "gauntlet:decoration/cloth/large_torn_cloth"
+	},
+	"elements": [
+		{
+			"from": [-12, -8, 8.5],
+			"to": [28, 16, 7.5],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 9.6], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.66667, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 9.6], "texture": "#0"},
+				"west": {"uv": [0.66667, 0, 1.33333, 16], "texture": "#1"},
+				"up": {"uv": [16, 16, 0, 15.6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-12, -8, 7.5],
+			"to": [28, 16, 8.5],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 9.6], "texture": "#0"},
+				"east": {"uv": [0, 0, 0.66667, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 9.6], "texture": "#0"},
+				"west": {"uv": [0.66667, 0, 1.33333, 16], "texture": "#1"},
+				"up": {"uv": [16, 16, 0, 15.6], "texture": "#0"}
+			}
+		}
+	]
+}

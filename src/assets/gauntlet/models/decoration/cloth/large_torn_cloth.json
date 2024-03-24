@@ -1,0 +1,39 @@
+{
+	"credit": "Made by Frenderman",
+	"texture_size": [48, 48],
+	"textures": {
+		"0": "gauntlet:decoration/cloth/torn_cloth",
+		"particle": "gauntlet:decoration/cloth/torn_cloth"
+	},
+	"elements": [
+		{
+			"from": [-3, -10, 7],
+			"to": [19, 32, 9],
+			"faces": {
+				"north": {"uv": [3.33333, 0, 10.66667, 14], "texture": "#0"},
+				"east": {"uv": [2, 0, 2.66667, 14], "texture": "#0"},
+				"south": {"uv": [3.33333, 0, 10.66667, 14], "texture": "#0"},
+				"west": {"uv": [1.33333, 0, 2, 14], "texture": "#0"},
+				"up": {"uv": [16, 16, 8.66667, 15.33333], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-3, -10, 9],
+			"to": [19, 32, 7],
+			"faces": {
+				"north": {"uv": [10.66667, 0, 3.33333, 14], "texture": "#0"},
+				"east": {"uv": [2, 0, 2.66667, 14], "texture": "#0"},
+				"south": {"uv": [3.33333, 0, 10.66667, 14], "texture": "#0"},
+				"west": {"uv": [1.33333, 0, 2, 14], "texture": "#0"},
+				"up": {"uv": [16, 16, 8.66667, 15.33333], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, -1.5, 0],
+			"scale": [0.325, 0.325, 0.325]
+		}
+	}
+}
