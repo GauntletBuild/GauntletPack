@@ -3325,6 +3325,18 @@
         },
         "north=none,south=up,east=none,west=side,power=4": {
             "model": "gauntlet:decoration/long_grue_string"
-        }
+        },
+        "north=none,south=up,east=none,west=none,power=4": [
+            {
+                "model": "gauntlet:decoration/foliage/ghost_grass"
+            },
+            {
+                "model": "gauntlet:decoration/foliage/ghost_grass1"
+            },
+            {
+                "model": "gauntlet:decoration/foliage/ghost_grass2"
+            }
+        ]
+
     }
 }
