@@ -1082,13 +1082,13 @@
             "predicate": {
                 "custom_model_data": 167
             },
-            "model": "gauntlet:decoration/minaliths/minalith_2"
+            "model": "gauntlet:decoration/minaliths/small_minalith_disc"
         },
         {
             "predicate": {
                 "custom_model_data": 168
             },
-            "model": "gauntlet:decoration/minaliths/minalith_3"
+            "model": "gauntlet:decoration/minaliths/large_minalith_disc"
         },
         {
             "predicate": {
