@@ -1167,6 +1167,12 @@
                 "custom_model_data": 180
             },
             "model": "gauntlet:decoration/cloth/large_torn_cloth"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 181
+            },
+            "model": "gauntlet:decoration/chests/small_chest"
         }
     ]
 }
