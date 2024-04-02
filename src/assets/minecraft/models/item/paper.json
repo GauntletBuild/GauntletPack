@@ -1173,6 +1173,18 @@
                 "custom_model_data": 181
             },
             "model": "gauntlet:decoration/chests/small_chest"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 182
+            },
+            "model": "gauntlet:decoration/marine/rotten_rowboat",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
         }
     ]
 }
