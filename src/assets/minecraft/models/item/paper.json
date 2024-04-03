@@ -1185,6 +1185,42 @@
                 "scale": [2, 2, 2],
                 "right_rotation": [0, 0, 0, 1]
             }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 183
+            },
+            "model": "gauntlet:decoration/marine/spruce_rowboat",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 184
+            },
+            "model": "gauntlet:decoration/marine/pine_rowboat",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 185
+            },
+            "model": "gauntlet:decoration/marine/spruce_oar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 186
+            },
+            "model": "gauntlet:decoration/marine/pine_oar"
         }
     ]
 }
