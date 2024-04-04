@@ -1221,6 +1221,12 @@
                 "custom_model_data": 186
             },
             "model": "gauntlet:decoration/marine/pine_oar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 187
+            },
+            "model": "gauntlet:decoration/tents/small_tent"
         }
     ]
 }

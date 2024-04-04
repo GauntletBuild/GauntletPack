@@ -1,0 +1,67 @@
+{
+	"credit": "Made by Frenderman",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "gauntlet:decoration/tents/small_tent",
+		"particle": "gauntlet:decoration/tents/small_tent"
+	},
+	"elements": [
+		{
+			"from": [7, -4, -16],
+			"to": [9, 32, 32],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 32, 8]},
+			"faces": {
+				"north": {"uv": [4, 7, 3.5, 16], "texture": "#0"},
+				"east": {"uv": [4, 7, 16, 16], "texture": "#0"},
+				"south": {"uv": [3.5, 7, 4, 16], "texture": "#0"},
+				"west": {"uv": [4, 7, 16, 16], "texture": "#0"},
+				"up": {"uv": [4, 6.5, 16, 7], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [4, 6, 16, 6.5], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, -4, -15.95],
+			"to": [9, 32, 31.95],
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 32, 8]},
+			"faces": {
+				"north": {"uv": [3.5, 7, 4, 16], "texture": "#0"},
+				"east": {"uv": [4.025, 7, 16, 16], "texture": "#0"},
+				"south": {"uv": [4, 7, 3.5, 16], "texture": "#0"},
+				"west": {"uv": [4.025, 7, 16, 16], "texture": "#0"},
+				"up": {"uv": [4, 6.5, 16, 7], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [4, 6.5, 16, 6], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, -4, -15],
+			"to": [9, 32, -13],
+			"faces": {
+				"north": {"uv": [3, 7, 3.5, 16], "texture": "#0"},
+				"east": {"uv": [3.5, 7, 3, 16], "texture": "#0"},
+				"south": {"uv": [3, 7, 3.5, 16], "texture": "#0"},
+				"west": {"uv": [3.5, 7, 3, 16], "texture": "#0"},
+				"up": {"uv": [3, 6.5, 3.5, 7], "texture": "#0"},
+				"down": {"uv": [3, 6.5, 3.5, 7], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7, -4, 29],
+			"to": [9, 32, 31],
+			"faces": {
+				"north": {"uv": [3, 7, 3.5, 16], "texture": "#0"},
+				"east": {"uv": [3.5, 7, 3, 16], "texture": "#0"},
+				"south": {"uv": [3, 7, 3.5, 16], "texture": "#0"},
+				"west": {"uv": [3.5, 7, 3, 16], "texture": "#0"},
+				"up": {"uv": [3, 6.5, 3.5, 7], "texture": "#0"},
+				"down": {"uv": [3, 6.5, 3.5, 7], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, -1.25, 0],
+			"scale": [0.325, 0.325, 0.325]
+		}
+	}
+}
