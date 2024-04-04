@@ -1801,6 +1801,9 @@
         },
         "instrument=bass,note=0,powered=true": {
             "model": "gauntlet:block/full_mud"
+        },
+        "instrument=bass,note=1,powered=false": {
+            "model": "gauntlet:block/dirty_cobblestone"
         }
     }
 }

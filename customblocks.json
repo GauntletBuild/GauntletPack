@@ -766,5 +766,9 @@
     "full_mud": {
         "type": "full_cube",
         "index": 201
+    },
+    "dirty_cobblestone": {
+        "type": "full_cube",
+        "index": 202
     }
 }
