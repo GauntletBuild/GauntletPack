@@ -1228,10 +1228,7 @@
             },
             "model": "gauntlet:decoration/tents/small_tent",
             "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [2, 2, 2],
-                "right_rotation": [0, 0, 0, 1]
+                "scale": [2, 2, 2]
             }
         }
     ]
