@@ -3336,7 +3336,14 @@
             {
                 "model": "gauntlet:decoration/foliage/ghost_grass2"
             }
-        ]
+        ],
+        "north=none,south=side,east=up,west=up,power=4": {
+            "model": "gauntlet:decoration/marine/jetty_cleat"
+        },
+        "north=none,south=side,east=up,west=side,power=4": {
+            "model": "gauntlet:decoration/marine/jetty_cleat",
+            "y": 90
+        }
 
     }
 }

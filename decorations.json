@@ -1194,5 +1194,12 @@
     "ghost_grass": {
         "index": 386,
         "shape": "full"
+    },
+    "jetty_cleat": {
+        "index": 387,
+        "shape": "full",
+        "type": "clicked",
+        "north": 387,
+        "east": 388
     }
 }
