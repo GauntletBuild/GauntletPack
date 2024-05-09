@@ -1236,6 +1236,12 @@
                 "custom_model_data": 187
             },
             "model": "gauntlet:decoration/custom_builds/tutorial_brick_tower_corner"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 188
+            },
+            "model": "gauntlet:decoration/custom_builds/tutorial_brick_tower_corner"
         }
     ]
 }
