@@ -1266,6 +1266,18 @@
                 "scale": [2, 2, 2],
                 "right_rotation": [0, 0, 0, 1]
             }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 192
+            },
+            "model": "gauntlet:decoration/mechanical/tread_wheel",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
         }
     ]
 }
