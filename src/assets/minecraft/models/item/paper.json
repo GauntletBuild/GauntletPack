@@ -1326,6 +1326,12 @@
                 "custom_model_data": 197
             },
             "model": "gauntlet:decoration/cloth/gray_large_torn_cloth"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 198
+            },
+            "model": "gauntlet:decoration/mechanical/wooden_cog"
         }
     ]
 }
