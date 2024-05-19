@@ -1804,6 +1804,9 @@
         },
         "instrument=bass,note=1,powered=false": {
             "model": "gauntlet:block/dirty_cobblestone"
+        },
+        "instrument=bass,note=1,powered=true": {
+            "model": "gauntlet:block/stone/polished_stone_tied"
         }
     }
 }

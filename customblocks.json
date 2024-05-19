@@ -770,5 +770,9 @@
     "dirty_cobblestone": {
         "type": "full_cube",
         "index": 202
+    },
+    "polished_stone_tied": {
+        "type": "full_cube",
+        "index": 203
     }
 }
