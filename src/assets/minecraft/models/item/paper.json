@@ -1332,6 +1332,12 @@
                 "custom_model_data": 198
             },
             "model": "gauntlet:decoration/mechanical/wooden_cog"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 199
+            },
+            "model": "gauntlet:decoration/mechanical/small_wooden_cog"
         }
     ]
 }
