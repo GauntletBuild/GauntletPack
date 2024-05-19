@@ -1241,13 +1241,13 @@
             "predicate": {
                 "custom_model_data": 188
             },
-            "model": "gauntlet:decoration/custom_builds/port_crane"
+            "model": "gauntlet:decoration/custom_builds/port_crane_14"
         },
         {
             "predicate": {
                 "custom_model_data": 189
             },
-            "model": "gauntlet:decoration/custom_builds/port_crane_arm"
+            "model": "gauntlet:decoration/custom_builds/port_crane_arm_22"
         },
         {
             "predicate": {
