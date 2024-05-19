@@ -1338,6 +1338,12 @@
                 "custom_model_data": 199
             },
             "model": "gauntlet:decoration/mechanical/small_wooden_cog"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200
+            },
+            "model": "gauntlet:decoration/mechanical/small_wooden_cog_crank"
         }
     ]
 }
