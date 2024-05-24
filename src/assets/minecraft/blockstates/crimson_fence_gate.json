@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "facing=south,in_wall=false,open=false": {
+            "model": "gauntlet:block/wooden_portcullis",
+            "uvlock": false
+        },
+        "facing=west,in_wall=false,open=false": {
+            "model": "gauntlet:block/wooden_portcullis",
+            "uvlock": false,
+            "y": 90
+        }
+    }
+}

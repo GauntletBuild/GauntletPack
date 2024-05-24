@@ -1082,13 +1082,13 @@
             "predicate": {
                 "custom_model_data": 167
             },
-            "model": "gauntlet:decoration/minaliths/minalith_2"
+            "model": "gauntlet:decoration/minaliths/small_minalith_disc"
         },
         {
             "predicate": {
                 "custom_model_data": 168
             },
-            "model": "gauntlet:decoration/minaliths/minalith_3"
+            "model": "gauntlet:decoration/minaliths/large_minalith_disc"
         },
         {
             "predicate": {
@@ -1143,6 +1143,207 @@
                 "custom_model_data": 177
             },
             "model": "gauntlet:decoration/kegs/small_spruce_keg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 178
+            },
+            "model": "gauntlet:decoration/cloth/colossal_torn_cloth",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 179
+            },
+            "model": "gauntlet:decoration/cloth/torn_cloth"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 180
+            },
+            "model": "gauntlet:decoration/cloth/large_torn_cloth"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 181
+            },
+            "model": "gauntlet:decoration/chests/small_chest"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 182
+            },
+            "model": "gauntlet:decoration/marine/rotten_rowboat",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 183
+            },
+            "model": "gauntlet:decoration/marine/spruce_rowboat",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 184
+            },
+            "model": "gauntlet:decoration/marine/pine_rowboat",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 185
+            },
+            "model": "gauntlet:decoration/marine/spruce_oar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 186
+            },
+            "model": "gauntlet:decoration/marine/pine_oar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 187
+            },
+            "model": "gauntlet:decoration/tents/small_tent",
+            "axiom:default_transform": {
+                "scale": [2, 2, 2]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 187
+            },
+            "model": "gauntlet:decoration/custom_builds/tutorial_brick_tower_corner"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 188
+            },
+            "model": "gauntlet:decoration/custom_builds/port_crane_14"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 189
+            },
+            "model": "gauntlet:decoration/custom_builds/port_crane_arm_22"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 190
+            },
+            "model": "gauntlet:decoration/marine/ship_helm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 191
+            },
+            "model": "gauntlet:decoration/marine/large_ship_helm",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 192
+            },
+            "model": "gauntlet:decoration/mechanical/tread_wheel",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 193
+            },
+            "model": "gauntlet:decoration/mechanical/large_tread_wheel",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 194
+            },
+            "model": "gauntlet:decoration/mechanical/large_wooden_cog",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 195
+            },
+            "model": "gauntlet:decoration/cloth/gray_colossal_torn_cloth",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 196
+            },
+            "model": "gauntlet:decoration/cloth/gray_torn_cloth"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 197
+            },
+            "model": "gauntlet:decoration/cloth/gray_large_torn_cloth"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 198
+            },
+            "model": "gauntlet:decoration/mechanical/wooden_cog"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 199
+            },
+            "model": "gauntlet:decoration/mechanical/small_wooden_cog"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 200
+            },
+            "model": "gauntlet:decoration/mechanical/small_wooden_cog_crank"
         }
     ]
 }
