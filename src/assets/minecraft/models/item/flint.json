@@ -21,6 +21,12 @@
                 "custom_model_data": 3
             },
             "model": "large_item:weapon/short_spear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "large_item:weapon/claymore"
         }
     ]
 }
