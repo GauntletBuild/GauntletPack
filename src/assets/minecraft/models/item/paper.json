@@ -1344,6 +1344,24 @@
                 "custom_model_data": 200
             },
             "model": "gauntlet:decoration/mechanical/small_wooden_cog_crank"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 201
+            },
+            "model": "gauntlet:decoration/grubsack_open_bottom"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 202
+            },
+            "model": "gauntlet:decoration/marine/anchor"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 203
+            },
+            "model": "gauntlet:decoration/marine/rusty_anchor"
         }
     ]
 }
