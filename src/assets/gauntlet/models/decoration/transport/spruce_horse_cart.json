@@ -2,8 +2,8 @@
 	"credit": "Made by Frenderman",
 	"texture_size": [96, 96],
 	"textures": {
-		"0": "gauntlet:decoration/transport/horse_cart",
-		"particle": "gauntlet:decoration/transport/horse_cart"
+		"0": "gauntlet:decoration/transport/spruce_horse_cart",
+		"particle": "gauntlet:decoration/transport/spruce_horse_cart"
 	},
 	"elements": [
 		{
