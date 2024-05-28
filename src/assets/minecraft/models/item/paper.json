@@ -1233,12 +1233,6 @@
         },
         {
             "predicate": {
-                "custom_model_data": 187
-            },
-            "model": "gauntlet:decoration/custom_builds/tutorial_brick_tower_corner"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 188
             },
             "model": "gauntlet:decoration/custom_builds/port_crane_14"
@@ -1386,6 +1380,12 @@
                 "scale": [2, 2, 2],
                 "right_rotation": [0, 0, 0, 1]
             }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 206
+            },
+            "model": "gauntlet:decoration/custom_builds/tutorial_brick_tower_corner"
         }
     ]
 }
