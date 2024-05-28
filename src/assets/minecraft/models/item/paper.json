@@ -1386,6 +1386,12 @@
                 "custom_model_data": 206
             },
             "model": "gauntlet:decoration/custom_builds/tutorial_brick_tower_corner"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 207
+            },
+            "model": "gauntlet:decoration/oil_cage"
         }
     ]
 }
