@@ -1398,6 +1398,18 @@
                 "custom_model_data": 208
             },
             "model": "gauntlet:decoration/mechanical/crane_hook"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 209
+            },
+            "model": "gauntlet:decoration/crates/large_pine_crate_tied"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 210
+            },
+            "model": "gauntlet:decoration/crates/large_spruce_crate_tied"
         }
     ]
 }
