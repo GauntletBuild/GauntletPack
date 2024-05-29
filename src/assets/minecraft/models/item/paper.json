@@ -1392,6 +1392,12 @@
                 "custom_model_data": 207
             },
             "model": "gauntlet:decoration/oil_cage"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 208
+            },
+            "model": "gauntlet:decoration/mechanical/crane_hook"
         }
     ]
 }
