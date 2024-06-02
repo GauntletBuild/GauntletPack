@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/grass",
-		"particle": "block/grass"
+		"0": "block/short_grass",
+		"particle": "block/short_grass"
 	},
 	"elements": [
 		{
