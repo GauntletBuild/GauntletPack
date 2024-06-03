@@ -2,7 +2,7 @@
     "variants": {
         "": [
             {
-                "model": "minecraft:block/grass"
+                "model": "minecraft:block/short_grass"
             },
             {
                 "model": "minecraft:block/grass/grass_alt_1"
