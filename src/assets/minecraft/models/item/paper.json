@@ -1422,6 +1422,12 @@
                 "scale": [2, 2, 2],
                 "right_rotation": [0, 0, 0, 1]
             }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 212
+            },
+            "model": "gauntlet:decoration/backpacks/item_pouch"
         }
     ]
 }
