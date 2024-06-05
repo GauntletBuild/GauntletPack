@@ -368,821 +368,725 @@
       "predicate": {
         "custom_model_data": 160
       },
-      "model": "custom_entity:ripclaw_duke/root_cavern"
+      "model": "custom_entity:ripclaw_duke/body_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 161
       },
-      "model": "custom_entity:ripclaw_duke/root_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/body_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 162
       },
-      "model": "custom_entity:ripclaw_duke/body_cavern"
+      "model": "custom_entity:ripclaw_duke/shell1_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 163
       },
-      "model": "custom_entity:ripclaw_duke/body_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/shell1_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 164
       },
-      "model": "custom_entity:ripclaw_duke/shell1_cavern"
+      "model": "custom_entity:ripclaw_duke/shell2_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 165
       },
-      "model": "custom_entity:ripclaw_duke/shell1_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/shell2_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 166
       },
-      "model": "custom_entity:ripclaw_duke/shell2_cavern"
+      "model": "custom_entity:ripclaw_duke/tail_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 167
       },
-      "model": "custom_entity:ripclaw_duke/shell2_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/tail_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 168
       },
-      "model": "custom_entity:ripclaw_duke/tail_cavern"
+      "model": "custom_entity:ripclaw_duke/neck_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 169
       },
-      "model": "custom_entity:ripclaw_duke/tail_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/neck_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 170
       },
-      "model": "custom_entity:ripclaw_duke/neck_cavern"
+      "model": "custom_entity:ripclaw_duke/head_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 171
       },
-      "model": "custom_entity:ripclaw_duke/neck_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/head_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 172
       },
-      "model": "custom_entity:ripclaw_duke/head_cavern"
+      "model": "custom_entity:ripclaw_duke/stacheright_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 173
       },
-      "model": "custom_entity:ripclaw_duke/head_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/stacheright_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 174
       },
-      "model": "custom_entity:ripclaw_duke/eyes_cavern"
+      "model": "custom_entity:ripclaw_duke/stacheleft_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 175
       },
-      "model": "custom_entity:ripclaw_duke/eyes_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/stacheleft_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 176
       },
-      "model": "custom_entity:ripclaw_duke/eyeright_cavern"
+      "model": "custom_entity:ripclaw_duke/mandibleright_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 177
       },
-      "model": "custom_entity:ripclaw_duke/eyeright_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/mandibleright_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 178
       },
-      "model": "custom_entity:ripclaw_duke/eyeleft_cavern"
+      "model": "custom_entity:ripclaw_duke/mandibleleft_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 179
       },
-      "model": "custom_entity:ripclaw_duke/eyeleft_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/mandibleleft_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 180
       },
-      "model": "custom_entity:ripclaw_duke/mandibles_cavern"
+      "model": "custom_entity:ripclaw_duke/eyeright_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 181
       },
-      "model": "custom_entity:ripclaw_duke/mandibles_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/eyeright_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 182
       },
-      "model": "custom_entity:ripclaw_duke/mandibleright_cavern"
+      "model": "custom_entity:ripclaw_duke/eyeleft_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 183
       },
-      "model": "custom_entity:ripclaw_duke/mandibleright_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/eyeleft_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 184
       },
-      "model": "custom_entity:ripclaw_duke/mandibleleft_cavern"
+      "model": "custom_entity:ripclaw_duke/armright1_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 185
       },
-      "model": "custom_entity:ripclaw_duke/mandibleleft_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/armright1_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 186
       },
-      "model": "custom_entity:ripclaw_duke/stacheright_cavern"
+      "model": "custom_entity:ripclaw_duke/armright2_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 187
       },
-      "model": "custom_entity:ripclaw_duke/stacheright_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/armright2_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 188
       },
-      "model": "custom_entity:ripclaw_duke/stacheleft_cavern"
+      "model": "custom_entity:ripclaw_duke/armrightpincer_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 189
       },
-      "model": "custom_entity:ripclaw_duke/stacheleft_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/armrightpincer_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 190
       },
-      "model": "custom_entity:ripclaw_duke/tummy_cavern"
+      "model": "custom_entity:ripclaw_duke/armleft1_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 191
       },
-      "model": "custom_entity:ripclaw_duke/tummy_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/armleft1_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 192
       },
-      "model": "custom_entity:ripclaw_duke/shoulders_cavern"
+      "model": "custom_entity:ripclaw_duke/armleft2_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 193
       },
-      "model": "custom_entity:ripclaw_duke/shoulders_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/armleft2_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 194
       },
-      "model": "custom_entity:ripclaw_duke/armright1_cavern"
+      "model": "custom_entity:ripclaw_duke/leftpincer_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 195
       },
-      "model": "custom_entity:ripclaw_duke/armright1_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/leftpincer_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 196
       },
-      "model": "custom_entity:ripclaw_duke/armright2_cavern"
+      "model": "custom_entity:ripclaw_duke/legfrontright1_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 197
       },
-      "model": "custom_entity:ripclaw_duke/armright2_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/legfrontright1_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 198
       },
-      "model": "custom_entity:ripclaw_duke/armrightpincer_cavern"
+      "model": "custom_entity:ripclaw_duke/legfrontright2_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 199
       },
-      "model": "custom_entity:ripclaw_duke/armrightpincer_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/legfrontright2_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 200
       },
-      "model": "custom_entity:ripclaw_duke/armleft1_cavern"
+      "model": "custom_entity:ripclaw_duke/legmidright1_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 201
       },
-      "model": "custom_entity:ripclaw_duke/armleft1_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/legmidright1_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 202
       },
-      "model": "custom_entity:ripclaw_duke/armleft2_cavern"
+      "model": "custom_entity:ripclaw_duke/legmidright2_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 203
       },
-      "model": "custom_entity:ripclaw_duke/armleft2_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/legmidright2_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 204
       },
-      "model": "custom_entity:ripclaw_duke/leftpincer_cavern"
+      "model": "custom_entity:ripclaw_duke/legbackright1_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 205
       },
-      "model": "custom_entity:ripclaw_duke/leftpincer_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/legbackright1_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 206
       },
-      "model": "custom_entity:ripclaw_duke/legs_cavern"
+      "model": "custom_entity:ripclaw_duke/legbackright2_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 207
       },
-      "model": "custom_entity:ripclaw_duke/legs_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/legbackright2_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 208
       },
-      "model": "custom_entity:ripclaw_duke/rightlegs_cavern"
+      "model": "custom_entity:ripclaw_duke/legfrontleft1_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 209
       },
-      "model": "custom_entity:ripclaw_duke/rightlegs_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/legfrontleft1_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 210
       },
-      "model": "custom_entity:ripclaw_duke/legfrontright1_cavern"
+      "model": "custom_entity:ripclaw_duke/legfrontleft2_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 211
       },
-      "model": "custom_entity:ripclaw_duke/legfrontright1_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/legfrontleft2_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 212
       },
-      "model": "custom_entity:ripclaw_duke/legfrontright2_cavern"
+      "model": "custom_entity:ripclaw_duke/legmidleft1_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 213
       },
-      "model": "custom_entity:ripclaw_duke/legfrontright2_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/legmidleft1_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 214
       },
-      "model": "custom_entity:ripclaw_duke/legmidright1_cavern"
+      "model": "custom_entity:ripclaw_duke/legmidleft2_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 215
       },
-      "model": "custom_entity:ripclaw_duke/legmidright1_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/legmidleft2_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 216
       },
-      "model": "custom_entity:ripclaw_duke/legmidright2_cavern"
+      "model": "custom_entity:ripclaw_duke/legbackleft1_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 217
       },
-      "model": "custom_entity:ripclaw_duke/legmidright2_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/legbackleft1_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 218
       },
-      "model": "custom_entity:ripclaw_duke/legbackright1_cavern"
+      "model": "custom_entity:ripclaw_duke/legbackleft2_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 219
       },
-      "model": "custom_entity:ripclaw_duke/legbackright1_cavern_damaged"
+      "model": "custom_entity:ripclaw_duke/legbackleft2_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 220
       },
-      "model": "custom_entity:ripclaw_duke/legbackright2_cavern"
+      "model": "custom_entity:ripclaw_lancer/body_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 221
       },
-      "model": "custom_entity:ripclaw_duke/legbackright2_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/body_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 222
       },
-      "model": "custom_entity:ripclaw_duke/leftlegs_cavern"
+      "model": "custom_entity:ripclaw_lancer/shell1_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 223
       },
-      "model": "custom_entity:ripclaw_duke/leftlegs_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/shell1_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 224
       },
-      "model": "custom_entity:ripclaw_duke/legfrontleft1_cavern"
+      "model": "custom_entity:ripclaw_lancer/shell2_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 225
       },
-      "model": "custom_entity:ripclaw_duke/legfrontleft1_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/shell2_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 226
       },
-      "model": "custom_entity:ripclaw_duke/legfrontleft2_cavern"
+      "model": "custom_entity:ripclaw_lancer/tail_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 227
       },
-      "model": "custom_entity:ripclaw_duke/legfrontleft2_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/tail_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 228
       },
-      "model": "custom_entity:ripclaw_duke/legmidleft1_cavern"
+      "model": "custom_entity:ripclaw_lancer/neck_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 229
       },
-      "model": "custom_entity:ripclaw_duke/legmidleft1_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/neck_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 230
       },
-      "model": "custom_entity:ripclaw_duke/legmidleft2_cavern"
+      "model": "custom_entity:ripclaw_lancer/head_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 231
       },
-      "model": "custom_entity:ripclaw_duke/legmidleft2_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/head_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 232
       },
-      "model": "custom_entity:ripclaw_duke/legbackleft1_cavern"
+      "model": "custom_entity:ripclaw_lancer/eyeright_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 233
       },
-      "model": "custom_entity:ripclaw_duke/legbackleft1_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/eyeright_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 234
       },
-      "model": "custom_entity:ripclaw_duke/legbackleft2_cavern"
+      "model": "custom_entity:ripclaw_lancer/eyeleft_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 235
       },
-      "model": "custom_entity:ripclaw_duke/legbackleft2_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/eyeleft_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 236
       },
-      "model": "custom_entity:ripclaw_lancer/body_cavern"
+      "model": "custom_entity:ripclaw_lancer/mandibleright_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 237
       },
-      "model": "custom_entity:ripclaw_lancer/body_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/mandibleright_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 238
       },
-      "model": "custom_entity:ripclaw_lancer/shell1_cavern"
+      "model": "custom_entity:ripclaw_lancer/mandibleleft_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 239
       },
-      "model": "custom_entity:ripclaw_lancer/shell1_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/mandibleleft_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 240
       },
-      "model": "custom_entity:ripclaw_lancer/shell2_cavern"
+      "model": "custom_entity:ripclaw_lancer/legfrontright1_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 241
       },
-      "model": "custom_entity:ripclaw_lancer/shell2_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/legfrontright1_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 242
       },
-      "model": "custom_entity:ripclaw_lancer/tail_cavern"
+      "model": "custom_entity:ripclaw_lancer/legfrontright2_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 243
       },
-      "model": "custom_entity:ripclaw_lancer/tail_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/legfrontright2_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 244
       },
-      "model": "custom_entity:ripclaw_lancer/neck_cavern"
+      "model": "custom_entity:ripclaw_lancer/legmidright1_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 245
       },
-      "model": "custom_entity:ripclaw_lancer/neck_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/legmidright1_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 246
       },
-      "model": "custom_entity:ripclaw_lancer/head_cavern"
+      "model": "custom_entity:ripclaw_lancer/legmidright2_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 247
       },
-      "model": "custom_entity:ripclaw_lancer/head_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/legmidright2_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 248
       },
-      "model": "custom_entity:ripclaw_lancer/eyeright_cavern"
+      "model": "custom_entity:ripclaw_lancer/legbackright1_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 249
       },
-      "model": "custom_entity:ripclaw_lancer/eyeright_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/legbackright1_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 250
       },
-      "model": "custom_entity:ripclaw_lancer/eyeleft_cavern"
+      "model": "custom_entity:ripclaw_lancer/legbackright_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 251
       },
-      "model": "custom_entity:ripclaw_lancer/eyeleft_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/legbackright_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 252
       },
-      "model": "custom_entity:ripclaw_lancer/mandibleright_cavern"
+      "model": "custom_entity:ripclaw_lancer/legfrontleft1_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 253
       },
-      "model": "custom_entity:ripclaw_lancer/mandibleright_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/legfrontleft1_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 254
       },
-      "model": "custom_entity:ripclaw_lancer/mandibleleft_cavern"
+      "model": "custom_entity:ripclaw_lancer/legfrontleft2_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 255
       },
-      "model": "custom_entity:ripclaw_lancer/mandibleleft_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/legfrontleft2_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 256
       },
-      "model": "custom_entity:ripclaw_lancer/legfrontright1_cavern"
+      "model": "custom_entity:ripclaw_lancer/legmidleft1_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 257
       },
-      "model": "custom_entity:ripclaw_lancer/legfrontright1_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/legmidleft1_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 258
       },
-      "model": "custom_entity:ripclaw_lancer/legfrontright2_cavern"
+      "model": "custom_entity:ripclaw_lancer/legmidleft2_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 259
       },
-      "model": "custom_entity:ripclaw_lancer/legfrontright2_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/legmidleft2_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 260
       },
-      "model": "custom_entity:ripclaw_lancer/legmidright1_cavern"
+      "model": "custom_entity:ripclaw_lancer/legbackleft1_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 261
       },
-      "model": "custom_entity:ripclaw_lancer/legmidright1_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/legbackleft1_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 262
       },
-      "model": "custom_entity:ripclaw_lancer/legmidright2_cavern"
+      "model": "custom_entity:ripclaw_lancer/legbackleft2_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 263
       },
-      "model": "custom_entity:ripclaw_lancer/legmidright2_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/legbackleft2_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 264
       },
-      "model": "custom_entity:ripclaw_lancer/legbackright1_cavern"
+      "model": "custom_entity:ripclaw_lancer/armleft1_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 265
       },
-      "model": "custom_entity:ripclaw_lancer/legbackright1_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/armleft1_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 266
       },
-      "model": "custom_entity:ripclaw_lancer/legbackright_cavern"
+      "model": "custom_entity:ripclaw_lancer/armleft3_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 267
       },
-      "model": "custom_entity:ripclaw_lancer/legbackright_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/armleft3_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 268
       },
-      "model": "custom_entity:ripclaw_lancer/legfrontleft1_cavern"
+      "model": "custom_entity:ripclaw_lancer/armleftpincer_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 269
       },
-      "model": "custom_entity:ripclaw_lancer/legfrontleft1_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/armleftpincer_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 270
       },
-      "model": "custom_entity:ripclaw_lancer/legfrontleft2_cavern"
+      "model": "custom_entity:ripclaw_lancer/armright1_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 271
       },
-      "model": "custom_entity:ripclaw_lancer/legfrontleft2_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/armright1_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 272
       },
-      "model": "custom_entity:ripclaw_lancer/legmidleft1_cavern"
+      "model": "custom_entity:ripclaw_lancer/armright2_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 273
       },
-      "model": "custom_entity:ripclaw_lancer/legmidleft1_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/armright2_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 274
       },
-      "model": "custom_entity:ripclaw_lancer/legmidleft2_cavern"
+      "model": "custom_entity:ripclaw_lancer/armrightpincer_cavern"
     },
     {
       "predicate": {
         "custom_model_data": 275
       },
-      "model": "custom_entity:ripclaw_lancer/legmidleft2_cavern_damaged"
+      "model": "custom_entity:ripclaw_lancer/armrightpincer_cavern_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 276
       },
-      "model": "custom_entity:ripclaw_lancer/legbackleft1_cavern"
+      "model": "custom_entity:treasure_chest/base_base"
     },
     {
       "predicate": {
         "custom_model_data": 277
       },
-      "model": "custom_entity:ripclaw_lancer/legbackleft1_cavern_damaged"
+      "model": "custom_entity:treasure_chest/lid_base"
     },
     {
       "predicate": {
         "custom_model_data": 278
       },
-      "model": "custom_entity:ripclaw_lancer/legbackleft2_cavern"
+      "model": "custom_entity:treasure_chest/bone_base"
     },
     {
       "predicate": {
         "custom_model_data": 279
       },
-      "model": "custom_entity:ripclaw_lancer/legbackleft2_cavern_damaged"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 280
-      },
-      "model": "custom_entity:ripclaw_lancer/armleft1_cavern"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 281
-      },
-      "model": "custom_entity:ripclaw_lancer/armleft1_cavern_damaged"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 282
-      },
-      "model": "custom_entity:ripclaw_lancer/armleft3_cavern"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 283
-      },
-      "model": "custom_entity:ripclaw_lancer/armleft3_cavern_damaged"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 284
-      },
-      "model": "custom_entity:ripclaw_lancer/armleftpincer_cavern"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 285
-      },
-      "model": "custom_entity:ripclaw_lancer/armleftpincer_cavern_damaged"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 286
-      },
-      "model": "custom_entity:ripclaw_lancer/armright1_cavern"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 287
-      },
-      "model": "custom_entity:ripclaw_lancer/armright1_cavern_damaged"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 288
-      },
-      "model": "custom_entity:ripclaw_lancer/armright2_cavern"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 289
-      },
-      "model": "custom_entity:ripclaw_lancer/armright2_cavern_damaged"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 290
-      },
-      "model": "custom_entity:ripclaw_lancer/armrightpincer_cavern"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 291
-      },
-      "model": "custom_entity:ripclaw_lancer/armrightpincer_cavern_damaged"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 292
-      },
-      "model": "custom_entity:treasure_chest/base_base"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 293
-      },
-      "model": "custom_entity:treasure_chest/lid_base"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 294
-      },
-      "model": "custom_entity:treasure_chest/bone_base"
-    },
-    {
-      "predicate": {
-        "custom_model_data": 295
-      },
       "model": "custom_entity:treasure_chest/handle2_base"
     },
     {
       "predicate": {
-        "custom_model_data": 296
+        "custom_model_data": 280
       },
       "model": "custom_entity:treasure_chest/handle_base"
     }

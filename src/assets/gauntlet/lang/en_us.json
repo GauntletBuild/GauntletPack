@@ -447,8 +447,11 @@
     "item.gauntlet_decoration.ghost_grass": "Ghost Grass",
     "item.gauntlet_decoration.jetty_cleat": "Jetty Cleats",
     
+    "item.gauntlet.material.ripclaw_carcass": "Ripclaw Carcass",
+    "item.gauntlet.material.craud_carcass": "Craud Carcass",
+    "item.gauntlet.material.crabweed": "Crabweed",
     "item.gauntlet.material.chitin": "Chitin",
-    "item.gauntlet.material.ripclaw_lance": "Ripclaw Lance",
+    "item.gauntlet.material.cracked_ripclaw_lance": "Cracked Ripclaw Lance",
     "item.gauntlet.material.craud_shell": "Craud Shell",
     "item.gauntlet.material.flake_powder": "Flake Powder",
     "item.gauntlet.material.palerock": "Palerock",
