@@ -2,8 +2,8 @@
 	"credit": "Made by Frenderman",
 	"textures": {
 		"0": "gauntlet:block/wallpaper/highly_decorated_umbral_wallpaper",
-		"1": "gauntlet:block/wallpaper/walnut_wallpaper_side",
-		"2": "gauntlet:block/wallpaper/walnut_wallpaper_top",
+		"1": "gauntlet:block/stucco/umbral_stucco",
+		"2": "gauntlet:block/stucco/umbral_stucco",
 		"particle": "gauntlet:block/wallpaper/highly_decorated_umbral_wallpaper"
 	},
 	"elements": [
