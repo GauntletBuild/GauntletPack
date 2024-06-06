@@ -45,12 +45,18 @@
 			}
 		}
 	],
+	"display": {
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.4, 0.4, 0.4]
+		}
+	},
 	"groups": [
 		{
 			"name": "root",
 			"origin": [9, -16, 9],
 			"color": 0,
-			"nbt": "{}",
 			"children": [0, 1, 2]
 		}
 	]
