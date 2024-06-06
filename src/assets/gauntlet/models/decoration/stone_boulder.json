@@ -1,0 +1,57 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"4": "gauntlet:decoration/stone_boulder"
+	},
+	"elements": [
+		{
+			"from": [-2, -16, -8],
+			"to": [18, 16, 24],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, -32, 9]},
+			"faces": {
+				"north": {"uv": [9.5, 0, 14.5, 8], "texture": "#4"},
+				"east": {"uv": [8, 0, 16, 8], "texture": "#4"},
+				"south": {"uv": [9.5, 0, 14.5, 8], "texture": "#4"},
+				"west": {"uv": [8, 0, 16, 8], "texture": "#4"},
+				"up": {"uv": [14.5, 16, 9.5, 8], "texture": "#4"},
+				"down": {"uv": [14.5, 8, 9.5, 16], "texture": "#4"}
+			}
+		},
+		{
+			"from": [-8, -16, -2],
+			"to": [24, 16, 18],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, -32, 10]},
+			"faces": {
+				"north": {"uv": [8, 0, 16, 8], "texture": "#4"},
+				"east": {"uv": [9.5, 0, 14.5, 8], "texture": "#4"},
+				"south": {"uv": [8, 0, 16, 8], "texture": "#4"},
+				"west": {"uv": [9.5, 0, 14.5, 8], "texture": "#4"},
+				"up": {"uv": [8, 14.5, 0, 9.5], "texture": "#4"},
+				"down": {"uv": [8, 9.5, 0, 14.5], "texture": "#4"}
+			}
+		},
+		{
+			"from": [-8, -10, -8],
+			"to": [24, 10, 24],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, -33, 9]},
+			"faces": {
+				"north": {"uv": [0, 1.5, 8, 6.5], "texture": "#4"},
+				"east": {"uv": [0, 1.5, 8, 6.5], "texture": "#4"},
+				"south": {"uv": [0, 1.5, 8, 6.5], "texture": "#4"},
+				"west": {"uv": [0, 1.5, 8, 6.5], "texture": "#4"},
+				"up": {"uv": [16, 16, 8, 8], "texture": "#4"},
+				"down": {"uv": [16, 8, 8, 16], "texture": "#4"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "root",
+			"origin": [9, -16, 9],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0, 1, 2]
+		}
+	]
+}
