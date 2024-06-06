@@ -1440,6 +1440,12 @@
                 "custom_model_data": 214
             },
             "model": "gauntlet:decoration/stone_boulder"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 214
+            },
+            "model": "gauntlet:decoration/stone_boulder_tied"
         }
     ]
 }
