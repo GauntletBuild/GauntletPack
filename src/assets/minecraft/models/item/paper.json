@@ -1428,6 +1428,18 @@
                 "custom_model_data": 212
             },
             "model": "gauntlet:decoration/backpacks/item_pouch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 213
+            },
+            "model": "gauntlet:decoration/human_cage"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 214
+            },
+            "model": "gauntlet:decoration/stone_boulder"
         }
     ]
 }
