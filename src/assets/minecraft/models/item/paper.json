@@ -1440,6 +1440,12 @@
                 "custom_model_data": 215
             },
             "model": "gauntlet:decoration/stone_boulder_tied"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 216
+            },
+            "model": "gauntlet:decoration/graves/rounded_alabaster_gravestone"
         }
     ]
 }
