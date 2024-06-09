@@ -1453,7 +1453,7 @@
             },
             "model": "gauntlet:decoration/custom_builds/market_stall",
             "axiom:default_transform": {
-                "translation": [0, 0, 0],
+                "translation": [0, 3, 0],
                 "left_rotation": [0, 0, 0, 1],
                 "scale": [7, 7, 7],
                 "right_rotation": [0, 0, 0, 1]
