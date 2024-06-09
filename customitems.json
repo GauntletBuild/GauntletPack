@@ -6,16 +6,6 @@
             "half": "upper"
         }
     },
-    "barrier_slab": {
-        "index": 1,
-        "block": "minecraft:soul_campfire",
-        "properties": {
-            "lit": "false",
-            "facing": "east",
-            "signal_fire": "true",
-            "waterlogged": "false"
-        }
-    },
     "barrier_rod": {
         "index": 2,
         "block": "minecraft:lightning_rod",
