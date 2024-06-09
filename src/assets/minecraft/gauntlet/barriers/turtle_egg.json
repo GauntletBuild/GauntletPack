@@ -1,6 +1,4 @@
 {
-  "states": [
-    "eggs=4,hatch=0"
-  ],
+  "states": [""],
   "color": "red"
 }
