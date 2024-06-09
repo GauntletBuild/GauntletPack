@@ -7,7 +7,7 @@
         }
     },
     "barrier_slab": {
-        "index": 2,
+        "index": 1,
         "block": "minecraft:turtle_egg",
         "properties": {
             "eggs": "4",
