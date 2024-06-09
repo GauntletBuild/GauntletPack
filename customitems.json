@@ -6,6 +6,14 @@
             "half": "upper"
         }
     },
+    "barrier_slab": {
+        "index": 2,
+        "block": "minecraft:turtle_egg",
+        "properties": {
+            "eggs": "4",
+            "hatch": "0"
+        }
+    },
     "barrier_rod": {
         "index": 2,
         "block": "minecraft:lightning_rod",
@@ -154,14 +162,6 @@
             "distance": "6",
             "persistent": "true",
             "waterlogged": "false"
-        }
-    },
-    "barrier_slab_2": {
-        "index": 22,
-        "block": "minecraft:turtle_egg",
-        "properties": {
-            "eggs": "4",
-            "hatch": "0"
         }
     }
 }

@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "gauntlet_build:item/barrier_slab"
-  }
-}
