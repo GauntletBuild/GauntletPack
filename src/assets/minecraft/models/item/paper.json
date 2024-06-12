@@ -1458,6 +1458,30 @@
                 "scale": [7, 7, 7],
                 "right_rotation": [0, 0, 0, 1]
             }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 218
+            },
+            "model": "gauntlet:decoration/transport/spruce_hand_cart",
+            "axiom:default_transform": {
+                "translation": [0, 0.501, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 219
+            },
+            "model": "gauntlet:decoration/transport/pine_hand_cart",
+            "axiom:default_transform": {
+                "translation": [0, 0.501, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
         }
     ]
 }
