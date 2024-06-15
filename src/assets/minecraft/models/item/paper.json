@@ -1476,6 +1476,12 @@
                 "custom_model_data": 220
             },
             "model": "gauntlet:decoration/wood/spruce_walking_planks"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 221
+            },
+            "model": "gauntlet:decoration/baskets/basket_breads"
         }
     ]
 }
