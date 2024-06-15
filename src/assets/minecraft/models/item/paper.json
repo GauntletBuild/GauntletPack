@@ -1482,6 +1482,12 @@
                 "scale": [2, 2, 2],
                 "right_rotation": [0, 0, 0, 1]
             }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 220
+            },
+            "model": "gauntlet:decoration/wood/spruce_walking_planks",
         }
     ]
 }
