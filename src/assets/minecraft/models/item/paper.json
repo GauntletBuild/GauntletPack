@@ -1487,7 +1487,7 @@
             "predicate": {
                 "custom_model_data": 220
             },
-            "model": "gauntlet:decoration/wood/spruce_walking_planks",
+            "model": "gauntlet:decoration/wood/spruce_walking_planks"
         }
     ]
 }
