@@ -1500,6 +1500,24 @@
                 "custom_model_data": 224
             },
             "model": "gauntlet:decoration/tables/round_walnut_table"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 225
+            },
+            "model": "gauntlet:decoration/stools/spruce_barstool"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 226
+            },
+            "model": "gauntlet:decoration/stools/pine_barstool"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 227
+            },
+            "model": "gauntlet:decoration/stools/walnut_barstool"
         }
     ]
 }
