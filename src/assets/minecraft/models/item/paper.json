@@ -1518,6 +1518,30 @@
                 "custom_model_data": 227
             },
             "model": "gauntlet:decoration/stools/walnut_barstool"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 228
+            },
+            "model": "gauntlet:decoration/cloth/white_colossal_torn_cloth",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 229
+            },
+            "model": "gauntlet:decoration/cloth/white_torn_cloth"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 230
+            },
+            "model": "gauntlet:decoration/cloth/white_large_torn_cloth"
         }
     ]
 }
