@@ -1482,6 +1482,24 @@
                 "custom_model_data": 221
             },
             "model": "gauntlet:decoration/baskets/basket_breads"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 222
+            },
+            "model": "gauntlet:decoration/tables/spruce_round_table"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 223
+            },
+            "model": "gauntlet:decoration/tables/pine_round_table"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 224
+            },
+            "model": "gauntlet:decoration/tables/walnut_round_table"
         }
     ]
 }

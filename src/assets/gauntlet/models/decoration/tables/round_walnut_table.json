@@ -1,0 +1,67 @@
+{
+	"credit": "Made by Frenderman",
+	"texture_size": [80, 80],
+	"textures": {
+		"0": "gauntlet:decoration/tables/round_walnut_table",
+		"particle": "gauntlet:decoration/tables/round_walnut_table"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 3, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [2, 0, 2]},
+			"faces": {
+				"north": {"uv": [0, 10.4, 2.4, 11], "texture": "#0"},
+				"east": {"uv": [0, 10.4, 2.4, 11], "texture": "#0"},
+				"south": {"uv": [0, 10.4, 2.4, 11], "texture": "#0"},
+				"west": {"uv": [0, 10.4, 2.4, 11], "texture": "#0"},
+				"up": {"uv": [0, 8, 2.4, 10.4], "texture": "#0"},
+				"down": {"uv": [0, 8, 2.4, 10.4], "texture": "#0"}
+			}
+		},
+		{
+			"from": [6, 3, 6],
+			"to": [10, 12, 10],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6, 3, 6]},
+			"faces": {
+				"north": {"uv": [2.4, 9.2, 3.2, 11], "texture": "#0"},
+				"east": {"uv": [2.4, 9.2, 3.2, 11], "texture": "#0"},
+				"south": {"uv": [2.4, 9.2, 3.2, 11], "texture": "#0"},
+				"west": {"uv": [2.4, 9.2, 3.2, 11], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-8, 12, -12],
+			"to": [24, 16, 28],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-8, 12, -12]},
+			"faces": {
+				"north": {"uv": [7.2, 6.4, 13.6, 7.2], "texture": "#0"},
+				"east": {"uv": [6.4, 6.4, 14.4, 7.2], "texture": "#0"},
+				"south": {"uv": [7.2, 6.4, 13.6, 7.2], "texture": "#0"},
+				"west": {"uv": [6.4, 6.4, 14.4, 7.2], "texture": "#0"},
+				"up": {"uv": [0, 0, 6.4, 8], "texture": "#0"},
+				"down": {"uv": [0, 0, 6.4, 8], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-12, 12, -8],
+			"to": [28, 16, 24],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-12, 12, -8]},
+			"faces": {
+				"north": {"uv": [6.4, 6.4, 14.4, 7.2], "texture": "#0"},
+				"east": {"uv": [7.2, 6.4, 13.6, 7.2], "texture": "#0"},
+				"south": {"uv": [6.4, 6.4, 14.4, 7.2], "texture": "#0"},
+				"west": {"uv": [7.2, 6.4, 13.6, 7.2], "texture": "#0"},
+				"up": {"uv": [6.4, 0, 14.4, 6.4], "texture": "#0"},
+				"down": {"uv": [6.4, 0, 14.4, 6.4], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, -2, 0],
+			"scale": [0.325, 0.325, 0.325]
+		}
+	}
+}
