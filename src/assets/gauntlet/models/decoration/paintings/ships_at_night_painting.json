@@ -2,7 +2,8 @@
 	"credit": "Made by Frenderman",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "shipsatnight-ivan-aivazovsky"
+		"0": "gauntlet:decoration/paintings/shipsatnight-ivan-aivazovsky",
+		"particle": "gauntlet:decoration/paintings/shipsatnight-ivan-aivazovsky"
 	},
 	"elements": [
 		{
