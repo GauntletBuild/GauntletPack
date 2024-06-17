@@ -1572,6 +1572,12 @@
                 "custom_model_data": 234
             },
             "model": "gauntlet:decoration/explosives/oil_jar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 235
+            },
+            "model": "gauntlet:decoration/explosives/poison_box"
         }
     ]
 }
