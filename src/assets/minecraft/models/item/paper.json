@@ -1566,6 +1566,12 @@
                 "custom_model_data": 233
             },
             "model": "gauntlet:decoration/paintings/tides_painting"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 234
+            },
+            "model": "gauntlet:decoration/explosives/oil_jar"
         }
     ]
 }
