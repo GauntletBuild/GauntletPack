@@ -1557,7 +1557,7 @@
         },
         {
             "predicate": {
-                "custom_model_data": 231
+                "custom_model_data": 232
             },
             "model": "gauntlet:decoration/rat_posed"
         }
