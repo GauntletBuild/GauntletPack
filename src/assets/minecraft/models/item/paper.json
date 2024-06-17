@@ -1560,6 +1560,12 @@
                 "custom_model_data": 232
             },
             "model": "gauntlet:decoration/cookware/cleaver"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 233
+            },
+            "model": "gauntlet:decoration/paintings/tides_painting"
         }
     ]
 }
