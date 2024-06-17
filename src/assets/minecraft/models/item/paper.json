@@ -1578,6 +1578,12 @@
                 "custom_model_data": 235
             },
             "model": "gauntlet:decoration/explosives/poison_box"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 236
+            },
+            "model": "gauntlet:decoration/spittoon"
         }
     ]
 }
