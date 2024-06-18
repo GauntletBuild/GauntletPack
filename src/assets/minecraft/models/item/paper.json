@@ -1584,6 +1584,18 @@
                 "custom_model_data": 236
             },
             "model": "gauntlet:decoration/spittoon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 237
+            },
+            "model": "minecraft:block/sunflower_top_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 238
+            },
+            "model": "gauntlet:decoration/sunflower_top_5"
         }
     ]
 }
