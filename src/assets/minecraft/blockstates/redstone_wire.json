@@ -3343,6 +3343,9 @@
         "north=none,south=side,east=up,west=side,power=4": {
             "model": "gauntlet:decoration/marine/jetty_cleat",
             "y": 90
+        },
+        "north=none,south=side,east=up,west=none,power=4": {
+            "model": "gauntlet:decoration/hanging_grue"
         }
 
     }

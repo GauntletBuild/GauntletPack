@@ -1201,5 +1201,9 @@
         "type": "clicked",
         "north": 387,
         "east": 388
+    },
+    "hanging_grue": {
+        "index": 389,
+        "shape": "full"
     }
 }
