@@ -16,10 +16,12 @@ uniform int FogShape;
 out float vertexDistance;
 out vec4 vertexColor;
 out vec2 texCoord0;
+out float custom;
 
 void main() {
     vec3 position = Position;
     vec4 color = Color;
+    custom = 0.0;
     if (color.r == 4.0/255.0) {
         if (color.b == 0.0/255.0) {
             // Arbitrary y offset
@@ -38,6 +40,26 @@ void main() {
             // Arbitrary y offset (small)
             position.y += color.g * 16.0;
             color.rgb = vec3(1.0, 1.0, 1.0);
+        } else if (color.b == 3.0/255.0) {
+            vertexDistance = fog_distance(Position, FogShape);
+            if (color.g == 0.0/255.0) {
+                custom = 1.0;
+                color.rgb = vec3(1.0, 1.0, 1.0);
+            } else if (color.g == 1.0/255.0) {
+                custom = 1.0;
+                color.rgb = vec3(1.0, 0.831, 0.478);
+            } else if (color.g == 2.0/255.0) {
+                custom = 2.0;
+                color.rgb = vec3(1.0, 1.0, 1.0);
+            }
+
+            if (vertexDistance > 12.0) {
+                gl_Position = vec4(0.0/0.0);
+                return;
+            }
+            if (vertexDistance > 4.0) {
+                color.a *= 1.0 - (vertexDistance - 4.0) / 8.0;
+            }
         } else {
             color.rgb = vec3(1.0, 1.0, 1.0);
         }
@@ -46,6 +68,11 @@ void main() {
     }
 
     vec4 screenPos = ProjMat * ModelViewMat * vec4(position, 1.0);
+    if (custom != 0.0 && screenPos.w > 0.0) {
+        screenPos.xyz /= screenPos.w;
+        screenPos.w = 1.0;
+        screenPos.z = custom * 0.0001 - 1.0;
+    }
 
 /*
     screenPos.xyz /= abs(screenPos.w);

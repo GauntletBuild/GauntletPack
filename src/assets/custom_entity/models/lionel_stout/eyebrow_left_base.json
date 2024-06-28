@@ -1,0 +1,11 @@
+{
+  "texture_size": [
+    128.0,
+    128.0
+  ],
+  "textures": {
+    "0": "custom_entity:item/lionel_stout_base"
+  },
+  "elements": [],
+  "display": {}
+}

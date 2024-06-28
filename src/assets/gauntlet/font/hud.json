@@ -71,6 +71,51 @@
             "chars": ["\ue060\ue061\ue062\ue063\ue064\ue065\ue066\ue067"],
             "ascent": -31,
             "height": 9
+        },
+        {
+            "type": "bitmap",
+            "file": "gauntlet:fonts/hud/status/left.png",
+            "chars": [
+                "\ue070",
+                "\ue078",
+                "\ue080",
+                "\ue088",
+                "\ue090",
+                "\ue098",
+                "\ue0a0"
+            ],
+            "ascent": 12,
+            "height": 19
+        },
+        {
+            "type": "bitmap",
+            "file": "gauntlet:fonts/hud/status/slices.png",
+            "chars": [
+                "\ue071\ue072\ue073\ue074\ue075",
+                "\ue079\ue07a\ue07b\ue07c\ue07d",
+                "\ue081\ue082\ue083\ue084\ue085",
+                "\ue089\ue08a\ue08b\ue08c\ue08d",
+                "\ue091\ue092\ue093\ue094\ue095",
+                "\ue099\ue09a\ue09b\ue09c\ue09d",
+                "\ue0a1\ue0a2\ue0a3\ue0a4\ue0a5"
+            ],
+            "ascent": 5,
+            "height": 5
+        },
+        {
+            "type": "bitmap",
+            "file": "gauntlet:fonts/hud/status/right.png",
+            "chars": [
+                "\ue077",
+                "\ue07f",
+                "\ue087",
+                "\ue08f",
+                "\ue097",
+                "\ue09f",
+                "\ue0a7"
+            ],
+            "ascent": 12,
+            "height": 19
         }
     ]
 }

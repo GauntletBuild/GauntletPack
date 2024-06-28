@@ -25,12 +25,12 @@ void main() {
         return;
     }
     
-    gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
+    vec4 screenPos = ProjMat * ModelViewMat * vec4(Position, 1.0);
     vertexDistance = fog_distance(Position, FogShape);
     texCoord0 = UV0;
 
     vec4 color = Color;
-    if (color.a == 0.0) {
+    if (color.a == 0.0 && (color.r != 1.0 || color.g != 1.0 || color.b != 1.0)) {
         custom = 1.0;
         color.a = 0.5;
         
@@ -41,9 +41,16 @@ void main() {
         if (vertexDistance > 4.0) {
             color.a *= 1.0 - (vertexDistance - 4.0) / 8.0;
         }
+
+        if (screenPos.w > 0.0) {
+            screenPos.xyz /= screenPos.w;
+            screenPos.w = 1.0;
+            screenPos.z = 0.0005 - 1.0;
+        }
     } else {
         custom = 0.0;
     }
 
+    gl_Position = screenPos;
     vertexColor = color * texelFetch(Sampler2, UV2 / 16, 0);
 }
