@@ -8,12 +8,10 @@
     },
     "barrier_slab": {
         "index": 1,
-        "block": "minecraft:soul_campfire",
+        "block": "minecraft:turtle_egg",
         "properties": {
-            "lit": "false",
-            "facing": "east",
-            "signal_fire": "true",
-            "waterlogged": "false"
+            "eggs": "4",
+            "hatch": "0"
         }
     },
     "barrier_rod": {
@@ -164,14 +162,6 @@
             "distance": "6",
             "persistent": "true",
             "waterlogged": "false"
-        }
-    },
-    "barrier_slab_2": {
-        "index": 22,
-        "block": "minecraft:turtle_egg",
-        "properties": {
-            "eggs": "4",
-            "hatch": "0"
         }
     }
 }

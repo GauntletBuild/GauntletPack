@@ -1150,7 +1150,7 @@
         "index": 369,
         "shape": "mini",
         "type": "clicked",
-        "light": 15,
+        "light": 12,
         "down": 369,
         "north": 370,
         "east": 371,
@@ -1201,5 +1201,9 @@
         "type": "clicked",
         "north": 387,
         "east": 388
+    },
+    "hanging_grue": {
+        "index": 389,
+        "shape": "full"
     }
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/vine_base",
+  "textures": {
+    "vine": "minecraft:block/sculk_vein_2"
+  }
+}

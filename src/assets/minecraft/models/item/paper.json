@@ -476,13 +476,7 @@
             "predicate": {
                 "custom_model_data": 75
             },
-            "model": "gauntlet:decoration/easel",
-            "axiom:default_transform": {
-                "translation": [0, 0, 0],
-                "left_rotation": [0, 0, 0, 1],
-                "scale": [1, 1, 1],
-                "right_rotation": [0, 0, 0, 1]
-            }
+            "model": "gauntlet:decoration/easel"
         },
         {
             "predicate": {
@@ -1363,7 +1357,7 @@
             },
             "model": "gauntlet:decoration/transport/spruce_horse_cart",
             "axiom:default_transform": {
-                "translation": [0, 0, 0],
+                "translation": [0, 0.501, 0],
                 "left_rotation": [0, 0, 0, 1],
                 "scale": [2, 2, 2],
                 "right_rotation": [0, 0, 0, 1]
@@ -1375,7 +1369,7 @@
             },
             "model": "gauntlet:decoration/transport/pine_horse_cart",
             "axiom:default_transform": {
-                "translation": [0, 0, 0],
+                "translation": [0, 0.501, 0],
                 "left_rotation": [0, 0, 0, 1],
                 "scale": [2, 2, 2],
                 "right_rotation": [0, 0, 0, 1]
@@ -1428,6 +1422,168 @@
                 "custom_model_data": 212
             },
             "model": "gauntlet:decoration/backpacks/item_pouch"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 213
+            },
+            "model": "gauntlet:decoration/human_cage"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 214
+            },
+            "model": "gauntlet:decoration/stone_boulder"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 215
+            },
+            "model": "gauntlet:decoration/stone_boulder_tied"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 216
+            },
+            "model": "gauntlet:decoration/graves/rounded_alabaster_gravestone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 217
+            },
+            "model": "gauntlet:decoration/custom_builds/market_stall",
+            "axiom:default_transform": {
+                "translation": [0, 3, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [7, 7, 7],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 218
+            },
+            "model": "gauntlet:decoration/transport/spruce_hand_cart"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 219
+            },
+            "model": "gauntlet:decoration/transport/pine_hand_cart"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 220
+            },
+            "model": "gauntlet:decoration/wood/spruce_walking_planks"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 221
+            },
+            "model": "gauntlet:decoration/baskets/basket_breads"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 222
+            },
+            "model": "gauntlet:decoration/tables/round_spruce_table"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 223
+            },
+            "model": "gauntlet:decoration/tables/round_pine_table"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 224
+            },
+            "model": "gauntlet:decoration/tables/round_walnut_table"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 225
+            },
+            "model": "gauntlet:decoration/stools/spruce_barstool"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 226
+            },
+            "model": "gauntlet:decoration/stools/pine_barstool"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 227
+            },
+            "model": "gauntlet:decoration/stools/walnut_barstool"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 228
+            },
+            "model": "gauntlet:decoration/cloth/white_colossal_torn_cloth",
+            "axiom:default_transform": {
+                "translation": [0, 0, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 229
+            },
+            "model": "gauntlet:decoration/cloth/white_torn_cloth"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 230
+            },
+            "model": "gauntlet:decoration/cloth/white_large_torn_cloth"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 231
+            },
+            "model": "gauntlet:decoration/paintings/ships_at_night_painting",
+            "axiom:default_transform": {
+                "translation": [0, 3, 0],
+                "left_rotation": [0, 0, 0, 1],
+                "scale": [2, 2, 2],
+                "right_rotation": [0, 0, 0, 1]
+            }
+        },
+        {
+            "predicate": {
+                "custom_model_data": 232
+            },
+            "model": "gauntlet:decoration/cookware/cleaver"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 233
+            },
+            "model": "gauntlet:decoration/paintings/tides_painting"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 234
+            },
+            "model": "gauntlet:decoration/explosives/oil_jar"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 235
+            },
+            "model": "gauntlet:decoration/explosives/poison_box"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 236
+            },
+            "model": "gauntlet:decoration/spittoon"
         }
     ]
 }

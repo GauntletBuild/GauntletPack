@@ -119,11 +119,13 @@
 		},
 		"firstperson_righthand": {
 			"rotation": [0, 45, 0],
-			"scale": [0.4, 0.4, 0.4]
+			"translation": [2.5, 4, 0],
+			"scale": [0.6, 0.6, 0.6]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 225, 0],
-			"scale": [0.4, 0.4, 0.4]
+			"rotation": [0, 45, 0],
+			"translation": [2.5, 4, 0],
+			"scale": [0.6, 0.6, 0.6]
 		},
 		"ground": {
 			"translation": [0, 3, 0],
@@ -143,18 +145,21 @@
 			"name": "book1",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [0, 1, 2]
 		},
 		{
 			"name": "book1",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [3, 4, 5]
 		},
 		{
 			"name": "book1",
 			"origin": [0, 0, 0],
 			"color": 0,
+			"nbt": "{}",
 			"children": [6, 7, 8]
 		}
 	]
