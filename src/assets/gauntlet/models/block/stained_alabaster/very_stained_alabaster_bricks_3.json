@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "gauntlet:block/stained_alabaster/very_stained_alabaster_bricks_3"
+  }
+}

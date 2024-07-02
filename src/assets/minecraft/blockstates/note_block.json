@@ -1807,6 +1807,12 @@
         },
         "instrument=bass,note=1,powered=true": {
             "model": "gauntlet:block/stone/polished_stone_tied"
+        },
+        "instrument=bass,note=2,powered=false": {
+            "model": "gauntlet:block/stained_alabaster/stained_alabaster_bricks"
+        },
+        "instrument=bass,note=2,powered=true": {
+            "model": "gauntlet:block/stained_alabaster/very_stained_alabaster_bricks"
         }
     }
 }

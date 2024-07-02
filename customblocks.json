@@ -774,5 +774,13 @@
     "polished_stone_tied": {
         "type": "full_cube",
         "index": 203
+    },
+    "stained_alabaster_bricks": {
+        "type": "full_cube",
+        "index": 204
+    },
+    "very_stained_alabaster_bricks": {
+        "type": "full_cube",
+        "index": 205
     }
 }
