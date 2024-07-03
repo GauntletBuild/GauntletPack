@@ -782,5 +782,17 @@
     "very_stained_alabaster_bricks": {
         "type": "full_cube",
         "index": 205
+    },
+    "big_alabaster_bricks": {
+        "type": "full_cube",
+        "index": 206
+    },
+    "bigger_alabaster_bricks": {
+        "type": "full_cube",
+        "index": 207
+    },
+    "large_alabaster_bricks": {
+        "type": "full_cube",
+        "index": 208
     }
 }

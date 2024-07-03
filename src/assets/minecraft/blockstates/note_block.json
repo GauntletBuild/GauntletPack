@@ -1847,6 +1847,21 @@
             {
                 "model": "gauntlet:block/stained_alabaster/very_stained_alabaster_bricks_5"
             }
+        ],
+        "instrument=bass,note=3,powered=false": [
+            {
+                "model": "gauntlet:block/alabaster/big_alabaster_bricks"
+            }
+        ],
+        "instrument=bass,note=3,powered=true": [
+            {
+                "model": "gauntlet:block/alabaster/bigger_alabaster_bricks"
+            }
+        ],
+        "instrument=bass,note=4,powered=false": [
+            {
+                "model": "gauntlet:block/alabaster/large_alabaster_bricks"
+            }
         ]
     }
 }
