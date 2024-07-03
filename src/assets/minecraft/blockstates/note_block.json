@@ -1860,7 +1860,7 @@
         ],
         "instrument=bass,note=4,powered=false": [
             {
-                "model": "gauntlet:block/alabaster/large_alabaster_bricks"
+                "model": "gauntlet:block/alabaster/polished_alabaster"
             }
         ]
     }
