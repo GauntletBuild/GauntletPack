@@ -1858,10 +1858,11 @@
                 "model": "gauntlet:block/alabaster/bigger_alabaster_bricks"
             }
         ],
-        "instrument=bass,note=4,powered=false": [
-            {
+        "instrument=bass,note=4,powered=false": {
                 "model": "gauntlet:block/alabaster/polished_alabaster"
+            },
+        "instrument=bass,note=4,powered=true": {
+                "model": "gauntlet:block/alabaster/polished_alabaster_slab"
             }
-        ]
     }
 }

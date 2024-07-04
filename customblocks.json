@@ -794,5 +794,9 @@
     "polished_alabaster": {
         "type": "full_cube",
         "index": 208
+    },
+    "polished_alabaster_slab": {
+        "type": "full_cube",
+        "index": 209
     }
 }
