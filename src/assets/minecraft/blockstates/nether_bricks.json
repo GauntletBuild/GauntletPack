@@ -3,7 +3,7 @@
     "": [
       {
         "model": "minecraft:block/nether_bricks",
-        "weight": 10
+        "weight": 20
       },
       {
         "model": "minecraft:block/nether_bricks1",
@@ -15,11 +15,11 @@
       },
       {
         "model": "minecraft:block/nether_bricks3",
-        "weight": 3.5
+        "weight": 2
       },
       {
         "model": "minecraft:block/nether_bricks4",
-        "weight": 7
+        "weight": 10
       },
       {
         "model": "minecraft:block/nether_bricks5",
