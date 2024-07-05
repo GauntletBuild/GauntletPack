@@ -293,7 +293,8 @@
     },
     "hanging_brazier_lit": {
         "index": 99,
-        "shape": "full"
+        "shape": "full",
+        "light": 13
     },
     "wine_rack": {
         "index": 100,
