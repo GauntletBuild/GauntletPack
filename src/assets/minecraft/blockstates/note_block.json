@@ -1855,11 +1855,11 @@
             },
             {
                 "model": "gauntlet:block/alabaster/big_alabaster_bricks1",
-                "weight": 5
+                "weight": 2
             },
             {
                 "model": "gauntlet:block/alabaster/big_alabaster_bricks2",
-                "weight": 5
+                "weight": 2
             },
             {
                 "model": "gauntlet:block/alabaster/big_alabaster_bricks3",
@@ -1871,7 +1871,7 @@
             },
             {
                 "model": "gauntlet:block/alabaster/big_alabaster_bricks5",
-                "weight": 5
+                "weight": 2
             }
         ],
         "instrument=bass,note=3,powered=true": [
