@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/nether_bricks"
+      },
+      {
+        "model": "minecraft:block/nether_bricks1"
+      },
+      {
+        "model": "minecraft:block/nether_bricks2"
+      },
+      {
+        "model": "minecraft:block/nether_bricks3"
+      },
+      {
+        "model": "minecraft:block/nether_bricks4"
+      },
+      {
+        "model": "minecraft:block/nether_bricks5"
+      }
+  ]
+  }
+}
