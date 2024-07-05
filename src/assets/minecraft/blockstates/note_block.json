@@ -1876,7 +1876,28 @@
         ],
         "instrument=bass,note=3,powered=true": [
             {
-                "model": "gauntlet:block/alabaster/bigger_alabaster_bricks"
+                "model": "gauntlet:block/alabaster/bigger_alabaster_bricks",
+                "weight": 10
+            },
+            {
+                "model": "gauntlet:block/alabaster/bigger_alabaster_bricks1",
+                "weight": 3.5
+            },
+            {
+                "model": "gauntlet:block/alabaster/bigger_alabaster_bricks2",
+                "weight": 3.5
+            },
+            {
+                "model": "gauntlet:block/alabaster/bigger_alabaster_bricks3",
+                "weight": 10
+            },
+            {
+                "model": "gauntlet:block/alabaster/bigger_alabaster_bricks4",
+                "weight": 10
+            },
+            {
+                "model": "gauntlet:block/alabaster/bigger_alabaster_bricks5",
+                "weight": 10
             }
         ],
         "instrument=bass,note=4,powered=false": {
