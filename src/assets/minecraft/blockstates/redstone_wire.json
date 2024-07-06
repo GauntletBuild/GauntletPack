@@ -372,9 +372,23 @@
             "model": "gauntlet:decoration/benches/ornate_pine_bench",
             "y": 270
         },
-        "north=up,south=none,east=up,west=up,power=0": {
+        "north=up,south=none,east=up,west=up,power=0": [
+            {
             "model": "gauntlet:block/alabaster/alabaster_ball"
-        },
+            },
+            {
+                "model": "gauntlet:block/alabaster/alabaster_ball",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:block/alabaster/alabaster_ball",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/alabaster/alabaster_ball",
+                "y": 270
+            }
+        ],
         "north=up,south=none,east=up,west=side,power=0": {
             "model": "gauntlet:decoration/benches/centered_ornate_pine_bench"
         },
