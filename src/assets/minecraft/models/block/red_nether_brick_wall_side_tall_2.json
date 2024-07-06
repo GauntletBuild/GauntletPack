@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/template_wall_side_tall",
   "textures": {
-    "wall": "minecraft:block/nether_bricks4"
+    "wall": "minecraft:block/red_nether_bricks_2"
   }
 }
