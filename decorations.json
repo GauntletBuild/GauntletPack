@@ -1206,5 +1206,9 @@
     "hanging_grue": {
         "index": 389,
         "shape": "full"
+    },
+    "yellow_birch_scattered_leaves": {
+        "index": 390,
+        "shape": "flat"
     }
 }

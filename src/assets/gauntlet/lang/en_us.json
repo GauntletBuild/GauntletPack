@@ -441,6 +441,7 @@
     "item.gauntlet_decoration.grue_goo": "Grue Goo",
     "item.gauntlet_decoration.dung": "Dung",
     "item.gauntlet.cave_dirt": "Cave Dirt",
+    "item.gauntlet.rich_dirt": "Rich Dirt",
     "item.gauntlet_decoration.step_ladder": "Step Ladder",
     "item.gauntlet_decoration.bird_nest": "Bird Nest",
     "item.gauntlet_decoration.bird_nest_eggs": "Egged Bird Nest",
@@ -453,6 +454,7 @@
     "item.gauntlet_decoration.long_grue_string": "Long Grue String",
     "item.gauntlet_decoration.ghost_grass": "Ghost Grass",
     "item.gauntlet_decoration.jetty_cleat": "Jetty Cleats",
+    "item.gauntlet_decoration.yellow_birch_scattered_leaves": "Scattered Yelllow Birch Leaves",
     
     "item.gauntlet.material.ripclaw_carcass": "Ripclaw Carcass",
     "item.gauntlet.material.craud_carcass": "Craud Carcass",

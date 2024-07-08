@@ -3360,7 +3360,24 @@
         },
         "north=none,south=side,east=up,west=none,power=4": {
             "model": "gauntlet:decoration/hanging_grue"
-        }
+        },
+        "north=none,south=side,east=side,west=up,power=4": [
+            {
+                "model": "gauntlet:decoration/foliage/yellow_birch_scattered_leaves"
+            },
+            {
+                "model": "gauntlet:decoration/foliage/yellow_birch_scattered_leaves",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/foliage/yellow_birch_scattered_leaves",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/foliage/yellow_birch_scattered_leaves",
+                "y": 270
+            }
+        ]
 
     }
 }
