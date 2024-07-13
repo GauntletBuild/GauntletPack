@@ -1998,6 +1998,9 @@
                   "x": 270
                 }
                 
-              ]
+              ],
+              "instrument=bass,note=5,powered=true": {
+            "model": "gauntlet:block/wallpaper/decorated_beige_wallpaper"
+        }
     }
 }
