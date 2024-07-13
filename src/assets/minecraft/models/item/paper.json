@@ -1465,7 +1465,7 @@
             },
             "model": "gauntlet:decoration/transport/spruce_hand_cart",
             "axiom:default_transform": {
-                "translation": [0, 0.501, 0]
+                "translation": [0, 0.01, 0]
             }
         },
         {
@@ -1474,7 +1474,7 @@
             },
             "model": "gauntlet:decoration/transport/pine_hand_cart",
             "axiom:default_transform": {
-                "translation": [0, 0.501, 0]
+                "translation": [0, 0.01, 0]
             }
         },
         {
