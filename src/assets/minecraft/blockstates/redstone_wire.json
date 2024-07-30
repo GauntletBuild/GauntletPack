@@ -372,9 +372,23 @@
             "model": "gauntlet:decoration/benches/ornate_pine_bench",
             "y": 270
         },
-        "north=up,south=none,east=up,west=up,power=0": {
+        "north=up,south=none,east=up,west=up,power=0": [
+            {
             "model": "gauntlet:block/alabaster/alabaster_ball"
-        },
+            },
+            {
+                "model": "gauntlet:block/alabaster/alabaster_ball",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:block/alabaster/alabaster_ball",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:block/alabaster/alabaster_ball",
+                "y": 270
+            }
+        ],
         "north=up,south=none,east=up,west=side,power=0": {
             "model": "gauntlet:decoration/benches/centered_ornate_pine_bench"
         },
@@ -3346,7 +3360,24 @@
         },
         "north=none,south=side,east=up,west=none,power=4": {
             "model": "gauntlet:decoration/hanging_grue"
-        }
+        },
+        "north=none,south=side,east=side,west=up,power=4": [
+            {
+                "model": "gauntlet:decoration/foliage/yellow_birch_scattered_leaves"
+            },
+            {
+                "model": "gauntlet:decoration/foliage/yellow_birch_scattered_leaves",
+                "y": 90
+            },
+            {
+                "model": "gauntlet:decoration/foliage/yellow_birch_scattered_leaves",
+                "y": 180
+            },
+            {
+                "model": "gauntlet:decoration/foliage/yellow_birch_scattered_leaves",
+                "y": 270
+            }
+        ]
 
     }
 }
