@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "gauntlet:fonts/marker/generic.png",
+            "chars": [
+                "0"
+            ],
+            "ascent": 12,
+            "height": 24
+        }
+    ]
+}

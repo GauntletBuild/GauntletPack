@@ -38,6 +38,11 @@ void main() {
         }
     } else {
         vec4 color = texture(Sampler0, texCoord0) * vertexColor * ColorModulator;
+	if (color.a < 0.01 && custom == 5.0) {
+		fragColor = vec4(1.0, 0.0, 0.0, 1.0);
+		return;
+	}
+
         if (color.a < 0.01) {
             discard;
         }

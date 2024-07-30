@@ -1220,29 +1220,413 @@
       "predicate": {
         "custom_model_data": 302
       },
-      "model": "custom_entity:treasure_chest/base_base"
+      "model": "custom_entity:ripclaw_spewer/body_base"
     },
     {
       "predicate": {
         "custom_model_data": 303
       },
-      "model": "custom_entity:treasure_chest/lid_base"
+      "model": "custom_entity:ripclaw_spewer/body_base_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 304
       },
-      "model": "custom_entity:treasure_chest/bone_base"
+      "model": "custom_entity:ripclaw_spewer/shell1_base"
     },
     {
       "predicate": {
         "custom_model_data": 305
       },
-      "model": "custom_entity:treasure_chest/handle2_base"
+      "model": "custom_entity:ripclaw_spewer/shell1_base_damaged"
     },
     {
       "predicate": {
         "custom_model_data": 306
+      },
+      "model": "custom_entity:ripclaw_spewer/shell2_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 307
+      },
+      "model": "custom_entity:ripclaw_spewer/shell2_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 308
+      },
+      "model": "custom_entity:ripclaw_spewer/tail_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 309
+      },
+      "model": "custom_entity:ripclaw_spewer/tail_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 310
+      },
+      "model": "custom_entity:ripclaw_spewer/neck_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 311
+      },
+      "model": "custom_entity:ripclaw_spewer/neck_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 312
+      },
+      "model": "custom_entity:ripclaw_spewer/head_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 313
+      },
+      "model": "custom_entity:ripclaw_spewer/head_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 314
+      },
+      "model": "custom_entity:ripclaw_spewer/eyeright_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 315
+      },
+      "model": "custom_entity:ripclaw_spewer/eyeright_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 316
+      },
+      "model": "custom_entity:ripclaw_spewer/eyeleft_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 317
+      },
+      "model": "custom_entity:ripclaw_spewer/eyeleft_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 318
+      },
+      "model": "custom_entity:ripclaw_spewer/antennaleft_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 319
+      },
+      "model": "custom_entity:ripclaw_spewer/antennaleft_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 320
+      },
+      "model": "custom_entity:ripclaw_spewer/antennaright_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 321
+      },
+      "model": "custom_entity:ripclaw_spewer/antennaright_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 322
+      },
+      "model": "custom_entity:ripclaw_spewer/mandibleleft_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 323
+      },
+      "model": "custom_entity:ripclaw_spewer/mandibleleft_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 324
+      },
+      "model": "custom_entity:ripclaw_spewer/mandibleright_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 325
+      },
+      "model": "custom_entity:ripclaw_spewer/mandibleright_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 326
+      },
+      "model": "custom_entity:ripclaw_spewer/bilesackleft_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 327
+      },
+      "model": "custom_entity:ripclaw_spewer/bilesackleft_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 328
+      },
+      "model": "custom_entity:ripclaw_spewer/bilesackleft2_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 329
+      },
+      "model": "custom_entity:ripclaw_spewer/bilesackleft2_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 330
+      },
+      "model": "custom_entity:ripclaw_spewer/legfrontright1_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 331
+      },
+      "model": "custom_entity:ripclaw_spewer/legfrontright1_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 332
+      },
+      "model": "custom_entity:ripclaw_spewer/legfrontright2_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 333
+      },
+      "model": "custom_entity:ripclaw_spewer/legfrontright2_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 334
+      },
+      "model": "custom_entity:ripclaw_spewer/legmidright1_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 335
+      },
+      "model": "custom_entity:ripclaw_spewer/legmidright1_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 336
+      },
+      "model": "custom_entity:ripclaw_spewer/legmidright2_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 337
+      },
+      "model": "custom_entity:ripclaw_spewer/legmidright2_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 338
+      },
+      "model": "custom_entity:ripclaw_spewer/legbackright1_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 339
+      },
+      "model": "custom_entity:ripclaw_spewer/legbackright1_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 340
+      },
+      "model": "custom_entity:ripclaw_spewer/legbackright_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 341
+      },
+      "model": "custom_entity:ripclaw_spewer/legbackright_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 342
+      },
+      "model": "custom_entity:ripclaw_spewer/legfrontleft1_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 343
+      },
+      "model": "custom_entity:ripclaw_spewer/legfrontleft1_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 344
+      },
+      "model": "custom_entity:ripclaw_spewer/legfrontleft2_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 345
+      },
+      "model": "custom_entity:ripclaw_spewer/legfrontleft2_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 346
+      },
+      "model": "custom_entity:ripclaw_spewer/legmidleft1_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 347
+      },
+      "model": "custom_entity:ripclaw_spewer/legmidleft1_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 348
+      },
+      "model": "custom_entity:ripclaw_spewer/legmidleft2_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 349
+      },
+      "model": "custom_entity:ripclaw_spewer/legmidleft2_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 350
+      },
+      "model": "custom_entity:ripclaw_spewer/legbackleft1_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 351
+      },
+      "model": "custom_entity:ripclaw_spewer/legbackleft1_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 352
+      },
+      "model": "custom_entity:ripclaw_spewer/legbackleft2_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 353
+      },
+      "model": "custom_entity:ripclaw_spewer/legbackleft2_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 354
+      },
+      "model": "custom_entity:ripclaw_spewer/armright1_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 355
+      },
+      "model": "custom_entity:ripclaw_spewer/armright1_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 356
+      },
+      "model": "custom_entity:ripclaw_spewer/armright2_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 357
+      },
+      "model": "custom_entity:ripclaw_spewer/armright2_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 358
+      },
+      "model": "custom_entity:ripclaw_spewer/armrightpincer_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 359
+      },
+      "model": "custom_entity:ripclaw_spewer/armrightpincer_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 360
+      },
+      "model": "custom_entity:ripclaw_spewer/armleft1_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 361
+      },
+      "model": "custom_entity:ripclaw_spewer/armleft1_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 362
+      },
+      "model": "custom_entity:ripclaw_spewer/armleft2_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 363
+      },
+      "model": "custom_entity:ripclaw_spewer/armleft2_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 364
+      },
+      "model": "custom_entity:ripclaw_spewer/armleftpincer2_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 365
+      },
+      "model": "custom_entity:ripclaw_spewer/armleftpincer2_base_damaged"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 366
+      },
+      "model": "custom_entity:treasure_chest/base_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 367
+      },
+      "model": "custom_entity:treasure_chest/lid_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 368
+      },
+      "model": "custom_entity:treasure_chest/bone_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 369
+      },
+      "model": "custom_entity:treasure_chest/handle2_base"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 370
       },
       "model": "custom_entity:treasure_chest/handle_base"
     }

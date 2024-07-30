@@ -45,6 +45,15 @@
             ],
             "ascent": 13,
             "height": 222
+        },
+        {
+            "type": "bitmap",
+            "file": "gauntlet:fonts/gui/dialogue/text_box.png",
+            "chars": [
+                "\uE001"
+            ],
+            "ascent": 1,
+            "height": 146
         }
     ]
 }
