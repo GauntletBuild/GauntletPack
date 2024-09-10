@@ -1590,6 +1590,12 @@
                 "custom_model_data": 236
             },
             "model": "gauntlet:decoration/spittoon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 237
+            },
+            "model": "gauntlet:decoration/juan"
         }
     ]
 }
