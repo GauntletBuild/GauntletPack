@@ -79,7 +79,7 @@ jobs:
       - name: Tell Server
         run: |
           curl -X 'POST' \
-            'http://${{ secrets.SERVER_DOMAIN }}/api/client/servers/${{ secrets.SERVER_ID }}/command/' \
+            'https://${{ secrets.SERVER_DOMAIN }}/api/client/servers/${{ secrets.SERVER_ID }}/command/' \
             -H 'accept: application/json' \
             -H 'Content-Type: application/json' \
             -H 'Authorization: Bearer ${{ secrets.SERVER_TOKEN }}' \
@@ -91,7 +91,7 @@ jobs:
       - name: Reload Server
         run: |
           curl -X 'POST' \
-            'http://${{ secrets.SERVER_DOMAIN }}/api/client/servers/${{ secrets.SERVER_ID }}/command/' \
+            'https://${{ secrets.SERVER_DOMAIN }}/api/client/servers/${{ secrets.SERVER_ID }}/command/' \
             -H 'accept: application/json' \
             -H 'Content-Type: application/json' \
             -H 'Authorization: Bearer ${{ secrets.SERVER_TOKEN }}' \
@@ -100,7 +100,7 @@ jobs:
       - name: Reload Custom Blocks
         run: |
           curl -X 'POST' \
-            'http://${{ secrets.SERVER_DOMAIN }}/api/client/servers/${{ secrets.SERVER_ID }}/command/' \
+            'https://${{ secrets.SERVER_DOMAIN }}/api/client/servers/${{ secrets.SERVER_ID }}/command/' \
             -H 'accept: application/json' \
             -H 'Content-Type: application/json' \
             -H 'Authorization: Bearer ${{ secrets.SERVER_TOKEN }}' \
