@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/aspen_wall_post",
+		"particle": "block/aspen_wall_post"
+	},
+	"elements": [
+		{
+			"name": "Center post",
+			"from": [4, 0.02, 4],
+			"to": [12, 16.055, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 8, 16], "texture": "#0"},
+				"up": {"uv": [8, 0, 16, 8], "texture": "#0", "cullface": "up"},
+				"down": {"uv": [8, 0, 16, 8], "texture": "#0", "cullface": "down"}
+			}
+		}
+	]
+}
