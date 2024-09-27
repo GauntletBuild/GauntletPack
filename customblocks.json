@@ -854,5 +854,9 @@
 	"worn_brown_siding": {
         "type": "full_cube",
         "index": 223
+    },
+	"shattered_siding": {
+        "type": "full_cube",
+        "index": 224
     }
 }

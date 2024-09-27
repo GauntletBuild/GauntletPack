@@ -2090,6 +2090,32 @@
         },
 		"instrument=bass,note=11,powered=true": {
             "model": "gauntlet:block/worn_siding/worn_brown_siding"
-        }
+        },
+        "instrument=bass,note=12,powered=false": [
+            {
+                "model": "gauntlet:block/worn_siding/shattered_siding"
+            },
+            {
+                "model": "gauntlet:block/worn_siding/shattered_siding_1"
+            },
+            {
+                "model": "gauntlet:block/worn_siding/shattered_siding_2"
+            },
+            {
+                "model": "gauntlet:block/worn_siding/shattered_siding_3"
+            },
+            {
+                "model": "gauntlet:block/worn_siding/shattered_siding_4"
+            },
+            {
+                "model": "gauntlet:block/worn_siding/shattered_siding_5"
+            },
+            {
+                "model": "gauntlet:block/worn_siding/shattered_siding_6"
+            },
+            {
+                "model": "gauntlet:block/worn_siding/shattered_siding_7"
+            }
+        ]
     }
 }
