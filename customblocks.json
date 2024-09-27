@@ -814,5 +814,45 @@
     "cinder_blocks": {
         "type": "full_cube",
         "index": 213
+	},
+    "white_siding": {
+        "type": "full_cube",
+        "index": 214
+    },
+	"worn_white_siding": {
+        "type": "full_cube",
+        "index": 215
+    },
+    "yellow_siding": {
+        "type": "full_cube",
+        "index": 216
+    },
+	"worn_yellow_siding": {
+        "type": "full_cube",
+        "index": 217
+    },
+    "blue_siding": {
+        "type": "full_cube",
+        "index": 218
+    },
+	"worn_blue_siding": {
+        "type": "full_cube",
+        "index": 219
+    },
+    "red_siding": {
+        "type": "full_cube",
+        "index": 220
+    },
+	"worn_red_siding": {
+        "type": "full_cube",
+        "index": 221
+    },
+    "brown_siding": {
+        "type": "full_cube",
+        "index": 222
+    },
+	"worn_brown_siding": {
+        "type": "full_cube",
+        "index": 223
     }
 }
