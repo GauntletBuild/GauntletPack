@@ -2060,6 +2060,36 @@
                 "model": "gauntlet:block/cinder_blocks/cinder_block_6",
                 "weight": 11
             }
-        ]
+        ],
+        "instrument=bass,note=7,powered=false": {
+            "model": "gauntlet:block/worn_siding/white_siding"
+        },
+		"instrument=bass,note=7,powered=true": {
+            "model": "gauntlet:block/worn_siding/worn_white_siding"
+        },
+        "instrument=bass,note=8,powered=false": {
+            "model": "gauntlet:block/worn_siding/yellow_siding"
+        },
+		"instrument=bass,note=8,powered=true": {
+            "model": "gauntlet:block/worn_siding/worn_yellow_siding"
+        },
+        "instrument=bass,note=9,powered=false": {
+            "model": "gauntlet:block/worn_siding/blue_siding"
+        },
+		"instrument=bass,note=9,powered=true": {
+            "model": "gauntlet:block/worn_siding/worn_blue_siding"
+        },
+        "instrument=bass,note=10,powered=false": {
+            "model": "gauntlet:block/worn_siding/red_siding"
+        },
+		"instrument=bass,note=10,powered=true": {
+            "model": "gauntlet:block/worn_siding/worn_red_siding"
+        },
+        "instrument=bass,note=11,powered=false": {
+            "model": "gauntlet:block/worn_siding/brown_siding"
+        },
+		"instrument=bass,note=11,powered=true": {
+            "model": "gauntlet:block/worn_siding/worn_brown_siding"
+        }
     }
 }
