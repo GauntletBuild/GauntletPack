@@ -540,5 +540,8 @@
     "advancement.gauntlet.open_grubsack": "Open Grubsack",
     "advancement.gauntlet.open_grubsack.description": "Open Grubsack",
     "advancement.gauntlet.destroy_crab_nest": "Destroy Crab Nest",
-    "advancement.gauntlet.destroy_crab_nest.description": "Destroy crab nest"
+    "advancement.gauntlet.destroy_crab_nest.description": "Destroy crab nest",
+
+    "item.gauntlet.cinder_blocks": "Cinder Blocks",
+    "item.gauntlet.worn_siding": "Worn Siding"
 }

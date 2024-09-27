@@ -810,5 +810,9 @@
     "worn_siding": {
         "type": "full_cube",
         "index": 212
+    },
+    "cinder_blocks": {
+        "type": "full_cube",
+        "index": 213
     }
 }
