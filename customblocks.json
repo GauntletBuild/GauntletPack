@@ -806,5 +806,9 @@
     "decorated_beige_wallpaper": {
         "type": "full_cube",
         "index": 211
+    },
+    "worn_siding": {
+        "type": "full_cube",
+        "index": 212
     }
 }
