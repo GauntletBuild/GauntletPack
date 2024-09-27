@@ -2034,6 +2034,32 @@
                 "model": "gauntlet:block/worn_siding/worn_siding_3b",
                 "weight": 11
             }
+        ],
+        "instrument=bass,note=6,powered=true": [
+            {
+                "model": "gauntlet:block/cinder_blocks/cinder_block",
+                "weight": 19
+            },
+            {
+                "model": "gauntlet:block/cinder_blocks/cinder_block_2",
+                "weight": 19
+            },
+            {
+                "model": "gauntlet:block/cinder_blocks/cinder_block_3",
+                "weight": 19
+            },
+            {
+                "model": "gauntlet:block/cinder_blocks/cinder_block_4",
+                "weight": 11
+            },
+            {
+                "model": "gauntlet:block/cinder_blocks/cinder_block_5",
+                "weight": 11
+            },
+            {
+                "model": "gauntlet:block/cinder_blocks/cinder_block_6",
+                "weight": 11
+            }
         ]
     }
 }
