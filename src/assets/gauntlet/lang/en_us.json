@@ -543,5 +543,7 @@
     "advancement.gauntlet.destroy_crab_nest.description": "Destroy crab nest",
 
     "item.gauntlet.cinder_blocks": "Cinder Blocks",
-    "item.gauntlet.worn_siding": "Worn Siding"
+    "item.gauntlet.worn_siding": "Worn Siding",
+    "item.gauntlet.concrete_block": "Concrete Block",
+    "item.gauntlet.carved_concrete": "Carved Concrete"
 }

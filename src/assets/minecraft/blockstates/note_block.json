@@ -1747,38 +1747,38 @@
         },
         "instrument=hat,note=21,powered=false": [
             {
-            "model": "gauntlet:decoration/baskets/big_basket"
+                "model": "gauntlet:decoration/baskets/big_basket"
             },
             {
-            "model": "gauntlet:decoration/baskets/big_basket",
-            "y": 90
+                "model": "gauntlet:decoration/baskets/big_basket",
+                "y": 90
             }
         ],
         "instrument=hat,note=21,powered=true": [
             {
-            "model": "gauntlet:decoration/baskets/big_basket_covered"
+                "model": "gauntlet:decoration/baskets/big_basket_covered"
             },
             {
-            "model": "gauntlet:decoration/baskets/big_basket_covered",
-            "y": 90
+                "model": "gauntlet:decoration/baskets/big_basket_covered",
+                "y": 90
             }
         ],
         "instrument=hat,note=22,powered=false": [
             {
-            "model": "gauntlet:decoration/baskets/bigger_basket"
+                "model": "gauntlet:decoration/baskets/bigger_basket"
             },
             {
-            "model": "gauntlet:decoration/baskets/bigger_basket",
-            "y": 90
+                "model": "gauntlet:decoration/baskets/bigger_basket",
+                "y": 90
             }
         ],
         "instrument=hat,note=22,powered=true": [
             {
-            "model": "gauntlet:decoration/baskets/bigger_basket_covered"
+                "model": "gauntlet:decoration/baskets/bigger_basket_covered"
             },
             {
-            "model": "gauntlet:decoration/baskets/bigger_basket_covered",
-            "y": 90
+                "model": "gauntlet:decoration/baskets/bigger_basket_covered",
+                "y": 90
             }
         ],
         "instrument=hat,note=23,powered=false": {
@@ -1957,40 +1957,40 @@
                 "x": 180
             },
             {
-                  "model": "gauntlet:block/dirt/rich_dirt_2",
-                  "y": 270,
-                  "x": 270
+                "model": "gauntlet:block/dirt/rich_dirt_2",
+                "y": 270,
+                "x": 270
             },
             {
-                  "model": "gauntlet:block/dirt/rich_dirt_3"
+                "model": "gauntlet:block/dirt/rich_dirt_3"
             },
             {
-                  "model": "gauntlet:block/dirt/rich_dirt_3",
-                  "y": 90,
-                  "x": 90
+                "model": "gauntlet:block/dirt/rich_dirt_3",
+                "y": 90,
+                "x": 90
             },
             {
-                  "model": "gauntlet:block/dirt/rich_dirt_3",
-                  "y": 180,
-                  "x": 180
+                "model": "gauntlet:block/dirt/rich_dirt_3",
+                "y": 180,
+                "x": 180
             },
             {
-                  "model": "gauntlet:block/dirt/rich_dirt_3",
-                  "y": 270,
-                  "x": 270
+                "model": "gauntlet:block/dirt/rich_dirt_3",
+                "y": 270,
+                "x": 270
             },
             {
-                  "model": "gauntlet:block/dirt/rich_dirt_4"
+                "model": "gauntlet:block/dirt/rich_dirt_4"
             },
             {
-                  "model": "gauntlet:block/dirt/rich_dirt_4",
-                  "y": 90,
-                  "x": 90
+                "model": "gauntlet:block/dirt/rich_dirt_4",
+                "y": 90,
+                "x": 90
             },
             {
-                  "model": "gauntlet:block/dirt/rich_dirt_4",
-                  "y": 180,
-                  "x": 180
+                "model": "gauntlet:block/dirt/rich_dirt_4",
+                "y": 180,
+                "x": 180
             },
             {
                 "model": "gauntlet:block/dirt/rich_dirt_4",
@@ -2064,31 +2064,31 @@
         "instrument=bass,note=7,powered=false": {
             "model": "gauntlet:block/worn_siding/white_siding"
         },
-		"instrument=bass,note=7,powered=true": {
+        "instrument=bass,note=7,powered=true": {
             "model": "gauntlet:block/worn_siding/worn_white_siding"
         },
         "instrument=bass,note=8,powered=false": {
             "model": "gauntlet:block/worn_siding/yellow_siding"
         },
-		"instrument=bass,note=8,powered=true": {
+        "instrument=bass,note=8,powered=true": {
             "model": "gauntlet:block/worn_siding/worn_yellow_siding"
         },
         "instrument=bass,note=9,powered=false": {
             "model": "gauntlet:block/worn_siding/blue_siding"
         },
-		"instrument=bass,note=9,powered=true": {
+        "instrument=bass,note=9,powered=true": {
             "model": "gauntlet:block/worn_siding/worn_blue_siding"
         },
         "instrument=bass,note=10,powered=false": {
             "model": "gauntlet:block/worn_siding/red_siding"
         },
-		"instrument=bass,note=10,powered=true": {
+        "instrument=bass,note=10,powered=true": {
             "model": "gauntlet:block/worn_siding/worn_red_siding"
         },
         "instrument=bass,note=11,powered=false": {
             "model": "gauntlet:block/worn_siding/brown_siding"
         },
-		"instrument=bass,note=11,powered=true": {
+        "instrument=bass,note=11,powered=true": {
             "model": "gauntlet:block/worn_siding/worn_brown_siding"
         },
         "instrument=bass,note=12,powered=false": [
@@ -2116,6 +2116,17 @@
             {
                 "model": "gauntlet:block/worn_siding/shattered_siding_7"
             }
-        ]
+        ],
+        "instrument=bass,note=12,powered=true": [
+            {
+                "model": "gauntlet:block/cinder_blocks/concrete_block"
+            },
+            {
+                "model": "gauntlet:block/cinder_blocks/concrete_block_2"
+            }
+        ],
+        "instrument=bass,note=13,powered=false": {
+            "model": "gauntlet:block/cinder_blocks/carved_concrete"
+        }
     }
 }

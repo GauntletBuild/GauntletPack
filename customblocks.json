@@ -814,12 +814,12 @@
     "cinder_blocks": {
         "type": "full_cube",
         "index": 213
-	},
+    },
     "white_siding": {
         "type": "full_cube",
         "index": 214
     },
-	"worn_white_siding": {
+    "worn_white_siding": {
         "type": "full_cube",
         "index": 215
     },
@@ -827,7 +827,7 @@
         "type": "full_cube",
         "index": 216
     },
-	"worn_yellow_siding": {
+    "worn_yellow_siding": {
         "type": "full_cube",
         "index": 217
     },
@@ -835,7 +835,7 @@
         "type": "full_cube",
         "index": 218
     },
-	"worn_blue_siding": {
+    "worn_blue_siding": {
         "type": "full_cube",
         "index": 219
     },
@@ -843,7 +843,7 @@
         "type": "full_cube",
         "index": 220
     },
-	"worn_red_siding": {
+    "worn_red_siding": {
         "type": "full_cube",
         "index": 221
     },
@@ -851,12 +851,20 @@
         "type": "full_cube",
         "index": 222
     },
-	"worn_brown_siding": {
+    "worn_brown_siding": {
         "type": "full_cube",
         "index": 223
     },
-	"shattered_siding": {
+    "shattered_siding": {
         "type": "full_cube",
         "index": 224
+    },
+    "concrete_block": {
+        "type": "full_cube",
+        "index": 225
+    },
+    "carved_concrete": {
+        "type": "full_cube",
+        "index": 226
     }
 }
