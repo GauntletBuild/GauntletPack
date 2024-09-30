@@ -1,0 +1,24 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "gauntlet:block/cinder_blocks/cinder_blocks"
+            },
+            {
+                "model": "gauntlet:block/cinder_blocks/cinder_blocks_2"
+            },
+            {
+                "model": "gauntlet:block/cinder_blocks/cinder_blocks_3"
+            },
+            {
+                "model": "gauntlet:block/cinder_blocks/cinder_blocks_4"
+            },
+            {
+                "model": "gauntlet:block/cinder_blocks/cinder_blocks_5"
+            },
+            {
+                "model": "gauntlet:block/cinder_blocks/cinder_blocks_6"
+            }
+        ]
+    }
+}
