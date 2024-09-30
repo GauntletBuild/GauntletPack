@@ -2,22 +2,22 @@
     "variants": {
         "": [
             {
-                "model": "gauntlet:block/cinder_blocks/cinder_blocks"
+                "model": "minecraft:block/polished_blackstone"
             },
             {
-                "model": "gauntlet:block/cinder_blocks/cinder_blocks_2"
+                "model": "minecraft:block/polished_blackstone_2"
             },
             {
-                "model": "gauntlet:block/cinder_blocks/cinder_blocks_3"
+                "model": "minecraft:block/polished_blackstone_3"
             },
             {
-                "model": "gauntlet:block/cinder_blocks/cinder_blocks_4"
+                "model": "minecraft:block/polished_blackstone_4"
             },
             {
-                "model": "gauntlet:block/cinder_blocks/cinder_blocks_5"
+                "model": "minecraft:block/polished_blackstone_5"
             },
             {
-                "model": "gauntlet:block/cinder_blocks/cinder_blocks_6"
+                "model": "minecraft:block/polished_blackstone_6"
             }
         ]
     }

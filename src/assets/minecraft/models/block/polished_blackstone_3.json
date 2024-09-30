@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "gauntlet:block/cinder_blocks/cinder_block"
+    "all": "gauntlet:block/cinder_blocks/cinder_block_3"
   }
 }
