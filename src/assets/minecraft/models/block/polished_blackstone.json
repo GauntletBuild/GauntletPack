@@ -2,22 +2,28 @@
     "variants": {
         "": [
             {
-                "model": "gauntlet:block/cinder_blocks/cinder_block"
+                "model": "gauntlet:block/cinder_blocks/cinder_block",
+                "weight": 19
             },
             {
-                "model": "gauntlet:block/cinder_blocks/cinder_block_2"
+                "model": "gauntlet:block/cinder_blocks/cinder_block_2",
+                "weight": 19
             },
             {
-                "model": "gauntlet:block/cinder_blocks/cinder_block_3"
+                "model": "gauntlet:block/cinder_blocks/cinder_block_3",
+                "weight": 19
             },
             {
-                "model": "gauntlet:block/cinder_blocks/cinder_block_4"
+                "model": "gauntlet:block/cinder_blocks/cinder_block_4",
+                "weight": 11
             },
             {
-                "model": "gauntlet:block/cinder_blocks/cinder_block_5"
+                "model": "gauntlet:block/cinder_blocks/cinder_block_5",
+                "weight": 11
             },
             {
-                "model": "gauntlet:block/cinder_blocks/cinder_block_6"
+                "model": "gauntlet:block/cinder_blocks/cinder_block_6",
+                "weight": 11
             }
         ]
     }
